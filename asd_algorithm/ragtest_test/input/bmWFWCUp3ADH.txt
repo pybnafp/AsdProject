@@ -1,0 +1,202 @@
+# Prodromal Symptoms in Depression: A Systematic Review
+
+Giada Benasia Giovanni A. Favab Jenny Guidia
+
+aDepartment of Psychology “Renzo Canestrari,” University of Bologna, Bologna, Italy; bDepartment of Psychiatry, University at Buffalo, State University of New York, Buffalo, NY, USA
+
+# Keywords
+
+Depression $\cdot$ Prodromal symptoms $\cdot$ Staging $\cdot$ Sequential treatment $\cdot$ Antidepressant drugs
+
+# Abstract
+
+Introduction: Appraisal of prodromal symptoms of unipolar depression may complement the traditional cross-sectional approach and provide a longitudinal perspective, according to a staging model of the illness. Objective: To provide an updated systematic review of clinical studies concerned with prodromal symptoms of unipolar depression, according to PRISMA guidelines. Methods: Keyword searches were conducted in PubMed, Scopus, and Web of Science. Longitudinal studies on prodromal symptoms and signs in adult patients primarily diagnosed with unipolar depression were selected. Findings were examined separately according to study design (i.e., retrospective or prospective). Results: Twenty-five studies met the criteria for inclusion in this systematic review. Findings indicate that a distinct prodromal symptomatology – commonly characterized by anxiety, tension, irritability, and somatic complaints – exists before the onset of unipolar depression. The duration of the prodromal phase was highly variable across studies, ranging from less than a month to several years. Prodromal symptoms profile and duration were consistent within individuals across depressive episodes. There was a close relationship between prodromal and residual symptoms of the same depressive episode. Conclusions: The present systematic review addresses an important, and yet relatively neglected, clinical issue that deserves further investigation and may be of immediate practical value. The findings provide challenging insights into the pathogenesis and course of unipolar depression, which may result in more timely and effective treatment of recurrences. The definition of a prodromal phase in depression would benefit from the joint use of symptom identification, biomarkers, and neuroimaging. $\circledcirc$ 2021 S. Karger AG, Basel
+
+# Introduction
+
+Prodromes can be identified with the early symptoms and signs of a disease. The prodromal phase refers to the time interval between the development of prodromal symptoms and the onset of the characteristic manifestations of the fully developed illness [1]. Recognizing and detecting the prodromal symptoms of affective disorders may lead to a more timely and effective treatment of relapse and recurrence [1].
+
+The traditional nosography has emphasized a crosssectional description of syndromes. Appraisal of prodromal symptomatology and of its relationship with the residual phase of affective disorders may complement this approach, providing a longitudinal perspective [1]. Such a perspective paves the way for the development of clinical staging in psychiatry [2]. In the nineties, unlike in other medical disciplines, staging was largely neglected in psychiatry. The construct of prodromes is in line with a staging model that considers the longitudinal development of illness [2] and defines the extent of progression of a disorder for an individual at a particular point in time (e.g., prodromal, acute, and residual phases). Over the years, staging has been increasingly recognized as an important component of clinical assessment, with particular reference to unipolar depression [3].
+
+Thirty years ago, the first review on prodromal symptoms in mood and anxiety disorders [1] was published. Prodromal symptoms were found to precede the full syndrome by weeks or months in affective disorders. Both the original review [1] and a subsequent update in 1999 [4] addressed a very broad spectrum of affective disturbances. A systematic review on manic and depressive prodromes was published in 2003 [5]. The aim of this paper is to provide an updated systematic review of clinical studies concerned with prodromal symptoms of unipolar depression in adult patients, using either retrospective or prospective designs.
+
+Study Selection
+
+Studies were screened and selected independently by 2 reviewers (G.B. and G.A.F.), and any disagreement was resolved by discussion with the senior author (J.G.). After duplicates had been removed, articles were screened by title and abstract. The full text of initially selected studies was retrieved and examined according to the inclusion and exclusion criteria.
+
+We selected: (1) longitudinal studies (2) with a retrospective or prospective design (3) reporting on prodromal symptoms and signs (4) in adult patients (i.e., older than 18 years) with a primary diagnosis of unipolar major depressive disorder (MDD) or an equivalent condition based on available diagnostic tools.
+
+We excluded: (1) nonoriginal research articles (e.g., books, meeting abstracts, reviews, editorial notes, etc.) and case reports, (2) studies involving patients younger than 18 years, (3) studies reporting on depressive symptoms in the absence of a clinically established diagnosis of MDD (or an equivalent condition), (4) studies generally encompassing depressive symptoms without a clear onset or a definite temporal association between prodromes and a fully developed depressive episode, (5) studies in which a clear distinction between prodromal and residual symptoms of depression was not made, (6) studies in which MDD (or an equivalent condition) was not the primary diagnosis, (7) studies focused on the prodromes of other psychiatric disorders, and (8) studies involving psychiatric patients with mixed diagnoses.
+
+# Data Extraction
+
+Both reviewers extracted data independently with the use of a precoded form. The following data were extracted from studies included in this systematic review: publication year, country, and study design (i.e., retrospective or prospective); population; setting; definition and measures of unipolar depression; definition and measures of prodromal symptoms; timing of assessment(s); and features, frequency, and duration of prodromal symptoms.
+
+# Methods
+
+The methods used fulfilled the PRISMA guidelines for systematic reviews [6].
+
+Search Strategy
+
+Published reports were identified with the use of electronic database searches. Keyword searches were conducted in PubMed, Scopus, and Web of Science, from inception until January 8, 2021, combining the following terms: “depress\*” and “prodrom\*” or “early sign\*,” “early symptom\*,” “early warning sign\*,” “early warning symptom\*,” “initial symptom\*,” “initial sign\*,” “early indicator,” and “harbinger,” selecting “English” and “humans” as additional limits. The reference lists of the included articles and relevant review articles were examined for further clinical trials not yet identified.
+
+A reference management software (Mendeley Desktop, version 1.19.4) was used to merge results from all searches and manage duplicates.
+
+# Results
+
+The initial search strategies yielded 4,382 articles for potential inclusion after duplicates had been removed. Of these, 161 full-text articles were assessed for eligibility, and 25 studies met the criteria for inclusion in this systematic review (see online suppl. Fig. S1; for all online suppl. material, see www.karger.com/doi/10.1159/000517953). These studies will be presented and examined separately according to their study design (i.e., retrospective or prospective). One study included both retrospective and prospective data.
+
+# Retrospective Studies
+
+Prodromal symptoms of unipolar depression were assessed retrospectively in 15 studies [7–21] (online suppl. Table S1). In these studies, data on prodromal symptoms occurring within a specified period of time preceding the onset of a fully developed depressive episode were collected through observer-rated clinical interviews, selfrating questionnaires, and/or review of medical records. In some cases, additional information was collected by interviewing patients’ caregivers [16, 18]. In 2 studies, however, the methodology used to gather data was not detailed [9, 10], whereas 4 studies relied exclusively on review of medical records [7, 8, 14, 15].
+
+Hays [7] examined prodromal symptoms in 81 patients with “endogenous depression.” The following 4 symptom patterns emerged: (1) sudden-onset depression associated with melancholic features and bipolar disorder, (2) gradual-onset depression taking longer than 6 weeks to fully develop and associated with stressful life events, (3) neurotic-onset depression generally preceded by anxiety disorders, and (4) fluctuating-onset depression in which symptoms varied significantly in severity before reaching the clinical threshold. In the remaining 3 studies on primary care patients [8, 14, 15], somatic and anxiety complaints were reported to increase to a considerable extent before a diagnosis of depression was made.
+
+Fava et al. [16] investigated prodromal symptomatology occurring in 15 outpatients in the 6 months prior to the onset of their first major depressive episode (MDE). A semistructured interview, i.e., the modified version of Paykel’s Clinical Interview for Depression [22, 23] for assessing subclinical symptoms, was performed 2–3 months after the initial evaluation once the patients’ symptoms had improved. Retrospective assessment revealed that all of the patients displayed at least 1 prodromal symptom. Generalized anxiety and irritability were the most frequently reported prodromal symptoms among depressed patients compared with nondepressed controls. Other commonly reported symptoms were impaired work and initiative, fatigue, and initial and delayed insomnia.
+
+These findings were replicated in 2 subsequent studies involving clinical interviewing of remitted depressed outpatients [17, 18]. In the study of Pede et al. [18], the prodromal phase had a mean duration of $1 1 5 \pm 6 4 . 4 6$ days (range: 20–300 days), and significantly different patterns of symptoms were found based on gender and family history of depression. In both studies [17, 18] the relationship between residual and prodromal symptoms was specifically addressed. In the study of Fava et al. [17], almost $7 0 \%$ of residual symptoms were found to be present also in the prodromal phase of the disorder. This percentage increased to almost $9 0 \%$ of cases for residual generalized anxiety and irritability. Similar data were found in the study of Pede et al. [18], where irritability was the most commonly reported symptom in both the prodromal phase and the residual phase.
+
+Young et al. [19] examined the time of onset of depressive symptoms in seasonal affective disorder and found fatigue, hypersomnia, and increased appetite to be predominant in the initial phase of the disorder. The authors suggested that these symptoms represented the core syndrome of winter depression [24].
+
+In a community study [20], prodromal symptoms were retrospectively assessed in 71 individuals at their first MDE. A slow transition from subthreshold depressive symptoms to full-blown MDD was observed in almost $3 0 \%$ of the participants, whose clinical presentation was characterized by dysphoria, anhedonia, slowness or restlessness, a feeling of worthlessness, suicidal thoughts and behaviors, and changes in appetite, sleep, and energy levels. The duration of the prodromal phase varied across symptoms, with a median duration ranging from 1 to 5 years.
+
+In 2 studies by Hopkinson [9, 21], prodromal symptoms were examined in 2 samples of inpatients with “depressive psychosis.” In both samples, a well-defined prodromal phase lasting months to years was detected in about one third of the cases. Symptoms were mostly nonspecific, including tension and anxiety, as well as vague somatic complaints among older patients.
+
+Another 3 studies dealt with the duration of the prodromal phase of unipolar depression [10–12]. Winokur [10] found that depression spectrum disease patients (i.e., those patients with a family history of alcoholism in a first-degree relative) were much less likely than other depressive patients to have an acute onset (within 1 month prior to hospitalization) of their illness. The other 2 studies assessed the speed of onset of current MDE using the Onset of Depression Inventory (ODI) [11, 12]. In the former [11], a median speed of onset of current MDE ranging from 1 to 4 months was reported among both outpatients and inpatients. In patients with recurrent MDD, a significant association was found between the speed of onset of current MDE and that of the preceding one. In the latter study [12], 122 inpatients diagnosed with MDD showed a median speed of onset of 28 days. Specifically, the median speed of onset was significantly shorter in patients with recurrent MDD than in those with a single MDE (28 vs. 38.5 days, respectively). In both studies, the median speed of onset was significantly higher among patients with unipolar MDD than in those with bipolar disorder [11, 12].
+
+Similarly, in the study of Sahoo et al. [13], the mean duration of the prodromal phase among remitted patients with recurrent MDD was significantly longer compared to that in patients with bipolar disorder $( 4 2 . 7 \pm 3 8 . 1 $ vs. $1 9 . 8 \pm 2 4 . 8$ days). In this study, a definite prodromal symptom could be identified in $9 3 \%$ of the patients. Symptoms of sadness, worrying over trifles, talking less, lassitude, autonomic disturbances, indecision, a reduced appetite, slowness of movement, not feeling like seeing people, and a decreased sexual interest were reported significantly more often by patients with unipolar than bipolar depression.
+
+# Prospective Studies
+
+Eleven studies prospectively reported on prodromes of unipolar depression [16, 25–34] (online suppl. Table S2). In these studies, patients were followed longitudinally, and the occurrence of prodromal symptoms was assessed at different follow-ups through observer-rated clinical interviews and/or self-rating questionnaires.
+
+Four of these studies reported on prodromes of relapse or recurrence in patients whose MDD was judged to be in remission [16, 25, 27, 28]. In 1 study [16], during a 6-month period following discontinuation of antidepressant drugs, 4 out of 15 patients with a first MDE relapsed and required further treatment with antidepressants. In all cases, prodromal symptoms of relapse closely resembled those preceding the initial MDE (i.e., generalized anxiety, irritability, impaired work and initiative, fatigue, initial and delayed insomnia). Findings on the intraindividual consistency of prodromal symptoms over time were replicated in another independent investigation [29]. Two studies specifically assessed the relationship between sleep disturbances and subsequent relapses or recurrences in depressed patients judged to be in full or partial remission or recovered [25, 27]. In both studies, relapse and recurrence of depression were preceded by sleep disturbances in more than $8 0 \%$ of the patients. The role of sleep in recurrence was also investigated by Kumagai et al. [28] using a smartphone application and a wearable device. An increased number of sleep hours was found to predict recurrence of depression in remitted patients on maintenance treatment.
+
+In 2 studies by Iacoviello et al. [29, 30], college freshmen were assessed through clinical interviewing every 6 weeks during a longitudinal 30-month follow-up. Those who developed an MDE or minor depression were found to report a depressed mood, decreased interest in or pleasure from activities, difficulty concentrating, hopelessness, worrying/brooding, impaired self-esteem, and irritability in the prodromal phase, the mean duration of which was $4 5 \pm 4 0$ days [29]. Similarly, prodromal symptoms of hopelessness, worrying/brooding, and impaired self-esteem, along with dependency and a decreased appetite, were reported among individuals who experienced at least 1 episode of “hopelessness depression” [30]. In these studies, the prodromal and residual phases had similar symptom profiles and durations, with a greater consistency across phases in patients reporting higher levels of symptoms severity [29]. Moreover, the order of symptom onset appeared to be inversely related to the order of symptom remission (i.e., roll-back phenomenon) [29, 30]. Similarly, Judd et al. [31] found that subsyndromal depressive symptoms (defined as 2 or more depressive symptoms of at least a 2-week duration) characterized the prodromal and/or the residual phase of minor depression, dysthymic disorder, and MDD.
+
+In 3 studies, prodromes of postpartum depression were evaluated among pregnant, nondepressed women with or without a history of major or postpartum depression [32–34]. In 1 study [32], thoughts of death and dying and difficulty falling asleep, but not somatic complaints, within 1 month after delivery significantly predicted a diagnosis of postpartum depression over 4 months. In the 2 studies by Okun et al. [33, 34], a poor sleep quality in late pregnancy was significantly associated with recurrence of postpartum depression.
+
+Finally, in a preliminary study by Smit et al. [26], restlessness was suggested as a symptom to be closely monitored for early detection of an impending increase in depressive symptoms. In this study, 7 patients with a history of depression were assessed in real time, through ecological momentary assessments, while tapering their medication. Increased restlessness was evident more than 2 months before the increase in depressive symptoms only in the 2 patients who showed a return of depressive symptomatology during the tapering period. The study, however, did not allow determination of whether the reported symptoms were part of a relapse or pertained to a withdrawal symptomatology due to antidepressant drug discontinuation.
+
+# Discussion
+
+Appraisal of the literature on prodromal symptoms of unipolar depression is hindered by a number of methodological problems. One aspect is concerned with the type of measurement. Subclinical symptoms are – by definition – milder than those of the full clinical syndrome. As a result, the capacity of a rating scale to discriminate between different groups of patients suffering from the same illness (e.g., depressed inpatients and outpatients) and to reflect changes in experiments in therapeutics such as drug trials in which the drug effects are small becomes important. Therefore, researchers may employ inadequately sensitive instruments to assess symptomatology [35]. Further, assessment of prodromal symptoms may overlap with premorbid traits. A modality for partly overcoming this overlap is to include only those symptoms with a clear onset. A third contaminating issue involves the presence of comorbidity, which may complicate the identification of prodromal symptomatology [4]. The DSM-5 [36] does not differentiate between primary and secondary MDD based on longitudinal development of the illness, as is performed instead in general medicine (e.g., primary and secondary hypertension). The distinction between prodromal symptoms of an MDE and preexisting symptomatology may thus become blurred.
+
+Table 1. Most commonly reported prodromal symptoms of depression   
+
+<table><tr><td>Category</td><td>Symptoms</td></tr><tr><td>Cognitive</td><td>Indecision and impaired concentration [9, 13, 20, 29] Worrying [13, 29, 30] Decreased self-esteem [29, 30]</td></tr><tr><td>Emotional</td><td>Anxiety [8, 9, 1517, 21] Irritability [13, 1618, 29] Tension [8, 9, 13, 14, 21] Dysphoria and sadness [13, 20, 29] Agitation [8, 13]</td></tr><tr><td>Physical</td><td>Hopelessness [29, 30] Sleep disturbances [8, 13, 14, 16, 1820, 25, 27, 28, 3234] Fatigue, tiredness, and lack of energy [8, 9, 13, 16, 1821, 25]</td></tr><tr><td></td><td>Appetite (reduced or increased) [8, 19, 20, 30] Pain (head, back, chest, arms/legs, and abdomen) [8, 14, 15] Restlessness [20, 26]</td></tr></table>
+
+Nonetheless, several important findings have emerged from the present systematic review. First, all of the included studies suggested that a distinct prodromal symptomatology exists before the onset of unipolar depression. Overall rates of prodromal symptoms were reported in 6 studies and ranged from 26 to $1 0 0 \%$ [9, 13, 16, 18, 20, 21] (online suppl. Table S3). A variety of prodromal symptoms have been described (Table 1). Anxiety, tension, irritability, reduced energy, fatigue, sleep disturbances, and somatic complaints were among the most commonly reported prodromal symptoms. The results support a description in the textbook by Mayer-Gross and Slater [p. 207–208 in 37]: “The history of change in the patient’s behavior is characteristic and important; he retires from usual social activities, avoids his friend in the street, and, if forced into company, seems bored an inattentive and takes little interest in topics that usually elicit an active response (…). An initial mood of indifference in depressive states may last for a considerable time, but sooner or later is replaced by the one of sadness.” The use of network analysis [38, 39] or time series of auto-recorded mood [26] may shed further light on the clinical presentations of the symptomatology. The possibility of early warning systems based on smart-phone mood monitoring has also been suggested [40].
+
+Second, the duration of the prodromal phase was highly variable across studies, ranging from less than a month to several years [7, 9, 11–13, 18, 20, 21, 29] (online suppl. Table S3). This high variability could reflect the modalities of assessment. More consistently, studies found that an abrupt onset of depression was commonly associated with bipolar features and that patients with unipolar depression showed a significantly slower speed of onset compared to patients with bipolar depression [7, 11–13].
+
+Further, assessment of prodromal symptomatology relies on careful methodological steps. It is important to have a history of illness progression in the individual patients, since prodromal symptoms of relapse tend to mirror those of the initial depressive episode [16], and to investigate prodromal symptoms when the patient is judged as being in remission. The assessment of symptoms is facilitated by using a rating scale rather than simply using open-ended questions (e.g., “How did the depression start?”). Paykel’s Clinical Interview for Depression [22, 23], which is a modified, expanded, and more sensitive version of the Hamilton Depression Rating Scale [41], has been found to be particularly suitable for this purpose [13, 16, 17].
+
+Major clinical implications derive from the included studies on prodromal symptoms in unipolar depression. First, since prodromal symptoms may precede the full episode by weeks or months, their timely recognition may facilitate early intervention upon relapse, which was found to significantly shorten the duration of the depressive episode [42]. This appears to be particularly important for prodromal symptoms of postpartum depression, the recurrence of which was preceded by sleep disturbances during pregnancy [33, 34]. Knowledge of the specific prodromal symptomatology of a previous depressive episode may facilitate the application of pharmacotherapy and/or psychotherapy when the same symptoms appear again, before the full-blown manifestations of the disorder.
+
+A second issue is concerned with the differentiation between symptoms of relapse and those which may be attributed to withdrawal phenomena during tapering or after discontinuation of antidepressant drugs [43, 44] with particular reference to selective serotonin reuptake inhibitors [45] and serotonin-norepinephrine reuptake inhibitors [46]. Such phenomena cast considerable doubts on the interpretation of maintenance studies concerned with long-term antidepressant treatment [47–49]. Differential diagnosis could help to understand whether antidepressant treatment should be promptly reinstituted or not, but it requires an adequate assessment of prodromal symptomatology that articulates over several issues. Withdrawal symptoms are new symptoms that were not a part of the patient’s symptomatology [43, 44] and, in the majority of cases, do not pertain to depressive manifestations. Withdrawal symptoms are likely to have an early onset, while recurrent symptoms generally present a gradual return. This is only a general tendency, however, and not a rule, and it does not apply to anxiety disorders [50]. Further, withdrawal symptoms have a tendency to wane with time (unless they develop into persistent postwithdrawal disorders that may be present months or years after antidepressant discontinuation), whereas the opposite trend occurs with prodromal symptoms of relapse [4, 43, 44].
+
+Third, several studies have suggested consistency of the prodromal symptom profile and duration within individuals across depressive episodes [11, 17, 29] and similarities between prodromal and residual symptoms of the same depressive episode [17, 18, 29–31]. Intraindividual consistency of symptoms appeared to increase when considering patients with a similar level of symptom severity [29]. Moreover, an inverse relation between the order of symptom onset and remission has been reported [29, 30]. Detre and Jarecki [51] provided a model for relating prodromal and residual symptomatology in psychiatric illness, defined as the “roll-back phenomenon:” as the illness remits, it progressively recapitulates, though in reverse order, many of the stages and symptoms that were seen during the time it developed. According to this framework, there is also a relationship between the time needed for development of a disorder and the duration of the recovery phase. The roll-back phenomenon may shed some new light in interpreting treatment resistant depression. Attention has been called to the arbitrary nature of the distinction between the treatment response associated with residual symptoms and refractory depression [52]. If the posttreatment (residual) symptomatology is related to the amount and duration of prodromal symptoms, definitions of refractory depression that disregard the longitudinal development of the depressive illness may be misleading [53]. More than labeling depression as treatment resistant, we should acknowledge that, in certain cases, one course of treatment may simply be insufficient to address the preexisting prodromal symptomatology.
+
+Fourth, Fava and Kellner [1] suggested that prodromal symptoms may have a pathophysiological role in affective disorders and that some residual symptoms may progress to become prodromal symptoms of relapse. This led to the hypothesis that treatment directed toward the residual phase of depressive disorder, according to a staging method [2], might yield long-term benefits. A first randomized controlled trial testing this hypothesis was published in 1994 [17] followed by several other investigations all over the world [54, 55]. This approach, subsumed under the rubric of the sequential model, was found to provide long-term benefits in preventing relapse of depression [54, 55]. The sequential model is an intensive, 2-stage approach, which derives from the awareness that one course of treatment with a specific tool (whether pharmacotherapy or psychotherapy) is unlikely to provide a solution to the affective disturbances of patients, both in research and in clinical practice settings [54, 55].
+
+Finally, the definition of a prodromal phase in depression would benefit from the joint use of symptom identification, biomarkers, and neuroimaging. Preliminary data on bipolar disorder indicate that structural changes in the brain occur as the disorder evolves and that several biochemical alterations (e.g., changes in inflammatory markers, oxidative stress, and neurotrophins) could discriminate between different stages of the disorder [56]. Similar phenomena may occur in unipolar MDD. The existence of a prodromal phase before the onset of a definite MDE calls for reassessment of basic pathophysiological models of the pathogenesis of depression which neglect intermediate phenomenological steps in the balance between health and disease, with particular reference to the role of allostatic load, defined as the cost of chronic exposure to fluctuating or heightened neural activation [57– 59]. Further, the identification of prodromal symptomatology might throw some light on the longitudinal development and course of late-onset depression.
+
+Despite the relative neglect of research on prodromal symptoms of unipolar depression, findings from the present systematic review address an important clinical issue that deserves further investigation and may be of immediate practical value. The findings provide challenging insights into the pathogenesis and course of depression, which may result in therapeutic efforts of a more enduring quality than current treatment strategies.
+
+# Statement of Ethics
+
+An ethics statement is not applicable because this study is based exclusively on published literature.
+
+# Conflict of Interest Statement
+
+The authors have no conflict of interests to disclose.
+
+# Funding Sources
+
+None.
+
+# Author Contributions
+
+Giada Benasi and Giovanni A. Fava searched, screened, and selected studies; both authors extracted data. Jenny Guidi supervised the study selection and data extraction. All of the authors conceived this work and drafted and finalized this paper.
+
+# References
+
+1 Fava GA, Kellner R. Prodromal symptoms in affective disorders. Am J Psychiatry. 1991 Jul;148(7):823–30.   
+2 Fava GA, Kellner R. Staging: a neglected dimension in psychiatric classification. Acta Psychiatr Scand. 1993 Apr;87(4):225–30.   
+3 Cosci F, Fava GA. Staging of mental disorders: systematic review. Psychother Psychosom. 2013;82(1):20–34.   
+4 Fava GA. Subclinical symptoms in mood disorders: pathophysiological and therapeutic implications. Psychol Med. 1999 Jan;29(1):47–   
+61.   
+5 Jackson A, Cavanagh J, Scott J. A systematic review of manic and depressive prodromes. J Affect Disord. 2003 May;74(3):209–17.   
+6 Moher D, Liberati A, Tetzlaff J, Altman DG; PRISMA Group. Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement. PLoS Med. 2009 Jul;   
+6(7):e1000097.   
+7 Hays P. Modes of onset of psychotic depression. BMJ. 1964 Sep;2(5412):779–84.   
+8 Widmer RB, Cadoret RJ. Depression in primary care: changes in pattern of patient visits and complaints during a developing depression. J Fam Pract. 1978 Aug;7(2):293–302.   
+9 Hopkinson G. The prodromal phase of the depressive psychosis. Psychiatr Neurol (Basel). 1965;149(1):1–6.   
+10 Winokur G. Duration of illness prior to hospitalization (onset) in the affective disorders. Neuropsychobiology. 1976;2(2-3):87–93.   
+11 Hegerl U, Bottner AC, Holtschmidt-Täschner B, Born C, Seemüller F, Scheunemann W, et al. Onset of depressive episodes is faster in patients with bipolar versus unipolar depressive disorder: evidence from a retrospective comparative study. J Clin Psychiatry. 2008 Jul; 69(7):1075–80.   
+12 Strauss M, Sander C, Mergl R, Merz C, Schönknecht P, Hegerl U. Onset of Depression Inventory (ODI)—assessment of the speed of onset of depressive episodes. J Affect Disord. 2012 Dec;142(1-3):156–60.   
+13 Sahoo MK, Chakrabarti S, Kulhara P. Detection of prodromal symptoms of relapse in mania and unipolar depression by relatives and patients. Indian J Med Res. 2012;135(2):177– 83.   
+14 Cadoret RJ, Widmer RB, Troughton EP. Somatic complaints — harbinger of depression in primary care. J Affect Disord. 1980 Mar; 2(1):61–70.   
+15 Wilson DR, Widmer RB, Cadoret RJ, Judiesch K. Somatic symptoms. A major feature of depression in a family practice. J Affect Disord. 1983 Aug;5(3):199–207.   
+16 Fava GA, Grandi S, Canestrari R, Molnar G. Prodromal symptoms in primary major depressive disorder. J Affect Disord. 1990 Jun; 19(2):149–52.   
+17 Fava GA, Grandi S, Zielezny M, Canestrari R, Morphy MA. Cognitive behavioral treatment of residual symptoms in primary major depressive disorder. Am J Psychiatry. 1994 Sep; 151(9):1295–9.   
+18 Pede VB, Jaiswal SV, Sawant VA. Study of prodromal and residual symptoms of depression. Ind Psychiatry J. 2017 Jul-Dec;26(2):121–7.   
+19 Young MA, Watel LG, Lahmeyer HW, Eastman CI. The temporal onset of individual symptoms in winter depression: differentiating underlying mechanisms. J Affect Disord. 1991 Aug;22(4):191–7.   
+20 Eaton WW, Anthony JC, Gallo J, Cai G, Tien A, Romanoski A, et al. Natural history of Diagnostic Interview Schedule/DSM-IV major depression. The Baltimore Epidemiologic Catchment Area follow-up. Arch Gen Psychiatry. 1997 Nov;54(11):993–9.   
+21 Hopkinson G. The onset of affective illness. Psychiatr Neurol (Basel). 1963;146(3):133–40.   
+22 Paykel ES. The clinical interview for depression. Development, reliability and validity. J Affect Disord. 1985 Jul;9(1):85–96.   
+23 Guidi J, Fava GA, Bech P, Paykel E. The Clinical Interview for Depression: a comprehensive review of studies and clinimetric properties. Psychother Psychosom. 2011;80(1):10–27.   
+24 Rosenthal NE, Sack DA, Gillin JC, Lewy AJ, Goodwin FK, Davenport Y, et al. Seasonal affective disorder. A description of the syndrome and preliminary findings with light therapy. Arch Gen Psychiatry. 1984 Jan; 41(1):72–80.   
+25 Perlis ML, Giles DE, Buysse DJ, Tu X, Kupfer DJ. Self-reported sleep disturbance as a prodromal symptom in recurrent depression. J Affect Disord. 1997 Feb;42(2-3):209–12.   
+26 Smit AC, Snippe E, Wichers M. Increasing restlessness signals impending increase in depressive symptoms more than 2 months before It happens in individual patients. Psychother Psychosom. 2019;88(4):249–51.   
+27 Gulec M, Selvi Y, Boysan M, Aydin A, Besiroglu L, Agargun MY. Ongoing or re-emerging subjective insomnia symptoms after full/partial remission or recovery of major depressive disorder mainly with the selective serotonin reuptake inhibitors and risk of relapse or recurrence: a 52-week follow-up study. J Affect Disord. 2011 Nov;134(1-3):257–65.   
+28 Kumagai N, Tajika A, Hasegawa A, Kawanishi N, Horikoshi M, Shimodera S, et al. Predicting recurrence of depression using lifelog data: an explanatory feasibility study with a panel VAR approach. BMC Psychiatry. 2019 Dec;19(1):391.   
+29 Iacoviello BM, Alloy LB, Abramson LY, Choi JY. The early course of depression: a longitudinal investigation of prodromal symptoms and their relation to the symptomatic course of depressive episodes. J Abnorm Psychol.   
+2010 Aug;119(3):459–67.   
+30 Iacoviello BM, Alloy LB, Abramson LY, Choi JY, Morgan JE. Patterns of symptom onset and remission in episodes of hopelessness depression. Depress Anxiety. 2013 Jun;30(6):   
+564–73.   
+31 Judd LL, Akiskal HS, Paulus MP. The role and clinical significance of subsyndromal depressive symptoms (SSD) in unipolar major depressive disorder. J Affect Disord. 1997 Aug;   
+45(1-2):5–17.   
+32 Chaudron LH, Klein MH, Remington P, Palta M, Allen C, Essex MJ. Predictors, prodromes and incidence of postpartum depression. J Psychosom Obstet Gynaecol. 2001 Jun;   
+22(2):103–12.   
+33 Okun ML, Hanusa BH, Hall M, Wisner KL. Sleep complaints in late pregnancy and the recurrence of postpartum depression. Behav Sleep Med. 2009;7(2):106–17.   
+34 Okun ML, Luther J, Prather AA, Perel JM, Wisniewski S, Wisner KL. Changes in sleep quality, but not hormones predict time to postpartum depression recurrence. J Affect Disord. 2011 May;130(3):378–84.   
+35 Fava GA, Tomba E, Sonino N. Clinimetrics: the science of clinical measurements. Int J Clin Pract. 2012 Jan;66(1):11–5.   
+36 American Psychiatric Association. Diagnostic and statistical manual of mental disorders.   
+5th ed. Washington: American Psychiatric Association; 2013.   
+37 Mayer-Gross W, Slater ER. Clinical Psychiatry. 3rd ed, revised. London: Baillière, Tindall & Cassel; 1969.   
+38 Contreras A, Nieto I, Valiente C, Espinosa R, Vazquez C. The study of psychopathology from the network analysis perspective: A systematic review. Psychother Psychosom.   
+2019;88(2):71–83.   
+39 Malgaroli M, Calderon A, Bonanno GA. Networks of major depressive disorder: A systematic review. Clin Psychol Rev. 2021 Apr;   
+85:102000.   
+40 van de Leemput IA, Wichers M, Cramer AO, Borsboom D, Tuerlinckx F, Kuppens P, et al. Critical slowing down as early warning for the onset and termination of depression. Proc Natl Acad Sci USA. 2014 Jan;111(1):87–92.   
+41 Carrozzino D, Patierno C, Fava GA, Guidi J. The Hamilton Rating Scales for Depression: A critical review of clinimetric properties of different versions. Psychother Psychosom.   
+2020;89(3):133–50.   
+42 Kupfer DJ, Frank E, Perel JM. The advantage of early treatment intervention in recurrent depression. Arch Gen Psychiatry. 1989 Sep;   
+46(9):771–5.   
+43 Cosci F, Chouinard G. Acute and persistent withdrawal syndromes following discontinuation of psychotropic medications. Psychother Psychosom. 2020;89(5):283–306.   
+44 Fava GA. Discontinuing antidepressant medications. Oxford: Oxford University Press;   
+2021.   
+45 Fava GA, Gatti A, Belaise C, Guidi J, Offidani E. Withdrawal symptoms after selective serotonin reuptake inhibitor discontinuation: A systematic review. Psychother Psychosom.   
+2015;84(2):72–81.   
+46 Fava GA, Benasi G, Lucente M, Offidani E, Cosci F, Guidi J. Withdrawal symptoms after serotonin-noradrenaline reuptake inhibitor discontinuation: systematic review. Psychother Psychosom. 2018;87(4):195–203.   
+47 Baldessarini RJ, Tondo L. Effects of treatment discontinuation in clinical psychopharmacology. Psychother Psychosom. 2019;88(2):65–   
+70   
+48 Cohen D, Recalt A. Discontinuing psychotropic drugs from participants in randomized controlled trials: a systematic review. Psychother Psychosom. 2019;88(2):96–104.   
+49 Récalt AM, Cohen D. Withdrawal confounding in randomized controlled trials of antipsychotic, antidepressant, and stimulant drugs,   
+2000-2017. Psychother Psychosom. 2019;   
+88(2):105–13.   
+50 Fava GA, Belaise C. Discontinuing antidepressant drugs: lesson from a failed trial and extensive clinical experience. Psychother Psychosom. 2018;87(5):257–67.   
+51 Detre TP, Jarecki H. Modern psychiatric treatment. Philadelphia: Lippincott; 1971.   
+52 Fava GA. The concept of recovery in affective disorders. Psychother Psychosom. 1996;   
+65(1):2–13.   
+53 Fava GA, Cosci F, Guidi J, Rafanelli C. The deceptive manifestations of treatment resistance in depression: A new look at the problem. Psychother Psychosom. 2020;89(5):265–   
+73.   
+54 Guidi J, Tomba E, Fava GA. The sequential integration of pharmacotherapy and psychotherapy in the treatment of major depressive disorder: A meta-analysis of the sequential model and a critical review of the literature. Am J Psychiatry. 2016 Feb;173(2):128–37.   
+55 Guidi J, Fava GA. Sequential combination of pharmacotherapy and psychotherapy in major depressive disorder: a systematic review and meta-analysis. JAMA Psychiatry. 2021 Mar;78(3):261–9.   
+56 Berk M, Post R, Ratheesh A, Gliddon E, Singh A, Vieta E, et al. Staging in bipolar disorder: from theoretical framework to clinical utility. World Psychiatry. 2017 Oct;16(3):236–44.   
+57 McEwen BS, Stellar E. Stress and the individual. Mechanisms leading to disease. Arch Intern Med. 1993 Sep;153(18):2093–101.   
+58 Lobitz G, Armstrong K, Concato J, Singer BH, Horwitz RI. The biological and biographical basis of precision medicine. Psychother Psychosom. 2019;88(6):333–40.   
+59 Guidi J, Lucente M, Sonino N, Fava GA. Allostatic load and its impact on health: A systematic review. Psychother Psychosom. 2021;   
+90(1):11–27.

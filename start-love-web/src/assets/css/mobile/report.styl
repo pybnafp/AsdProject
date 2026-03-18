@@ -1,0 +1,77 @@
+.app-background {
+  height 100vh;
+  background-image: url('../../img/mobile-bg.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.report-page {
+  .filter-box {
+    display: flex;
+    gap: 16px;
+    width: 100%;
+    padding 15px;
+    overflow-x scroll;
+    .filter-item {
+      flex-shrink: 0;
+      padding: 0 16px;
+      border-radius: 372px;
+      background: #FDFDFD;
+      border: 0.5px solid #F0F1F2;
+      font-size: 14px;
+      color: #6D6A71;
+      height: 38px;
+      line-height: 38px;
+      cursor pointer;
+
+      &.active {
+        background: rgba(93, 25, 210, 0.1);
+        color: #5D19D2;
+      }
+    }
+  }
+
+  .report-list {
+    .van-list {
+      padding 0 15px;
+      .card {
+        border-radius: 12px;
+        background: #FFFFFF;
+        box-shadow: 0px 2px 61px 0px #F0EDF6;
+        margin-bottom 12px;
+        .header {
+          height: 43px;
+          display flex;
+          justify-content space-between;
+          padding 14px 18px;
+          .header-left {
+            font-size: 14px;
+          }
+
+          .header-right {
+            font-size: 13px;
+            color: #6E6E6E;
+          }
+        }
+
+        .content {
+          border-radius: 8px;
+          background: #FBFBFB;
+          padding 0 16px;
+          margin 0 2px;
+          .content-row {
+            display flex;
+            justify-content space-between;
+            padding 6px 0
+            font-size: 12px;
+            color: #6E6E6E;
+          }
+        }
+      }
+    }
+  }
+}
+.filter-box::-webkit-scrollbar { /* Chrome, Safari, Opera*/
+  display: none;
+}

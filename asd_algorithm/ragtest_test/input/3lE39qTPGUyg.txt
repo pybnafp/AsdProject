@@ -1,0 +1,511 @@
+# Effect of naltrexone pretreatment on ketamine-induced glutamatergic activity and symptoms of depression: a randomized crossover study
+
+Luke A. Jelen  1,2 , David J. Lythgoe  1 , James M. Stone  3,4, Allan H. Young  1,2,5 & Mitul A. Mehta  1
+
+We investigated the potential role of the opioid system in modulating glutamatergic efects of ketamine administration in major depressive disorder. Twenty-six adults with major depressive disorder participated in a double-blind crossover study, receiving oral placebo or $5 0 \mathrm { m g }$ naltrexone before an intravenous infusion of 0.5 mg per kg ketamine. Brain glutamatergic activity in the anterior cingulate cortex was measured using functional magnetic resonance spectroscopy and depressive symptoms were assessed with the Montgomery–Åsberg Depression Rating Scale. Naltrexone attenuated the increase in glutamate $^ +$ glutamine to total $N$ -acetylaspartate ratio during ketamine infusion compared to placebo $( F _ { 1 , 2 5 3 } = 4 . 8 3$ , $P { = } 0 . 0 2 9 )$ ) and also attenuated the reduction in Montgomery– Åsberg Depression Rating Scale scores on day 1 (condition-by-time interaction, $F _ { 1 , 7 4 } = 5 . 3 9 , P = 0 . 0 2 3 )$ . These fndings demonstrate that the opioid system modulates the acute response to ketamine and subsequent antidepressant efects. Interactions between the glutamate and opioid systems may have implications for the development of new depression treatment strategies. ClinicalTrials.gov registration: NCT04977674.
+
+Ketamine, a dissociative anesthetic and uncompetitive $N _ { ☉ }$ -methyld-aspartate (NMDA) receptor antagonist, has emerged as a new treatment for major depressive disorder (MDD)1 . Reductions in depressive symptoms have been demonstrated following a single subanesthetic ketamine infusion, including in cases of treatment-resistant depression2 .
+
+Although the specific mechanisms underpinning ketamine’s antidepressant actions are yet to be fully determined, one hypothesis proposes that ketamine preferentially blocks NMDA receptors expressed on γ-aminobutyric acid (GABA) interneurons, leading to disinhibition of pyramidal neurons and increased glutamate release3 . This so-called glutamate surge stimulates postsynaptic $\alpha$ -amino-3-hydroxy-5-methyl-4-isoxazole propionic acid (AMPA) receptors leading to activation of downstream neuroplastic signaling pathways and synaptogenesis4 .
+
+Supporting this hypothesis, increases in glutamatergic compounds have been observed following ketamine administration in the medial prefrontal cortex (mPFC) in studies with rodents5–7 . In humans, using proton magnetic resonance spectroscopy (1 H-MRS), ketamine administration has been found to acutely increase anterior cingulate cortex (ACC) glutamate8 , glutamine9 and glutamate $^ +$ glutamine $\mathbf { \Pi } ( \mathbf { G } \mathbf { l } \mathbf { x } ) ^ { 1 0 }$ in healthy volunteers, and to increase Glx in the mPFC in patients with MDD11; however, this finding has not been consistent12. Further work, utilizing $^ { 1 3 } \mathsf { C }$ -MRS, recorded a rapid increase in $^ { 1 3 } \mathsf { C }$ -glutamine enrichment early during ketamine infusion in healthy controls and patients with MDD, indicating an acute surge in prefrontal glutamate–glutamine cycling13. Twenty-four hours after ketamine administration, around the time of peak antidepressant response, a $^ 1 \mathsf { H }$ -MRS study in MDD found no significant changes in glutamatergic measures in the $\mathsf { A C C } ^ { 1 4 }$ . Together, these findings support the theory that subanesthetic doses of ketamine acutely increase glutamatergic activity but it is not clear if this is necessary for the antidepressant response.
+
+Beyond the glutamate system, ketamine interacts with a range of other sites, including opioid receptors, albeit with lower affinity than with the NMDA receptor15,16. Preclinical work has demonstrated that activation of mu opioid receptors (MORs) is “necessary, but not sufficientˮ for ketamine to reduce depressive-like behaviors17, that (S)-ketamine involves direct interactions with brain MORs at doses and concentrations relevant to its reinforcement and antidepressant-like efficacy18, and that $\beta$ -endorphin presence and opioid receptor activation in the mPFC may be required for ketamine’s antidepressant actions19. In a recent double-blind crossover clinical study, pretreatment with the opioid receptor antagonist naltrexone significantly attenuated the antidepressant and antisuicidal effects of a single ketamine dose in 12 adults with treatment-resistant depression20,21, suggesting opioid system activation may be required for ketamine’s antidepressant effects. An uncontrolled case series of five individuals with depression and alcohol-use disorder did not replicate these findings22. Importantly, these clinical studies have been limited by small sample sizes and did not explore mechanisms underlying any potential opioid-mediated effects.
+
+A key question is whether opioid antagonism suppresses ketamineinduced glutamatergic activity in individuals with depression. Considering the coexpression of mu opioid and NMDA receptors23,24, it is feasible that glutamate release is affected by opioid modulation. Using standard $\boldsymbol { ^ { 1 } \mathrm { H } }$ -MRS to investigate this is limited in terms of temporal resolution. Functional $^ 1 \mathrm { H }$ -MRS $\mathrm { ^ { 1 } H }$ -fMRS) is a technique with superior temporal characteristics that enables the dynamic monitoring of glutamatergic metabolites25,26 and has previously been applied to measure anterior cingulate glutamatergic dynamics in patient groups27,28. In this study, we sought to test the hypothesis that ketamine administration in patients with depression leads to an acute increase in glutamatergic activity in the ACC, as measured by $\boldsymbol { ^ { 1 } \mathrm { H } }$ -fMRS, and that pretreatment with the opioid receptor antagonist naltrexone attenuates this increase. We further tested whether pretreatment with naltrexone attenuates the acute antidepressant effects of ketamine.
+
+Table 1 | Demographic and clinical characteristics   
+
+<table><tr><td colspan="2">Characteristic</td><td>Overall</td></tr><tr><td colspan="2">Age, years (mean (s.d.))</td><td>35.08 (7.50)</td></tr><tr><td rowspan="2">Sex, no. (%)</td><td>Female</td><td>13 (50.0)</td></tr><tr><td>Male</td><td>13 (50.0)</td></tr><tr><td rowspan="7">Race/ethnicity, no. (%)</td><td>Asian/Asian British—Indian</td><td>2 (7.7)</td></tr><tr><td>Asian/Asian rishOther</td><td>3 (11.5)</td></tr><tr><td>Black/Black Britis—African</td><td>2 (7.7)</td></tr><tr><td>Black/Black British—Caribbean</td><td>1(3.8)</td></tr><tr><td>White Irish</td><td>2 (7.7)</td></tr><tr><td>White Other</td><td>4 (15.4)</td></tr><tr><td>White UK</td><td>12 (46.2)</td></tr><tr><td rowspan="3">Employed, no. (%)</td><td>Yes</td><td>17 (65.4)</td></tr><tr><td>No</td><td>6 (23.1)</td></tr><tr><td>Student</td><td>3 (11.5)</td></tr><tr><td>BMI, kg per m² (mean (s.d.))</td><td></td><td>23.85 (2.72)</td></tr><tr><td>Age at first MDD onset, years (mean (s.d.))</td><td></td><td>22.65 (8.28)</td></tr><tr><td>Duration of current MDD episode, years (median (IQR))</td><td></td><td>3.25 (2.62, 11.75)</td></tr><tr><td rowspan="2">Recurrent MDD, no. (%)</td><td>Yes</td><td>12 (46.2)</td></tr><tr><td>No</td><td>14 (53.8)</td></tr><tr><td rowspan="4">Number of antidepressants trialed, no. (%)</td><td>1 to 2</td><td>16 (61.5)</td></tr><tr><td>3 to 4</td><td>6 (23.1)</td></tr><tr><td>5 to 6</td><td>3 (11.5)</td></tr><tr><td>7-10</td><td>1(3.8)</td></tr><tr><td>Psychological therapy trialed, no. (%)</td><td>Yes</td><td>26 (100)</td></tr><tr><td rowspan="2">Current antidepressant treatment, no. (%)</td><td>Yes</td><td>12 (46.2)</td></tr><tr><td>No</td><td>14 (53.8)</td></tr><tr><td>HAM-D at screening (mean (s.d.))</td><td></td><td>21.65 (2.73)</td></tr></table>
+
+IQR, interquartile range.
+
+# Results
+
+# Participants
+
+From the 28 participants randomized, 26 participants completed the crossover and underwent both the placebo-plus-ketamine and naltrexone-plus-ketamine arms of the study (Supplementary Fig. 1). The interval between the two study arm visits ranged from 14 to 33 days ( $\mathrm { \ n e a n } = 1 9 . 1 1 , 5 . \mathrm { d } . = 4 . 3 $ days). Participant demographics and clinical characteristics are shown in Table 1. Regular psychotropic treatment received during the study is shown in Supplementary Table 1.
+
+To test the main hypothesis that naltrexone attenuates the effects of ketamine in individuals with depression, we assessed clinical symptoms, subjective ratings and an imaging-based measure of glutamatergic metabolites using $\mathrm { ^ { 1 } H }$ -fMRS. Spectra were acquired continuously for a 5-min baseline period and throughout the first $3 0 \mathrm { { m i n } }$ of the ketamine infusion (Fig. 1).
+
+# Clinical and subjective measures
+
+Depression. Depressive symptoms were assessed with the clinician-rated Montgomery–Asberg Depression Rating Scale (MADRS) as the primary measure, together with the self-report Quick Inventory of Depressive Symptomatology–Self Report (QIDS–SR) and the Maudsley 3-item Depression Visual Analogue Scale (M3VAS).
+
+There were no significant differences in mean baseline MADRS scores for the placebo-plus-ketamine condition (mean $= 2 8 . 7 3$ , s.d. $= 5 . 7 5$ ) and the naltrexone-plus-ketamine condition (mean $= 2 7 . 2 3$ , $\mathbf { s . d . } = 5 . 5 4 \AA ,$ ). Linear mixed-effect model analysis revealed a significant main effect of time $( F _ { 1 , 7 4 } = 1 9 7 . 9 3 $ , $P { < } 0 . 0 0 1 )$ ), with reductions in mean MADRS scores at day 1 postinfusion (placebo-plus-ketamine $\mathrm { m e a n } = - 1 4 . 6 5$ , s.d. $= 7 . 7 7 $ ); naltrexone-plus-ketamine condition $( \mathrm { m e a n } = - 1 0 . 5 0 , \thinspace 5 . \mathrm { d } . = 5 . 9 1 )$ ) and a significantly attenuated reduction for the naltrexone-plus-ketamine condition (mean difference from placebo $= 4 . 1 5$ , s.d. $= 8 . 5 9$ , condition-by-time interaction, $F _ { 1 , 7 4 } = 5 . 3 9$ , ${ P / } = 0 . 0 2 3$ ; Cohen’s $d = 0 . 6 0$ ) (Fig. 2a,b). Finally, there was a significant effect of visit $( F _ { 1 , 7 4 } = 1 6 . 6 8$ , $P { = } 0 . 0 0 1 \mathrm { \mathrm { ; } }$ ) with lower mean MADRS scores across the visit 2 period (predose and day 1 after the infusion) $( \mathrm { m e a n } = 1 9 . 8 7 , \mathrm { s . d . } = 8 . 0 6 )$ ) compared to the visit 1 period (mean $= 2 3 . 5 2 $ , s.d. $= 9 . 6 7$ ) (Extended Data Table 1 and Extended Data Fig. 1).
+
+For the self-report measures, there was a significant effect of time for the QIDS–SR $( F _ { 1 , 7 4 } = 9 6 . 4 3$ , $P < 0 . 0 0 1 \mathrm { \Omega }$ and for the M3VAS scores $( F _ { 1 , 7 4 } = 4 7 . 9 8$ , $P < 0 . 0 0 1 )$ , with reductions in mean QIDS–SR scores (placebo-plus-ketamine (mean $= - 6 . 5 4$ $\mathbf { 5 . d . } = 5 . 4 3 )$ ); naltrexone-plus-ketamine condition (mean $= - 5 . 7 3$ $\mathbf { \boldsymbol { s } } . \mathbf { \boldsymbol { d } } . = 3 . 6 2 )$ ) and reductions in mean M3VAS scores at day 1 postinfusion (placebo-plus-ketamine (me $\mathtt { a n } = - 5 5 . 5 0$ , s.d. $= 5 7 . 1 2 $ ) ; naltrexone-plus-ketamine condition $( \mathsf { m e a n } = - 4 5 . 2 7 , 5 . \mathsf { d } . = 4 6 . 9 6 )$ ). There were no significant effects of condition (QIDS–SR: $F _ { 1 , 7 4 } = 0 . 1 1$ , $P { = } 0 . 7 3 6$ ; M3VAS: $F _ { 1 , 7 4 } = 0 . 2 8 , P = 0 . 5 9 9 )$ or condition-by-time interactions $( \mathrm { Q I D S - S R : } F _ { 1 , 7 4 } = 0 . 4 2 , P = 0 . 5 2 0 ; \mathrm { M 3 V A S : } F _ { 1 , 7 4 } = 0 . 5 0 , P = 0 . 4 8 4 )$ . The effect of visit was significant for the QIDS–SR $( F _ { 1 , 7 4 } = 3 1 . 0 5 , P < 0 . 0 0 1 ,$ ) and M3VAS scores $( F _ { 1 , 7 4 } = 1 7 . 7 2$ , $P { < } 0 . 0 0 1 )$ ), with lower mean QIDS–SR scores across the visit 2 period ( $\mathrm { m e a n } = 9 . 0 2 , \mathrm { s . d . } = 4 . 3 6 )$ compared to the visit 1 period (m $\mathsf { l e a n } = 1 2 . 5 0$ , s.d. $= 6 . 2 0$ ) and lower mean M3VAS scores across the visit 2 period $( \mathrm { m e a n } = 1 0 0 . 4 0 , \mathrm { s . d . } = 4 7 . 5 3 )$ compared to the visit 1 period $( \mathrm { m e a n } = 1 3 1 . 0 2 , \mathrm { s . d . } = 6 4 . 4 0 )$ .
+
+![](images/32b855ceac5763a0e8bb45ab2e61abdf935fc143e498246daf892d4829fbf2e5.jpg)  
+Fig. 1 $| ^ { 1 } \mathbf { \bar { H } }$ -fMRS experimental overview. Spectra were acquired continuously for a 5-min baseline period and during the initial $3 0 \mathrm { { m i n } }$ of the ketamine infusion using point-resolved spectroscopy with chemical selective suppression for water suppression (repetition time $\mathbf { \hat { T } R } ) = 2 { , } 0 0 0 \mathbf { m } s$ , echo time (TE) $= 4 0 \mathrm { m s }$ , 8-step
+
+Anhedonia. Anhedonia was measured using the Snaith Hamilton Pleasure Scale (SHAPS) and the Temporal Experience of Pleasure Scale (TEPS), which provides separate anticipatory (TEPS-A) and consummatory (TEPS-C) subscale scores.
+
+There was a significant effect of time for mean SHAPS scores $( F _ { 1 , 7 4 } = 1 2 . 8 7$ , $P { = } 0 . 0 0 6 $ ) with reductions in mean SHAPS scores at day 1 postinfusion (placebo-plus-ketamine (mean $= - 4 . 0 0$ , s.d. $=$ 7.47); naltrexone-plus-ketamine condition (mean $= - 2 . 0 0$ , s.d. $=$ 4.96)) and no significant effect of condition $( F _ { 1 , 7 4 } = 0 . 3 6$ , $P =$ 0.552) or condition-by-time interaction $F _ { 1 , 7 4 } = 1 . 4 3$ , ${ P / = 0 . 2 3 6 }$ ). There was a significant effect of visit for SHAPS scores $( F _ { 1 , 7 4 } = 1 4 . 2 2$ , $P { = } 0 . 0 0 3 ) $ ), with lower mean SHAPS scores across the visit 2 period ( $\mathsf { m e a n } = 2 9 . 6 0 , \mathsf { s . d . } = 6 . 1 1 $ ) compared to the visit 1 period (mean $= 3 2 . 7 5 $ , $\mathbf { s . d . } = 7 . 2 2 $ .
+
+There was a significant effect of time for TEPS-A $( F _ { 1 , 7 4 } = 8 . 8 4$ , $P { = } 0 . 0 0 4 { \mathrm { . } }$ ) and TEPS-C scores $( F _ { 1 , 7 4 } = 7 . 8 9 , P = 0 . 0 0 6 )$ ), with increases in mean TEPS-A scores (placebo-plus-ketamine (mean $= 4 . 0 7 , 5 . 0 4 , = 6 . 5 2 )$ ; naltrexone-plus-ketamine $( \mathrm { m e a n } = 2 . 0 8 , \mathrm { s . d . } = 7 . 4 1 )$ ) and increases in mean TEPS-C scores at day 1 postinfusion (placebo-plus-ketamine (mean $= 2 . 4 2$ , s.d. $= 5 . 7 3 $ ) and naltrexone-plus-ketamine condition (mean $= 1 . 6 9$ , $\mathbf { \underline { { s . d . } } = 4 . 3 5 ) }$ ). There were no significant effects of condition (TEPS-A: $F _ { 1 , 7 4 } = 0 . 0 2$ , $\pmb { P } = \mathbf { 0 . 8 8 1 }$ ; TEPS-C: $F _ { 1 , 7 4 } = 0 . 0 3$ , $\begin{array} { r } { P = 0 . 8 5 5 , } \end{array}$ ) or condition-by-time interactions (TEPS-A: $F _ { 1 , 7 4 } = 0 . 9 3$ , ${ P / } = 0 . 3 3 8$ ; TEPS-C: $F _ { 1 , 7 4 } = 0 . 2 5$ , $P = 0 . 6 1 9 )$ . There were significant effects of visit for both the TEPS-A $( F _ { 1 , 7 4 } = 8 . 4 7$ , $P { = } 0 . 0 0 5$ ) and TEPS-C scores $( F _ { 1 , 7 4 } = 4 . 9 8$ , $P { = } 0 . 0 2 9 _ { , }$ ), with higher mean TEPS-A scores across the phase cycle, 1,040 transients). Each block consisted of 144 transients $( 1 8 \times 8$ -step phase cycles). A total of 16 water unsuppressed transients $2 \times 8$ -step phase cycles) were acquired at the end of the sequence.
+
+visit 2 period $( \mathrm { m e a n } = 3 3 . 7 4 , \mathrm { s . d . } = 9 . 6 0 )$ ) compared to the visit 1 period $( \mathrm { m e a n } = 3 0 . 7 3 , \mathrm { s . d . } = 1 0 . 1 8 )$ and higher mean TEPS-C scores across the visit 2 period (mean $= 3 0 . 6 5 $ , s.d. $= 6 . 9 5$ ) compared to the visit 1 period $( \mathrm { m e a n } = 2 9 . 0 2 , 5 . \mathrm { d } . = 6 . 0 9 )$ .
+
+Dissociation and psychotomimetic states. Subjective effects were measured using the Clinician Administered Dissociative States Scale (CADSS) and the self-report Psychotomimetic States Inventory (PSI). There were no significant differences in CADSS scores $( F _ { 1 , 2 5 } = 0 . 0 0 3$ , ${ \cal P } { = } 0 . 9 5 9 )$ for the placebo-plus-ketamine (mean $= 3 1 . 6 2 $ , s.d. $= 1 3 . 2 3 $ ) and the naltrexone-plus-ketamine condition ( $\mathsf { r e a n } = 3 1 . 7 7 , \mathsf { s . d . } = 1 2 . 6 2 )$ . Similarly, there were no significant differences in any PSI subscale scores between the placebo-plus-ketamine and naltrexone-plus-ketamine condition (Supplementary Fig. 2).
+
+Evaluation of blind and adverse events. In the Placebo-Naltrexone order group, $54 \%$ (7 out of 13) of participants correctly guessed their pretreatment order, the same rate observed in the Naltrexone-Placebo group. The clinical assessor correctly identified the treatment order in $69 \%$ (9 out of 13) of cases in the Placebo-Naltrexone group and $54 \%$ (7 out of 13) in the Naltrexone-Placebo group. The James Blinding Index estimates were 0.46 ( $9 5 \%$ CI: 0.27–0.64) and 0.38 $( 9 5 \% \mathrm { C l } ; 0 . 2 0 { - } 0 . 5 7 )$ for the participant and clinical assessor guesses, respectively. As the upper limits of these two-sided confidence intervals were both ${ \tt > } 0 . 5$ , blinding was considered successful (Supplementary Table 3). Aside from dissociation, the most common adverse events were nausea and vomiting along with headache and dizziness. There were no significant differences in adverse event data between the placebo-plus-ketamine and naltrexone-plus-ketamine sessions (Supplementary Table 4). There were no serious adverse events.
+
+Exploratory analyses. Results from exploratory analyses are presented in the Supplementary Information: response and remission rates (MADRS and QIDS–SR) are in Supplementary Table 2, changes in self-report measures at days 3 and 7 postinfusion are in Supplementary Fig. 3 and subgroup analyses of depressive symptom reduction (MADRS and QIDS–SR) on day 1 postinfusion among participants who achieved $\mathbf { a } \geq 5 0 \%$ reduction in the placebo-plus-ketamine condition are in Supplementary Fig. 4.
+
+![](images/eb1ad7eef3b134c9a6e0f02ebf3d4813203caf237924abe254b64c67e5d25c73.jpg)  
+Fig. 2 | Clinical measure outcomes. a, MADRS total scores at preinfusion and at day 1 postinfusion. The thick lines represent the mean values for each condition, with individual data points connected by thinner lines. b, Change in MADRS scores from preinfusion to day 1 postinfusion. c, Change in QIDS–SR scores from preinfusion to day 1 postinfusion. d, Change in M3VAS scores from preinfusion to day 1 postinfusion e, Change in SHAPS scores from preinfusion to day 1 postinfusion. f, Change in TEPS-A scores from preinfusion to day 1   
+postinfusion. g, Change in TEPS-C scores from preinfusion to day 1 postinfusion. Note an increase in TEPS-A and TEPS-C scores indicates a reduction in anhedonia symptoms. Box plot elements: box spans the IQR (25th–75th percentile), central line is the median (50th percentile), $^ +$ marks the mean, whiskers extend to the lowest and highest values within $1 . 5 \times \mathsf { I Q R }$ of the box and values beyond that range are shown individually. Each plot shows data from $n = 2 6$ participants who completed the crossover.
+
+# $\mathbf { \mu } ^ { 1 } \mathbf { H }$ -fMRS results
+
+Twenty-four participants were included in the $\boldsymbol { ^ { 1 } \mathrm { H } }$ -fMRS analyses after two participants were excluded due to missing data, spectral artifact or quality control failure. Our primary metabolite of interest was Glx, a combined measure of glutamate (Glu) and glutamine (Gln), expressed as a ratio to total $N$ -acetylaspartate (tNAA: $N \cdot$ -acetylaspartate plus $N$ -acetylaspartylglutamate). We chose tNAA as the internal reference rather than the more common total creatine (tCr) because tNAA remained relatively stable across infusion blocks (Methods). The $^ 1 \mathsf { H }$ -fMRS voxel placement and representative spectra output are shown in Fig. 3.
+
+There were no significant differences in mean baseline Glx/tNAA for the placebo-plus-ketamine condition (mea $\mathsf { i } \mathsf { n } = 1 . 3 4 , \mathsf { s . d . } = 0 . 1 1 )$ and the naltrexone-plus-ketamine condition $( \mathrm { m e a n } = 1 . 3 3 , \mathrm { s . d . } = 0 . 1 2$ ). For the Glx/tNAA change from preinfusion baseline, the linear mixed-effect model analysis revealed a significant main effect of condition $( F _ { 1 , 2 5 3 } = 4 . 8 3$ , ${ \cal P } { = } 0 . 0 2 9$ ; Cohen’s $d { \bf = } 0 . 3 4 { \bf \AA } ,$ ), with a higher mean increase in Glx/tNAA during the ketamine infusion for placebo compared to the naltrexone pretreatment condition (Fig. 4). There was no significant main effect of infusion block $( F _ { 5 , 2 5 3 } = 0 . 3 3 , P = 0 . 8 9 6 )$ or condition-by-block interaction $F _ { 5 , 2 5 3 } = 1 . 2 9$ , $P { = } 0 . 2 7 0 \rangle$ ).
+
+# $\mathbf { \mu } ^ { 1 } \mathbf { H }$ -fMRS sensitivity analyses
+
+Separate post hoc linear mixed-effects models were conducted to assess the influence of potential confounders on metabolite measures. We evaluated the factors age, sex and gray-to-white matter composition within the MRS voxel, antidepressant status and pretreatment order, which might affect these measures29–31. In addition, MRS quality metrics revealed a significantly higher signal-to-noise ratio (SNR) in the naltrexone condition $( \mathrm { m e a n } = 3 7 . 1 5 , 5 . \mathrm { d } . = 4 . 9 2 )$ ) compared to the placebo condition ( $\mathrm { m e a n } = 3 5 . 8 3 , \mathrm { s . d . } = 6 . 1 2 )$ (Supplementary Table 8). To address these factors, models were run individually, adjusting for (1) age, (2) sex, (3) gray-to-white matter fraction, (4) SNR, (5) antidepressant status and (6) pretreatment order. In each exploratory model, the main effect of condition remained significant (all $P { < } 0 . 0 5 )$ . No significant effects were observed for age, gray-to-white matter fraction, SNR or antidepressant status. However, the model adjusted for sex revealed a significant condition-by-sex interaction on Glx/tNAA change $( F _ { 1 , 2 4 2 } = 4 . 8 1 , P = 0 . 0 2 9 )$ , with differences between placebo and naltrexone pretreatment conditions being more pronounced in males than in females (Fig. 5). Furthermore, the model adjusted for pretreatment order revealed a significant condition-by-order interaction on Glx/tNAA change $( F _ { 1 , 2 4 2 } = 4 . 2 2 , P = 0 . 0 4 1 )$ , with differences between overlaid on the acquired spectrum (black). The estimated baseline is displayed under the spectrum in black. Plotted in units of parts per million (ppm). d, Combined spectra for single block across participants and conditions. Blue, placebo; orange, naltrexone. e, Combined spectra fit for single block across participants and conditions. Blue, placebo; orange, naltrexone.
+
+![](images/2632fe1200223de066058b911c9fbb6f7a9107a131108fc8e8385fac00eecfe3.jpg)  
+Fig. 3 | 1 H-fMRS voxel position and spectra. a, Voxel center placement. b, Voxel density map across participants and sessions in Montreal Neurological Institute (MNI) space. Blue, placebo condition; orange, naltrexone. The shading of the contour lines represents the percentage $( \% )$ overlap at that point. c, Sample spectrum from averaged block for single participant with output of the fit (red)
+
+placebo and naltrexone pretreatment conditions most pronounced in the Naltrexone-Placebo order group (Supplementary Fig. 9).
+
+# Glx/tNAA and clinical measure correlations
+
+Exploratory analyses revealed a positive relationship between Block-7 ΔGlx/tNAA and Peak ΔGlx/tNAA change and day 1 TEPS-A change scores for the placebo condition $\begin{array} { r } { r = 0 . 4 5 } \end{array}$ , $P { = } 0 . 0 2 6$ and $r = 0 . 5 1$ , ${ P / = } 0 . 0 1 1 { \mathrm { ~ , ~ } }$ ) but not for the naltrexone condition $( r = 0 . 0 5 , P = 0 . 8 0 8$ and $r = - 0 . 0 2$ , ${ \cal P } = 0 . 9 3 2 )$ . However, neither of these correlations survived correction for multiple comparisons (Supplementary Fig. 12).
+
+# Discussion
+
+This study provides support for the hypothesis that ketamine administration leads to acute increases in glutamatergic activity in the ACC in individuals with depression and that pretreatment with the opioid receptor antagonist naltrexone attenuates this increase. Furthermore, the study provides additional clinical evidence that pretreatment with naltrexone may attenuate the antidepressant effects of ketamine measured one day after a single dose.
+
+![](images/6d2eae1a3a5c780b2d12c845d646a210423d9eff4acd95e516bb9793eb58306b.jpg)  
+Fig. 4 | Mean Glx/tNAA change across ketamine-infusion blocks. Mean Glx/tNAA change in each of six infusion blocks relative to the preinfusion baseline block, shown separately for placebo and naltrexone pretreatment conditions. $n = 2 4$ participants with complete MRS data passing quality control. Error bars $\pm$ standard errors.
+
+This study examined opioid antagonist pretreatment effects on brain glutamatergic activity after ketamine administration. Considering the placebo-plus-ketamine arm, our results support previous rodent studies suggesting ketamine increases frontal cortex glutamatergic activity5–7 . Furthermore, these results are consistent with previous $^ 1 \mathsf { H }$ -MRS studies in humans that found IV ketamine elevates ACC glutamine and Glx immediately9,10 and ACC glutamate levels after $3 5 \mathrm { { m i n } }$ in healthy individuals8 , together with studies in patients with MDD that reported an acute mPFC Glx increase11 and an increase prefrontal $^ { 1 3 } \mathsf { C }$ -glutamine13 following IV ketamine administration. In the MDD studies, the $^ { 1 3 } \mathsf { C }$ -glutamine enrichment increase was detected in the first $2 0 \mathrm { { m i n } }$ (ref. 13) and Glx changes peaked above baseline in ${ \sim } 2 6 \mathrm { m i n }$ (ref. 11), which aligns with our findings, where peak placebo-plus-ketamine Glx/tNAA changes were recorded in blocks 15–20 min and 20–25 min after the infusion start.
+
+Our study demonstrated that naltrexone significantly attenuated the acute increase in Glx/tNAA during ketamine infusion compared to placebo, implying a potential interaction between opioidergic and glutamatergic systems, which may be of importance in understanding ketamine’s neurobiological effects. One hypothesis is that naltrexone may indirectly reduce ketamine-induced glutamate release by inhibiting MOR activation on GABAergic interneurons. Normally, MOR activation suppresses GABAergic signaling, leading to increased activity in glutamatergic pyramidal neurons32–34. However, naltrexone, as an opioid antagonist, may increase GABAergic interneuron activity, thereby enhancing GABAergic tone, which could lead to reduced glutamate release from pyramidal neurons and a consequent attenuation of ketamine’s acute excitatory effects. Recent preclinical work has found that ketamine acts as a potent allosteric modulator of opioid receptors, enhancing the effects of endogenous peptides at submicromolar levels35. Naltrexone’s disruption of this synergy may be another mechanism by which it reduces ketamine’s excitatory glutamate effects. It is important to note, since Glx/tNAA indexes the cortical glutamate $^ +$ glutamine pool rather than synaptic glutamate release alone, the attenuation we observed may reflect metabolic changes as well as altered neurotransmitter cycling, consistent with $^ { 1 3 } \mathsf { C }$ -MRS evidence that prefrontal tricarboxylic (TCA)-cycle activity can fall without a corresponding change in glutamate and glutamine cycling in depression36.
+
+Alongside the attenuation of ketamine-induced glutamatergic activity, we found naltrexone pretreatment led to less marked reductions in clinician-rated MADRS scores at day 1 postinfusion (equating to a $28 \%$ attenuation in the main effect of ketamine). This finding aligns with work from Williams et al.21 that utilized a similar crossover design and demonstrated a significantly smaller reduction of mean 17-item Hamilton Depression Rating Scale (HAM-D) scores for a naltrexone-plus-ketamine compared to a placebo-plus-ketamine condition at day 1 postinfusion in individuals with treatment-resistant depression $( n = 1 2 )$ ) with a similar effect size $( d = 0 . 7 )$ to that found in this study $( d = 0 . 6 )$ . In our study, although reductions in self-reported depressive measures (QIDS–SR and M3VAS) were numerically lower for the naltrexone-plus-ketamine condition compared to placebo at day 1 postinfusion, the differences were not statistically significant. The MADRS may be more sensitive to subtle changes in depressive symptoms than self-reported scales, which could explain the differing results37. Concerns about the QIDS– SR include potential imprecision due to compound items, reliance on unidimensional sum scoring and vague phrasing of scoring options that may result in greater variability38.
+
+Taken together, our findings suggest an attenuation, but not a blocking, of ketamine’s acute antidepressant effects with naltrexone pretreatment in a sample of patients with MDD. We propose a potential indirect mechanism via which opioid antagonism may be reducing acute ketamine-induced glutamatergic activity. While a previous positron emission tomography (PET) study found that the magnitude of ketamine-induced glutamate release in the hippocampus predicts its antidepressant effects39, our findings, consistent with other MRS studies, did not reveal significant correlations between the glutamatergic changes and clinical response11,40. This may be due to the limited temporal window of our MRS measurements or could indicate that downstream mechanisms, such as AMPA receptor activation, neuroplastic signaling pathways (for example, BDNF or TrkB and ERK or mTOR) or effects in regions beyond the ACC, are more critical targets for mediating antidepressant response. Importantly, this study cannot rule out other mechanisms whereby naltrexone may modulate ketamine’s acute antidepressant response through alternative direct and/or indirect actions at the mu opioid receptors41.
+
+The strengths of the study include its robust design and innovative methodology. The randomized, double-blind crossover design minimized variability by using each participant as their own control, allowing for more reliable comparisons of biological responses within individuals rather than between them. By employing $^ 1 \mathsf { H }$ -fMRS, this enabled acute and dynamic changes of in vivo glutamatergic neurochemistry in response to ketamine and opioid receptor antagonism to be determined.
+
+A limitation of this study is that the $^ 1 \mathrm { H }$ -fMRS sequence did not include interleaved unsuppressed water acquisitions, which are necessary for reliable water-scaled metabolite quantification adjusted for tissue type or relaxation differences. Instead, tNAA was used as a reference for Glx values in each block to mitigate potential confounds, such as scanner drift, which would not be adequately corrected using only the water unsuppressed acquisitions from the end of the scan. tNAA and tCr are frequently chosen as internal references as they are assumed to remain relatively stable between experimental conditions and over time42. However, this assumption warrants caution, especially for tCr, as creatine is involved in bioenergetics and levels may be influenced by activity and vascularization43. In this study, we found tCr increased across ketamine-infusion blocks while tNAA remained relatively stable. Changes in creatine have also been reported following amphetamine administration and electroconvulsive therapy44,45, therefore ketamine’s potential effects on creatine and phosphocreatine cycling warrant further study. In adition, this $\boldsymbol { ^ { 1 } \mathrm { H } }$ -fMRS study was performed at 3 Tesla where glutamate and glutamine may not be reliably differentiated, thus highlighting the need for future $\boldsymbol { ^ { 1 } \mathrm { H } }$ -fMRS ketamine studies to be conducted at higher magnetic field strengths.
+
+![](images/70303b5af489f0e7d687a0864b2de675150f0f0137cd25ef144f79ad6b9c0796.jpg)  
+Fig. 5 | Mean Glx/tNAA change from baseline across ketamine-infusion blocks by sex. Mean Glx/tNAA change across six infusion blocks relative to the preinfusion baseline, shown separately for placebo and naltrexone pretreatment conditions, split by sex. Females, $n = 1 1$ and males, $n = 1 3$ , with complete MRS data passing quality control. Error bars $\pm$ standard errors.
+
+Although our analyses showed no significant differences in baseline Glx/tNAA (or Glu/tNAA or Gln/tNAA) between the naltrexone and placebo groups measured 5 min before the ketamine infusion, suggesting that naltrexone does not independently affect glutamatergic measures at that early time point, our study was not designed with a dedicated placebo-infusion arm to assess its effects over the duration of the infusion. Future studies should include such a control group to determine naltrexone’s independent impact on cortical glutamate measures over time and to clarify any interactions with ketamine.
+
+In our exploratory analyses, we observed a significant condition-by-sex interaction for Glx/tNAA change, with male participants showing more pronounced differences between placebo and naltrexone pretreatment conditions compared to females. Despite limited investigation of sex and other biological variables potentially influencing ketamine’s opioid-dependent therapeutic efficacy, preliminary preclinical work suggests subanesthetic ketamine evokes opioid-mediated behavioral and neurophysiological effects in male but not female rats46. Our study sample was not powered to fully evaluate each sex separately; however, these initial results highlight the importance of focusing on sex as a biological variable in future studies on the clinical and neurobiological effects of ketamine.
+
+Limitations in study design and sample characteristics may partly explain why naltrexone did not significantly alter the effects of ketamine on anhedonia or self-reported depression measures. In our study, the average interval between visits was 19 days, compared to 33 days in Williams et al.21. We observed significant session effects, with lower preinfusion symptom scores at the second visit, suggesting that symptoms had not fully returned to baseline. This attenuation of baseline symptoms may have reduced the impact of ketamine’s effects during the second visit, potentially masking differences between the naltrexone and placebo conditions. Supplementary analyses (Extended Data Fig. 1) showed that naltrexone attenuated ketamine’s effects on most clinical measures during visit 1. Across both visits, this attenuation was particularly evident in participants in the ‘Placebo-Naltrexone’ treatment order group. In contrast, in participants who received naltrexone first, the effect of naltrexone appeared diminished or even reversed, although this was not statistically significant. Together, these findings suggest that extending the interval between visits to allow symptoms to return fully to baseline could have improved study power to clarify potential differences in self-reported depression and anhedonia scores between the naltrexone and placebo conditions. Finally, our sample had a lower mean number of failed antidepressant treatments compared to Williams et al.21, potentially indicating less treatment resistance. The possibility that varying levels of treatment resistance may influence responsiveness to opioid-mediated treatments warrants further investigation.
+
+Our study used racemic ketamine so it was not possible to distinguish the individual contributions of (S)-ketamine and (R)-ketamine. (S)-ketamine exhibits higher affinity and potency at MORs than $( R )$ -ketamine, and each enantiomers and their metabolites may exert antidepressant effects via distinct mechanisms15. Preclinical work has demonstrated the abuse liability of (R,S)-ketamine is mediated primarily by (S)-ketamine and involves direct interactions with MORs at doses and concentrations relevant to its reinforcement and antidepressant-like efficacy18. In addition, our study did not include direct pharmacokinetic measurements to assess interactions between ketamine and naltrexone. Ketamine is primarily metabolized by the liver enzymes CYP2B6 and CYP3A4 (ref. 16) whereas naltrexone is mainly processed by dihydrodiol dehydrogenases to produce its active metabolite, $\mathsf { 6 } { \cdot } \mathsf { \{ \beta } $ -naltrexol47. As these drugs are metabolized by different enzymatic systems, a substantial pharmacokinetic interaction is unlikely. Future clinical research should investigate the effects of opioid antagonism on the individual ketamine enantiomers and include measurements of relevant metabolites to confirm that observed effects are due primarily to pharmacodynamic interactions rather than alterations in the metabolism or clearance of ketamine.
+
+Finally, the mu opioid system is known to influence the placebo response in antidepressant treatments48,49, and previous research has shown that naltrexone can partially reduce this response50. However, our study did not include a placebo-infusion arm, leaving it unclear whether naltrexone would have affected the glutamatergic or antidepressant effects of placebo infusions. In addition to retrospective blinding assessments, it would have been beneficial to evaluate blinding after each study phase and consider participant expectations before each infusion. This approach could have helped explore potential interactions between expectancy and opioid system modulation.
+
+# Conclusion
+
+The possibility of an opioid mechanism underlying the antidepressant mechanisms of ketamine has been a recent subject of considerable debate. Our study provides evidence that opioid system activation may contribute to the acute antidepressant effects of ketamine. Furthermore, we elucidate a possible mechanism through which naltrexone may attenuate the antidepressant effects of ketamine by demonstrating opioid modulation of ketamine-induced glutamatergic activity. Future work should examine interactions between the glutamatergic and opioidergic systems to better understand the potential synergistic or independent contributions of these systems to ketamine response.
+
+# Online content
+
+Any methods, additional references, Nature Portfolio reporting summaries, source data, extended data, supplementary information, acknowledgements, peer review information; details of author contributions and competing interests; and statements of data and code availability are available at https://doi.org/10.1038/s41591-025-03800-w.
+
+# References
+
+Psychiatry 33, 207–228 (2021).   
+2. Marcantoni, W. S. et al. A systematic review and meta-analysis of the eficacy of intravenous ketamine infusion for treatment resistant depression: January 2009–January 2019. J. Afect Disord. 277, 831–841 (2020).   
+3. Krystal, J. H., Abdallah, C. G., Sanacora, G., Charney, D. S. & Duman, R. S. Ketamine: a paradigm shift for depression research and treatment. Neuron 101, 774–778 (2019).   
+4. Lener, M. S. et al. Glutamate and gamma-aminobutyric acid systems in the pathophysiology of major depression and antidepressant response to ketamine. Biol. Psychiatry 81, 886–897 (2017).   
+5. Chowdhury, G. M. I. et al. Transiently increased glutamate cycling in rat PFC is associated with rapid onset of antidepressant-like efects. Mol. Psychiatry 22, 120–126 (2017).   
+6. Chowdhury, G. M. I. et al. 1 H- $[ ^ { 1 3 } \mathrm { C } ]$ -nuclear magnetic resonance spectroscopy measures of ketamine’s efect on amino acid neurotransmitter metabolism. Biol. Psychiatry 71, 1022–1025 (2012).   
+7. Moghaddam, B., Adams, B., Verma, A. & Daly, D. Activation of glutamatergic neurotransmission by ketamine: a novel step in the pathway from NMDA receptor blockade to dopaminergic and cognitive disruptions associated with the prefrontal cortex. J. Neurosci. 17, 2921–2927 (1997).   
+8. Stone, J. M. et al. Ketamine efects on brain GABA and glutamate levels with 1H-MRS: relationship to ketamine-induced psychopathology. Mol. Psychiatry 17, 664–665 (2012).   
+9. Rowland, L. M. et al. Efects of ketamine on anterior cingulate glutamate metabolism in healthy humans: a 4-T proton MRS study. Am. J. Psychiatry 162, 394–396 (2005).   
+10. Javitt, D. C. et al. Utility of imaging-based biomarkers for glutamate-targeted drug development in psychotic disorders: a randomized clinical trial. JAMA Psychiatry 75, 11–19 (2018).   
+11. Milak, M. S. et al. A pilot in vivo proton magnetic resonance spectroscopy study of amino acid neurotransmitter response to ketamine treatment of major depressive disorder. Mol. Psychiatry 21, 320–327 (2016).   
+12. Milak, M. S. et al. Assessment of relationship of ketamine dose with magnetic resonance spectroscopy of Glx and GABA responses in adults with major depression: a randomized clinical trial. JAMA Netw. Open. 3, e2013211 (2020).   
+13. Abdallah, C. G. et al. The efects of ketamine on prefrontal glutamate neurotransmission in healthy and depressed subjects. Neuropsychopharmacology 43, 2154–2160 (2018).   
+14. Evans, J. W. et al. 7T 1 H-MRS in major depressive disorder: a ketamine treatment study. Neuropsychopharmacology 43, 1908–1914 (2018).   
+15. Jelen, L. A., Young, A. H. & Stone, J. M. Ketamine: a tale of two enantiomers. J. Psychopharmacol. 35, 109–123 (2021).   
+16. Zanos, P. et al. Ketamine and ketamine metabolite pharmacology: insights into therapeutic mechanisms. Pharm. Rev. 70, 621–660 (2018).   
+17. Klein, M. E., Chandra, J., Sherif, S. & Malinow, R. Opioid system is necessary but not suficient for antidepressive actions of ketamine in rodents. Proc. Natl Acad. Sci. USA 117, 2656–2662 (2020).   
+18. Bonaventura, J. et al. Pharmacological and behavioral divergence of ketamine enantiomers: implications for abuse liability. Mol. Psychiatry 26, 6704–6722 (2021).   
+19. Jiang, C., DiLeone, R. J., Pittenger, C. & Duman, R. S. The endogenous opioid system in the medial prefrontal cortex mediates ketamine’s antidepressant-like actions. Transl. Psychiatry 14, 90 (2024).   
+20. Williams, N. R. et al. Attenuation of antidepressant and antisuicidal efects of ketamine by opioid receptor antagonism. Mol. Psychiatry 24, 1779–1786 (2019). ketamine by opioid receptor antagonism. Am. J. Psychiatry 175, 1205–1215 (2018).   
+22. Yoon, G., Petrakis, I. L. & Krystal, J. H. Association of combined naltrexone and ketamine with depressive symptoms in a case series of patients with depression and alcohol use disorder. JAMA Psychiatry 76, 337 (2019).   
+23. Chartof, E. H. & Connery, H. S. It’s MORe exciting than mu: crosstalk between mu opioid receptors and glutamatergic transmission in the mesolimbic dopamine system. Front. Pharmacol. 5, 116 (2014).   
+24. Garzon, J., Rodriguez-Munoz, M. & Sanchez-Blazquez, P. Direct association of Mu-opioid and NMDA glutamate receptors supports their cross-regulation: molecular implications for opioid tolerance. Curr. Drug Abus. Rev. 5, 199–226 (2012).   
+25. Jelen, L. A., King, S., Mullins, P. G. & Stone, J. M. Beyond static measures: a review of functional magnetic resonance spectroscopy and its potential to investigate dynamic glutamatergic abnormalities in schizophrenia. J. Psychopharmacol. 1, 269881117747579 (2018).   
+26. Mullins, P. G. Towards a theory of functional magnetic resonance spectroscopy (fMRS): a meta-analysis and discussion of using MRS to measure changes in neurotransmitters in real time. Scand. J. Psychol. 59, 91–103 (2018).   
+27. Jelen, L. A. et al. Functional magnetic resonance spectroscopy in patients with schizophrenia and bipolar afective disorder: glutamate dynamics in the anterior cingulate cortex during a working memory task. Eur. Neuropsychopharmacol. 29, 222–234 (2019).   
+28. Taylor, R. et al. Functional magnetic resonance spectroscopy of glutamate in schizophrenia and major depressive disorder: anterior cingulate activity during a color-word Stroop task. NPJ Schizophr. 1, 15028 (2015).   
+29. Chang, L., Jiang, C. S. & Ernst, T. Efects of age and sex on brain glutamate and other metabolites. Magn. Reson. Imaging 27, 142–145 (2009).   
+30. Boucherie, D. E., Reneman, L., Ruhé, H. G. & Schrantee, A. Neurometabolite changes in response to antidepressant medication: a systematic review of 1H-MRS findings. Neuroimage Clin. 40, 103517 (2023).   
+31. Tal, A., Kirov, I. I., Grossman, R. I. & Gonen, O. The role of gray and white matter segmentation in quantitative proton MR spectroscopic imaging. NMR Biomed. 25, 1392–1400 (2012).   
+32. Férézou, I. et al. Extensive overlap of Mu-opioid and nicotinic sensitivity in cortical interneurons. Cereb. Cortex. 17, 1948–1957 (2007).   
+33. Taki, K., Kaneko, T. & Mizuno, N. A group of cortical interneurons expressing mu-opioid receptor-like immunoreactivity: a double immunofluorescence study in the rat cerebral cortex. Neuroscience 98, 221–231 (2000).   
+34. Jiang, C. et al. Morphine coordinates SST and PV interneurons in the prelimbic cortex to disinhibit pyramidal neurons and enhance reward. Mol. Psychiatry 26, 1178–1193 (2021).   
+35. Gomes, I., Gupta, A., Margolis, E. B., Fricker, L. D. & Devi, L. A. Ketamine and major ketamine metabolites function as allosteric modulators of opioid receptors. Mol. Pharmacol. 106, 240–252 (2024).   
+36. Abdallah, C. G. et al. Glutamate metabolism in major depressive disorder. AJP 171, 1320–1327 (2014).   
+37. Bernstein, I. H. et al. A comparison of the QIDS-C16, QIDS-SR16, and the MADRS in an adult outpatient clinical sample. CNS Spectr. 15, 458–468 (2010).   
+38. Weiss, B., Erritzoe, D., Giribaldi, B., Nutt, D. J. & Carhart-Harris, R. L. A critical evaluation of QIDS-SR-16 using data from a trial of psilocybin therapy versus escitalopram treatment for depression. J. Psychopharmacol. 37, 717–732 (2023).   
+39. Esterlis, I. et al. Ketamine-induced reduction in mGluR5 availability is associated with an antidepressant response: an [11C] ABP688 and PET imaging study in depression. Mol. Psychiatry 23, 824–832 (2018).   
+40. Valentine, G. W. et al. The antidepressant efect of ketamine is not associated with changes in occipital amino acid neurotransmitter content as measured by [(1)H]-MRS. Psychiatry Res. 191, 122–127 (2011).   
+41. Wang, M. & Kaplin, A. Explaining naltrexone’s interference with ketamine’s antidepressant efect. AJP 176, 410–411 (2019).   
+42. Frank, S. M. et al. Protocol to conduct functional magnetic resonance spectroscopy in diferent age groups of human participants. STAR Protoc. 4, 102493 (2023).   
+43. Rae, C. D. A guide to the metabolic pathways and function of metabolites observed in human brain 1H magnetic resonance spectra. Neurochem. Res. 39, 1–36 (2014).   
+44. White, T. L. et al. Psychostimulant drug efects on glutamate, Glx, and creatine in the anterior cingulate cortex and subjective response in healthy humans. Neuropsychopharmacology 43, 1498–1509 (2018).   
+45. Njau, S. et al. Neurochemical correlates of rapid treatment response to electroconvulsive therapy in patients with major depression. J. Psychiatry Neurosci. 42, 6–16 (2017).   
+46. Di Ianni, T. et al. Sex dependence of opioid-mediated responses to subanesthetic ketamine in rats. Nat. Commun. 15, 893 (2024).   
+47. Liu, J. C., Ma, J. D., Morello, C. M., Atayee, R. S. & Best, B. M. Naltrexone metabolism and concomitant drug concentrations in chronic pain patients. J. Anal. Toxicol. 38, 212–217 (2014).   
+48. Pecina, M., Hefernan, J., Wilson, J., Zubieta, J. K. & Dombrovski, A. Y. Prefrontal expectancy and reinforcement-driven antidepressant placebo efects. Transl. Psychiatry 8, 222 (2018).   
+49. Jelen, L. A., Stone, J. M., Young, A. H. & Mehta, M. A. The opioid system in depression. Neurosci. Biobehav Rev. 140, 104800 (2022).   
+50. Pecina, M., Chen, J., Lyew, T., Karp, J. F. & Dombrovski, A. Y. mu opioid antagonist naltrexone partially abolishes the antidepressant placebo efect and reduces orbitofrontal cortex encoding of reinforcement. Biol. Psychiatry Cogn. Neurosci. Neuroimaging 6,   
+1002–1012 (2021).
+
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional afiliations.
+
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons. org/licenses/by/4.0/.
+
+# Methods
+
+# Study design and procedures
+
+Ethical approval was obtained from the London – City & East Research Ethics Committee (Reference: 21/LO/0334), and the study was jointly sponsored by King’s College London and South London and Maudsley NHS Foundation Trust. After receiving a complete description of the study, all participants provided informed written consent (ClinicalTrials.gov registration: NCT04977674).
+
+This was a double-blind, randomized, placebo-controlled, crossover study in which each participant completed two treatment sessions. In one session, participants received an oral placebo (ascorbic acid $5 0 \mathrm { m g } )$ ) before a ketamine infusion (0.5 mg per kg administered over $4 0 \mathrm { { m i n } }$ ) during magnetic resonance imaging (MRI); in the other session, they received oral naltrexone $( 5 0 \mathrm { m g } )$ ) before the same ketamine-infusion protocol. A washout interval of 2 to 4 weeks was maintained between each arm of the crossover to minimize potential carryover effects. Participants were assigned to one of two treatment orders—either placebo in the first session followed by naltrexone in the second or vice versa—using an online randomization system provided by the King’s Clinical Trials Unit. The random sequence was generated using block randomization with a fixed block size of four and stratification by sex to ensure balanced treatment order distribution. Pharmacy staff, who had access to unblinded treatment assignments, over-encapsulated both the placebo and naltrexone pills to ensure identical appearance and maintain blinding for both participants and investigators. Unblinding only occurred once all participants had completed both arms of the crossover and data collection was complete.
+
+Placebo or naltrexone was administered 1 hour before starting the ketamine infusion to ensure peak naltrexone levels at the initiation of the ketamine infusion51. The ketamine infusion was administered intravenously over $4 0 \mathrm { { m i n } }$ , while participants were lying supine in the MRI scanner. Participants were monitored continuously with a respiration transducer, pulse oximetry and observed by a study physician throughout the scanning session.
+
+# Participants
+
+Participants between the ages of 18 and 50 were eligible if they met Diagnostic and Statistical Manual of Mental Disorders (fifth edition) criteria for a current single or recurrent episode of MDD, without psychotic features, based on clinical assessment and as documented by the Mini-International Neuropsychiatric Interview $( \mathbf { v . } 7 . 0 . 2 ) ^ { 5 2 }$ . Recruitment was conducted through referrals from primary care and secondary psychiatry services, online advertisements and word of mouth. Participants were all outpatients and for initial enrollment were required to have a score ${ \tt 2 1 8 }$ on the 17-item HAM-D and have a history of inadequate response to two or more antidepressants, specifically listed in Section A: Recognized Antidepressants of the Maudsley Treatment Inventory53, prescribed at a minimum effective dose for at least 6 weeks, or at least one antidepressant prescribed at the minimum effective dose for at least 6 weeks and a course of evidence-based psychotherapy. To be eligible, participants were required to taper off any drugs likely to interact with glutamate or opioid system at least 14 days before starting the study (antipsychotics, anticonvulsants, mood stabilizers, gabapentinoids, opiates, opioid agonists/antagonists/combinations and stimulants). One exception was any regular antidepressant therapy the participant may be taking, providing this was stable for ${ \geq } 4$ weeks before screening (apart from monoamine oxidase inhibitors (MAOIs) that were not permitted). Other inclusion criteria included English literacy, right-handedness, body mass index of $1 8 { - } 3 0 \mathrm { k g }$ per $\mathsf { m } ^ { 2 }$ , weight $5 0 \mathrm { - } 1 0 0 \mathrm { k g }$ and the ability to tolerate MRI scanning procedures.
+
+Exclusion criteria included: pregnancy or breastfeeding; history of schizophrenia, schizoaffective or bipolar disorder; current drug or alcohol dependence; a positive urine drug screen (for substances including ketamine, opiates, methadone, cocaine, amphetamines, benzodiazepines or cannabinoids) or a positive breath alcohol test at the screening or dosing visits; history of suicide attempt in the past year, or high risk of suicidal behavior on the Columbia-Suicide Severity Rating Scale54; history of nonresponse or intolerance to ketamine; clinically relevant electrocardiographic, urinalysis or biochemical abnormalities, including thyroid dysfunction; hypertension; history of cardiovascular, cerebrovascular or any other uncontrolled physical illness (including chronic pain conditions); self-reported neurological disorder; head injury resulting in loss of consciousness or any contraindication to MRI. Finally, use of compounds that may be affected by ketamine (diazepam, warfarin, carbamazepine, phenytoin, theophylline and levothyroxine) was not permitted.
+
+Participants were required to abstain from alcohol from 24 hours before until 24 hours after each dosing, refrain from caffeine and nicotine on imaging visit days and not drive or operate machinery from the time of dosing until 24 hours postdose. Participants received £150 in compensation to acknowledge their time and effort in this research.
+
+# Clinical and subjective measures
+
+Clinician and self-reported measures of depressive symptoms and anhedonia were measured 2 hours before each ketamine infusion and at day 1 postinfusion, as previous studies have found antidepressant effects typically peak around 24 hours after a single dose of ketamine55. Rating scales included the 10-item MADRS56, a clinician‐rated measure of depressive severity; the 16-item QIDS– $\mathcal { S } \mathbb { R } ^ { 5 7 }$ , a self-report instrument covering depressive symptoms; the ${ \mathsf { M } } 3 { \mathsf { V } } { \mathsf { A } } { \mathsf { S } } ^ { 5 8 }$ , a self-rated scale to measure mood, anhedonia and suicidality; the SHAPS, a 14-item self-rated scale used to measure the state of anhedonia59, with higher scores indicating higher levels of anhedonia and the TEPS, an 18-item self-rated scale used to assess anticipatory (TEPS-A) and consummatory components (TEPS-C) of pleasure60, with lower scores indicating higher levels of anhedonia. MADRS response was defined as a reduction from preinfusion score of $\geq 5 0 \%$ and remission was defined as a MADRS score ${ \le } 1 0$ . QIDS–SR response was defined as a reduction from preinfusion score of $\geq 5 0 \%$ and remission was defined as a QIDS–SR score ≤5. Alongside day 1 postinfusion, self-report measures (QIDS–SR, M3VAS, SHAPS and TEPS) were collected at days 3 and day 7 postinfusion as exploratory outcomes.
+
+Subjective effects were measured after the ketamine infusion and MRI scan was complete, with participants asked to recall peak drug effects. These scales included the 23-item Clinician Administered Dissociative States Scale (CADSS)61 and the self-report $\mathsf { P S l } ^ { 6 2 }$ .
+
+Blinding was assessed by asking participants which order of placebo and naltrexone pretreatments they believed they received after the final dosing session at the day 1 follow-up, with ‘Don’t know’ a valid option. The clinical assessor similarly recorded their guess at this time point.
+
+# ${ \bf \delta u }$ -fMRS data acquisition
+
+The data were collected at 3 Tesla on a General Electric Discovery MR750 magnetic resonance scanner equipped with a 32-channel receive-only head coil at the NIHR King’s Clinical Research Facility, UK. A high-resolution sagittal T1-weighted (T1-w) 3D sagittal inversion recovery prepared spoiled gradient echo (IR-SPGR) scan was initially acquired for localization of the spectroscopy voxel $\mathrm { T R } = 7 . 3 5 \mathrm { m s }$ , $\mathsf { T E } = 3 . 0 4 \mathsf { m s }$ , inversion time $( \mathsf { T I } ) = 4 0 0 \mathsf { m s }$ , field of view $( \mathsf { F O V } ) = 2 7 0 \mathsf { m m }$ , flip-angle $= 1 1 ^ { \circ }$ , matrix size $= 2 5 6 \times 2 5 6$ , slice thickness $= 1 . 2 \mathsf { m m }$ , 196 slices). The $\boldsymbol { ^ { 1 } \mathrm { H } }$ -fMRS voxel was positioned in an ACC region-of-interest $( 2 0 \ : \mathrm { m m } \times 2 0 \ : \mathrm { m m } \times 2 0 \ : \mathrm { m m } )$ with the center of the voxel placed 16 mm above the most anterior portion of the genus of the corpus callosum, perpendicular to the anterior commissure–posterior commissure line to minimize inclusion of white matter and cerebral spinal fluid (Supplementary Fig. 6). The positioning of this ACC voxel followed the same procedure and used the same orientation as in our previous $^ 1 \mathrm { H }$ -MRS ketamine study8 .
+
+Auto-prescan was performed twice before each $^ 1 \mathsf { H }$ -fMRS scan for optimization of water suppression and shimming. $\boldsymbol { ^ { 1 } \mathrm { H } }$ -fMRS spectra were acquired continuously for a 5-min baseline period and during the initial $3 0 \mathrm { { m i n } }$ of the ketamine infusion using point resolved spectroscopy, with chemical selective suppression for water suppression and outer volume suppression with very selective suppression pulses $( \mathsf { T R } = 2 , 0 0 0 \mathsf { m s }$ , $\mathrm { T } \mathsf { E } = 4 0$ ms, 8-step phase cycle, 1,040 transients out of 16 water unsuppressed transients) (Fig. 1). Further details are provided in the minimum reporting standards for in vivo magnetic resonance spectroscopy checklist (Supplementary Table 7), according to consensus recommendations63
+
+# Anatomical registration
+
+To assess the consistency of MRS voxel tissue composition, the voxels were coregistered to the T1-weighted image and segmented using the Gannet CoRegStandAlone function 64 , which calls SPM12 (ref. 65) to estimate the voxel fraction of gray matter, white matter and cerebrospinal fluid for each condition. The MRS voxels were spatially normalized to the MNI152 template image using the SPM12 spatial normalization function. This process involved applying the deformation fields derived from the T1-weighted images to which each MRS voxel had been coregistered. Subsequently, each voxel was converted to a binary mask using FSL. These binary masks were then combined to illustrate the positional overlap among participants and across conditions66 (Fig. 3a,b and Supplementary Table 9).
+
+# ${ \bf \Pi } ^ { 1 } { \bf H }$ -fMRS processing
+
+Data were preprocessed using an automated Free Induction Decay Appliance (FID-A) pipeline, which includes coil combination, removal of motion corrupted scans and spectral registration for frequency and phase drift correction67,68. $\boldsymbol { ^ { 1 } \mathrm { H } }$ -fMRS data were averaged per subject into seven blocks (a baseline block and six blocks during the ketamine infusion), each lasting ${ 2 8 8 } \thinspace s$ (144 transients $1 8 \times 8$ -step phase cycle)). If motion corrupted scans were identified, the relevant transients were removed before determining the affected block average, ensuring the start time of each block remained consistent across participants and conditions. Averaged spectra were analyzed using LCModel $\mathsf { v } . 6 . 3 \mathrm { - } 1 \mathsf { N } ^ { 6 9 }$ . The basis set was simulated on an $8 1 ^ { 3 }$ grid using the fast 1-D spatial projection method70, using the FID-A toolbox and based on sequence timing and radiofrequency (RF) pulse shapes and included: alanine, ascorbic acid, aspartate, creatine, phosphocreatine, GABA, glucose, glutamine, glutamate, glutathione, glycerophosphocholine, myo-inositol, l-lactate, $N$ -acetylaspartate, $N$ -acetylaspartylglutamate, phosphocholine, phosphoethanoamine, scyllo-inositol and taurine with the default macromolecule stimulation parameters from LCModel.
+
+The primary metabolite of interest was Glx (a combined measure of Glu and Gln) expressed relative to tNAA, the internal reference. tNAA was used as an internal reference to minimize the influence of changes during data acquisition (for example, scanner drift, change in linewidth and chemical shift displacement)42, which is beneficial to a within-subject design. In our study registration (ClinicalTrials.gov registration: NCT04977674) we planned to use tCr (creatine $^ +$ phosphocreatine) as the internal reference; however, on examining changes in tCr and tNAA values (with respect to the water reference), it was found tCr increased across infusion blocks while tNAA remained relatively stable (Supplementary Fig. 7). Quality control procedures involved visual inspection of spectra alongside assessment of SNR, spectral linewidth (full width at half-maximum) and metabolite Cramér-Rao lower bounds. All averaged spectra included in the analyses had full-width at half-maximum $\leq 0 . 1$ ppm (ref. 71), $S _ { \mathrm { N R } } \geq 2 0$ and Cramér-Rao lower bounds for $6 1 \times \leq 2 0 \%$ .
+
+Changes in Glx/tNAA for each infusion block, compared to the baseline block, were determined. The analysis focused on Glx/tNAA, as at 3 Tesla field strength Glu and Gln may not be reliably differentiated.
+
+However, for completeness, results for Glu/tNAA and Gln/tNAA are presented in the Supplementary Information (Supplementary Fig. 10).
+
+# Statistical methods
+
+A linear mixed-effects model for repeated measures was used for the primary outcome, Glx/tNAA change from baseline. The following fixed effects were included in the model: condition (placebo and naltrexone), block (six ketamine-infusion blocks) and the interaction between condition and block. Participant identification was included as a random intercept in this and subsequent models. For the day 1 clinical measure scores (MADRS, QIDS–SR, M3VAS, SHAPS, TEPS-A and TEPS-C), linear mixed-effects models were also used with condition (placebo and naltrexone), time (preinfusion and day 1 postinfusion), visit (visit 1 and visit 2) and the interaction between condition and time as fixed effects. For the TEPS-A subscale, the final subitem question was missing for the first four participants at the predose time point. We used within-person mean imputation to estimate these missing values, based on each participant’s mean response to the other TEPS-A items, before calculating the total TEPS-A score. For the subjective measure scores (CADSS and PSI), as these were only measured at one time point for each condition, only condition was included as a fixed effect. Effect sizes were calculated using standardized mean differences between conditions for the primary outcome (that is, Glx/tNAA change from baseline) and any relevant changes in day 1 clinical measure scores. The James Blinding Index was determined for participant and assessor pretreatment order guesses, where unblinding may be claimed if the upper limit of the index estimate’s two-sided confidence interval is $< 0 . 5$ (ref. 72). All analyses were performed using R software (v.4.2.1) and the nlme package73 was used for linear mixed-effects modeling. An alpha of 0.05 (two-tailed) was used to determine statistical significance.
+
+Exploratory linear mixed-effects analyses were conducted to examine changes in Glu/tNAA and Gln/tNAA from baseline across infusion blocks, using the same model parameters as the primary Glx/tNAA change analysis. Additionally, further analyses investigated potential relationships between changes in Glx/tNAA and clinical measure scores. These analyses focused on changes in Glx/tNAA from baseline across six infusion blocks (Block 2 to Block 7), and the mean and peak changes in Glx/tNAA. The changes were correlated with day 1 changes in clinical and anhedonia scales (MADRS, QIDS–SR, M3VAS, SHAPS, TEPS-A and TEPS-C). Pearson’s correlation coefficients were used for placebo and naltrexone conditions. A Bonferroni correction was applied for multiple comparisons, setting a significance threshold at $P { < } 0 . 0 0 6 2 5$ (0.05 divided by 8). Additional exploratory linear mixed-effects models assessed changes in self-report measures (QIDS– SR, M3VAS, SHAPS, TEPS-A abd TEPS-C) at days 3 and day 7 postinfusion and between pretreatment conditions. Final analyses examined the reduction of depressive symptoms (MADRS and QIDS–SR) on postinfusion day 1 among participants who met the response criterion $( \ge 5 0 \%$ reduction from preinfusion score) during the placebo-plus-ketamine condition, mirroring the primary outcome analysis by Williams et al.21.
+
+# Reporting summary
+
+Further information on research design is available in the Nature Portfolio Reporting Summary linked to this article.
+
+# Data availability
+
+De-identified participant data is accessible via the Open Science Framework at https://osf.io/96gxt/. All participants have provided consent for their de-identified data to be shared with external entities for scientific research purposes.
+
+# Code availability
+
+R code used for data analysis is available via the Open Science Framework at https://osf.io/96gxt/.
+
+# References
+
+Drugs 35, 192–213 (1988).   
+52. Sheehan, D. V. et al. The Mini-International Neuropsychiatric Interview (M.I.N.I.): the development and validation of a structured diagnostic psychiatric interview for DSM-IV and ICD-10. J. Clin. Psychiatry 59, 22–33 (1998).   
+53. Fekadu, A., Donocik, J. G. & Cleare, A. J. Standardisation framework for the Maudsley staging method for treatment resistance in depression. BMC Psychiatry 18, 100 (2018).   
+54. Posner, K. et al. The Columbia-Suicide Severity Rating Scale: initial validity and internal consistency findings from three multisite studies with adolescents and adults. Am. J. Psychiatry 168, 1266–1277 (2011).   
+55. Kishimoto, T. et al. Single-dose infusion ketamine and non-ketamine N-methyl-d-aspartate receptor antagonists for unipolar and bipolar depression: a meta-analysis of eficacy, safety and time trajectories. Psychol. Med. 46, 1459–1472 (2016).   
+56. Montgomery, S. A. & Asberg, M. A new depression scale designed to be sensitive to change. Br. J. Psychiatry 134, 382–389 (1979).   
+57. Rush, A. J. et al. The 16-item Quick Inventory of Depressive Symptomatology (QIDS), clinician rating (QIDS-C), and self-report (QIDS-SR): a psychometric evaluation in patients with chronic major depression. Biol. Psychiatry 54, 573–583 (2003).   
+58. Moulton, C. D. et al. The Maudsley 3-item Visual Analogue Scale (M3VAS): validation of a scale measuring core symptoms of depression. J. Afect. Disord. 282, 280–283 (2021).   
+59. Snaith, R. P. et al. A scale for the assessment of hedonic tone the Snaith-Hamilton Pleasure Scale. Br. J. Psychiatry 167, 99–103 (1995).   
+60. Gard, D. E., Gard, M. G., Kring, A. M. & John, O. P. Anticipatory and consummatory components of the experience of pleasure: a scale development study. J. Res. Personal. 40, 1086–1102 (2006).   
+61. Bremner, J. D. et al. Measurement of dissociative states with the Clinician-Administered Dissociative States Scale (CADSS). J. Trauma Stress 11, 125–136 (1998).   
+62. Mason, O. J., Morgan, C. J., Stefanovic, A. & Curran, H. V. The psychotomimetic states inventory (PSI): measuring psychotic-type experiences from ketamine and cannabis. Schizophr. Res. 103, 138–142 (2008).   
+63. Lin, A. et al. Minimum Reporting Standards for in vivo Magnetic Resonance Spectroscopy (MRSinMRS): experts’ consensus recommendations. NMR Biomed. 34, e4484 (2021).   
+64. Edden, R. A. E., Puts, N. A. J., Harris, A. D., Barker, P. B. & Evans, C. J. Gannet: a batch-processing tool for the quantitative analysis of gamma-aminobutyric acid–edited MR spectroscopy spectra. J. Magn. Reson. Imaging 40, 1445–1452 (2014).   
+65. SPM. SPM12, version 7771 (Wellcome Centre for Human Neuroimaging, 2020).   
+66. Truong, V. & Duncan, N. W. Suggestions for improving the visualization of magnetic resonance spectroscopy voxels and spectra. R. Soc. Open Sci. 7, 200600 (2020).   
+67. Near, J. et al. Frequency and phase drift correction of magnetic resonance spectroscopy data by spectral registration in the time domain. Magn. Reson. Med. 73, 44–50 (2015).   
+68. Simpson, R., Devenyi, G. A., Jezzard, P., Hennessy, T. J. & Near, J. Advanced processing and simulation of MRS data using the FID appliance (FID-A)—an open source, MATLAB-based toolkit. Magn. Reson. Med. 77, 23–33 (2017).   
+69. Provencher, S. W. Automatic quantitation of localized in vivo 1H spectra with LCModel. NMR Biomed. 14, 260–264 (2001).   
+70. Zhang, Y., An, L. & Shen, J. Fast computation of full density matrix of multispin systems for spatially localized in vivo magnetic resonance spectroscopy. Med. Phys. 44, 4169–4178 (2017).   
+71. Provencher, S. W. Estimation of metabolite concentrations from localized in vivo proton NMR spectra. Magn. Reson. Med. 30, 672–679 (1993).   
+72. James, K. E., Bloch, D. A., Lee, K. K., Kraemer, H. C. & Fuller, R. K. An index for assessing blindness in a multi-centre clinical trial: disulfiram for alcohol cessation – a VA cooperative study. Stat. Med. 15, 1421–1434 (1996).   
+73. Pinheiro, J. & Bates D. nlme: Linear and Nonlinear Mixed Efects Models. R version 3.1-157 https://cran.r-project.org/web/ packages/nlme/nlme.pdf11/27/2024 (2022).
+
+# Acknowledgements
+
+We thank all study participants along with the research nurses, radiographers and support staf at the NIHR King’s Clinical Research Facility for their invaluable assistance. This is independent research funded by a Medical Research Council Clinical Research Training Fellowship (grant number MR/T028084/1 awarded to L.A.J.) and carried out at the National Institute for Health and Care Research (NIHR) Maudsley Biomedical Research Center (BRC). The views expressed are those of the authors and not necessarily those of the Medical Research Council, the National Institute for Health and Care Research or the Department of Health and Social Care.
+
+# Author contributions
+
+The study was conceptualized by L.A.J., J.M.S., A.H.Y. and M.A.M. Funding was obtained by L.A.J., J.M.S., A.H.Y. and M.A.M. Study methodology was developed by all authors. L.A.J. led the investigation, project administration, data curation and formal analysis under the supervision of J.M.S., A.H.Y. and M.A.M. The original draft was written by L.A.J. All authors contributed to the review, editing and approval of the final version of the manuscript.
+
+# Competing interests
+
+A.H.Y. is employed by Imperial College London, is an Honorary Consultant at South London and Maudsley NHS Foundation Trust (NHS UK), editor of the Journal of Psychopharmacology and deputy editor of BJPsych Open. A.H.Y. has been paid for lectures and is on advisory boards for the following companies with drugs used in afective and related disorders: Flow Neuroscience, Novartis, Roche, Janssen, Takeda, Noema pharma, Compass, AstraZenaca, Boehringer Ingelheim, Eli Lilly, LivaNova, Lundbeck, Sunovion, Servier, Livanova, Janssen, Allegan, Bionomics, Sumitomo Dainippon Pharma, Sage and Neurocentrx. A.H.Y. is a principal investigator in the following: Restore-Life VNS registry study funded by LivaNova, ESKETINTRD3004: ‘An open-label, long-term, safety and eficacy study of intranasal esketamine in treatment-resistant depression’, ‘The efects of psilocybin on cognitive function in healthy participants’, ‘The safety and eficacy of psilocybin in participants with treatment-resistant depression (P-TRD)’, ‘A double-blind, randomized, parallel-group study with quetiapine extended release as comparator to evaluate the eficacy and safety of seltorexant 20 mg as adjunctive therapy to antidepressants in adult and elderly patients with major depressive disorder with insomnia symptoms who have responded inadequately to antidepressant therapy’ (Janssen), ‘An open-label, long-term, safety and eficacy study of aticaprant as adjunctive therapy in adult and elderly participants with major depressive disorder (MDD)’ (Janssen), ‘A randomized, double-blind, multicenter, parallel-group, placebo-controlled study to evaluate the eficacy, safety, and tolerability of aticaprant 10 mg as adjunctive therapy in adult participants with major depressive
+
+disorder (MDD) with moderate-to-severe anhedonia and inadequate response to current antidepressant therapy’, ‘A study of disease characteristics and real-life standard of care efectiveness in patients with major depressive disorder (MDD) with anhedonia and inadequate response to current antidepressant therapy including an SSRI or SNR’ (Janssen) as well as UK Chief Investigator for Compass (COMP006 & COMP007 studies) and Novartis MDD study (MIJ821A12201). A.H.Y. has received grant funding (past and present) from: NIMH (USA), CIHR (Canada), NARSAD (USA), Stanley Medical Research Institute (USA), MRC (UK), Wellcome Trust (UK), Royal College of Physicians (Edinburgh, UK), BMA (UK), UBC-VGH Foundation (Canada), WEDC (Canada), CCS Depression Research Fund (Canada), MSFHR (Canada), NIHR (UK) and Janssen (UK) EU Horizon 2020. M.A.M. has current funding from Nxera, Takeda and Lundbeck and has acted as an advisor for Boehringer Ingelheim, Neurocentrx, Quolet Pharmaceuticals and Nxera. The remaining authors declare no competing interests.
+
+# Additional information
+
+Extended data is available for this paper at https://doi.org/10.1038/s41591-025-03800-w.
+
+Supplementary information The online version contains supplementary material available at https://doi.org/10.1038/s41591-025-03800-w.
+
+# Correspondence and requests for materials should be addressed to Luke A. Jelen.
+
+Peer review information Nature Medicine thanks Philip Cowen, Boris Heifets, Taeho Greg Rhee and the other, anonymous, reviewer(s) for their contribution to the peer review of this work. Primary Handling Editor: Jerome Staal, in collaboration with the Nature Medicine team.
+
+Reprints and permissions information is available at www.nature.com/reprints.
+
+![](images/33d839badc04386a8720fde7e459343e1572e7e6c55b830d42d5a017c9e226b8.jpg)
+
+Extended Data Fig. 1 | Clinical scores and change scores, by visit. MADRS, QIDS-SR, M3VAS, SHAPS, TEPS-A, and TEPS-C scores at pre-infusion and Day 1 post-infusion by visit (Panels A1—F1), and Day 1 change in scores by visit (Panels A2—F2). Effect sizes (Cohen’s d) and significance $( ^ { * } \mathsf { p } < 0 . 0 5 )$ are shown for Day 1 changes between placebo and naltrexone conditions, comparing Visit 1, Visit 2, Placebo-Naltrexone, and Naltrexone-Placebo orders. Independent t-tests were used for between-subject comparisons; paired t-tests for within-subject comparisons. Box plot elements: Box spans the interquartile range (IQR) (25th–75th percentile), central line is the median (50th percentile), $^ { \prime } { + ^ { \prime } }$ marks the mean, whiskers extend to the lowest and highest values within $1 . 5 \times 1 0 \mathrm { R }$ of the box, and values beyond that range are shown individually. Each plot shows data from ${ \bf n } = 2 6$ participants who completed the crossover.
+
+# Extended Data Table 1 | Mean clinical scores by visit
+
+<table><tr><td rowspan="2"></td><td colspan="2">Visit 1</td><td colspan="2">Visit 2</td></tr><tr><td>Pre-infusion, mean (SD)</td><td>Day 1, mean (SD)</td><td>Pre-infusion, mean (SD)</td><td>Day 1, mean (SD)</td></tr><tr><td>MADRS Scores</td><td></td><td></td><td></td><td></td></tr><tr><td>Placebo</td><td>32.2 (4.1)</td><td>15.9 (9.0)</td><td>25.3 (5.2)</td><td>12.2 (6.4)</td></tr><tr><td>Naltrexone</td><td>28.9 (6.1)</td><td>17.1 (6.5)</td><td>25.5 (4.5)</td><td>16.4 (6.7)</td></tr><tr><td>QIDS-SR Scores</td><td></td><td></td><td></td><td></td></tr><tr><td>Placebo</td><td>17.0 (3.7)</td><td>8.7 (6.8)</td><td>10.8 (3.1)</td><td>6.1 (3.7)</td></tr><tr><td>Naltrexone</td><td>15.6 (4.8)</td><td>8.7 (4.0)</td><td>11.8 (4.2)</td><td>7.3 (3.9)</td></tr><tr><td>M3VAS Scores</td><td></td><td></td><td></td><td></td></tr><tr><td>Placebo</td><td>162.5 (55.7)</td><td>91.6 (62.1)</td><td>128.2 (38.3)</td><td>88.2 (55.6)</td></tr><tr><td>Naltrexone</td><td>168.2 (54.8)</td><td>101.7 (49.8)</td><td>104.6 (34.8)</td><td>80.6 (48.8)</td></tr><tr><td>SHAPS Scores</td><td></td><td></td><td></td><td></td></tr><tr><td>Placebo</td><td>36.7 (5.0)</td><td>29.9 (6.9)</td><td>29.2 (6.0)</td><td>27.9 (7.2)</td></tr><tr><td>Naltrexone</td><td>34.2 (8.4)</td><td>30.2 (6.5)</td><td>30.6 (4.8)</td><td>30.7 (6.5)</td></tr><tr><td>TEPS-A Scores</td><td></td><td></td><td></td><td></td></tr><tr><td>Placebo</td><td>27.6 (8.4)</td><td>32.9 (9.9)</td><td>32.9 (11.1)</td><td>35.8 (11.9)</td></tr><tr><td>Naltrexone</td><td>31.0 (10.4)</td><td>31.3 (12.1)</td><td>31.2 (7.3)</td><td>35.1 (8.4)</td></tr><tr><td>TEPS-C Scores</td><td></td><td></td><td></td><td></td></tr><tr><td>Placebo</td><td>26.2 (5.5)</td><td>30.5 (6.2)</td><td>31.2 (6.5)</td><td>31.8 (8.8)</td></tr><tr><td>Naltrexone</td><td>28.7 (5.2)</td><td>30.7 (6.9)</td><td>29.2 (5.3)</td><td>30.5 (7.3)</td></tr></table>
+
+MADRS, QIDS-SR, M3VAS, SHAPS, TEPS-A, and TEPS-C scores at pre-infusion and Day 1 post-infusion by visit. Values are presented as mean ± standard deviation (SD).
+
+# nature portfolio
+
+# Reporting Summary
+
+Nature Portfolio wishes to improve the reproducibility of the work that we publish. This form provides structure for consistency and transparency in reporting. For further information on Nature Portfolio policies, see our Editorial Policies and the Editorial Policy Checklist.
+
+# Statistics
+
+For all statistical analyses, confirm that the following items are present in the figure legend, table legend, main text, or Methods section.
+
+![](images/fe96c046ca5b167c6f69c7ffebf652c4a0bec41c16c59c0d8616fb4797b77de2.jpg)
+
+Our web collection on statistics for biologists contains articles on many of the points above.
+
+# Software and code
+
+Policy information about availability of computer code
+
+Data collection
+
+Neuroimaging data were collected on a GE Discovery MR750 scanner with software version: "27\\LX\\MR Software release:DV26.0_R03_1831.b". Data were stored and accessed via the centralised Neuroimaging Analysis Network (NaN) at the Centre for Neuroimaging Sciences, Institute of Psychiatry, Psychology and Neuroscience, King's College London. An online randomisation system provided by the King's Clinical Trials unit was used for randomisation and allocation procedures.
+
+# Data analysis
+
+Magnetic resonance spectroscopy:   
+- FID Appliance (FID-A) toolbox for preprocessing   
+- LCModel (Version 6.3-1N)   
+Statistical analysis:   
+- R software (version 4.2.1)   
+- nlme package for linear mixed-effects modeling (version 3.1-157)
+
+R code used for data analysis will be available via the Open Science Framework (OSF) at https://osf.io/96gxt/
+
+# Data
+
+Policy information about availability of data
+
+All manuscripts must include a data availability statement. This statement should provide the following information, where applicable:
+
+- Accession codes, unique identifiers, or web links for publicly available datasets - A description of any restrictions on data availability - For clinical datasets or third party data, please ensure that the statement adheres to our policy
+
+De-identified participant data will be accessible upon publication via the Open Science Framework (OSF) at https://osf.io/96gxt/ . All participants have provided consent for their de-identified data to be shared with external entities for scientific research purposes.
+
+# Human research participants
+
+Policy information about studies involving human research participants and Sex and Gender in Research.
+
+Reporting on sex and gender
+
+Information on birth sex was collected for demographic characterisation of our sample, based on participant self-report. This data is summarised as numbers and percentages in the demographics table. Exploratory sex-based analyses are reported for the primary outcome.
+
+The mean age of study participants was 35.1 years. The sample was evenly split by sex (50:50), with $6 9 . 2 \%$ identifying as White and $6 5 . 4 \%$ employed. At screening, participants had moderate levels of depression, with a mean Hamilton Depression Rating Scale score of 21.65.
+
+Recruitment was conducted through referrals from primary care and secondary psychiatry services, online advertisements, and word of mouth. Those responding to online advertisements and word of mouth may represent a self-selection bias however the impact of this is mitigated by each participant acting as their own control.
+
+Ethical approval was obtained from the London - City & East Research Ethics Committee (Reference: 21/LO/0334).
+
+Note that full information on the approval of the study protocol must also be provided in the manuscript.
+
+# Field-specific reporting
+
+Please select the one below that is the best fit for your research. If you are not sure, read the appropriate sections before making your selection.
+
+Life sciences
+
+Behavioural & social sciences
+
+Ecological, evolutionary & environmental sciences
+
+For a reference copy of the document with all sections, see nature.com/documents/nr-reporting-summary-flat.pdf
+
+# Life sciences study design
+
+All studies must disclose on these points even when the disclosure is negative.
+
+A total of 28 participants were randomised. One participant discontinued after completing one infusion due to adverse events, and another withdrew before the first infusion, stating they no longer wished to participate. Data from 26 participants were available for clinical and subjective measure analysis, and data from 24 participants were available for the primary magnetic resonance spectroscopy analysis.
+
+Acute ketamine-induced increases in glutamate levels measured using ¹H-MRS have previously been reported with medium effect sizes (approximately Cohen's ${ \mathsf { d } } = 0 . 7 5$ and Cohen's ${ \sf d } = 0 . 6 5$ ) [Stone et al., 2012; Javitt et al., 2018]. However, no prior studies have examined the effect of naltrexone on ketamine-induced glutamatergic activity. In our power analysis, it was determined that 24 participants completing both treatment arms were appropriate for detecting a significant difference in glutamatergic measures between the naltrexone and placebo conditions, with a small to medium effect size, using a repeated measures design with an alpha of 0.05 and $80 \%$ power.
+
+Data exclusions Participants who completed both arms of the crossover were included in the primary analyses. Data from 24 participants were available for the primary magnetic resonance spectroscopy analysis after excluding one participant due to significant spectral artifacts and severe lipid contamination in one session (Supplementary Figure S5), and another participant due to an interrupted sequence when they requested a pause during scanning. For the clinical and subjective measure analysis, data from 26 participants were available.
+
+eplication No replication experiments were conducted because we were only resourced to conduct the core controlled experiment.
+
+Randomization Participants were assigned to one of two treatment orders—either placebo in the first session followed by naltrexone in the second, or vice versa—using an online randomisation system provided by the King’s Clinical Trials Unit. The random sequence was generated using block randomisation with a fixed block size of 4 and stratification by sex to ensure balanced treatment order distribution.
+
+The participants and investigators were blinded to treatment assignment. Pharmacy staff, who had access to unblinded treatment assignments, over-encapsulated both the placebo and naltrexone pills to ensure identical appearance and maintain blinding for both
+
+# Reporting for specific materials, systems and methods
+
+We require information from authors about some types of materials, experimental systems and methods used in many studies. Here, indicate whether each materia system or method listed is relevant to your study. If you are not sure if a list item applies to your research, read the appropriate section before selecting a response.
+
+# Materials & experimental systems
+
+# Methods
+
+n/a Involved in the study X ChIP-seq X Flow cytometry MRI-based neuroimaging
+
+![](images/2ef78bb80d2c1fd73d0414940636da11b92073948acb6448c760b54b36e37c7b.jpg)
+
+# Clinical data
+
+Policy information about clinical studies
+
+All manuscripts should comply with the ICMJE guidelines for publication of clinical research and a completed CONSORT checklist must be included with all submissions.
+
+Clinical trial registration
+
+NCT04977674
+
+Study protocol
+
+https://clinicaltrials.gov/study/NCT04977674
+
+Data collection
+
+Data was collected by in-person interviews at the NIHR King's Clinical Research Facility, King's College Hospital and by telephone interviews. Participant recruitment and data collection occurred between August 2021 and February 2023.
+
+Outcomes
+
+The primary outcome for the study was the change in Glx (glutamate and glutamine) as measured by magnetic resonance spectroscopy.
+
+Secondary neuroimaging outcomes, as listed (NCT04977674) will be reported separately.
+
+All clinical and subjective outcomes were considered exploratory. For the clinical measures, clinician and self-reported measures of depressive symptoms and anhedonia were measured two hours before each ketamine infusion and at day 1 post-infusion, as previous studies have found antidepressant effects typically peak around 24 hours after a single dose of ketamine. Rating scales included the 10-item Montgomery–Åsberg Depression Rating Scale (MADRS), a clinician-rated measure of depressive severity; the 16-item Quick Inventory of Depressive Symptomatology–Self-Report (QIDS-SR), a self-report instrument covering depressive symptoms; the Maudsley 3-item depression visual analogue scale (M3VAS), a self-rated scale to measure mood, anhedonia and suicidality; the Snaith-Hamilton Pleasure Scale (SHAPS), a 14-item self-rated scale used to measure the state of anhedonia; and the Temporal Experience of Pleasure Scale (TEPS), an 18-item self-rated scale used to assess anticipatory (TEPS-A) and consummatory components (TEPS-C) of pleasure. MADRS response was defined as a reduction from pre-infusion score of $\ge 5 0 \%$ and remission was defined as a MADRS score $\leq 1 0$ . QIDS-SR response was defined as a reduction from pre-infusion score of $\ge 5 0 \%$ and remission was defined as a QIDS-SR score $\le 5$ . Alongside day 1 post-infusion, self-report measures (QIDS-SR, M3VAS, SHAPS and TEPS) were collected at day 3 and day 7 post-infusion as exploratory outcomes. Subjective effects were measured using the 23-item Clinician Administered Dissociative States Scale (CADSS) and the self-report Psychotomimetic States Inventory (PSI).
+
+# Magnetic resonance imaging
+
+# Experimental design
+
+<table><tr><td>Design type</td><td>1H-fMRS block analysis.</td></tr><tr><td>Design specifications</td><td>a eve ujevblocks  aebloc n  blourgee infusion), each lasting 288 seconds (144 transients (18 x 8-step phase cycle)).</td></tr><tr><td>Behavioral performance measures</td><td>No behavioural performance measures were collected during scanning.</td></tr></table>
+
+# Acquisition
+
+Imaging type(s)
+
+1) Structural and 2) Functional Magnetic Resonance Spectroscopy (1H-fMRS)
+
+Field strength
+
+3 Tesla
+
+Sequence & imaging parameters
+
+# 1) STRUCTURAL
+
+A high-resolution sagittal T1-weighted (T1-w) 3D sagittal inversion recovery prepared spoiled gradient echo (IR-SPGR) scan was initially acquired for localisation of the spectroscopy voxel $\mathrm { T R } = 7 . 3 5 ~ \mathrm { m s }$ , T $\div = 3 . 0 4 \ : \mathrm { m s }$ , $\mathsf { T } | = 4 0 0 \mathsf { m } s$ , $\mathsf { F O V } = 2 7 0$ mm, flip-angle $= 1 1 ^ { \circ } .$ matrix size $= 2 5 6 \times 2 5 6$ , slice thickness $= 1 . 2 ~ \mathsf { m m }$ , 196 slices).
+
+2) 1H-fMRS
+
+Spectra were acquired continuously for a 5 minute ‘baseline’ period and during the initial 30 minutes of the ketamine infusion using Point RESolved Spectroscopy (PRESS), with CHEmical Selective Suppression for water suppression and outer volume suppression (OVS) with Very Selective Suppression (VSS) pulses $( \mathsf { T R } = 2 , 0 0 0 \mathsf { m s }$ , TE $= 4 0$ ms, 8-step phase cycle, 1040 transients/16 water unsuppressed transients).
+
+Further details are provided in the minimum reporting standards for in vivo magnetic resonance spectroscopy checklist (Supplementary Table S7), according to consensus recommendations.
+
+Area of acquisition
+
+The 1H-fMRS voxel was positioned in an ACC region-of-interest $( 2 0 \mathsf { m m } \times 2 0 \mathsf { m m } \times 2 0 \mathsf { m m } )$ with the centre of the voxel placed $1 6 ~ \mathsf { m m }$ above the most anterior portion of the genus of the corpus callosum, perpendicular to the anterior commissure- posterior commissure line to minimise inclusion of white matter and cerebral spinal fluid (CSF) (Supplementary Figure S6).
+
+Not used
+
+# Preprocessing
+
+Preprocessing software
+
+FID Appliance (FID-A) toolbox for preprocessing [Near et al. 2015, Simpson et al. 2017]
+
+Normalization
+
+To assess the consistency of MRS voxel tissue composition, the voxels were co-registered to the T1-weighted image and segmented using the Gannet CoRegStandAlone function, which calls SPM12 to estimate the voxel fraction of grey matter (GM), white matter (WM) and cerebrospinal fluid (CSF) for each condition. The MRS voxels were spatially normalised to the MNI152 template image using the SPM12 spatial normalisation function. This process involved applying the deformation fields derived from the T1-weighted images to which each MRS voxel had been co-registered. Subsequently, each voxel was converted to a binary mask using FSL. These binary masks were then combined to illustrate the positional overlap among participants and across conditions.
+
+Normalization template
+
+The MRS voxels were spatially normalised to the MNI152 template image using the SPM12 spatial normalisation function.
+
+Noise and artifact removal
+
+Data were pre-processed using an automated FID-A pipeline, which includes coil combination, removal of motion corrupted scans and spectral registration for frequency and phase drift correction [Near et al. 2015, Simpson et al. 2017]. If motion corrupted scans were identified, the relevant transients were removed before determining the affected block average, ensuring the start time of each block remained consistent across participants and conditions.
+
+Volume censoring
+
+As above.
+
+# Statistical modeling & inference
+
+Model type and settings
+
+A linear mixed-effects model for repeated measures was used for the primary outcome, Glx/tNAA change from baseline. The following fixed effects were included in the model: condition (placebo and naltrexone), block (six ketamine infusion blocks) and the interaction between condition and block. Participant ID was included as a random intercept.
+
+Effect(s) tested
+
+Tested the main effect of pre-treatment condition (placebo and naltrexone), block (six ketamine infusion blocks) and the interaction between condition and block on Glx/tNAA change from baseline.
+
+Specify type of analysis:
+
+ROI-based
+
+Anatomical location(s)
+
+The 1H-fMRS voxel was positioned in an ACC region-of-interest $2 0 \mathsf { m m } \times 2 0 \mathsf { m m } \times 2 0 \mathsf { m m } )$ with the centre of the voxel placed 16 mm above the most anterior portion of the genus of the corpus callosum, perpendicular to the anterior commissure- posterior commissure line to minimise inclusion of white matter and cerebral spinal fluid (CSF) (Supplementary Figure S6).
+
+Statistic type for inference (See Eklund et al. 2016)
+
+This was not an fMRI study, and no voxel-wise or cluster-wise statistics were used for inferences.
+
+Correction
+
+This was a single region-of-interest magnetic resonance spectroscopy voxel, and no correction for multiple comparisons was applied.
+
+# Models & analysis
+
+![](images/6c213d16fa65f057f6886d125fd8cdc28395a0ff1d44e2bdaac55ef13c2a9f74.jpg)

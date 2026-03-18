@@ -1,0 +1,356 @@
+# Efficacy of Gamified Digital Mental Health Interventions for Pediatric Mental Health Conditions A Systematic Review and Meta-Analysis
+
+Barry R. Bryant, MD; Morgan R. Sisk, BS; Joseph F. McGuire, PhD
+
+IMPORTANCE Anxiety, depression, and attention-deficit/hyperactivity disorder (ADHD) affect up to $20 \%$ of children and adolescents. Despite demonstrated efficacy, evidence-based treatments for these conditions are often inaccessible; innovative solutions are essential to meet the demand for pediatric mental health care.
+
+OBJECTIVE To examine the efficacy and moderators of gamified DMHIs for anxiety, depression, and ADHD in randomized clinical trials (RCTs) for children and adolescents.
+
+DATA SOURCES A systematic search of PubMed, PsycInfo, and Web of Science was conducted for RCTs published before March 20, 2024.
+
+STUDY SELECTION RCTs that evaluated the efficacy of gamified DMHIs for treating pediatric ADHD, depression, or anxiety were included. Studies were excluded if they did not use a gamified DMHI, provide sufficient data for effect sizes, or were unavailable in English.
+
+DATA EXTRACTION AND SYNTHESIS Efficacy data were extracted from rating scales for ADHD, depression, and anxiety. Extracted moderator variables included participant characteristics (eg, age and sex), intervention characteristics (eg, delivery modality and time limit), and trial design characteristics (eg, outcome measure and risk of bias).
+
+MAIN OUTCOMES AND MEASURES The primary outcome was change in ADHD, depression, or anxiety severity in the treatment group compared to the control group. Hedges g quantified treatment effects.
+
+RESULTS The search strategy identified 27 RCTs that included 2911 participants across ADHD, depression, and anxiety disorders. There were modest significant effects of gamified DMHIs on ADHD (g, 0.28; $9 5 \%$ CI, 0.09 to 0.48) and depression (g, 0.28; $9 5 \%$ CI, 0.08 to 0.47) but small, nonsignificant effects for anxiety disorders (g, 0.07; $9 5 \%$ CI, $- 0 . 0 2$ to 0.17). Moderator analyses revealed that DMHIs for ADHD delivered on a computer and those RCTs that had a greater preponderance of male participants produced larger treatment effects. DMHIs for depressive disorders that used preset time limits for gamified DMHIs also exhibited larger treatment effects.
+
+CONCLUSIONS AND RELEVANCE The findings suggest a benefit of gamified DMHIs for youth with ADHD or depressive disorder. Pediatricians and other health care professionals have new information about novel, accessible, and efficacious options for pediatric mental health care.
+
+Author Affiliations: Division of Child & Adolescent Psychiatry, Department of Psychiatry and Behavioral Sciences, Johns Hopkins University School of Medicine, Baltimore, Maryland (Bryant, McGuire); Department of Psychiatry, University of Alabama at Birmingham Heersink School of Medicine, Birmingham (Sisk).
+
+Corresponding Author: Joseph F. McGuire, PhD, Division of Child & Adolescent Psychiatry, Department of Psychiatry and Behavioral Sciences, Johns Hopkins University School of Medicine, 550 N Broadway, Ste 206, Baltimore, MD 21205 (jfmcguire@jhmi.edu).
+
+A nxiety, depression, and attentity disorder (ADHD) are co ity disorder (ADHD) are common mental health eficit/hyperactiv-n mental health $2 0 \%$ adolescents.1 These conditions often co-occur2 and are characterized by symptoms, including low mood, excessive worry, trouble with attention, hyperactivity, and impulsivity— which can cause severe impairment across life domains.3 Left untreated, these conditions place youth at risk of the development of severe psychopathology and health-related sequelae in adulthood.4 Consequently, the effective treatment of anxiety, depression, and ADHD is a pressing public health concern that has implications across the life span.5
+
+Fortunately, evidence-based treatments exist. While behavioral therapies such as parent training are efficacious for the management of ADHD, cognitive behavioral therapy has shown efficacy for treating anxiety and depression in youth.6-8 Stimulant and nonstimulant medications have shown therapeutic benefit for ADHD,7,9 and selective serotonin reuptake inhibitors have demonstrated efficacy for anxiety and depression.6,8 However, evidence-based psychotherapies are often limited to specialty clinics and restricted by the number of trained health care professionals, which results in long wait times to access care.10-12 Similarly for pharmacotherapy, there is limited accessibility to trained child and adolescent psychiatrists. Moreover, some evidencebased pharmacotherapies are controlled substances (eg, stimulant medications) that require regular in-person visits that may not be feasible for patients and families (although this requirement has been suspended through December 31, 2024, due to the COVID-19 pandemic13). Indeed, experts suggest that doubling the mental health care workforce would yield only a minor public health impact.14 While pediatric primary care settings have served as intermediaries to provide mental health care services,15,16 innovative solutions are needed to address the increasing demand.
+
+Digital mental health interventions (DMHIs) comprise activities accessed via technology platforms—computers, tablets, video game consoles, and smartphones—that aim to improve the user’s mental health.17 DMHIs have demonstrated some efficacy for treating mental health conditions.18,19 However, engagement with therapeutic content is a well-known challenge for DMHIs.20 For example, a teenager may download an efficacious DMHI for anxiety or depression, but the patient still needs to open the app, engage with therapeutic content, and implement therapeutic skills—all of which can prove challenging for youth who have low motivation or struggle with inattention. One approach to improve engagement is gamification, which refers to “the process of adding games or gamelike elements to something (such as a task) so as to encourage participation.”21 Initial evidence suggests that gamified DMHIs can increase engagement among young people relative to traditional therapies.22 Thus, gamified DMHIs represent a novel way to deliver evidence-based mental health care in an accessible, scalable, and engaging manner.
+
+In response, we conducted a meta-analysis to examine the therapeutic effects of gamified DMHIs for anxiety, depression, and ADHD. Furthermore, we evaluated moderators of treatment effects from DMHIs investigating participant-level
+
+# Key Points
+
+Question Given the challenges confronting the accessibility of pediatric mental health care, are gamified digital mental health interventions (DMHIs) effective for treating pediatric anxiety, depression, and attention-deficit/hyperactivity disorder (ADHD)?
+
+Findings This systematic review and meta-analysis found that gamified DMHIs were effective in improving the severity of ADHD and depressive symptoms in randomized clinical trials (RCTs) but not for reducing the severity anxiety symptoms. Moderator analyses revealed that intervention delivery modality and sex differences influenced treatment effects of DMHIs for ADHD, whereas preset time limits improved treatment effects of DMHIs for depressive disorders.
+
+Meaning The findings suggest that gamified DMHIs may constitute a key piece of a comprehensive pediatric mental health treatment plan for youth with ADHD or depression, and future research should consider identified moderators to optimize treatment outcomes.
+
+characteristics, intervention-level characteristics, and trialdesign characteristics. Findings can help frontline clinicians (eg, primary health care professionals) make informed recommendations about using gamified DMHIs as part of a comprehensive mental health treatment plan.
+
+# Methods
+
+# Design, Search Strategy, and Eligibility Criteria
+
+Following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, PubMed, Web of Science, and PsycInfo were searched using the following key terms: “ADHD” or “depression” or “anxiety” and “youth” or “children” or “adolescents” focusing on a “videogame” or “computer game” or “game-based” intervention (see the eMethods in Supplement 1 for exact search terms). The initial search was conducted in April 2023 and updated to incorporate any recent published reports through March 20, 2024 (Figure $\mathbf { 1 } ^ { 2 3 } .$ ). Identified titles and abstracts were reviewed for appropriateness independently by 2 raters. The references of pertinent trials and review articles were also searched. Identified abstracts and citations were evaluated for the following inclusion criteria: (1) a randomized clinical trial (RCT) that used a gamified DMHI to reduce anxiety, depression, or ADHD severity; (2) evaluated the efficacy of the gamified DMHI relative to a control condition; (3) included only participants younger than 18 years; (4) available in English; and (5) provided sufficient data to allow for treatment effect size calculation. When insufficient data were available, attempts were made to contact study authors to obtain data.
+
+# Data Extraction
+
+Data extraction was completed independently by 2 raters (B.R.B. and M.R.S.). When raters disagreed, consensus was achieved through consultation with the senior investigator (J.F.M.). Efficacy data were extracted from severity rating
+
+![](images/21d098b2684b33baa43f001c72b8879901527d819cafd488fae48a9a644b82f5.jpg)  
+Figure 1. PRISMA Flow Diagram of Selection of Randomized Controlled Trials (RCTs)
+
+ADHD indicates attention-deficit/ hyperactivity disorder.
+
+a One article23 included 2 gamified digital mental health intervention (DMHI) conditions, yielding an analysis of 27 RCTs in total.
+
+scales for ADHD, depression, and anxiety. A hierarchy of preferred outcomes was established a priori to limit possible reporting bias. If multiple outcome measures were present (eg, 2 anxiety rating scales), priority was given to parent, clinician, and then child-reported rating scales. Extracted moderators included participant characteristics (age, sex, and sample type [clinically significant vs community recruited]), intervention characteristics (specific DMHIs, treatment duration, time limit, aesthetic sophistication, public accessibility, and delivery modality), and trial design characteristics (sample size, attrition, publication year, control condition, outcome measure, and risk of bias). Sample type was categorized as either clinically significant or community recruited. If participants had to meet symptomatic requirements for enrollment (eg, clinician-diagnosed), the sample was classified as clinically significant. Meanwhile, if a study recruited participants without requiring a diagnosis but participants experienced some symptoms or were at risk of developing a disorder (eg, recruitment of youth with elevated anxiety levels from a school), this was classified as community recruited. Treatment duration referred to the number of weeks over which participants used the DMHI to allow for comparability across studies. Time limits were coded in a binary manner based on whether the RCT imposed an upper time limit for DMHI use by restricting access to the DMHI. Aesthetic sophistication was coded in a binary manner based on 3 DMHI characteristics: graphic complexity, concordance with game theme, and consistency across game elements. Public accessibility was determined based on whether the raters could access the DMHI. Risk of bias was calculated for each study using the Cochrane Risk Bias Calculator version 2.24
+
+# Effect Size Calculation and Statistical Analyses
+
+Hedges $g$ was selected to quantify treatment effects and was calculated in Comprehensive Meta-Analysis version 3 (Biostat).25 Effect sizes were calculated using change scores to increase the precision of effect size estimators by controlling for pretreatment group differences in symptom severity. Preatment and posttreatment means and standard deviations were entered into Comprehensive Meta-Analysis, and were divided by the pooled posttreatment standard deviation. Effect sizes were standardized so that a positive result indicated that gamified DMHIs performed better than control conditions. Separate random-effects models using inverse variance weights examined the effect sizes of gamified DMHIs for anxiety, depression, and ADHD severity. A random-effects model was selected because the true effect size was expected to vary across RCTs due to different study characteristics.26 Heterogeneity of effect size was assessed using forest plots, the Q statistic, and the $I ^ { 2 }$ statistic. Publication bias was assessed by visual inspection of the funnel plot and the Egger test for bias. Moderators were analyzed using either methodof-moments meta-regression using inverse variance weights, or an analog to the analysis of variance. For studies with multiple active intervention arms, the same control condition was used as the comparator to calculate effect size and affected only 1 RCT for ADHD.23
+
+Table 1. Participant Characteristics   
+
+<table><tr><td></td><td colspan="4">Participant characteristics</td></tr><tr><td>Trial type</td><td>Source</td><td>Mean age, y</td><td>% Female</td><td>Sample type</td></tr><tr><td rowspan="10">ADHD</td><td>Bikic et al, ²7 2018</td><td>9.96</td><td>16</td><td>Clinically significant</td></tr><tr><td>Dovis et al,²³3 2015, intervention arm 1</td><td>10.55</td><td>20</td><td>Clinically significant</td></tr><tr><td>Dovis et al,23 2015, intervention arm 2</td><td>10.4</td><td>21</td><td>Clinically significant</td></tr><tr><td>García-Redondo et al, 28 2019</td><td>11.56</td><td>39</td><td>Clinically significant</td></tr><tr><td>Kim et al, ²9 2022</td><td>9.1</td><td>23</td><td>Clinically significant</td></tr><tr><td>Kollins et al, 30 2020</td><td>9.65</td><td>29</td><td>Clinically significant</td></tr><tr><td>McDermott et al, 31 2020</td><td>9.57</td><td>30</td><td>Clinically significant</td></tr><tr><td>Rajabi et al, 32 2020</td><td>10.13</td><td>0</td><td>Clinically significant</td></tr><tr><td>van der Oord et al, 33 2014</td><td>9.75</td><td>18</td><td>Clinically significant</td></tr><tr><td>Wang et al, 34 2023</td><td>8.15</td><td>25</td><td>Clinically significant</td></tr><tr><td rowspan="10">Depression</td><td>Yerys et al, 35 2019</td><td>11.25</td><td>11</td><td>Clinically significant</td></tr><tr><td>Bohr et al,36 2023</td><td>NR</td><td>NR</td><td>Clinically significant</td></tr><tr><td>David et al,37 2019</td><td>12.89</td><td>64</td><td>Clinically significant</td></tr><tr><td>Fleming et al, 38 2012</td><td>14.9</td><td>44</td><td>Community recruited</td></tr><tr><td>Knox et al, 39 2011</td><td>12.88</td><td>0.38</td><td>Clinically significant</td></tr><tr><td>McCashin et al,40 2021</td><td>9.94</td><td>42</td><td>Clinically significant</td></tr><tr><td>Merry et al,41 2012</td><td>15.56</td><td>66</td><td>Clinically significant</td></tr><tr><td>Perry et al,42 2017</td><td>16.76</td><td>63</td><td>Community recruited</td></tr><tr><td>Poppelaars et al,43 2016</td><td>13.24</td><td>100</td><td>Clinically significant</td></tr><tr><td>Poppelaars et al,44 2021</td><td>17.11</td><td>66</td><td>Clinically significant</td></tr><tr><td rowspan="10">Anxiety</td><td>Fleming et al, 38 2012a</td><td>14.9</td><td>44</td><td>Community recruited</td></tr><tr><td>Knox et al, 39 2011a</td><td>12.88</td><td>38</td><td>Clinically significant</td></tr><tr><td>McCashin et al,40 2021a</td><td>9.94</td><td>42</td><td>Clinically significant</td></tr><tr><td>Merry et al,41 2012a</td><td>15.56</td><td>66</td><td>Clinically significant</td></tr><tr><td>Perry et al, 42 2017a</td><td>16.76</td><td>63</td><td>Community recruited</td></tr><tr><td>Sanchez et al, 45 2017</td><td>8.9</td><td>40</td><td>Community recruited</td></tr><tr><td>Scholten et al,46 2016</td><td>13.27</td><td>65</td><td>Clinically significant</td></tr><tr><td>Schoneveld et al,47 2016</td><td>9.95</td><td>58</td><td>Clinically significant</td></tr><tr><td>Schoneveld et al,48 2018</td><td>9.97</td><td>59</td><td>Clinically significant</td></tr><tr><td>Schuurmans et al,49 2018</td><td>13.97</td><td>16</td><td>Clinically significant</td></tr><tr><td>Tsui et al,50 2021 Wijnhoven et al,51 2020</td><td>13.5 11.1</td><td>63.80 23</td><td>Clinically significant Clinically significant</td></tr></table>
+
+Abbreviation: NR, not reported. a Data also included in depression subset.
+
+#
+
+# Results
+
+# Search Results and Included RCTs
+
+Figure 1 details the literature search that produced 27 RCTs23,27-51 that met all inclusion criteria. One included ADHD trial had 2 gamified DMHI conditions23 and 5 includedRCTs provided both depression and anxiety outcomes.38-42 This provided 32 treatment comparisons for inclusion in this meta-analysis (ADHD: 11 RCTs; depression: 9 RCTs; anxiety: 12 RCTs) with 2911 unique participants (ADHD: 771 participants; depression: 1332 participants; anxiety: 1719 participants). Table 1 displays participant characteristics for the RCTs. Table 2 presents the intervention and trial design characteristics. Table 3 shows the moderator analyses of treatment effects for each condition.
+
+# ADHD Efficacy Outcomes
+
+The random-effects meta-analysis found a modest therapeutic effect of identified gamified DMHIs on ADHD outcomes compared to control conditions $( g , 0 . 2 8$ ; $9 5 \%$ CI, 0.09 to 0.48; $z , 2 . 8 3 ; P < . 0 0 1$ ) (Figure 2A). Visual inspection of the forest plot, Q statistic, and $I ^ { 2 }$ statistic identified the presence of some heterogeneity $( Q _ { 1 0 } = 1 4 . 2 8 ; P = . 1 6 ; I ^ { 2 } ,$ $2 9 . 9 5 \%$ ). Visual inspection of the funnel plot and Egger test for bias $( t _ { 9 } = 2 . 0 6 , P = . 0 7 )$ did not suggest publication bias to be significant. As a precautionary step, the Duval and Tweedie trim-and-fill method was applied and filled 3 trials to the left of the mean. This produced a smaller adjusted effect size $( g , 0 . 1 7 )$ .
+
+# ADHD Moderator Outcomes
+
+# Participant Characteristics
+
+There was a significant association between biological sex and treatment effects, such that RCTs that had a greater percentage of boys exhibited larger effects. However, no significant associations between average participant age and treatment effects were found (Table 3).
+
+# Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 09/24/2024
+
+Table 2. Trial Design and Intervention Characteristics   
+
+<table><tr><td colspan="10">Trial design and intervention characteristics</td></tr><tr><td></td><td>Sample size</td><td>Attrition, %</td><td>Comparison condition</td><td>Outcome mesure</td><td>Risk of bias</td><td>Specific DHMI intervention</td><td>Intervention Time durtion, wk</td><td>limit (Y/N)</td><td>Aesthetically sophisticatdDel /N)</td><td>modality</td></tr><tr><td colspan="9">Source ADHD trials</td></tr><tr><td>Bikic et al, 27</td><td>70</td><td>7</td><td>TAU /waitlist</td><td>ADHD-RS</td><td>Low</td><td>ACTIVATE</td><td></td><td>N</td><td>N</td><td>Computer</td></tr><tr><td>2018 Dovis et al, 23</td><td>61</td><td>10</td><td>Placebo</td><td>DBRS</td><td>Low</td><td>Braingame</td><td>5</td><td>N</td><td>N</td><td>Computer</td></tr><tr><td>2015, intervention arm 1 Dovis et al, 23</td><td>58</td><td>7</td><td>digital intervention Placebo</td><td>DBRS</td><td>Low</td><td>Brian Braingame</td><td>5</td><td>N</td><td>N</td><td>Computer</td></tr><tr><td>2015, intervention arm 2 García-Redondo</td><td>44</td><td>NR</td><td>digital intervention TAU/waitlist</td><td>EDAH-</td><td>Low</td><td>Brian Boogies</td><td>14</td><td>Y</td><td>N</td><td>Tablet</td></tr><tr><td>eat al28 2019 Kim et al, 29</td><td></td><td></td><td>TAU/waitlist</td><td>ADHD K-ARS</td><td>Low</td><td>Acamy and Cuibrain NeuroWorld DTx 4</td><td></td><td></td><td>Y</td><td>Tablet</td></tr><tr><td>2022 Kollins et al, 30</td><td>30 348</td><td>0 5</td><td>Placebo</td><td>ADHD-RS</td><td>Low</td><td>AKL-T01/</td><td>4</td><td>Y N</td><td>Y</td><td>Tablet</td></tr><tr><td>0200 McDermott et al,31</td><td></td><td></td><td>digital intervention</td><td></td><td>Some</td><td>roPrect EVO CogoLand</td><td></td><td></td><td></td><td></td></tr><tr><td>20200 Rajabi et al, 32</td><td>46</td><td>13</td><td>TAU/waitlist TAU/Waitlist</td><td>ADHD-RS CPRS-R</td><td>concerns Some</td><td>SmartMind</td><td>8 10</td><td>Y</td><td>N</td><td>Computer</td></tr><tr><td>2020 van der Oord et al, 33</td><td>32</td><td>NR 7</td><td>TAU/waitlist</td><td>DBRS</td><td>concerns Some</td><td>Braingame</td><td></td><td>Y</td><td>N</td><td>Computer Computer</td></tr><tr><td>2014 Wang et al, 34</td><td>43 20</td><td>0</td><td>Placebo</td><td>ADHD-RS</td><td>concerns Low</td><td>Brian DTFAD001</td><td>5 4</td><td>Y N</td><td>N Y</td><td>Tablet</td></tr><tr><td>2023</td><td></td><td></td><td>digital intervention</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Yerys et al, 35 2019</td><td>19</td><td>5</td><td>Educational intervention</td><td>ADHD-RS</td><td>Low</td><td>AKL-T01/ Project EVO</td><td>4</td><td>Y</td><td>Y</td><td>Tablet</td></tr><tr><td colspan="9">Depression trials</td><td></td></tr><tr><td>Bohr et al, 36 2023</td><td>48</td><td>33</td><td>TAU/waitlist</td><td>CESD-R</td><td>Some concerns</td><td>SPARX</td><td>7</td><td>N</td><td>Y</td><td>Computer</td></tr><tr><td>David et al, 37 2019</td><td>109</td><td>12</td><td>Rational emotive beehavior</td><td>EATQ-R depressive mood</td><td>Some concerns</td><td>REThink</td><td>4</td><td>Y</td><td>N</td><td>Computer</td></tr><tr><td>Fleming et al, 38 2012</td><td>32</td><td>6</td><td>education TAU/waitlist</td><td>CDRS-R</td><td>Low</td><td>SPARX</td><td>5</td><td>Y</td><td>Y</td><td>Computer</td></tr><tr><td>Knox et al, 39 2011</td><td>30</td><td>20</td><td>TAU/waitlist</td><td>CDI</td><td>High</td><td>Freeze-Framer 2.0 and Journey to the WWild Divine: The</td><td>8</td><td>Y</td><td>Y</td><td>Computer</td></tr><tr><td>McCashin et al, 40 2021</td><td>122</td><td>34</td><td>TAU/waitlist</td><td>DSM- problem</td><td>Low</td><td>Passage Pesky gNATs</td><td>7</td><td>N</td><td>N</td><td>Computer</td></tr><tr><td>Merry et al, 41 2012</td><td>187</td><td>9</td><td>TAU/waitlist</td><td>subscales: deressive CDRS-R</td><td>Low</td><td>SPARX</td><td>7</td><td>N</td><td>Y</td><td>Computer</td></tr><tr><td>Perry et al,42 2017</td><td>540</td><td>75</td><td>Placebo digital</td><td>MDI</td><td>High</td><td>SPARX-R</td><td>7</td><td>Y</td><td>Y</td><td>Computer</td></tr><tr><td>Poppelaars et al, 43 2016</td><td>102</td><td>5</td><td>intervention Active monitoring</td><td>RADS-2</td><td>Low</td><td>Journey</td><td>7</td><td>N</td><td>Y</td><td>Videogame console</td></tr><tr><td>Poppelars et al, 4 2021</td><td>162</td><td>4</td><td>symptoms Placebo digital</td><td>CDI</td><td>Low</td><td>Journey</td><td>4</td><td>N</td><td>Y</td><td>Videogame console</td></tr></table>
+
+(continued)
+
+# Intervention Characteristics
+
+DMHIs delivered on a computer $( k , 6 ; g , 0 . 4 1 )$ produced larger effects compared tablet-delivered DMHIs $( k , 5 ; g , 0 . 0 9 )$ ). Additionally, DMHIs delivered with imposed time limits $( k , 6 ; g , 0 . 4 9 )$ tended to exhibit greater effects compared to those without time limits $( k , 5 ; g , 0 . 1 2$ , $P = . 0 7 )$ ) (Table 3). However, no significant association was found between treatment duration and therapeutic effects (Table 3). Additionally, there was no significant difference in treatment effects across gamified DMHIs (Table 3;
+
+eResults in Supplement 1). Furthermore, no difference was found between DMHIs that were not aesthetically sophisticated $( k , 7 ; g , 0 . 3 4 )$ compared to those that were $( k , 4 ; g , 0 . 1 3$ , Table 3), nor between DMHIs that were accessible $( k , 2 ; g , 0 . 2 4 )$ vs inaccessible to the public $( k , 9 ; g , 0 . 2 5 )$ .
+
+# Trial Design Characteristics
+
+Risk of bias was found to influence treatment effects such that RCTs with a low risk of bias $( k , 8 ; g , 0 . 1 3 )$ had smaller effects
+
+# Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 09/24/2024
+
+Table 2. Trial Design and Intervention Characteristics (continued)   
+
+<table><tr><td colspan="10">Trial design and intervention characteristics</td></tr><tr><td></td><td>Sample</td><td>Attrition,</td><td>Comparison</td><td>Outcome</td><td>Risk</td><td>Specific DHMI</td><td>Intervention Time dration,</td><td>limit</td><td>Aesthetically sophisticated Delivery</td><td></td></tr><tr><td>Source Anxiety trials</td><td>size</td><td>%</td><td>condition</td><td>measure</td><td>of bias</td><td>intervention</td><td>wk</td><td>(Y/N)</td><td>Y/N)</td><td>odality</td></tr><tr><td>Fleming et al, 38</td><td>32</td><td>6</td><td>Waitlist/TAU</td><td>SCAS</td><td>Low</td><td>SPARX</td><td>5</td><td>Y</td><td>Y</td><td>Computer</td></tr><tr><td>2012 Knox et al,39 2011</td><td>30</td><td>20</td><td>Waitlist/TAU</td><td>MASC</td><td>High</td><td>Freeze-Framer 2.0 and Journey to the Wild</td><td>8</td><td>Y</td><td>Y</td><td>Computer</td></tr><tr><td>McCashin et al, 40 2021</td><td>122</td><td>34</td><td>Waitlist/TAU</td><td>CBCL DSM- prroblem</td><td>Low</td><td>Divine: The Passage Pesky gNATs</td><td>7</td><td>N</td><td>N</td><td>Computer</td></tr><tr><td>Merry et al,41</td><td>187</td><td>9</td><td>Waitlist/TAU</td><td>subscales: anxiety SCAS</td><td>Low</td><td>SPARX</td><td>7</td><td>N</td><td>Y</td><td></td></tr><tr><td>2012 Perry et al,42</td><td>540</td><td>75</td><td>Digital</td><td>SCAS GAD</td><td>High</td><td>SPARX-R</td><td>7</td><td>Y</td><td>Y</td><td>Computer Computer</td></tr><tr><td>2017 Sanchez et al, 45 2017</td><td>93</td><td>26</td><td>placebo Waitlist/TAU</td><td>nd SOC Social nxiety</td><td>Some concerns</td><td>Adventures aboard the</td><td>9</td><td>N</td><td>Y</td><td>Computer</td></tr><tr><td></td><td></td><td></td><td></td><td>Scale for Chhildren Revised</td><td></td><td>S.S. GRIN</td><td></td><td></td><td></td><td></td></tr><tr><td>Scholten et al, 46 2016 Schoneveld et al,47</td><td>138</td><td>7</td><td>Digital lacebo</td><td>SCAS</td><td>Low</td><td>Dojo</td><td>3</td><td>Y</td><td>Y</td><td>Computer</td></tr><tr><td>2016 Schoneveld et al,48</td><td>136</td><td>9</td><td>Digital placebo</td><td>SCAS</td><td>Low</td><td>Mindlight</td><td>2.5</td><td>Y</td><td>N</td><td>Computer</td></tr><tr><td>2018 Schuurmans et al,49</td><td>174</td><td>17</td><td>CBT</td><td>SCAS</td><td>Low</td><td>Mindlight</td><td>6</td><td>Y</td><td>N</td><td>Computer</td></tr><tr><td>2018</td><td>41</td><td>10</td><td>Waitlist/TAU</td><td>SCAS</td><td>Low</td><td>Dojo</td><td>4</td><td>Y</td><td>Y</td><td>Computer</td></tr><tr><td>Tsui et al, 50 2021</td><td>117</td><td>11</td><td>CBT</td><td>SCAS</td><td>Some concerns</td><td>Mindlight</td><td>3</td><td>Y</td><td>N</td><td>Computer</td></tr><tr><td>Wijnhoven et al,51 20200</td><td>109</td><td>37</td><td>Digital placebo</td><td>SCAS</td><td>Some concerns</td><td>Mindlight</td><td>6</td><td>Y</td><td>N</td><td>Computer</td></tr></table>
+
+Abbreviations: ADHD-RS, attention-deficit hyperactivity disorder rating scale; CBCL, Child Behavior Checklist; CBT, cognitive behavioral therapy; CDI, Children’s Depression Inventory; CDRS-R, Children’s Depression Rating Scale–Revised; CESD-R, Center for Epidemiologic Studies Depression Scale–Revised; CRPS-R, Connor’s Parent Rating Scale–Revised; DBRS, disruptive behavior rating scale; DSM, Diagnostic and Statistical Manual; EATQ-R, Early   
+Adolescent Temperament Questionnaire–Revised; EDAH-ADHD, assessment of ADHD scale; GAD, generalized anxiety disorder; K-ARS, Korean ADHD rating scale; MASC, multidimensional anxiety scale for children; MDI, Major Depression Inventory; RADS-2, Reynold’s Adolescent Depression Scale, 2nd Edition; SCAS, Spence Children’s Anxiety Scale; TAU, treatment as usual.
+
+compared to those with some concerns about risk of bias $( k ,$ $3 ; g , 0 . 7 4 ,$ ). However, there were no significant associations between treatment effects and either sample size, participant attrition, publication year, comparison conditions, or outcome measures (Table 3; eResults in Supplement 1).
+
+# Depression Efficacy Outcomes
+
+The random-effects meta-analysis found a modest therapeutic effect of gamified DMHIs on depression outcomes compared to control conditions (g, 0.28; $9 5 \%$ CI, 0.08 to $0 . 4 7 ; z , 2 . 8 0$ $P < . 0 0 5 )$ (Figure 2B). Visual inspection of the forest plot, Q statistic, and $I ^ { 2 }$ statistic identified significant heterogeneity in effects across RCTs $\mathrm { \Delta } Q _ { 8 } = 1 7 . 2 8$ ; $P = . 0 3$ , $I ^ { 2 } = 5 3 . 6 9 \% )$ . Visual inspection of the funnel plot and Egger test for bias $( t _ { 7 } = 1 . 1 1$ ; $P = . 3 0 ^ { \cdot }$ ) did not suggest publication bias was present.
+
+# Depression Moderator Outcomes
+
+# Participant Characteristics
+
+There were no significant associations between participant characteristics (eg, age and biological sex) and treatment effects on depression outcomes (Table 3). Although descrip
+
+tively larger, there was no difference between participants with clinically significant symptoms $( k , 7 ; g , 0 . 2 3 )$ and those without $( k , 2 ; g , 0 . 7 6 )$ .
+
+# Intervention Characteristics
+
+Gamified DMHIs that had imposed time limits exhibited larger effects $( k , 4 ; g , 0 . 6 3 )$ compared to DMHIs that did not $( k , 5 ; g ,$ , 0.12) (Table 3). However, there was no significant association between treatment duration and therapeutic effects (Table 3). There was also no significant difference in treatment effects across gamified DMHIs (Table 3; eResults in Supplement 1). Additionally, there were no significant differences between DMHIs that were not aesthetically sophisticated $( k , 2 ; g , 0 . 4 7 )$ ) compared to DMHIs that were $( k , 7 ; g , 0 . 2 3 )$ , between DMHIs delivered on a computer $( k , 7 ; g , 0 . 3 7 )$ compared to a videogame console $( k , 2 ; g , 0 . 0 5 )$ , or between those that were accessible $( k , 8 ; g , 0 . 2 9 )$ vs inaccessible $( k , 1 ; g , 0 . 3 0 )$ to the public (Table 3).
+
+# Trial Design Characteristics
+
+There were no significant associations between treatment effects and sample size, participant attrition, publication
+
+<table><tr><td colspan="7"></td></tr><tr><td>Characteristic</td><td>β(95% CI)</td><td>No.</td><td>Q_</td><td>df</td><td>P value</td><td>No.</td></tr><tr><td>ADHD</td><td></td><td>11</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td></tr><tr><td>Mean participant age Sex (% female)</td><td>-0.13 (-0.39 to 0.14) -2.11 (-3.88 to -0.34)</td><td>11</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td></tr><tr><td>l</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td></tr><tr><td>Intervention characteristics</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Treatment duration, wk</td><td>-0.02 (-0.09 to 0.05)</td><td>11</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td></tr><tr><td>App name</td><td>NA</td><td>NA</td><td>7.35</td><td>7</td><td>.39</td><td>11</td></tr><tr><td>Time limit</td><td>NA</td><td>NA</td><td>3.24</td><td>1</td><td>.07</td><td>11</td></tr><tr><td>Aestheticall sohisticated</td><td>NA</td><td>NA</td><td>1.53</td><td>1</td><td>.22</td><td>11</td></tr><tr><td>Accessible to public</td><td>NA</td><td>NA</td><td>0.01</td><td>1</td><td>.99</td><td>11</td></tr><tr><td>Intervention deliverymodaity</td><td>NA</td><td>NA</td><td>4.45</td><td>1</td><td>.04</td><td>11</td></tr><tr><td>Trial design characteristics</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Sample size</td><td>&lt;-0.01 (&lt;-0.01 to &lt;0.01)</td><td>11</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td></tr><tr><td>Participant atrition</td><td>2.43 (-3.65 to 8.81)</td><td>9</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td></tr><tr><td>Publication year</td><td>-0.01 (-0.01 to 0.07)</td><td>11</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td></tr><tr><td>Control condition</td><td>NA</td><td>NA</td><td>4.61</td><td>2</td><td>.10</td><td>11</td></tr><tr><td>Outcome measure</td><td>NA</td><td>NA</td><td>4.41</td><td>4</td><td>.35</td><td>11</td></tr><tr><td>Risk of bias</td><td>NA</td><td>NA</td><td>8.61</td><td>1</td><td>.003</td><td>11</td></tr><tr><td>Depression</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Mean participant age</td><td>-0.03 (-0.12 to 0.06)</td><td>8</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td></tr><tr><td>Sex (% female)</td><td>-0.01 (-0.02 to 0.01)</td><td>8</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td></tr><tr><td>Cal</td><td>NA</td><td>9</td><td>0.72</td><td>1</td><td>.40</td><td>9</td></tr><tr><td>Intervention characteristics</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Treatment duration, wk</td><td>-0.06 (-0.21 to 0.09)</td><td>9</td><td></td><td></td><td></td><td></td></tr><tr><td>App name</td><td>NA</td><td>NA</td><td>7.07</td><td>5</td><td>.22</td><td>9</td></tr><tr><td>Time limit</td><td>NA</td><td>NA</td><td>4.43</td><td>1</td><td>.04</td><td>9</td></tr><tr><td>Aesthetically sophisticated</td><td>NA</td><td>NA</td><td>1.49</td><td>1</td><td>.22</td><td>9</td></tr><tr><td>Accessible to public</td><td>NA</td><td>NA</td><td>&lt;0.01</td><td>1</td><td>.96</td><td>9</td></tr><tr><td>Intervention deliveryality</td><td>NA</td><td>NA</td><td>3.28</td><td>1</td><td>.07</td><td>9</td></tr><tr><td>Trial design characteristics</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Sample size</td><td>&lt;-0.01 (-0.01 to 0.01)</td><td>9</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td></tr><tr><td>Participant attrition</td><td>&lt;-0.01 (-0.01 to 0.01)</td><td>9</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td></tr><tr><td>Publication year Control condition</td><td>-0.04 (-0.09 to 0.02)</td><td>9</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td></tr><tr><td>Outcome measure</td><td>NA</td><td>NA</td><td>5.42</td><td>3</td><td>.14</td><td>9</td></tr><tr><td></td><td>NA</td><td>NA</td><td>7.08</td><td>6</td><td>.31</td><td>9</td></tr><tr><td>Risk of bias</td><td>NA</td><td>NA</td><td>0.00</td><td>2</td><td>.99</td><td>9</td></tr><tr><td>Anxiety</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Mean participant age</td><td>&lt;0.01 (-0.03 to 0.04)</td><td>12</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td></tr><tr><td>Sex (% femal</td><td>&lt;0.01 (-0.01 to 0.01)</td><td>12</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td></tr><tr><td>Clinically significant/community recruited</td><td>NA</td><td>NA</td><td>0.50</td><td>1</td><td>.48</td><td>12</td></tr><tr><td>Intervention characteristics</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Treatment duration, wk App name</td><td>&lt;-0.01 (-0.06 to 0.05) NA</td><td>12 NA</td><td>NA 0.81</td><td>NA 6</td><td>NA .99</td><td>NA 12</td></tr><tr><td>Time limit</td><td>NA</td><td>NA</td><td>1.37</td><td>1</td><td>.24</td><td>12</td></tr><tr><td>Aestheticall sohisticated</td><td>NA</td><td>NA</td><td>0.12</td><td>1</td><td>.73</td><td>12</td></tr><tr><td>Accessible to public</td><td>NA</td><td>NA</td><td>0.04</td><td>1</td><td>.84</td><td>12</td></tr><tr><td>Intervention deliverymodaity</td><td>NA</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td></tr><tr><td>Trial design characteristics Sample size</td><td>&lt;0.01 (&lt;-0.01 to &lt;0.01)</td><td></td><td>NA</td><td></td><td></td><td></td></tr><tr><td>Participant attrition</td><td>&lt;0.01 (&lt;-0.01 to &lt;0.01)</td><td>12</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td></tr><tr><td></td><td></td><td>12</td><td></td><td>NA</td><td>NA</td><td>NA</td></tr><tr><td>Publication year</td><td>-0.02 (-0.05 to 0.02)</td><td>12</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td></tr><tr><td>Control condition</td><td>NA</td><td>NA</td><td>1.58</td><td>2</td><td>.45</td><td>12</td></tr><tr><td>Outcome measure</td><td>NA</td><td>NA</td><td>0.59</td><td>4</td><td>.97</td><td>12</td></tr><tr><td>Risk of bias</td><td>NA</td><td>NA</td><td>0.81</td><td>2</td><td>.67</td><td>12</td></tr></table>
+
+Abbreviation: NA, not applicable.
+
+# Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 09/24/2024
+
+Figure 2. Overall Summary Effects and by Condition   
+
+<table><tr><td colspan="4">A ADHD trials</td></tr><tr><td>Source</td><td>Hedges g</td><td>SE</td><td>Variance (95% CI)</td></tr><tr><td>Bikic et al, 27 2018</td><td>0.38</td><td>0.24</td><td>0.06 (-0.09 to 0.84)</td></tr><tr><td>Dovis et al,23 2015, arm 1</td><td>0.17</td><td>0.25</td><td>0.06 (-0.33 to 0.66)</td></tr><tr><td>Dovis et al, 23 2015, arm 2</td><td>0.10</td><td>0.26</td><td>0.07 (-0.41 to 0.61)</td></tr><tr><td>Garciía-Redondo et al, 28 2019</td><td>-0.26</td><td>0.30</td><td>0.09 (-0.85 to 0.33)</td></tr><tr><td>Kim et al, 29 2022</td><td>0.51</td><td>0.36</td><td>0.13 (-0.20 to 1.22)</td></tr><tr><td>Kollins et al, 30 2020</td><td>0.07</td><td>0.11</td><td>0.01 (-0.14 to 0.28)</td></tr><tr><td>McDermott et al, 31 2020</td><td>0.76</td><td>0.32</td><td>0.10 (0.13 to 1.39)</td></tr><tr><td>Rajabin et al, 32 2020</td><td>0.57</td><td>0.35</td><td>0.12 (-0.12 to 1.26)</td></tr><tr><td>van der Oord et al,33 2014</td><td>0.85</td><td>0.33</td><td>0.11 (0.21 to 1.49)</td></tr><tr><td>Wang et al, 34 2023</td><td>0.12</td><td>0.43</td><td>0.18 (-0.73 to 0.96)</td></tr><tr><td>Yerys et al, 35 2019</td><td>0.62</td><td>0.47</td><td>0.22 (-0.31 to 1.54)</td></tr><tr><td>Pooled</td><td>0.28</td><td>0.10</td><td>0.01 (0.09 to 0.48)</td></tr></table>
+
+Depression trials   
+
+<table><tr><td>Source</td><td>Hedges g</td><td>SE</td><td>Variance (95% CI)</td></tr><tr><td>Bohr et al, 36 2023</td><td>-0.24</td><td>0.35</td><td>0.12 (-0.93 to 0.45)</td></tr><tr><td>David et al, 37 2019</td><td>0.63</td><td>0.21</td><td>0.04 (0.22 to 1.03)</td></tr><tr><td>Fleming et al, 38 2012</td><td>1.44</td><td>0.41</td><td>0.17 (0.63 to 2.25)</td></tr><tr><td>Knox et al, 39 2011</td><td>0.65</td><td>0.41</td><td>0.16 (-0.15 to 1.44)</td></tr><tr><td>McCashin et al, 40 2021</td><td>0.30</td><td>0.22</td><td>0.05 (-0.14 to 0.73)</td></tr><tr><td>Merry et al, 41 2012</td><td>0.20</td><td>0.15</td><td>0.02 (-0.09 to 0.48)</td></tr><tr><td>Perry et al, 42 2017</td><td>0.24</td><td>0.10</td><td>0.01 (0.04 to 0.43)</td></tr><tr><td>Poppelaars et al,43 2016</td><td>0.05</td><td>0.20</td><td>0.04 (-0.34 to 0.43)</td></tr><tr><td>Poppelaars et al,44 2021</td><td>0.06</td><td>0.16</td><td>0.24 (-0.25 to 0.37)</td></tr><tr><td>Pooled</td><td>0.28</td><td>0.10</td><td>0.01 (0.08 to 0.47)</td></tr></table>
+
+Anxiety trials   
+
+<table><tr><td>Source</td><td>Hedges g</td><td>SE</td><td>Variance (95% CI)</td></tr><tr><td>Fleming et al, 38 2012</td><td>-0.34</td><td>0.37</td><td>0.14 (-1.07 to 0.39)</td></tr><tr><td>Knox et al, 39 2011</td><td>0.27</td><td>0.40</td><td>0.16 (-0.50 to 1.05)</td></tr><tr><td>McCashin et al,40 2021</td><td>0.18</td><td>0.22</td><td>0.05 (-0.26 to 0.61)</td></tr><tr><td>Merry et al, 41 2012</td><td>0.24</td><td>0.15</td><td>0.02 (-0.05 to 0.52)</td></tr><tr><td>Perry et al, 42 2017</td><td>0.05</td><td>0.09</td><td>0.01 (-0.13 to 0.21)</td></tr><tr><td>Sanchez et al,45 2017</td><td>0.06</td><td>0.24</td><td>0.06 (-0.40 to 0.53)</td></tr><tr><td>Scholten et al, 46 2016</td><td>0.03</td><td>0.17</td><td>0.03 (-0.30 to 0.36)</td></tr><tr><td>Schoneveld et al, 47 2016</td><td>0.21</td><td>0.17</td><td>0.03 (-0.13 to 0.54)</td></tr><tr><td>Schoneveld et al, 48 2018</td><td>-0.03</td><td>0.15</td><td>0.02 (-0.33 to 0.26)</td></tr><tr><td>Schuurmans et al, 49 2018</td><td>0.40</td><td>0.33</td><td>0.11 (-0.24 to 1.05)</td></tr><tr><td>Tsui et al, 50 2021</td><td>0.07</td><td>0.19</td><td>0.03 (-0.30 to 0.43)</td></tr><tr><td>Wijnhoven et al, 51 2020</td><td>-0.12</td><td>0.19</td><td>0.04 (-0.49 to 0.26)</td></tr><tr><td>Pooled</td><td>0.07</td><td>0.05</td><td>0.00 (-0.02 to 0.17)</td></tr></table>
+
+![](images/e7a4c96804aa9b82c79489aef37ef4150d158216f7d57e81cf92f0e2caa5077b.jpg)
+
+![](images/0361563ffce36efee1a4b8250a55c69889facd37ef1713f030c893c7a78d752f.jpg)
+
+![](images/ef426d571b3f259926941b319bad37a8da8795f6bb1c307bd3f9ca54b941d88f.jpg)
+
+ADHD indicates attention-deficit/hyperactivity disorder.
+
+year, comparison conditions, or outcome measures (Table 3; eResults in Supplement 1). Finally, risk of bias did not significantly influence treatment effects, with little difference found between RCTs with high concerns $( k , 2 ; g , 0 . 2 6 )$ , some concerns $( k , 2 g , 0 . 2 4 )$ ), and low concerns $( k , 5 ;$ ; g, 0.26).
+
+# Anxiety Efficacy Outcomes
+
+The random-effects meta-analysis found a small non-significant effect of gamified DMHIs on anxiety outcomes compared to control conditions $( g , 0 . 0 7$ ; $9 5 \%$ CI, $- 0 . 0 2$ to 0.17; $z _ { i }$ , 1.48; $P < . 1 4 )$ (Figure 2C). Visual inspection of the forest plot, Q statistic, and $I ^ { 2 }$ statistic identified little heterogeneity $( Q _ { 1 1 } = 6 . 2 5 ; P = . 8 6 ; I ^ { 2 } =$
+
+# Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 09/24/2024
+
+$0 \%$ ). Visual inspection of the funnel plot and Egger test for bias $( t _ { 1 0 } = 0 . 3 5 ; P = . 7 3 )$ did not suggest publication bias was present.
+
+# Anxiety Moderator Outcomes
+
+# Participant Characteristics
+
+There were no significant associations between participant characteristics (eg, age and biological sex) and treatment effects on anxiety outcomes (Table 3). Similarly, there were no differences between participants with clinically significant symptoms $( k , 9 ; g , 0 . 1 0 )$ ) and those without $( k , 3 ; g , 0 . 0 3 )$ ) (Table 3).
+
+# Intervention Characteristics
+
+There was no significant association between treatment duration and therapeutic effects (Table 3). Additionally, there was no significant difference between specific DMHIs for anxiety (Table 3; eResults in Supplement 1). Furthermore, there was no significant difference between DMHIs that imposed a time limit $( k , 9 ; g , 0 . 0 4 )$ ) compared to DMHIs that did not $( k , 3 ; g ,$ , 0.19). Finally, there were no differences between DMHIs that were aesthetically sophisticated $( k , 7 ; g , 0 . 0 9 )$ or accessible to the public $( k , 4 ; g , 0 . 0 8 )$ ), compared to those DMHIS that were not aesthetically sophisticated $( k , 5 ; g , 0 . 0 5 )$ or inaccessible to the public $( k , 8 ; g , 0 . 0 6 )$ .
+
+# Trial Design Characteristics
+
+There were no significant associations between treatment effects and either sample size, attrition, publication year, comparison conditions, or outcome measures (Table 3; eResults in Supplement 1). Finally, risk of bias did not significantly influence treatment effects, with little descriptive difference between RCTs with high concerns $( k , 2 ; g , 0 . 0 6 )$ , some concerns $( k , 3 ; g , 0 . 0 1 )$ , and low concerns $( k , 7 ; g , 0 . 1 1 )$ .
+
+# Discussion
+
+This systematic review and meta-analysis examined the therapeutic effects of gamified DMHIs for pediatric anxiety, depression, and ADHD and explored moderators of treatment effects. A modest therapeutic effect of gamified DMHIs was identified for both ADHD and depression outcomes $( g , 0 . 2 8 )$ but not for anxiety outcomes $( g , 0 . 0 7 )$ ). Several DMHI moderators were identified for ADHD and depression outcomes.
+
+First, sex differences in treatment effects were observed for ADHD, with RCTs that had more male participants having larger effects. On one hand, this is consistent with literature identifying sex differences in the phenomenology, clinical presentation, and neurobiology of female individuals with ADHD.52,53 On the other hand, this finding may be less influenced by underlying neurobiological sex differences but rather the specific gamification approaches used in DMHIs to promote engagement. For instance, gamified DMHIs for ADHD used action and driving games that may appeal more to some patients who have an interest in engaging with those types of games. Further research is needed to elucidate the cause of the discrepancy in treatment effects to optimize therapeutic outcomes for female individuals with ADHD.
+
+Second, computer-based delivery—compared to other modalities such as tablets or videogame consoles—produced larger treatment effects for ADHD. Given the proliferation of mobile Health applications for mental health, it is important to consider possible reasons for this finding. For instance, the context in which gamified DMHIs are used may influence outcomes. In these RCTs, computers were stationary and often placed in environments with limited distractions (eg, a desktop or laptop in a quiet room with a research assistant nearby). Meanwhile, tablets can be used in a variety of settings (eg, home, in the backseat of a car, and waiting rooms of physicians’ offices) that have a higher likelihood of distraction. Similarly, the other intervention characteristics, such as imposing time limits on the use of gamified DMHIs, were associated with larger treatment effects for depression—which may also lead to its delivery in contexts that used a structured approach and increased focus on DMHI content. Thus, it may be important to balance the accessibility of gamified DMHIs alongside contextual factors (eg, setting and time limits) to optimize clinical outcomes.
+
+Current gamified DMHIs did not produce significant benefit for anxiety severity. Given that DMHIs show modest benefit for adults with anxiety,18 it is worth considering whether gamified DMHIs use the optimal approach to delivering therapeutic components or whether therapists and other expert health care professionals are needed to deliver these therapeutic components (eg, exposure therapy). Intervention (eg, DMHI game design) or trial design characteristics may have affected findings (eg, using the Spence Children’s Anxiety Scale as the outcome measure and robust comparison conditions). As many DMHIs were not publicly accessible, further investigations will necessitate collaborative academic-industry partnerships. which can leverage collaborative expertise (eg, game design, computer programming, and evidence-based treatments) to develop, design, and test empirically informed DMHIs for youth.
+
+# Limitations
+
+This report is not without limitations. First, most RCTs used parent- or child-reported outcome measures. While psychometrically valid, a multimodal assessment that incorporates independent evaluator ratings would reduce risk of bias. Additionally, there were limited characteristics available for inclusion across RCTs. Thus, there may be unexamined factors that could also influence treatment effects (eg, participants’ engagement, digital literacy, skill learning assessment, and social determinants).54
+
+# Conclusions
+
+Our work identified several areas for future research and highlights the need for establishing reporting guidelines for RCTs on DMHIs in youth.54 First, adverse effects from gamified DMHIs were largely unreported across RCTs, which is a concern due to emerging research suggesting some negative effects from screen time for youth.55,56 Furthermore, minimal information was available about data safety and privacy policies
+
+# Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 09/24/2024
+
+for gamified DMHIs (eg, who has access to users’ data and for what purposes). It will be important for future RCTs to report adverse effects and consider data safety (or data privacy policies) before incorporating gamified DMHIs into clinical practice.
+
+Second, there was inconsistent reporting of concurrent pharmacotherapy and psychotherapy across RCTs. As gamified DMHIs can play an important role in the continuum of pediatric mental health care, this is important information. Future RCTs should report concurrent pharmacological and psychotherapeutic interventions received by participants during study participation, which can provide insight into the effects of DMHIs as stand-alone or adjunctive therapies. Third, although most RCTs reported the intervention duration, participants’ level of engagement with DMHIs was absent (eg, average or total time interacting with DMHI over the intervention period). This can provide essential information on the dose of DMHIs, which can provide insights into whether the total use (or screen time) relates to treatment outcomes or adverse effects. Furthermore, when reporting information on DMHI dose (eg, engagement and duration), it will be important to consider the context and settings in which DMHIs are used as well—which can moderate DMHI treatment effects. Finally, it will be important to monitor the efficacy, safety profile, and dose of DMHIs over the short term and long term. This should provide greater insight into the lasting effects of DMHIs, which is important for adoption in clinical practice.
+
+In summary, our findings demonstrated that gamified DHMIs are modestly efficacious for children and adolescents with ADHD or depression. While moderators of treatment effects provide initial insights to optimize clinical outcomes, several questions remain that warrant future investigation. Addressing these questions is particularly important, as most commercially available DMHIs remain untested in RCTs.57
+
+# ARTICLE INFORMATION
+
+# Accepted for Publication: June 26, 2024.
+
+Published Online: September 23, 2024. doi:10.1001/jamapediatrics.2024.3139
+
+Author Contributions: Drs Bryant and McGuire had full access to all the data in the study and take responsibility for the integrity of the data and accuracy of the data analysis.   
+Concept and design: Bryant, McGuire.   
+Acquisition, analysis, or interpretation of data: All authors.   
+Drafting of the manuscript: All authors.   
+Critical review of the manuscript for important intellectual content: Bryant, McGuire.   
+Statistical analysis: McGuire.   
+Administrative, technical, or material support: McGuire.   
+Supervision: Bryant, McGuire.
+
+Conflict of Interest Disclosures: Dr McGuire reported grants from the National Institutes of Health, Tourette Association of America, and Misophonia Research Fund and personal fees from Emalex Biosciences, Syneos Health, Noema Pharma, Elsevier, and Springer Nature outside the submitted work. No other disclosures were reported.
+
+Disclaimer: The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health.
+
+# Data Sharing Statement: See Supplement 2.
+
+Additional Contributions: The authors would like to express their appreciation to the study investigators for their responsiveness and assistance in obtaining data not published in their original article.
+
+# REFERENCES
+
+1. Bethell CD, Garner AS, Gombojav N, Blackwell C, Heller L, Mendelson T. Social and relational health risks and common mental health problems among US children: the mitigating role of family resilience and connection to promote positive socioemotional and school-related outcomes. Child Adolesc Psychiatr Clin N Am. 2022;31(1):45-70. doi:10.1016/ j.chc.2021.08.001
+
+3. Langley AK, Falk A, Peris T, et al. The child anxiety impact scale: examining parent- and child-reported impairment in child anxiety disorders. J Clin Child Adolesc Psychol. 2014;43(4): 579-591. doi:10.1080/15374416.2013.817311
+
+4. Pine DS, Cohen P, Gurley D, Brook J, Ma Y. The risk for early-adulthood anxiety and depressive disorders in adolescents with anxiety and depressive disorders. Arch Gen Psychiatry. 1998;55 (1):56-64. doi:10.1001/archpsyc.55.1.56
+
+5. Allen KB, Benningfield M, Blackford JU. Childhood anxiety-if we know so much, why are we doing so little? JAMA Psychiatry. 2020;77(9):887- 888. doi:10.1001/jamapsychiatry.2020.0585
+
+6. Walkup JT, Albano AM, Piacentini J, et al. Cognitive behavioral therapy, sertraline, or a combination in childhood anxiety. N Engl J Med. 2008;359(26):2753-2766. doi:10.1056/ NEJMoa0804633
+
+7. Jensen PS; The MTA Cooperative Group. Multimodal Treatment Study of Children with ADHD. A 14-month randomized clinical trial of treatment strategies for attention-deficit/ hyperactivity disorder. Arch Gen Psychiatry. 1999; 56(12):1073-1086. doi:10.1001/archpsyc.56.12.1073
+
+8. March J, Silva S, Petrycki S, et al; Treatment for Adolescents With Depression Study (TADS) Team. Fluoxetine, cognitive-behavioral therapy, and their combination for adolescents with depression: Treatment for Adolescents With Depression Study (TADS) randomized controlled trial. JAMA. 2004; 292(7):807-820. doi:10.1001/jama.292.7.807
+
+9. Michelson D, Faries D, Wernicke J, et al; Atomoxetine ADHD Study Group. Atomoxetine in the treatment of children and adolescents with attention-deficit/hyperactivity disorder: a randomized, placebo-controlled, dose-response study. Pediatrics. 2001;108(5):E83. doi:10.1542/ peds.108.5.e83
+
+10. Sun CF, Correll CU, Trestman RL, et al. Low availability, long wait times, and high geographic disparity of psychiatric outpatient care in the US.
+
+Gen Hosp Psychiatry. 2023;84:12-17. doi:10.1016/ j.genhosppsych.2023.05.012
+
+11. Wang J, Knitter AC, Staab EM, et al. Association between wait time and behavioral health appointment attendance across patient characteristics. Psychol Serv. 2023;20(4):983-987. doi:10.1037/ser0000768
+
+12. Phillips MS, Steelesmith DL, Campo JV, Pradhan T, Fontanella CA. Factors associated with multiple psychiatric readmissions for youth with mood disorders. J Am Acad Child Adolesc Psychiatry. 2020;59(5):619-631. doi:10.1016/j.jaac.2019.05.024
+
+13. Federal Register. Second temporary extension of COVID-19 telemedicine flexibilities for prescription of controlled medications. Accessed May 23, 2024. https://www.federalregister.gov/ documents/2023/10/10/2023-22406/secondtemporary-extension-of-covid-19-telemedicineflexibilities-for-prescription-of-controlled
+
+14. Kazdin AE, Blase SL. Rebooting psychotherapy research and practice to reduce the burden of mental illness. Perspect Psychol Sci. 2011;6(1):21-37. doi:10.1177/1745691610393527
+
+15. Weersing VR, Brent DA, Rozenman MS, et al. Brief behavioral therapy for pediatric anxiety and depression in primary care: a randomized clinical trial. JAMA Psychiatry. 2017;74(6):571-578. doi:10.1001/jamapsychiatry.2017.0429
+
+16. Hughes PM, Annis IE, McGrath RE, Thomas KC. Psychotropic medication prescribing across medical providers, 2016-2019. Psychiatr Serv. 2024;75(5): 477-480. doi:10.1176/appi.ps.20230156
+
+17. Gega L, Jankovic D, Saramago P, et al. Digital interventions in mental health: evidence syntheses and economic modelling. Health Technol Assess. 2022;26(1):1-182. doi:10.3310/RCTI6942
+
+18. Seegan PL, Miller MJ, Heliste JL, Fathi L, McGuire JF. Efficacy of stand-alone digital mental health applications for anxiety and depression: a meta-analysis of randomized controlled trials. J Psychiatr Res. 2023;164:171-183. doi:10.1016/ j.jpsychires.2023.06.019
+
+19. Weisel KK, Fuhrmann LM, Berking M, Baumeister H, Cuijpers P, Ebert DD. Standalone smartphone apps for mental health—a systematic review and meta-analysis. NPJ Digit Med. 2019;2(1): 118. doi:10.1038/s41746-019-0188-8
+
+20. Mohr DC, Riper H, Schueller SM. A solution-focused research approach to achieve an implementable revolution in digital mental health. JAMA Psychiatry. 2018;75(2):113-114. doi:10.1001/ jamapsychiatry.2017.3838
+
+21. Merriam-Webster. Gamification definition & meaning. Accessed March 19, 2024. https://www. merriam-webster.com/dictionary/gamification
+
+22. Mensa-Kwao A, Cuc IS, Concepcion T, et al. A mixed methods analysis of youth mental health intervention feasibility and acceptability in a North American city: Perspectives from Seattle, Washington. PLoS One. 2024;19(3):e0288214. doi:10.1371/journal.pone.0288214
+
+23. Dovis S, van der Oord S, Wiers RW, Prins PJM. Improving executive functioning in children with ADHD: training multiple executive functions within the context of a computer game. a randomized double-blind placebo controlled trial. PLoS One. 2015;10(4):e0121651. doi:10.1371/journal.pone. 0121651
+
+24. Sterne JAC, Savović J, Page MJ, et al. RoB 2: a revised tool for assessing risk of bias in randomised trials. BMJ. 2019;366:l4898. doi:10.1136/bmj.l4898
+
+25. Borenstein M, Hedges LV, Higgins JPT, Rothstein HR, eds. Introduction to Meta-Analysis. 2nd ed. Wiley; 2021. https://www.wiley.com/en-us/ Introduction+to+Meta+Analysis%2C+2nd+Editionp-9781119558354
+
+26. Borenstein M. Effect sizes for continuous data. In: Cooper H, Hedges LV, Valentine JC, eds. The Handbook of Research Synthesis and Meta-Analysis. 2nd ed. Russell Sage Foundation; 2009:221-235.
+
+27. Bikic A, Leckman JF, Christensen TØ, Bilenberg N, Dalsgaard S. Attention and executive functions computer training for attention-deficit/ hyperactivity disorder (ADHD): results from a randomized, controlled trial. Eur Child Adolesc Psychiatry. 2018;27(12):1563-1574. doi:10.1007/ s00787-018-1151-y
+
+28. García-Redondo P, García T, Areces D, Núñez JC, Rodríguez C. Serious games and their effect improving attention in students with learning disabilities. Int J Environ Res Public Health. 2019;16 (14):2480. doi:10.3390/ijerph16142480
+
+29. Kim SC, Lee H, Lee HS, Kim G, Song JH. Adjuvant therapy for attention in children with ADHD using game-type digital therapy. Int J Environ Res Public Health. 2022;19(22):14982. doi:10.3390/ijerph192214982
+
+30. Kollins SH, DeLoss DJ, Cañadas E, et al. A novel digital intervention for actively reducing severity of paediatric ADHD (STARS-ADHD): a randomised controlled trial. Lancet Digit Health. 2020;2(4): e168-e178. doi:10.1016/S2589-7500(20)30017-0
+
+31. McDermott AF, Rose M, Norris T, Gordon E. A novel feed-forward modeling system leads to sustained improvements in attention and academic performance. J Atten Disord. 2020;24(10):1443-1456. doi:10.1177/1087054715623044
+
+32. Rajabi S, Pakize A, Moradi N. Effect of combined neurofeedback and game-based cognitive training on the treatment of ADHD: a randomized controlled study. Appl Neuropsychol Child. 2020;9(3):193-205. doi:10.1080/21622965. 2018.1556101
+
+33. van der Oord S, Ponsioen AJGB, Geurts HM, Ten Brink EL, Prins PJM. A pilot study of the efficacy of a computerized executive functioning remediation training with game elements for
+
+children with ADHD in an outpatient setting: outcome on parent- and teacher-rated executive functioning and ADHD behavior. J Atten Disord. 2014;18(8):699-712. doi:10.1177/1087054712453167
+
+34. Wang J, Bao M, Li W, et al. A digital gaming intervention combing multitasking and alternating attention for ADHD: a preliminary study. In: Ying X, ed. Human Brain and Artificial Intelligence. HBAI 2022. Communications in Computer and Information Science, vol 1692. Springer; 2023:208- 219. doi:10.1007/978-981-19-8222-4_18
+
+35. Yerys BE, Bertollo JR, Kenworthy L, et al. Brief report: pilot study of a novel interactive digital treatment to improve cognitive control in children with autism spectrum disorder and co-occurring ADHD symptoms. J Autism Dev Disord. 2019;49(4): 1727-1737. doi:10.1007/s10803-018-3856-7
+
+36. Bohr Y, Litwin L, Hankey JR, et al. Evaluating the utility of a psychoeducational serious game (SPARX) in protecting Inuit youth from depression: pilot randomized controlled trial. JMIR Serious Games. 2023;11:e38493. doi:10.2196/38493
+
+37. David OA, Cardoș RAI, Matu S. Is REThink therapeutic game effective in preventing emotional disorders in children and adolescents? outcomes of a randomized clinical trial. Eur Child Adolesc Psychiatry. 2019;28(1):111-122. doi:10.1007/s00787- 018-1192-2
+
+38. Fleming T, Dixon R, Frampton C, Merry S. A pragmatic randomized controlled trial of computerized CBT (SPARX) for symptoms of depression among adolescents excluded from mainstream education. Behav Cogn Psychother. 2012;40(5):529-541. doi:10.1017/ S1352465811000695
+
+39. Knox M, Lentini J, Cummings TS, McGrady A, Whearty K, Sancrant L. Game-based biofeedback for paediatric anxiety and depression. Ment Health Fam Med. 2011;8(3):195-203.
+
+40. McCashin D, Coyle D, O’Reilly G. Pesky gNATs for children experiencing low mood and anxiety— a pragmatic randomised controlled trial of technology-assisted CBT in primary care. Internet Interv. 2021;27:100489. doi:10.1016/j.invent.2021. 100489
+
+41. Merry SN, Stasiak K, Shepherd M, Frampton C, Fleming T, Lucassen MFG. The effectiveness of SPARX, a computerised self help intervention for adolescents seeking help for depression: randomised controlled non-inferiority trial. BMJ. 2012;344(7857):e2598. doi:10.1136/bmj.e2598
+
+42. Perry Y, Werner-Seidler A, Calear A, et al. Preventing depression in final year secondary students: school-based randomized controlled trial. J Med Internet Res. 2017;19(11):e369. doi:10.2196/ jmir.8241
+
+43. Poppelaars M, Tak YR, Lichtwarck-Aschoff A, et al. A randomized controlled trial comparing two cognitive-behavioral programs for adolescent girls with subclinical depression: a school-based program (Op Volle Kracht) and a computerized program (SPARX). Behav Res Ther. 2016;80:33-42. doi:10.1016/j.brat.2016.03.005
+
+44. Poppelaars M, Lichtwarck-Aschoff A, Otten R, Granic I. Can a commercial video game prevent depression? null results and whole sample action mechanisms in a randomized controlled trial. Front Psychol. 2021;11:575962. doi:10.3389/fpsyg. 2020.575962
+
+45. Sanchez R, Brown E, Kocher K, DeRosier M. Improving children’s mental health with a digital social skills development game: a randomized controlled efficacy trial of adventures aboard the S.S. GRIN. Games Health J. 2017;6(1):19-27. doi:10.1089/g4h.2015.0108
+
+46. Scholten H, Malmberg M, Lobel A, Engels RCME, Granic I. A randomized controlled trial to test the effectiveness of an immersive 3D video game for anxiety prevention among adolescents. PLoS One. 2016;11(1):e0147763. doi:10.1371/journal. pone.0147763
+
+47. Schoneveld EA, Malmberg M, Lichtwarck-Aschoff A, Verheijen GP, Engels RCME, Granic I. A neurofeedback video game (MindLight) to prevent anxiety in children: a randomized controlled trial. Comput Human Behav. 2016;63: 321-333. doi:10.1016/j.chb.2016.05.005
+
+48. Schoneveld EA, Lichtwarck-Aschoff A, Granic I. Preventing childhood anxiety disorders: is an applied game as effective as a cognitive behavioral therapy-based program? Prev Sci. 2018;19(2):220- 232. doi:10.1007/s11121-017-0843-8
+
+49. Schuurmans AAT, Nijhof KS, Engels RCME, Granic I. Using a videogame intervention to reduce anxiety and externalizing problems among youths in residential care: an initial randomized controlled trial. J Psychopathol Behav Assess. 2018;40(2):344- 354. doi:10.1007/s10862-017-9638-2
+
+50. Tsui TYL, DeFrance K, Khalid-Khan S, Granic I, Hollenstein T. Reductions of anxiety symptoms, state anxiety, and anxious arousal in youth playing the videogame MindLight compared to online cognitive behavioral therapy. Games Health J. 2021; 10(5):330-338. doi:10.1089/g4h.2020.0083
+
+51. Wijnhoven LAMW, Creemers DHM, Vermulst AA, et al. Effects of the video game ‘Mindlight’ on anxiety of children with an autism spectrum disorder: a randomized controlled trial. J Behav Ther Exp Psychiatry. 2020;68:101548. doi:10.1016/ j.jbtep.2020.101548
+
+52. Hinshaw SP, Nguyen PT, O’Grady SM, Rosenthal EA. Annual research review: attention-deficit/ hyperactivity disorder in girls and women: underrepresentation, longitudinal processes, and key directions. J Child Psychol Psychiatry. 2022;63 (4):484-496. doi:10.1111/jcpp.13480
+
+53. Hartung CM, Willcutt EG, Lahey BB, et al. Sex differences in young children who meet criteria for attention deficit hyperactivity disorder. J Clin Child Adolesc Psychol. 2002;31(4):453-464. doi:10.1207/ S15374424JCCP3104_5
+
+54. Rickard NS, Kurt P, Meade T. Systematic assessment of the quality and integrity of popular mental health smartphone apps using the American Psychiatric Association’s app evaluation model. Front Digit Health. 2022;4:1003181. doi:10.3389/ fdgth.2022.1003181
+
+55. Law EC, Han MX, Lai Z, et al. Associations between infant screen use, electroencephalography markers, and cognitive outcomes. JAMA Pediatr. 2023;177(3):311-318. doi:10.1001/ jamapediatrics.2022.5674
+
+56. Bryant BR, McGuire JF. Long-term implications of using screen time to guide care. JAMA Pediatr. 2023;177(9):979-980. doi:10.1001/jamapediatrics. 2023.1994
+
+57. Connolly SL, Hogan TP, Shimada SL, Miller CJ. Leveraging implementation science to understand factors influencing sustained use of mental health apps: a narrative review. J Technol Behav Sci. 2021;6 (2):184-196. doi:10.1007/s41347-020-00165-4
+
+# Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 09/24/2024

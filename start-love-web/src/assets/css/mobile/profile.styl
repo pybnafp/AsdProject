@@ -1,0 +1,89 @@
+.app-background {
+  height 100vh;
+  background-image: url('../../img/mobile-bg.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.mobile-user-profile {
+  .content {
+    padding-top 46px
+    padding-bottom 60px
+    .user-box {
+      border-radius: 30px;
+      box-shadow: 14px 17px 40px 0px rgba(112, 144, 176, 0.08);
+      height: 80px;
+      padding: 12px 15px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin: 8px 0;
+
+      img {
+        width: 56px;
+        height: 56px;
+        margin-right: 11px;
+        display: inline;
+        border-radius: 28px;
+      }
+
+      .nickname {
+        font-size: 16px;
+        color: #000000;
+      }
+
+      .icon-right {
+        width: 20px;
+        height: 20px;
+        font-size: 20px;
+        margin-right: 2px;
+      }
+    }
+    .menu-list-first {
+      padding: 0 15px;
+      border-radius: 15px;
+      background: #FFFFFF;
+      box-shadow: 14px 17px 40px 0px rgba(112, 144, 176, 0.08);
+      a {
+        display flex
+        justify-content space-between
+        align-items center
+        height 54px
+        font-size: 14px;
+        border-bottom: 0.5px dashed #BFBFBF;
+        :last-child {
+          border-bottom: none;
+        }
+        img {
+          width 16px;
+          height 16px;
+        }
+      }
+      a:last-child {
+        border-bottom: none;
+      }
+    }
+    .menu-list-second {
+      a {
+        display flex
+        justify-content space-between
+        align-items center
+        height 58px
+        font-size: 14px;
+        border-radius: 15px;
+        background: #FFFFFF;
+        box-shadow: 14px 17px 40px 0px rgba(112, 144, 176, 0.08);
+        padding: 0 15px;
+        margin-top 12px;
+
+        img {
+          width 16px;
+          height 16px;
+        }
+      }
+    }
+  }
+}
+:deep(.van-nav-bar__title) {
+  margin 0;
+}

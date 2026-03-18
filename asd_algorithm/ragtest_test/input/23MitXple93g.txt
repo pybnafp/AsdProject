@@ -1,0 +1,254 @@
+# JAMA Psychiatry |Original Investigation
+
+# Continuation of Antidepressants vs Sequential Psychological Interventions to Prevent Relapse in Depression An Individual Participant Data Meta-analysis
+
+e SF Caie a ikCu
+
+IMPorTANcE Depression frequently recurs. To prevent relapse, antidepressant medication is often taken in the long term. Sequentially delivering a psychological intervention while undergoing tapering of antidepressant medication might be an alternative to long-term antidepressant use. However, evidence is lacking on which patients may benefit from tapering antidepressant medication while receiving a psychological intervention and which should continue the antidepressant therapy. A meta-analysis of individual patient data with more power and precision than individual randomized clinical trials or a standard meta-analysis is warranted.
+
+OBJEcTivEs To compare the associations between use of a psychological intervention during andorfteantidepressant tperingv antidepressant us alone n hesk elaps depression and estimate associations of individual clinical factors with relapse.
+
+DATA souRcEs PubMed, the Cochrane Library, Embase, and Psyclnfo were last searched on January 23, 2021. Requests for individual participant data from included randomized clinical trials (RCTs) were sent.
+
+STUDY sELEcTioN Randomized clinical trials that compared use of a psychological intervention whiapentiepressnedication wntidereanonoteap were included. Patients had to be in full or partial remission from depression. Two independent assessors conducted screening and study selection.
+
+DATA EXTRACTION AND SYNTHESIS Of 15 792 screened studies, 236 ful-text articles were retrieved, and 4 RCTs that provided individual participant data were included.
+
+MAIN oUTCoMES AND MEASURES Time to relapse and relapse status over 15 months measured via a blinded assessor using a diagnostic clinical interview.
+
+RESULTS Individual data from 714 participants (mean [SD] age, 49.2 [11.5] years; 522 $[ 7 3 . 1 \% ]$ female) from 4 RCTs that compared preventive cognitive therapy or mindfulness-based cognitive therapy during and/or after antidepressant tapering vs antidepressant monotherapy were available. Two-stage random-effects meta-analysis found no significant difference in time to depressive relapse between use of a psychological intervention during tapering of antidepressant medication vs antidepressant therapy alone (hazard ratio [HR], 0.86; $9 5 \%$ CI, 0.60-1.23). Younger age at onset (HR, 0.98; $9 5 \%$ CI, 0.97-0.99), shorter duration of remission (HR, 0.99; $9 5 \%$ CI, 0.98-1.00), and higher levels of residual depressive symptoms at baseline (HR, 1.07; $9 5 \%$ CI, 1.04-1.10) were associated with a higher overall risk of relapse. None of the included moderators were associated with risk of relapse.
+
+coNCLusIoNs AND RELEVANCE The findings of this individual participant data meta-analysis of a psychological intervention during and/or after tapering may be an effective relapse prevention strategy instead of long-term use of antidepressants.These results could beused to inform shared decision-making in clinical practice.
+
+Author Affiliations: Department of Psychiatry, Amsterdam University Medical Center, University of Amsterdam, Amsterdam, the Netherlands (Breedvelt); Institute of Health Research, College of Medicine and Health, University of Exeter, Exeter, United Kingdom (Warren); Department of Clinical Psychological Science, University of Toronto Scarborough, Toronto, Ontario, Canada (Segal); Department of Psychiatry, University of Oxford, Oxford, United Kingdom (Kuyken); Department of Psychiatry, Amsterdam University Medical Center, University of Amsterdam, Amsterdam, the Netherlands (Bockting).
+
+Corresponding Author: Claudi L. Bockting, PhD, Department of Psychiatry, Amsterdam University Medical Center, University of Amsterdam, Meibergdreef 9, 1105 AZ Amsterdam, the Netherlands (c.I.bockting@amsterdamumc.nl).
+
+ntidepressant medication is the foremost strategy to prevent relapse or recurrence of depression.1-3 Clinical guidelines recommend antidepressants as a maintenance strategy after remission (ie, at least 2 years) for patients at high risk of relapse. 4,5 However, antidepressants have been associated with adverse effects,6,7 safety concerns,8 and an increased risk of relapse when tapering.9 For patients who wish to taper, a dilemma regarding tapering or continuing the use of antidepressants, given the associated risks (including withdrawal syndrome), remains. 10,11 Psychological interventions (eg, preventive cognitive therapy [PCT], mindfulnessbased cognitive therapy [MBCT], and well-being therapy) can be delivered sequentially after antidepressant medication for preventing relapse of depression. 12-16 Compared with antidepressants alone, these interventions can be especially protective when offered in combination with antidepressant medication,9,16-18 equally efficacious compared with antidepresnt apering,9,-ndmor effctiv t preventig re lapse when added to tapering.18-20 Moreover, the sequential integration of psychological interventions delivered after response to short-term antidepressant therapy was recently confirmed to be effective at reducing the risk of relapse in depression.18 To date, there is no conclusive empirical evidence to support the clinical decision-making process, that is, whether to taper or continue use of antidepressants and for which patients.
+
+Personalized medicine allows for the improvement of treatment outcomes based on clinical and demographic patient characteristics.21 However, in the case of recurrent depression, attempts to identify moderators or predictors associated with outcomes use individual randomized clinical trials (RCTs), meta-analyses, or narrative reviews. 12,22-26 The clinical value of meta-analyses is limited because they only summarize aggregate data, without allowing the differentiation of different patient profiles and treatment responses.27 By pooling individual RCT data, an individual participant data meta-analysis (IPDMA) offers more power and precision than anindividual trial or meta-analysis.28,29 This study uses an IPDMA to assess whether and for whom the sequential delivery of a psychological intervention during or after antidepressant tapering may be an alternative to antidepressant medication alone.
+
+# Key Points
+
+Question Can a psychological intervention be an alternative to antidepressant medication?
+
+Findings This individual participant data meta-analysis of 4 trials that included 714 participants found no evidence of a difference in relapse risk associated with a psychological intervention during and/or after tapering antidepressant medication vs continuing antidepressant monotherapy during 15 months of follow-up and no associations of differential treatment with relapse across potential risk factors for relapse.
+
+MeaningThis individual participant data meta-analysis suggests that delivering a psychological intervention while a patient undergoes antidepressant tapering may be an alternative to long-term use of antidepressants in the treatment of recurrent depression.
+
+(C.L.B.). The study was registered with the International Prospective Register of Systematic Reviews (PROSPERO) (CRD42019128056). This study followed the Preferred Reporting Items for Systematic Reviews and Meta-analyses (PRISMA) reporting guideline.30
+
+# Data Collection
+
+First authors of eligible articles were contacted from February 1, 2018, onward to request data sharing. If we did not receive a response after at least 3 reminders, we recorded that data were not available.
+
+Predetermined sociodemographic and clinical characteristics based on the previous literature12,22,26 were requested (eTable 2 in the Supplement). Participant characteristics were included if at least $4 0 \%$ of data were available in at least 3 studies.31 We included 10 predefined sociodemographic and clinical characteristics: age, age at onset of depression, relationship status, number of therapy sessions attended, sex, presence of a comorbid psychiatric disorder, number of previous depressive episodes, educational attainment, months in remission, and baseline residual depressive symptoms measured with the Hamilton Depression Rating Scale (HDRS). 32
+
+Two researchers independently assessed the risk of bias using the Cochrane Collaboration tool.3 Only data that were published in the full-text article were reviewed.
+
+# Methods
+
+# Study Sample and Procedures
+
+Studies of adults (18-65 years of age) with depression fully or partially in remission were included. Randomized clinical trials that compared a preventive psychological intervention while patients were tapering antidepressants with antidepressant monotherapy were included. Searches were last conducted on January 23, 2021, through PubMed, Embase, PsycInfo, and Cochrane Library. For PubMed search strings, see eTable 1 in the Supplement. Five researchers (including J.J.F.B. and C.L.B.) independently screened titles and abstracts. Full texts were screened by 2 researchers (including J.J.F.B.), with disagreements resolved by consultation with another researcher
+
+# IPDMA
+
+Relapse of depression was measured via a diagnostic interview (ie, Structured Clinical Interview for DSM-IV Axis I disorders).34 The primary outcome was time (weeks) to depressive relapse. The study with the shortest follow-up time data available determined the time to follow-up. Data from studies with a longer follow-up were truncated at the selected follow-up time to manage differential time frames available for relapse rates. One study35 had a 15-month follow-up time. Three trials17,36,37 were right-censored because their follow-up was 18 or 24 months. Stata software, version 14 (StataCorp LLC) was used for 1- and 2-stage random-effects IPDMA. 38 Hypothesis tests were 2-sided. Heterogeneity was assessed with the $I ^ { 2 }$ statistic in the 2-stage models; a $9 5 \%$ CI was calculated using the heterogi command. One pairwise comparison was tested: psychological intervention during and/or after tapering antidepressants (intervention) vs antidepressant medication alone (control).
+
+![](images/e3f3e251402d9263ef6014961d07530909a42673dc205ae68c204b5ff1cc4d24.jpg)  
+Figure 1. Flowchart of Study Selection Procedure
+
+Trials with data on relapse status and time to relapse status were included in all analyses. Patients with no data for relapse status or time to relapse recorded were excluded from the primary analysis. When studies had more than $2 0 \%$ missing outcome data (ie, no data for relapse status and/or time to relapse), we conducted a sensitivity analysis by imputing data for 2 scenarios: one favoring the intervention group and the other favoring the control group. 39 In the first scenario, participants with missing outcome data in the intervention group were coded as having had no relapse at follow-up. Participants in the control group were coded as having relapsed during the first week of the study. In the second scenario, a similar procedure was applied but then in favor of the control group. These data imputations were applied as a sensitivity analysis for the 2-stage meta-analysis that compared psychological intervention while tapering antidepressants vs antidepressants alone using observed data only.
+
+We did not assume similarity of the underlying treatment effect of psychological interventions for each study. Thus, a random-effects meta-analysis was preferred because we expected clinical heterogeneity (including different types of psychological interventions, tapering procedures, and antidepressants). For the 2-stage random-effects meta-analysis, the Hartung-Knapp-Sidik-Jonkman method was used.40
+
+A 1-stage fixed-effects analysis would be used if randomeffects analyses failed to converge. We used the metabias command to evaluate funnel plot asymmetry, which is indicative of small study effects.41 Within- and across-study interactions were separated to account for within- and across-trial study confounding. 42 Each covariate was centered within each study for the interaction terms.
+
+To assess factors associated with depression relapse, we followed these steps. First treatment status and covariate were added to a model. When the assumption of proportional hazards was not met, the variable that contributed to nonproportional hazards was added as an interaction term with time. All variables that were significant at $P < . 1 0$ were added to 1 model to establish significance when all covariates were added. Variables significant at $P < . 0 5$ were included in the final model. These variables were then included in the second phase to investigate moderating factors. A series of models were performed, each including an interaction term between treatment and the moderating covariate, as well as the additional covariates included in the final model. One model was performed for each potentially moderating factor, with each model including only 1 interaction term. Within- and across-study interactions were calculated to minimize within- and acrossstudy confounding.42 Significant interactions at $P < . 0 5$ were reported. In addition, we assessed whether there were any potential interactions between treatment and the predictors absent from the final model. That is, we created models with treatment, predictors selected in the final model, the additional predictor, and the interaction between the treatment and added predictor.
+
+# Results
+
+We identified 15 792 unique records (Figure 1), of which 236 studies were selected for full-text screening. From the 236 studies, 6 were found to fulfill the criteria, with authors of 4 studies agreeing to participate in this study. $^ { 1 7 , 3 5 - 3 7 } \mathrm { I n } 2$ studies43,44 it was not possible to retrieve the data. All 4 trials provided complete individual participant data for a total of 714 of 786 participants (mean [SD] age, 49.2 [11.5] years; 522 $[ 7 3 . 1 \% ]$ female); these data sets were checked for discrepancies with the original publications (eTable 3 in the Supplement). Two studies were conducted in the United Kingdom, 35,36 1 in Canada,37 and 1 in the Netherlands17 (Table 1; eTables 4 and 5 in the Supplement). Participants had a mean (SD) of 5.6 (3.4) previous depressive episodes. In all studies, participants had to be in remission and taking antidepressant medication prior to randomization. In 2 studies, remission was defined by patients having a maximum HDRS score of $7 ^ { 3 7 }$ or 10.17 Patients were in remission for an unspecified amount of time36 or at least $6 ^ { 1 7 , 3 5 }$ or $8 ^ { 3 7 }$ months. All included RCTs in the IPDMA used a superiority hypothesis (psychological interventions during and/or after tapering would perform better on relapse risk than antidepressants alone). Three studies35-37 compared MBCT with tapering of antidepressants vs antidepressants alone. Segal et al37 also included a placebo antidepressant medication arm, which we did not include in this IPDMA. This study found a
+
+Table 1. Baseline Demographic and Clinical Patient Characteristics   
+
+<table><tr><td>Characteristic</td><td>Participants, No. (%)</td><td>Mean (SD)</td><td>Total No. (range)</td></tr><tr><td>Female sex</td><td>522 (73.1)</td><td>NA</td><td>714 (NA)</td></tr><tr><td>Male sex</td><td>192 (26.9)</td><td>NA</td><td>714 (NA)</td></tr><tr><td>Presence of a comorbid psychiatric condition</td><td>252 (38.2)</td><td>NA</td><td>660 (NA)</td></tr><tr><td colspan="4">Marital status</td></tr><tr><td>Partner</td><td>437 (61.2)</td><td>NA</td><td>714 (NA)</td></tr><tr><td>Single</td><td>139 (19.5)</td><td>NA</td><td>714 (NA)</td></tr><tr><td>DSW</td><td>138 (19.3)</td><td>NA</td><td>714 (NA)</td></tr><tr><td colspan="4">Intervention type</td></tr><tr><td>MADM</td><td>369 (51.7)</td><td>NA</td><td>714 (NA)</td></tr><tr><td>MBCT while ADM+</td><td>287 (40.2)</td><td>NA</td><td>714 (NA)</td></tr><tr><td>PCT while ADM+</td><td>58 (8.1)</td><td>NA</td><td>714 (NA)</td></tr><tr><td colspan="4">Educational level</td></tr><tr><td>Degree</td><td>252 (35.6)</td><td>NA</td><td>707 (NA)</td></tr><tr><td>Subdegreea</td><td>378 (53.5)</td><td>NA</td><td>707 (NA)</td></tr><tr><td>No qualifications</td><td>77 (11.0)</td><td>NA</td><td>707 (NA)</td></tr><tr><td>Age, y</td><td>714 (NA)</td><td>49.2 (11.5)</td><td>714 (19-79)</td></tr><tr><td>Mean age at onset, y</td><td>708 (NA)</td><td>26.9 (12.8)</td><td>708 (4-70)</td></tr><tr><td>Previous episodes</td><td>624 (NA)</td><td>5.6 (3.4)</td><td>624 (2-40)</td></tr><tr><td>Time in remission since last episode, mo</td><td>660 (NA)</td><td>17.5 (23.5)</td><td>660 (0-178)</td></tr><tr><td>HDRS score at baseline</td><td>714 (NA)</td><td>4.5 (4.1)</td><td>714 (0-20)</td></tr></table>
+
+Abbreviations: ADM+, tapering and/or stopping antidepressant medication; DSW, divorced, separated, or widowed; HDRS, Hamilton Depression Rating Scale; MADM, maintenance antidepressant medication; MBCT, mindfulness-based cognitive therapy; NA, not applicable; PCT, preventive cognitive therapy. a Qualifications below degree level.
+
+Figure 2. Forest Plot of Random-Effects Analysis With Hazard Ratios (HRs) Comparing Psychological Intervention During and/or After Tapering vs Antidepressants   
+
+<table><tr><td colspan="6"></td></tr><tr><td>Study</td><td>No. of patients</td><td>HR (95% CI)</td><td>Favors intervention</td><td>Favors control</td><td>Weight, %</td></tr><tr><td>Bockting et al,17 2018</td><td>PCT+/ADM =58; ADM =77</td><td>1.16 (0.73-1.85)</td><td></td><td>•</td><td>22.07</td></tr><tr><td>Kuyken et al, 35 2008</td><td>MBCT+/ADM =61; ADM =61</td><td>0.68 (0.42-1.11)</td><td>•</td><td></td><td>20.17</td></tr><tr><td>Kuyken et al, 36 2015</td><td>MBCT+/ADM =200; ADM = 202</td><td>0.83 (0.61-1.13)</td><td></td><td></td><td>50.74</td></tr><tr><td>Segal et al, 37 2010</td><td>MBCT+/ADM = 26; ADM = 28</td><td>0.84 (0.37-1.92)</td><td></td><td></td><td>7.02</td></tr><tr><td>Overall 12=0.0%</td><td></td><td>0.86 (0.60-1.23)</td><td></td><td></td><td>100.0</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>n</td></tr><tr><td></td><td></td><td>0.3</td><td></td><td>1</td><td>2</td></tr><tr><td></td><td></td><td></td><td>HR (95% CI)</td><td></td><td></td></tr></table>
+
+ADM indicates antidepressant medication; +/ADM, tapering and/or stopping ADM; MBCT, mindfulness-based cognitive therapy: PCT, preventive cognitive therapy.
+
+significant difference in reducing therisk of relapse only among unstable remitters but not stable remitters for patients randomized to antidepressants alone or MBCT while tapering antidepressants. In the study by Bockting et al,17 only the PCT during and/or after tapering antidepressants and antidepressant medication alone study arms were included. Both PCT and MBCT consisted of brief 8-weekly interventions. The PCT study did not contain any additional booster sessions,17 whereas the MBCT studies included additional booster sessions that ranged from optional monthly booster sessions37 to four 3-monthly sessions35,36 (eTable 5 in the Supplement). In the 3 studies that provided data suitable for comparison,17,35,37 most of the patients (269 of 361 participants; $7 5 \%$ were taking selective serotonin reuptake inhibitors at study baseline, and patients were instructed to taper gradually (between 4 weeks and 6 months) (eTable 7 in the Supplement). Risk of bias ratings were low in all studies (eTable 6 in the Supplement), with all studies reporting independent outcome assessments. Participants and personnel who delivered the intervention were not masked to condition, resulting in a high risk of bias in this category for all studies.
+
+# Random-Effects vs Fixed-Effects Models
+
+Two-stage IPDMAs using random effects and fixed effects were conducted. Both models produced similar results, which was expected given the low $I ^ { 2 }$ value. The 2-stage random-effects model of 712 participants with 325 relapses yielded a hazard ratio (HR) of 0.86 ( $9 5 \%$ CI, 0.60-1.23; $I ^ { 2 } = 0 \% ; P = . 2 7 )$ , and the fixed-effects model of 712 participants with 325 relapses yielded an HR of 0.86 $9 5 \%$ CI, 0.69-1.07; $I ^ { 2 } = 0 \% ; P = . 1 8 )$ (Figure 2 and Table 2). Similar results were found using the 1-stage Cox regression model (HR, 0.85; $9 5 \%$ CI, 0.69-1.07). However, the random-effects model failed to converge for the 1-stage analysis, possibly because of the low between-study heterogeneity $( \tau ^ { 2 } = 0 )$ . A funnel plot was used to look for evidence of asymmetry (eFigure in the Supplement); no evidence of asymmetry was observed, but with only 4 included studies, interpretation is limited. For studies with more than $2 0 \%$ missing outcome data, we conducted a sensitivity analysis that favored the intervention group or control group in 2 different scenarios. Using imputed data from the study by Bockting et al,17 favoring the treatment group produced a pooled estimate for HR of 0.67 $9 5 \%$ CI, 0.51-0.89); favoring the control group produced an HR of 1.07 $9 5 \%$ CI, 0.56-2.07).
+
+Table 2. Findings of the Study Models   
+
+<table><tr><td>Model</td><td>HR (95% CI)</td><td>P value</td></tr><tr><td>2-Stage fixed effects</td><td></td><td></td></tr><tr><td>ADM</td><td>1 [Reference]</td><td>.18</td></tr><tr><td>Condition</td><td>0.86 (0.69-1.07)</td><td></td></tr><tr><td>2-Stage random effects</td><td></td><td></td></tr><tr><td>ADM</td><td>1 [Reference]</td><td>.27</td></tr><tr><td>Condition</td><td>0.86 (0.60-1.23)</td><td></td></tr><tr><td>Cox proportional hazards regression model predictorsa</td><td></td><td></td></tr><tr><td>Treatment</td><td>0.86 (0.68-1.08)</td><td>.19</td></tr><tr><td>Age at onset</td><td>0.98 (0.97-0.99)</td><td>.001</td></tr><tr><td>Months in remission since last episode</td><td>0.99 (0.98-1.00)</td><td>.003</td></tr><tr><td>HDRS baseline score</td><td>1.07 (1.04-1.10)</td><td>&lt;.001</td></tr></table>
+
+Abbreviations: ADM, antidepressant medication; HR, hazard ratio; HDRS, Hamilton Depression Rating Scale. a Based on 656 participants and 302 relapses; Cox proportional hazards regression model was stratified by study identification number.
+
+# Association of Patient Characteristics With Outcomes of Relapse Prevention Strategies
+
+Fixed-effects 1-stage models were used for clinical and demographic factor analyses, given the low heterogeneity among studies. We studied 10 predefined sociodemographic and clinical factors: age, age at onset of depression, relationship status, educational attainment, sex, number of previous depressive episodes, number of therapy sessions attended, months in remission, presence of a comorbid psychiatric disorder, and residual depressive symptoms at study baseline measured with the HDRS. 32 Baseline implies the point of randomization into the respective relapse prevention intervention. Among these, age at onset, marital status, number of sessions, number of previous episodes, months in remission, comorbid psychiatric disorder, and baseline depressive symptoms were individually significantly associated with time to relapse when included in a model with treatment only at $P < . 1 0$ .
+
+Number of previous episodes, comorbid psychiatric disorder, and marital status were no longer significant at $P < . 0 5$ when treatment status plus significant variables at I $^ { ) } <$ .10 were controlled for. Thus, the remaining variables included in the final model were months in remission, age at onset, and residual depressive symptoms at baseline measured with HDRS (Table 2).32
+
+The proportional hazards assumption was not violated in any of these comparisons at $P < . 0 5 ,$ When nonsignificant covariates were added back into the model, none were significant. The within-study and across-study interaction with treatment and each predictor were added individually to the final model with significant covariates (age at onset, baseline depressive symptoms, and months in remission). This method was used to assess their potential interaction with treatment on time to relapse; none of those had a significant interaction with either relapse prevention strategy (ie, psychological intervention during and/or after tapering or antidepressant continuation).
+
+# Discussion
+
+This independent patient data meta-analysis found no evidence of a differential treatment effect between receiving a sequential psychological intervention while tapering antidepressant medication vs continued use of antidepressant monotherapy, regardless of a range of possibly associated factors during a 15-month follow-up. In addition, no significant moderators associated with relapse risk were found. This is the first IPDMA, to our knowledge, to assess what approach works for which patients in tapering or continuing the use of antidepressants in recurrent depression. This study offers initial evidence to suggest that, for instance, even when patients have high depressive residual symptoms or experienced a high number of previous depressive episodes, adding a psychological intervention to tapering does not appear to increase the risk of relapse. This IPDMA found that residual depressive symptoms and younger age at onset increased risk of relapse, whereas more time spent in remission decreased it.
+
+In terms of clinical implications, these results suggest that even for patients with a poor clinical prognosis, it may be possible to recommend offering PCT or MBCT during and after tapering of antidepressants as an alternative to continuing the use of antidepressants. Although these findings suggest that psychological interventions may be an alternative for continued antidepressant medication use for all individuals, collaborative decision-making between patients and practitioners is crucial. 45 In truly shared decision-making, practitioners present either relapse prevention option in a balanced manner and consider patient preference when choosing a clinical course of action.46 The results of this study may help inform this process, giving more choice to practitioners and patients.
+
+Current clinical guidelines recommend the continued use of antidepressant medication for patients at high risk for depressive relapse (ie, with multiple previous episodes and residual depressive symptoms).4,5 The results of this IPDMA suggest that continued use of an antidepressant might not be needed, even for patients at high risk.
+
+Thus, another option may be added to current relapse prevention strategies, namely, offering a brief psychological intervention (specifically PCT or MBCT) during and after tapering antidepressant medication regardless of clinical prognostic factors in recurrent depression. The results of this IPDMA are largely in line with previous lterature,1,20,39 whic already found that the sequential strategy of adding a psychological intervention to tapering could be an alternative to the continued use of antidepressant medication. The specific added benefit of the IPDMA approach is, however, that the current study was able to include factors possibly associated with relapse. Theonly IDMA3 conducted to dateon a similar patient group, but only with MBCT included as psychological intervention, similarly reported that patient characteristics did not significantly moderate or predict treatment outcome. Moreover, clinical factors, including age at onset and baseline residual symptoms, were significantly associated with the risk of relapse regardless of condition, findings that have been confirmed previously in individual trials, IPDMAs, and meta-analyses. 12,22-24,26,39
+
+# Strengths and Limitations
+
+This study has several strengths. To our knowledge, it is the first study based on individual participant data that compares relapse risk for depression between a group receiving sequential psychological interventions (specifically PCT or MBCT) during and/or after the tapering of antidepressants with the risk in those continuing the use of antidepressants. Compared with aggregate meta-analyses, IPDMAs can offer more precision; IPDMAs are the best evidence available to date to inform clinical decision-making. 27 Moreover, this IPDMA provides the longest time of follow-up and includes more risk factors than any prior IPDMA on this topic thus far. The quality of included data was high, with few missing data across potential risk factors. Overall study quality was high as well, with low risk of bias across studies.
+
+The study also has limitations. One is that it was not possible to include all variables of interest because some were inconsistently reported and infrequently collected. 12,22 In addition, the coding of variables was different among studies (eg, employment). To improve future IPDMAs in this field, trials should consider consistent reporting and collecting similar participant characteristics. The conclusions of this IPDMA should be validated in a broader set of studies on psychological interventions (eg, well-being therapy or interpersonal therapy)43,44,47; only inferences can be made on the studies that were analyzed in this IPDMA. Furthermore, the limitations inherent to the individual trials included remain present. For instance, nocebo effects (negative effect and expectation from not receiving the psychological intervention) may have been present.48 Moreover, although this IPDMA had increased power and precision over RCTs, the included RCTs all had a superiority hypothesis instead of the noninferiority hypothesis (psychological interventions during or after tapering as a viable alternative to antidepressants) in the current study.
+
+In to be in remission for at least 6 months before being eligible to take part in the trial. Hence, the findings do not apply to patients who are in remission for 6 months or less. Moreover, there is a potential of allegiance bias, given that the individual trial authors who developed the interventions were invited as coauthors as part of the IPDMA. To minimize the potential of allegiance bias, the analyses were supervised by an independent statistician.
+
+Finally, antidepressant tapering can be a clinically challenging process, and this IPDMA did not include any processrelated variables related to tapering because of inconsistent reporting. Future trials could report more granular data on dosage per week to offer tailored tapering recommendations alongside these findings, including additional systematic data collection on the withdrawal syndrome. This IPDMA did not fully capture the extent of the withdrawal syndromes during tapering and after discontinued use of antidepressants.1,49 A risk associated with the measurement of relapse is that symptoms associated with discontinuation may be mistaken for the withdrawal syndrome,11,50 which may have led to overreporting of relapse in the tapering condition with psychological interventions in this IPDMA. Future research on the efficacy of relapse prevention interventions should incorporate a systematic assessment of the withdrawal syndrome51,52 and more research is needed to improve the validity in differentiating between withdrawal symptoms and depressive relapse.
+
+# Conclusions
+
+The findings of this study suggest that diverse sequential psychological interventions (PCT and MBCT) could be an alternative for antidepressant medication regardless of patients' baseline characteristics, such as high levels of residual depressive symptoms or a high number of previous episodes. That is, no evidence of a difference in relapse risk comparing a psychological intervention delivered during or after antidepressant tapering vs continuing use of antidepressant medication was found. The results should be interpreted with caution because depressive relapse may be mistaken for the withdrawal syndrome in the tapering conditions while a patient is receiving psychological interventions, thereby underestimating the ability of these interventions to prevent depressive relapse. However, the hope is that these results further inform future personalized medicine research, advance shared decision-making, and inform clinical guidelines.
+
+grants from the National Institute of Mental Health during the conduct of the study, and royalties from Guilford Press outside the submitted work; and serving as the cofounder of MindfulNoggin.com, a digital platform for the delivery of online mindfulness-based cognitive therapy. Dr Kuyken reported receiving author royalties from Guilford Press outside the submitted work. Dr Bockting reported serving as a coeditor of PLoS One Clinical Psychology Europe, for which she received no honorarium; serving as a codeveloper of the Dutch Multidisciplinary Guideline for Anxiety and Depression, for which she receives no remuneration; and serving as a member of the
+
+Scientific Advisory Board of the National Insurance Institute for which she receives an honorarium, although this role has no direct relation to this study. Dr Bockting has also presented keynote addresses at conferences, such as the European Psychiatry Association, for which she sometimes receives an honorarium and has presented clinical training workshops, some of which include a fee. She also receives royalties from her books and coedited books. No other disclosures were reported.
+
+Funding/Support: This work was supported in part by the Alliance for Public Health-Research Alliance Fund from the Amsterdam Public Health Research Institute, which paid for material costs.
+
+Role of the Funder/Sponsor: The Amsterdam Public Health Research Institute had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.
+
+Additional Contributions: Marlies Brouwer, PhD, Department of Psychiatry, Academic Medical Center Amsterdam, Amsterdam, the Netherlands, supported with the title and abstract screening, full-text screening, and the risk of bias assessments. Victoria Zamperoni, MSc, Research Department, Mental Health Foundation, London, United Kingdom, and Alicia Segovia, MSc, The Hospital for Sick Children, Toronto, Ontario, Canada, coscreened the article titles and abstracts. Emma Boers, BSc, Department of Psychiatry, Academic Medical Center Amsterdam, Amsterdam, the Netherlands, supported with title and abstract screening and reviewed the risk of bias assessments. They were compensated for their work. Catherine Moore, MSc, a former research intern with University College London, London, United Kingdom, assisted with the second-rater extractions on the included studies. She was not compensated for her work. Mathias Harrer, MSc, Clinical Psychology and Psychotherapy, Department of Psychology, Friedrich-Alexander University Erlangen-Nürnberg, Erlangen and Nürnberg, Germany, helped with data extraction foi eTables 4 and 5 in the Supplement. He was not compensated for his work.
+
+# REFERENCES
+
+1. Johnson CF, Macdonald HJ, Atkinson P, Buchanan AI, Downes N. Reviewing long-term antidepressants can reduce drug burden. Br J Gen Pract. 2012;62(604):e773-e779. doi:10.3399/ bjgp12X658304
+
+2. Mojtabai R, Olfson M, Han B. National trends in the prevalence and treatment of depression in adolescents and young adults. Pediatrics. 2016;138 (6):e20161878. doi:10.1542/peds.2016-1878
+
+3. Lubian K, Weich S, Stansfeld S, Bebbington P. Mental health treatment and services. In: McManus S, Bebbington P, Jenkins R, Brugha T, eds. Mental Health and Wellbeing in England: Adult Psychiatric Morbidity Survey 2014. NHS Digital; 2016. https:// files.digital.nhs.uk/pdf/t/f/adult_psychiatric_study_ ch3_web.pdf
+
+4. American Psychiatric Association. American Psychiatric Association Practice Guidelines for the Treatment of Patients With Major Depressive Disorder. 3rd ed. American Psychiatric Association;
+
+2010. doi:10.1176/appi.books.9780890423387.   
+654001
+
+5.National Institute for Health and Care Excellence. Depression in adults: recognition and management. October 2009. Accessed April 1, 2021. https://www.nice.org.uk/guidance/cg90
+
+6. Ferguson JM. SSRI antidepressant medications: adverse effects and tolerability. Prim Care Companion J Clin Psychiatry. 2001;3(1):22-27. doi:10.4088/PCC.v03n0105
+
+7. Anderson HD, Pace WD, Libby AM, West DR, Valuck RJ. Rates of 5 common antidepressant side effects among new adult and adolescent cases of depression: a retrospective US claims study. Clin Ther. 2012;34(1):113-123. doi:10.1016/j.clinthera.2011.11.024
+
+8 Solmi M, Fornaro M, Ostinelli EG, et al. Safety of 80 antidepressants, antipsychotics, anti-attention-deficit/hyperactivity medications and mood stabilizers in children and adolescents with psychiatric disorders: a large scale systematic meta-review of 78 adverse effects. World Psychiatry. 2020;19(2):214-232. doi:10.1002/wps.20765
+
+9 DeRubeis RJ, Zajecka J, Shelton RC, et al. Prevention of recurrence after recovery from a major depressive episode with antidepressant medication alone or in combination with cognitive behavioral therapy: phase 2 of a 2-phase randomized clinical trial. JAMA Psychiatry. 2020;77 (3):237-245. doi:10.1001/jamapsychiatry.2019.390C
+
+10. Bosman RC, Huijbregts KM, Verhaak PF, et al. Long-term antidepressant use: a qualitative study on perspectives of patients and GPs in primary care. Br J Gen Pract. 2016;66(651):e708-e719. doi:10.3399/bjgp16X686641
+
+11. Cosci F, Chouinard G. Acute and persistent withdrawal syndromes following discontinuation of psychotropic medications. Psychother Psychosom. 2020;89(5):283-306. doi:10.1159/000506868
+
+12. Bockting CL, Hollon SD, Jarrett RB, Kuyken W, Dobson K. A lifetime approach to major depressive disorder: The contributions of psychological interventions in preventing relapse and recurrence. Clin Psychol Rev. 2015;41:16-26. doi:10.1016/ j.cpr.2015.02.003
+
+13. Clarke K, Mayo-Wilson E, Kenny J, Pilling S. Can non-pharmacological interventions prevent relapse in adults who have recovered from depression? a systematic review and meta-analysis of randomised controlled trials. Clin Psychol Rev. 2015;39:58-70. doi:10.1016/j.cpr.2015.04.002
+
+Biesheuvel-Leliefeld KE, Kok GD, Bockting CL, et al. Effectiveness of psychological interventions in preventing recurrence of depressive disorder: meta-analysis and meta-regression. J Affect Disord. 2015;174:400-410. doi:10.1016/j.jad.2014.12.016
+
+15. Guidi J, Fava GA. Sequential combination of pharmacotherapy and psychotherapy in major depressive disorder: a systematic review and meta-analysis. JAMA Psychiatry. 2021;78(3):261-269. doi:10.1001/jamapsychiatry.2020.3650
+
+16. Breedvelt JJF, Brouwer ME, Harrer M, et al. Psychological interventions as an alternative and add-on to antidepressant medication to prevent depressive relapse: systematic review and meta-analysis. Br J Psychiatry. 2020;0:1-8. doi:10. 1192/bjp.2020.198
+
+17. Bockting CLH, Klein NS, Elgersma HJ, et al. Effectiveness of preventive cognitive therapy while tapering antidepressants versus maintenance
+
+antidepressant treatment versus their combination in prevention of depressive relapse or recurrence (DRD study): a three-group, multicentre, randomised controlled trial. Lancet Psychiatry. 2018;5(5):401-410. doi:10.1016/S2215-0366(18) 30100-7
+
+18. Guidi J, Fava GA. Sequential combination of pharmacotherapy and psychotherapy in major depressive disorder. JAMA Psychiatry. 2021;78(3):261-269. doi:10.1001/jamapsychiatry. 2020.3650
+
+19. Guidi J, Fava GA, Fava M, Papakostas Gl. Efficacy of the sequential integration of psychotherapy and pharmacotherapy in major depressive disorder: a preliminary meta-analysis. Psychol Med. 2011;41(2):321-331. doi:10.1017/ S0033291710000826
+
+20. Guidi J, Tomba E, Fava GA. The sequential integration of pharmacotherapy and psychotherapy in the treatment of major depressive disorder: a meta-analysis of the sequential model and a l v u 2016;173(2):128-137. doi:10.1176/appi.ajp.2015. 15040476
+
+21. Fournier JC, DeRubeis RJ, Shelton RC, Hollon SD, Amsterdam JD, Gallop R. Prediction of response to medication and cognitive therapy in the treatment of moderate to severe depression. J Consult Clin Psychol. 2009;77(4):775-787. doi:10. 1037/a0015401
+
+22. Buckman JEJ, Underwood A, Clarke K, et al. Risk factors for relapse and recurrence of depression in adults and how they operate: a four-phase systematic review and meta-synthesis. Clin Psychol Rev. 2018;64(64):13-38. doi:10.1016/ j.cpr.2018.07.005
+
+23. Wojnarowski C, Firth N, Finegan M, Delgadillo J. Predictors of depression relapse and recurrence after cognitive behavioural therapy: a systematic review and meta-analysis. Behav Cogn Psychother. 2019;47(5):514-529. doi:10.1017/   
+S1352465819000080
+
+2. Klein NS, Holtman GA, Bockting CLH, Heymans MW, Burger H. Development and validation of a clinical prediction tool to estimate the individual risk of depressive relapse or recurrence in individuals with recurrent depression. J Psychiatr Res. 2018;104:1-7. doi:10.1016/j.jpsychires.2018.06.006
+
+25. Kok G, van Rijsbergen G, Burger H, et al. The scars of childhood adversity: minor stress sensitivity and depressive symptoms in remitted recurrently depressed adult patients. PLoS One. 2014;9(11):e111711. doi:10.1371/journal.pone.0111711
+
+26. Burcusa SL, lacono WG. Risk for recurrence in depression. Clin Psychol Rev. 2007;27(8):959-985. doi:10.1016/j.cpr.2007.02.005
+
+27. Broeze KA, Opmeer BC, van der Veen F, Bossuyt PM, Bhattacharya S, Mol BWJ. Individual patient data meta-analysis: a promising approach for evidence synthesis in reproductive medicine. Hum Reprod Update. 2010;16(6):561-567. doi:10. 1093/humupd/dmq043
+
+28. Lambert PC, Sutton AJ, Abrams KR, Jones DR. A comparison of summary patient-level covariates in meta-regression with individual patient data meta-analysis. J Clin Epidemiol. 2002;55(1):86-94. doi:10.1016/S0895-4356(01)00414-0
+
+29. Higgins JPT, Thompson SG, Deeks JJ, Altman DG. Measuring inconsistency in meta-analyses. BMJ.
+
+2003;327(7414):557-560. doi:10.1136/bmj.327.7414.557
+
+30. Stewart LA, Clarke M, Rovers M, et al. Preferred reporting items for a systematic review and meta-analysis of individual participant data: the PRISMA-IPD statement. JAMA. 2015;313(16): 1657-1665. doi:10.1001/jama.2015.3656
+
+3Crawford F, Cezard G, Chappell FM, et al. A systematic review and individual patient data meta-analysis of prognostic factors for foot ulceration in people with diabetes: the International Research Collaboration for the Prediction of Diabetic Foot Ulcerations (PODUS). Health Technol Assess. 2015;19(57):1-210. doi:10.3310/hta19570
+
+32. Hamilton M. A rating scale for depression. J Neurol Neurosurg Psychiatry. 1960;23:56-62. doi:10.1136/jnnp.23.1.56
+
+3. Higgins JPT, Green S. Cochrane Handbook for Systematic Reviews of Interventions. Cochrane Collaboration; 2019. doi:10.1002/9781119536604
+
+34. First MB. Structured Clinical Interview for the DSM (SCID). In: The Encyclopedia of Clinical Psychology. John Wiley and Sons; 2014. doi:10. 1002/9781118625392.wbecp351
+
+35. Kuyken W, Byford S, Taylor RS, et al. Mindfulness-based cognitive therapy to prevent relapse in recurrent depression. J Consult Clin Psychol. 2008;76(6):966-978. doi:10.1037/a0013786
+
+3 Kuyken W, Hayes R, Barrett B, et al. Effectiveness and cost-effectiveness of mindfulness-based cognitive therapy compared with maintenance antidepressant treatment in the prevention of depressive relapse or recurrence (PREVENT): a randomised controlled trial. Lancet. 2015;386(9988):63-73. doi:10.1016/S0140-6736(14) 62222-4
+
+37. Segal ZV, Bieling P, Young T, et al. Antidepressant monotherapy vs sequential pharmacotherapy and mindfulness-based cognitive therapy, or placebo, for relapse prophylaxis in recurrent depression. Arch Gen Psychiatry. 2010;67(12):1256-1264. doi:10.1001/ archgenpsychiatry.2010.168
+
+8StataCorp. Stata Statistical Software: Release14 [computer program]. StataCorp; 2015.doi:10.2307/2234838
+
+Kuyken W, Warren FC, Taylor RS, et al. Efcy of mindfulness-based cognitive therapy in prevention of depressive relapse an individual patient data meta-analysis from randomized trials. JAMA Psychiatry. 2016;73(6):565-574. doi:10.1001/ jamapsychiatry.2016.0076
+
+40. IntHout J, loannidis JPA, Borm GF. The Hartung-Knapp-Sidik-Jonkman method for random effects meta-analysis is straightforward and considerably outperforms the standard DerSimonian-Laird method. BMC Med Res Methodol. 2014;14:25. doi:10.1186/1471-2288-14-25
+
+41. Sterne JAC, Sutton AJ, loannidis JPA, et al. Recommendations for examining and interpreting funnel plot asymmetry in meta-analyses of randomised controlled trials. BMJ. 2011;343:d4002. doi:10.1136/bmj.d4002
+
+42. Hua H, Burke DL, Crowther MJ, Ensor J, Tudur Smith C, Riley RD. One-stage individual participant data meta-analysis models: estimation of treatment-covariate interactions must avoid ecological bias by separating out within-trial and across-trial information. Stat Med. 2017;36(5): 772-789. doi:10.1002/sim.7171
+
+Frank E, Kupfer DJ, Perel JM, et al. Three-year outcomes for maintenance therapies in recurrent depression. Arch Gen Psychiatry. 1990;47(12):1093- 1099. doi:10.1001/archpsyc.1990.01810240013002
+
+4Fava GA, Ruini C, Rafanelli C, Finos L, Conti S, Grandi S. Six-year outcome of cognitive behavior therapy for prevention of recurrent depression. Am J Psychiatry. 2004;161(10):1872-1876. doi:10.1176/ ajp.161.10.1872
+
+45. Tickell A, Byng R, Crane C, et al. Recovery from recurrent depression with mindfulness-based cognitive therapy and antidepressants: a qualitative study with illustrative case studies. BMJ Open. 2020; 10(2):e033892. doi:10.1136/bmjopen-2019-033892
+
+46. Stiggelbout AM, Van der Weijden T, De Wit MP, et al. Shared decision making: really putting patients at the centre of healthcare. BMJ. 2012;344: e256. doi:10.1136/bmj.e256
+
+47. Fava GA. Well-being therapy: conceptual and technical issues. Psychother Psychosom. 1999;68 (4):171-179. doi:10.1159/000012329
+
+48. Hahn RA. The nocebo phenomenon: concept, evidence, and implications for public health. Prev Med. 1997;26(5 pt 1):607-611. doi:10.1006/ pmed.1996.0124
+
+49. Baldessarini RJ, Tondo L. Effects of treatment discontinuation in clinical psychopharmacology. Psychother Psychosom. 2019;88(2):65-70. doi:10. 1159/000497334
+
+50. Fava GA. Time to rethink the approach to recurrent depression. Lancet Psychiatry. 2018;5(5): 380-381. doi:10.1016/S2215-0366(18)30128-7
+
+5. Chouinard G, Chouinard V-A. New classification of selective serotonin reuptake inhibitor withdrawal. Psychother Psychosom. 2015;84(2): 63-71. doi:10.1159/000371865
+
+52. Fava GA, Gatti A, Belaise C, Guidi J, Offidani E. Withdrawal symptoms after selective serotonin reuptake inhibitor discontinuation: a systematic review. Psychother Psychosom. 2015;84(2):72-81. doi:10.1159/000370338
+
+# Downloaded From: https:/jamanetwork.com/ on 09/03/2023

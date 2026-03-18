@@ -1,0 +1,43 @@
+.app-background {
+  height 100vh;
+  background-image: url('../../img/mobile-bg.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.welcome {
+  text-align center
+  display flex
+  justify-content center
+  .container {
+    width: 100%;
+    padding 15px;
+    margin-top 20vh
+    img {
+      width 114px;
+      margin 0 auto 24px auto;
+    }
+    .title {
+      font-size: 18px;
+      line-height: 100%;
+      text-align: center;
+      margin-bottom 30px;
+    }
+    .active-image {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 10px;
+      img{
+        width: 180px;
+        height: auto;
+        border-radius: 30px;
+        background: rgba(93, 25, 210, 0.05);
+        backdrop-filter: blur(9.3px);
+        padding :4px;
+      }
+    }
+  }
+}
+:deep(.tool-item-btn span) {
+  font-size 12px !important;
+}

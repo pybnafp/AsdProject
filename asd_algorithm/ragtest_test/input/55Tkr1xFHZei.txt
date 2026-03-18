@@ -1,0 +1,296 @@
+# Course of Subtypes of Late-Life Depression Identified by Bipartite Network Analysis During Psychosocial Interventions
+
+Nili Solomv, hD; Jihui Lee, hD; Samprit Banerjee, hD, MStat; Serena Z. Chen, BA; JoAnne Sirey, hD; a M. Gunnig, PhD; Connor Liston, MD, PhD; Patrick J. Raue, hD;   
+Patricia A. Areán, PhD; George S. Alexopoulos, MD
+
+IMPorTANcE Approximately half of older adults with depression remain symptomatic oi may guide development of personalized psychosocial interventions.
+
+OBJEcTIvE To identify clinical subtypes of late-life depression and examine their depression trajectory during psychosocial interventions in older adults with depression.
+
+DESIGN, SETTING, AND PARTICIPANTS This prognostic study included older adults aged 60 years or older who had major depression and participated in 1 of 4 randomized clinical trials of psychosocial interventions for late-life depression. articipants were recruited from the community and outpatient services of Weill Cornell Medicine and the University of California, San Francisco, between March 2002 and April 2013. Data were analyzed from February 2019 to February 2023.
+
+ITERventions Participants received 8 to14 sessions of (1) personalized intervention for patients with major depression and chronic obstructive pulmonary disease, lelvihepyvheapy  caron co (treatment as usual or case management).
+
+MAIN ouTCOMES AND MEASURES The main outcome was the trajectory of depression severity, assessed using the Hamilton Depression Rating Scale (HAM-D). A data-driven, unsupervised, hierarchical clustering of HAM-D items at baseline was conducted to detect clusters of depressive symptoms. A bipartite network analysis was used to identify clinical subtypes at baseline, accounting for both between- and within-patient variability across domains of psychopathology, social support, cognitive impairment, and disability. The trajectorisdepression severity inheenti subtypes werecomparesig mief moels, tmissin (HAM- ${ \leq } 1 0 ^ { \cdot }$ was compared using survival analysis.
+
+RESULTs The bipartite network analysis, which included 535 older adults with major depression (mean [SD] age, 72.7 [8.7] years; $7 0 . 7 \%$ faleenticnical b: individuals with severe depression and a large social network; () older, educated individuals experiencing strong social support and social interactions; and (3) individuals $( F _ { 2 , 2 9 7 6 . 9 } = 9 . 4 $ $P < . 0 0 1 \}$ $\chi _ { 2 } ^ { 2 } = 1 8 . 2 ; P < . 0 0 1 )$ across clinical subtypes. Sub had the steepest depression trajectory and highest likelihood of remission regardless of the intervention, while subtypehad the poorest depression trajecoy.
+
+NCoNs ANDRELEVANC In thi pronostiud, biparietwork cust identified 3 subtypes of late-life depression. Knowledge of patients' clinical characteristics may informtreatment selection. Identification of discrete subtypes of late-life depression may stimulate the development of novel, streamlined interventions targeting the clinical vulnerabilities of each subtype.
+
+Author Affiliations: Weill Cornell In Department of Psychiatry, Weill Cornell Medicine, New York, New York (Solomonov, Chen, Sirey, Gunning, Alexopoulos); Department of Psychiatry, University of Pittsburgh, Pittsburgh, Pennsylvania (Lee); Department of Population Health Sciences, Weill Cornell Medicine, New York, New York (Banerjee); Department of Psychiatry, Weill Cornell Medicine, New York, New York (Liston); Department of Psychiatry and Behavioral Sciences, University of Washington, Seattle (Raue, Areán).
+
+Corresponding Author: George S. Alexopoulos, MD, Weill Cornell Institute of Geriatric Psychiatry, Department of Psychiatry, Weill Cornell Medicine, 21 Bloomingdale Rd, White Plains, NY 10605 (gsalexop@med.cornell.edu).
+
+depression.1,2 They are well accepted and preferred by many older adults over pharmacologic treatment.3 Still,   
+approximately $4 0 \%$ to $6 0 \%$ of older adults with depression   
+remain symptomatic at the end of brief psychotherapies.4,5
+
+The heterogeneity of late-life depression has been studied by clustering patients into subtypes based on their depressive symptoms.6-8 A recent study used multiple detection algorithms for symptom networks and showed that depressive symptoms in late life are organized into 8 complexes.9 However, few clustering studies included nonmood dimensions such as cognitive impairment, social connectedness, and disability. Impairment in these domains has been associated with poor prognosis of late-life depression. 3,10-15
+
+Nongeriatric studies have focused on the response of depression subtypes to psychosocial interventions. 16-19 Collectively, studies showed that adults with moderate severity of depression and cognitive-affective symptoms of depression responded better than individuals with severe melancholic depression or atypical depression.13,20-22 These studies used latent class or network analyses that examined betweenpatient differences but did not account for within-patient variability (ie, each individual's strengths and vulnerabilities on each domain of functioning). 9,17,20,21,23-25
+
+This study aimed to identify clinical subtypes of late-life depression and examine their response to psychosocial interventions. To this end, we used bipartite network analysis across the domains of depression psychopathology, cognitive impairment, and many aspects of social support and disability. This novel method accounted for both between- and withinparticipant variability. 26 Then, we examined whether subtype membership is associated with the trajectory of depression in older patients with depression receiving psychosocial interventions. These analyses had no a priori hypotheses on the composition of subtypes or on their trajectories of depression.
+
+# Key Points
+
+Question Are there subtypes of late-life depression with a distinct course of depression during psychosocial interventions?
+
+Findings In this prognostic study of a combined sample of 535 older adults with depression, bipartite network clustering identified 3 subtypes of late-life depression: individuals with severe depression and a large social network; older, educated individuals with strong social support and frequent social interactions; and individuals with disability. Subtype 2 had the steepest decline of depression, while subtype 1 had the most persistent depression trajectory during psychosocial interventions.
+
+Meaning Knowledge of an older adult's depression subtype at the outset of treatment may inform the selection of interventions and improve treatment planning.
+
+Two studies (COPD $\cdot \mathrm { I } ^ { 2 8 }$ and COPD $\cdot \mathrm { I I } ^ { 2 9 }$ ) included participants with chronic obstructive pulmonary disease (COPD). One study (COPE- $\mathbf { D } ^ { 1 5 }$ included participants with executive dysfunction. One study (CARE- $\cdot \mathbf { D } ^ { 2 7 }$ included participants with disability and low socioeconomic status. White race and Hispanic ethnicity were ascertained by self-report; data for other racial and ethnic categories were not available. Race and ethnicity were included in the study to examine the demographic characteristics of participants. This study followed the Standards for Reporting of Diagnostic Accuracy (STARD) reporting guideline.
+
+# Assessment
+
+The primary outcome was change in depression severity, assessed with the Hamilton Depression Rating Scale (HAM-D). 30 Baseline assessment included (1) disability (12-item World Health Organization Disability Assessment Schedule II [WHODAS $\mathrm { I I J } ^ { 3 1 }$ with 6 subscales), (2) cognitive impairment (Mini-Mental State Examination32), and (3) social support (Duke Social Support Index [DSSI]33 with 4 subscales).
+
+# Methods
+
+# Participants
+
+This prognostic study included older adults who were recruited by 1 of 4 randomized clinical trials of psychosocial interventions for late-life depression between March 2002 and April 2013. All participants provided written informed consent, and the trials were approved by the Weill Cornell Medicine institutional review board; in 2 studies (Collaborating on Psychotherapy for Executive Dysfunction [COPE-D]15 and Case Management Research in Elder Depression [CARE- $\mathbf { \cdot D } ] ^ { 2 7 }$ approval was also provided by the University of California, San Francisco. Selection criteria varied slightly across studies (eAppendix 1 in Supplement 1). All studies recruited adults aged 60 years or older with a diagnosis of unipolar, nonpsychotic major depression based on the Structured Clinical Interview for DSM-IV. All studies excluded participants with (1) intent to attempt suicide in the near future, (2) concurrent psychotherapy, (3) change in pharmacotherapy during the randomized clinical trial, (4) psychiatric diagnosis other than unipolar depression or generalized anxiety disorder, or (5) dementia.
+
+# Treatments
+
+Treatment arms consisted of 8 psychosocial interventions (eAppendix 2 in Supplement 1). Eight to 14 sessions were offered over 12 to 26 weeks, delivered by social workers who demonstrated high adherence to manuals. Our analyses focused on a 14-week treatment period because not all studies had data after that time. There were 4 types of treatment: personalized intervention for depression and CoPD, problem-solving therapy (PST), supportive therapy, and active comparisons. Personalized intervention for depression and CoPD offered support and targeted patient-specific barriers to treatment adherence (COPD $\cdot \mathrm { I } ^ { 2 8 }$ and COPD $\cdot \mathrm { I I } ^ { 2 9 }$ trials). Three treatments across studies were based on PST principles: (1) PST aimed to impart problem-solving skills (COPE-D trial15), (2) PST with case management (CARE-D trial27), and (3) PST integrated with personalized intervention for depression and COPD (COPD-II trial29). Supportive therapy provided emotional support and validation through nonjudgmental and empathetic interactions (COPE-D trial15). Active comparisons included case management (psychoeducation, guidance in planning, and linkage with social services [CARE-D trial27]) and treatment as usual (participants were treated by their own physicians [COPD-I trial28]).
+
+# Statistical Analysis
+
+# Clustering HAM-D Scores at Baseline
+
+Data were analyzed from February 2019 to February 2023. We conducted unsupervised, hierarchical clustering of HAM-D items. Using the elbow method on the total within sum of squares, we identified 3 clusters and calculated the summed HAM-D items in each cluster (eFigure 1 in Supplement 1). We used HAM-D clusters rather than individual items in further analysis to reduce variability and increase the likelihood of finding interpretable subtypes during bipartite network analysis. The data-derived HAM-D clusters are similar to the subscales of WHODAS $\mathrm { I I } ^ { 3 1 }$ and of DSSI. 33
+
+# Bipartite Network Analysis of Baseline Characteristics
+
+The bipartite network represents the relationship between 2 sets of nodes—a set of nodes that includes all patients and another that includes all clinical variables. 34,35 The set of clinical variable nodes consisted of age, educational level, Mini-Mental State Examination total score, WHODAS $\mathrm { I I } ^ { 3 1 }$ and DSSI subscale scores, HAM-D cluster scores, and HAM-D total score as a measure of overall depression severity since the psychometric properties of our empirically derived HAM-D clusters were unknown. We standardized scores on all measures prior to bipartite analysis. Similarly, we added the total score of WHODAS $\mathrm { I I } ^ { 3 1 }$ to capture overall disability across domains. Higher scores indicated higher severity of depression clusters, greater impairment in disability, more years of education, older age, and greater social support. The bipartite network was weighted so that the connection strength between each patient node and each symptom node was determined by each patient's score on symptom measures. We further standardized the weights to eliminate variability across different measures.
+
+Our clustering analysis of the bipartite network sought to identify subtypes with maximal modularity. Modularity measures the strength of division of a network into modules or communities. High modularity indicates dense connection within a community and sparse connectivity across communities. Clustering of both patients and symptoms occurs simultaneously by searching for communities composed of patients and symptoms to identify the most modular results. To determine the optimal number of subtypes, we tested the performance of 2 to 10 sets of subtypes. For each set, we estimated the included subtypes 100 times and selected the model with the maximal modularity (eFigure 2 in Supplement 1). This clustering method explores the pathways of association between patients and symptom measures (the algorithm is given in Beckett36).35,37
+
+To investigate whether treatment assignment and study membership were associated with the subtypes of bipartite analysis, we compared 3 models: (1) treatment assignment only, (2) study membership only, and (3) treatment assignment and study membership with a benchmark model with all clinical measures, study membership, and treatment assignment. The benchmarked model was tautologically expected to have the highest performance as it included all variables used to determine the subtypes. Therefore, this model served as a benchmark for evaluating the association of study membership and treatment assignment with cluster subtypes. A 10-fold crossvalidation was used to calculate the overall accuracy.
+
+# Clinical Subtypes and Trajectories of Depression
+
+We used mixed-effects regression to model the association of clinical subtypes with the trajectories of HAM-D scores over 14 weeks. After controlling for sex, we explored time by subtype interactions to model the subtype-specific HAM-D trajectory. Inspection of the mean subtype trajectories of weekly HAM-D using a smooth local polynomial regression (locally estimated scatterplot smoothing) detected a nonlinear pattern. Thus, we included quadratic effects of time to model the nonlinear HAM-D trajectories. A final model was based on the bayesian information criterion. The literature shows a steeper slope of change in depression during the early phases of psychosocial interventions. 19,38 For this reason, we repeated the aforementioned analysis using a piecewise mixed-effects regression model with week 6 (ie, midtreatment assessment) as the change point to examine early change in trajectories. We also conducted survival analysis to test differences between subtypes in time to remission (HAM-D score ≤10) over 14 weeks of treatment and over the first 6 weeks. We report KaplanMeier curves with log-rank tests and Cox proportional hazards regression models. Finally, we applied a mixed-effects model with 3-way interaction terms (between week, treatment, and clinical subtype) to test whether subtypes responded differently to treatment vs the active comparison condition. All analyses were conducted using R, version 3.6.1 (R Project for Statistical Computing) with a significance level of 2-sided $P < . 0 5$ .
+
+# Results
+
+The combined sample consisted of 630 participants. Of these, 535 $( 8 4 . 9 \% )$ had complete data and were included in the analysis (Table 1). There was no significant difference in missing data patterns across studies, and the missing pattern at baseline was sporadic such that no specific subset of variables had more missing data than other subsets (eTable 1 in Supplement 1). CONSORT diagrams are given in Areán et $\mathtt { a l } ^ { 1 1 5 }$ and Alexopoulos et al.27-29 The mean (SD) age of participants was 72.7 (8.7) years; 378 $( 7 0 . 7 \% )$ were female, 157 $( 2 9 . 3 \% )$ were male, 11 of 213 $( 5 . 2 \% )$ were Hispanic, 202 of 213 $( 9 4 . 8 \%$ )were nonHispanic, 438 $( 8 1 . 9 \% )$ were White, and 97 $( 1 8 . 1 \% )$ were racial minority individuals (Table 1). The participants had a mean (SD) 14.1 (3) years of education and mild to moderate depression severity (mean [SD] HAM-D score, 23.9 [3.7]).
+
+# Clustering of HAM-D Items at Baseline
+
+Hierarchical clustering of HAM-D items at baseline identified 3 clusters (Figure 1). Cluster 1 included insomnia, weight change, and depressive ideation (consisting of early, middle, and late insomnia; gastrointestinal symptoms; weight change; guilt; helplessness; hopelessness; and worthlessness. Cluster
+
+# Downloaded From: https:/jamanetwork.com/ by a Butler University User on 05/05/2023
+
+Table 1. Descriptive Statistics at Baseline   
+
+<table><tr><td rowspan="2"></td><td colspan="4">Participants</td><td rowspan="2">P valuea</td></tr><tr><td>Total (N = 535)</td><td>Subtype 1 n== 139)</td><td>Subtype 2 n= 206)</td><td>Subtype 3 n = 190)</td></tr><tr><td>Characteristic Study, No. (%)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>CARE-D</td><td>148 (27.7)</td><td>27 (19.4)</td><td>54 (26.2)</td><td>67 (35.3)</td><td></td></tr><tr><td>COPD-|</td><td>123 (23.0)</td><td>45 (32.4)</td><td>11 (5.3)</td><td>67 (35.3)</td><td>&lt;.001</td></tr><tr><td>COPD-II</td><td>90 (16.8)</td><td>37 (26.6)</td><td>21 (10.2)</td><td>32 (16.8)</td><td></td></tr><tr><td>COPE-D</td><td>174 (32.5)</td><td>30 (21.6)</td><td>120 (58.3)</td><td>24 (12.6)</td><td></td></tr><tr><td>Age, mean (SD), y</td><td>72.7 (8.7)</td><td>70.6 (7.8)</td><td>74.5 (8.1)</td><td>72.2 (9.2)</td><td>.20</td></tr><tr><td>Sex, No. (%)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Female</td><td>378 (70.7)</td><td>91 (65.5)</td><td>145 (70.4)</td><td>142 (74.7)</td><td></td></tr><tr><td>Male</td><td>157 (29.3)</td><td>48 (34.5)</td><td>61 (29.6)</td><td>48 (25.3)</td><td>.19</td></tr><tr><td>Ethnicity, No./total No. (%)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Hispanic</td><td>11/213 (5.2)</td><td>5/82 (6.1)</td><td>0/32</td><td>6/99 (6.1)</td><td>.36</td></tr><tr><td>Non-Hispanic</td><td>202/213 (94.8)</td><td>77/82 (93.9)</td><td>32/32 (100)</td><td>93/99 (93.9)</td><td></td></tr><tr><td>Race, No. (%)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>White</td><td>438 (81.9)</td><td>119 (85.6)</td><td>166 (80.6)</td><td>153 (80.5)</td><td>.41</td></tr><tr><td>Racial minority groups</td><td>97 (18.1)</td><td>20 (14.4)</td><td>40 (19.4)</td><td>37 (19.5)</td><td></td></tr><tr><td>Married, No./total No. (%)</td><td>144/387 (37.2)</td><td>40/112 (35.7)</td><td>54/152 (35.5)</td><td>50/123 (40.7) .63</td><td></td></tr><tr><td>Educational level, mean (SD) y</td><td>14.1 (3.0)</td><td>13.2 (2.8)</td><td>15.4 (3.0)</td><td>13.3 (2.6)</td><td>.62</td></tr><tr><td>HAM-D score, mean (SD)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Total</td><td>23.9 (3.7)</td><td>27.0 (3.7)</td><td>22.0 (2.4)</td><td>23.8 (3.3)</td><td>&lt;.001</td></tr><tr><td>Cluster</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1</td><td>10.1 (2.9)</td><td>12.2 (2.5)</td><td>8.6 (2.4)</td><td>10.1 (2.7)</td><td>&lt;.001</td></tr><tr><td>2</td><td>10.3 (2.0)</td><td>11.5 (1.4)</td><td>9.3 (1.9)</td><td>10.5 (2.0)</td><td>&lt;.001</td></tr><tr><td>3</td><td>3.4 (2.1)</td><td>3.3 (2.3)</td><td>3.8 (1.9)</td><td>2.9 (2.0)</td><td>.03</td></tr><tr><td>Total MMSE score, mean (SD)</td><td>27.6 (1.8)</td><td>27.4 (1.9)</td><td>28.1 (1.6)</td><td>27.0 (1.8)</td><td>.02</td></tr><tr><td>WHODAS I score, mean (SD)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Total</td><td>32.2 (8.2)</td><td>31.3 (5.8)</td><td>25.9 (5.4)</td><td>39.7 (5.6)</td><td>&lt;.001</td></tr><tr><td>GA</td><td>7.5 (2.5)</td><td>7.7 (2.2)</td><td>6.1 (2.7)</td><td>8.8 (1.5)</td><td>&lt;.001</td></tr><tr><td>GAL</td><td>3.5 (1.8)</td><td>3 (1.4)</td><td>2.9 (1.2)</td><td>4.5 (2.1)</td><td>&lt;.001</td></tr><tr><td>LA</td><td>3.6 (1.3)</td><td>3.5 (1.2)</td><td>3.2 (1.2)</td><td>4.2 (1.1)</td><td>&lt;.001</td></tr><tr><td>PS</td><td>6.3 (2.0)</td><td>6.1 (1.8)</td><td>5.3 (1.7)</td><td>7.5 (1.7)</td><td>&lt;.001</td></tr><tr><td>SC</td><td>4.5 (2.3)</td><td>4.3 (2.1)</td><td>3.0 (1.4)</td><td>6.2 (2.1)</td><td>&lt;.001</td></tr><tr><td>UC</td><td>4.6 (1.9)</td><td>4.2 (1.6)</td><td>3.9 (1.6)</td><td>5.6 (1.9)</td><td>&lt;.001</td></tr><tr><td>Duke Social Support Index score, mean (SD)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IS</td><td>11.3 (5.8)</td><td>10.2 (5.1)</td><td>14.5 (5.8)</td><td>8.7 (4.7)</td><td>&lt;.001</td></tr><tr><td>SI</td><td>7.5 (5.0)</td><td>6.7 (3.4)</td><td>8.4 (6.4)</td><td>7.2 (4.0)</td><td>.63</td></tr><tr><td>SN</td><td>3.5 (4.1)</td><td>5.6 (4.9)</td><td>2.6 (3.9)</td><td>2.9 (3.0)</td><td>&lt;.001</td></tr><tr><td>SS</td><td>16.4 (3.8)</td><td>16.5 (4.0)</td><td>16.8 (3.3)</td><td>16.0 (4.0)</td><td>.16</td></tr></table>
+
+Abbreviations: CARE-D, Case   
+Management Research in Elder   
+Depression; COPE-D, Collaborating on Psychotherapy for Executive   
+Dysfunction; GA, getting around;   
+GAL, getting along with others;   
+HAM-D, Hamilton Depression Rating Scale; IS, instrumental support;   
+LA, life activities; MMSE, Mini-Mental State Examination; PS, participation in society; SC, self-care; SI, social   
+interaction; SN, social network;   
+SS, subjective support;   
+UC, understanding and   
+communicating; WHODAS II, World Health Organization Disability   
+Assessment Schedule II.
+
+a Analysis of variance and $\chi ^ { 2 }$ tests were used for continuous and categorical variables, respectively.
+
+2 included anxiety, sadness, and reduced activities (consisting of psychic and somatic anxiety, sad mood, general somatic symptoms, and impairment in work and activities). Cluster 3 included hypochondriasis, psychomotor symptoms, and suicidal ideation (consisting of hypochondriasis, psychomotor agitation or retardation, suicidal ideation, diurnal variation, obsessions, low insight, depersonalization, suspiciousness, and genital symptoms).
+
+# Identification of Clinical Subtypes by Clustering a Bipartite Network of Clinical Characteristics at Baseline
+
+We identified 3 clinical subtypes (Figure 2). Subtype 1 included individuals with severe depression, somatic and anxious symptoms, sadness, sleep disturbance, and impairment in activities and a large social network. Subtype 2 included individuals with depression who were older, educated, and socially connected. These older individuals with a high educational level and cognitive functions had frequent social interactions and strong perceived emotional and instrumental social support; they had the lowest severity of depression of the 3 subtypes but had suicidal ideation, psychomotor agitation or retardation, and somatic or paranoid symptoms. Subtype 3 included individuals with disability (across all domains of functioning).
+
+The 3 subtypes did not differ significantly in age, ethnicity, race, and marital status. There were significant differ
+
+![](images/c43004ec0b94cfecd9e4a92efd6154063a055e59a4f630349922da7b77bc11c9.jpg)  
+Figure 1. Hierarchical Clustering of Item-Specific Hamilton Depression Rating Scale Scores at Baseline
+
+GI indicates gastrointestinal; OCD, obsessive-compulsive disorder.
+
+![](images/a0e7874bde713c8cdea5edc2989436cf0d9ddbec69433f98bd5772aeecc49e90.jpg)  
+Figure 2. Subtypes of the Weighted Bipartite Network at Baseline
+
+D DuS n GA GAL along with others; HAM-D, Hamilton Depression Rating Scale; IS, instrumental support; LA, life activities; MMSE, Mini-Mental State Examination;
+
+ences in sex; educational level; medical burden; WHODAS II subscales of getting around, understanding and communicating, participating in social activities, and self-care; DSSI subscale scores; HAM-D total score; HAM-D cluster scores; treatment; and study.
+
+The 3 subtypes differed on the slope of change in HAM-D scores. We repeated the subtyping by splitting individuals with or without COPD to examine whether COPD comorbidity in
+
+PS, participation in society; SC, self-care; SI, social interaction; SN, social network; SS, subjective support; UC, understanding and communicating; WHODAS II, World Health Organization Disability Assessment Schedule II.
+
+fluenced our findings. The results of subtyping were similar in both groups and resembled those of the entire sample. Subtyping within each of the 4 studies showed similar results, sug gesting that our analysis was not influenced by study membership. Finally, we examined whether study membership or treatment assignment alone was associated with subtype membership. The overall 10-fold cross-validation accuracy of predicting subtype by treatment assignment alone was $5 1 . 6 \%$ :
+
+![](images/3dd0cb2fb5c1099ced88fb8aedcdf61dd48af95357211966333edea37d119b6d.jpg)  
+Figure 3. Depression Change of Clinical Subtypes and Survival Analysis
+
+![](images/cd80adaf189c855c72c4efcf5eec3c4d2734eee71434fa53d6971a1690edddd1.jpg)
+
+No. at risk
+
+<table><tr><td>Subtype 1 139 131 131 130 101 100</td><td></td><td></td><td></td><td></td><td></td><td></td><td>98</td><td>85</td><td>84</td><td>83</td><td>78</td><td>70</td><td>68</td><td>54</td><td>54</td></tr><tr><td>Subtype 2 206 201 197 189 160 150 137 108 100</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td> 96 83</td><td>74</td><td>66</td><td>29</td><td>29</td></tr><tr><td>Subtype 3 190 180 179 179 134 133 132 112 111 111 99</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>93 92</td><td></td><td></td><td>80</td></tr></table>
+
+Shaded areas indicate $9 5 \%$ Cls. HAM-D indicates Hamilton Depression Rating Scale.
+
+Table 2. Least-Squares Means of Hamilton Depression Rating Scale From the Mixed-Effects Model   
+
+<table><tr><td></td><td colspan="4">Least-squares mean (95% Cl)</td></tr><tr><td>Subtype</td><td>Baseline</td><td>Week 6</td><td>Week 12</td><td>Week 14</td></tr><tr><td>All</td><td>23.1 (22.6-23.7)</td><td>15.2 (14.7-15.6)</td><td>13.4 (12.9-13.9)</td><td>14.3 (13.7-14.9)</td></tr><tr><td>1</td><td>25.2 (24.3-26.1)</td><td>16.4 (15.6-17.3)</td><td>14.0 (13.1-14.9)</td><td>14.6 (13.5-15.6)</td></tr><tr><td>2</td><td>21.3 (20.6-22.0)</td><td>13.7 (13.0-14.3)</td><td>12.3 (11.6-13.0)</td><td>13.2 (12.4-14.1)</td></tr><tr><td>3</td><td>23.0 (22.2-23.8)</td><td>15.4 (14.6-16.1)</td><td>14.0 (13.2-14.8)</td><td>15.0 (14.1-15.9)</td></tr></table>
+
+by study membership alone, $5 4 . 4 \%$ ; and by both treatment assignment and study membership, $5 2 . 9 \%$ . The accuracy of these 3 models was lower than a tautological benchmarked model (overall 10-fold cross-validation accuracy, $9 0 . 0 \%$ that included clinical features and demographics to generate the subtypes in addition to study membership and treatment assignment.
+
+# Depression Change of Clinical Subtypes
+
+All 3 subtypes had nonlinear HAM-D trajectories (Figure 3A and Table 2). The best-fitting mixed-effects model was selected based on the bayesian information criterion (20 586.4) and included both linear and quadratic time effects. The model revealed interactions of linear time with clinical subtype $( F _ { 2 , 2 9 7 6 . 9 } = 9 . 4 $ $P < . 0 0 1 )$ (eTable 2 in Supplement 1). Leastsquares means at baseline and weeks 6, 12, and 14 of the HAM-D trajectories in the 3 subtypes appear in Table 2. The piecewise model with week 6 as the change point demonstrated a steeper, early slope difference between subtypes 1 and 2. Following week 6, subtype 2 had the steepest decline in depression trajectory (eTable 3 in Supplement 1). Severity of depression (HAM-D) at baseline was unequally distributed across the 3 subtypes $( F _ { 2 , 8 4 8 . 9 } = 2 3 . 7$ . $P < . 0 0 1 )$ , with subtype 2 showing the lowest depression severity and subtype 1 showing the highest (Table 2 and eTable 2 in Supplement 1). The mean difference in HAM-D scores between subtypes 1 and 2 at week 8 (end point of many antidepressant drug trials) was 3.2 points $9 5 \%$ CI, $- 0 . 6$ to 7.1 points; subtype 1: mean [SD], 17.2 [8.4]; subtype 2: mean [SD], 14.0 [5.5]). Finally, comparisons between treatment and active comparison conditions revealed a 3-way interaction, suggesting that subtype 1 benefited more from experimental treatments vs the active comparison conditions than did subtype 2 $( F _ { 2 , 2 9 6 1 . 7 } = 4 . 3 $ . $P = . 0 1 )$ (eTable 5 in Supplement 1). Survival analysis showed that subtype 2 had a higher probability of achieving remission (HAM $\mathrm { \cdot D } { \leq } 1 0 _ { \cdot }$ than did subtypes 1 and 3 by treatment end (log-rank $\Upsilon _ { 2 } ^ { 2 } = 1 8 . 2$ $P < . 0 0 1 )$ and over the first 6 weeks (log-rank $\Upsilon _ { 2 } ^ { 2 } = 9 . 3$ : $P = . 0 1 $ (Figure 3B and eTable 4 in Supplement 1).
+
+# Discussion
+
+This study identified 3 clinical subtypes of late-life depression with a distinct course of depression during psychosocial interventions. Educated, older individuals experiencing strong emotional and instrumental supports and frequent social interactions (subtype 2) had the steepest decline of depression and the highest remission rate regardless of the intervention they received. These individuals also had suicidal ideation, psy chomotor disturbance, and somatic or paranoid symptoms. In contrast, individuals with anxious and somatic symptoms of depression, sadness, sleep disturbance, and a large social network (subtype 1) had the most persistent depression and the lowest remission rate. The difference in the course of depression between subtypes 1 and 2 was clinically significant and similar to that reported in trials39,40 comparing antidepressant drugs with placebo. Individuals with depression and disability across multiple domains showed a moderate reduction in depression (subtype 3). Differences in depression trajectories emerged early in treatment, and despite some fl attening of the slopes, they persisted until treatment end.
+
+To our knowledge, this is the first study to identify subtypes of late-life depression with a method that accounts for both between- and within-patient variability26 across the domains of psychopathology, cognitive impairment, functioning, and social support and to document their response to psychosocial interventions. Our analyses used, to our knowledge, the largest yet combined sample of participants with late-life depression treated with manualized psychosocial interventions. The combined sample had a range of disability and medical burden unlike the medically healthy samples in many treatment trials. The subtype membership was approximately equal, suggesting that findings were not driven by small subgroups.
+
+The profiles of the 3 subtypes were clinically sensible. Subtype 1 consisted of individuals with the highest depression severity. As expected, they had prominent anxiety, sadness, sleep disturbance, and somatic symptoms. Subtype 2 consisted of the oldest individuals who had mild depression, unimpaired cognition, and high educational level and experienced strong social support. Unexpectedly, individuals with mild severity of depression had suicidal ideation, psychomotor disturbances, and somatic or paranoid symptoms. This suggests that each depressive symptom needs to be separately assessed in older adults even if their overall severity of depression is mild. Although various domains of disability often cluster together, assessing each domain can guide treatment selection.
+
+The identified subtypes may inform the development of interventions that match patients' clinical profiles. The subtype with the strongest perceived social support and most frequent social interactions (subtype 2) had the most favorable depression trajectory regardless of the intervention offered. This finding is consistent with geriatric studies showing that perceived social support"1 and engagement in rewarding social activities predict favorable response to psychotherapy.41 It is also in line with neurobiological studies suggesting that social rewards activate the reward system and protect against psychopathology.42-44 Accordingly, such patients may be the best candidates for interventions targeting rewarding social activities.41
+
+Older adults with high severity of depression and anxiety, sadness, sleep disturbance, somatic symptoms, and a large social network (subtype 1) had the most persistent depression trajectory. Subtype 1 had the worst outcome of depression despite the large social network. This observation suggests that the size of a social network is insufficient to infl uence the course of depression. A large network with poor quality of relationships may be worse than a small network of positive relationships. Nevertheless, subtype 1 benefited from targeted treatments more than the active comparison conditions compared with subtype 2. Thus, streamlined, targeted psychosocial interventions may be especially promising for this group with severe depression. Older adults with depression and disability (subtype 3) were the next-best responders to psychosocial interventions. Interventions tailored to mitigate various aspects of disability may improve their treatment outcome.
+
+# Limitations
+
+This study has limitations. The interventions were tailored to the clinical needs of participants in individual studies and may not have matched the needs of patients in the 3 subtypes. Furthermore, the interventions were not equally distributed across subtypes. Nevertheless, subtype membership explained a substantial part of the variance in the trajectories of depression beyond study and treatment assignment. Most participants were White. Future studies may determine whether our findings are relevant to populations with higher rates of racial and ethnic minority individuals. The participants were receiving a stable dosage of antidepressants, and therefore, it is unknown whether the efficacy of pharmacotherapy differs across subtypes. Severity of depression at baseline may have infl uenced the trajectory of depressive symptoms, as the most severely depressed subtype showed the poorest depression trajectory. Moreover, it is unclear whether the depression clusters of the 3 subtypes were stable over time or whether they changed during the course of treatments. However, along with severity and cluster of depressive symptoms, each subtype was characterized by various impairments across multiple domains of functioning, thus offering a comprehensive view of
+
+# Downloaded From: https:/jamanetwork.com/ by a Butler University User on 05/05/2023
+
+the clinical profile associated with the treatment response. Finally, the studies were conducted between 2002 and 2013. There have been advances in psychosocial interventions since, and future studies may investigate the response of the subtypes to novel, streamlined interventions.
+
+# Conclusions
+
+In this prognostic study, between- and within-participant clustering identified 3 subtypes of late-life depression with a different depression course during psychosocial interventions. Older adults with mild severity of depression who experienced social support and were socially engaged were the best candidates for psychosocial interventions. In contrast, older adults with severe depression and large social networks responded inadequately to psychosocial interventions alone, suggesting that they may require a comprehensive treatment approach that includes pharmacotherapy, case management, and psychotherapy that will strengthen their social support. On a clinical level, knowledge of an older adult's depression subtype may inform the selection of interventions and improve treatment planning. On a heuristic level, the identification of discrete subtypes of late-life depression may stimulate the development of novel, streamlined interventions targeting the vulnerabilities of each subtype.
+
+# ARTICLE INFORMATION
+
+# Accepted for Publication: February 19, 2023.
+
+Published Online: May 3, 2023. doi:10.1001/jamapsychiatry.2023.0815
+
+Author Contributions: Drs Solomonov and Lee served as co-first authors. Dr Alexopoulos had full access to all of the data in the study and takes responsibility for the integrity of the data and the accuracy of the data analysis.   
+Concept and design: Solomonov, Lee, Banerjee, Chen, Liston, Areán, Alexopoulos.   
+Acquisition, analysis, or interpretation of data: Solomonov, Lee, Banerjee, Sirey, Gunning, Liston, Raue, Areán, Alexopoulos.   
+Drafting of the manuscript: Solomonov, Lee,   
+Banerjee, Chen, Alexopoulos.   
+Critical revision of the manuscript for important intellectual content: Solomonov, Lee, Banerjee, Sirey, Gunning, Liston, Raue, Areán, Alexopoulos. Statistical analysis: Solomonov, Lee, Banerjee, Liston, Alexopoulos.   
+Obtained funding: Areán, Alexopoulos.   
+Administrative, technical, or material support: Solomonov, Gunning, Alexopoulos.   
+Supervision: Sirey, Gunning, Liston, Raue, Areán, Alexopoulos.
+
+Conflict of Interest Disclosures: Dr Solomonov reported receiving a grant from the National Institute of Mental Health (NIMH) during the conduct of the study. Dr Gunning reported being an Associate Editor of JAMA Network Open, receiving grants from the NIMH during the conduct of the study, and receiving grants from the NIMH and Akili Interactive outside the submitted work. Dr Liston reported having a patent pending or in preparation on neuroimaging biomarkers for depression for Cornell University; serving as a scientific advisor or consultant to Compass Pathways PLC, Delix Therapeutics, Magnus Medical, and Brainify.Al; receiving personal fees from Compass Pathways PLC; receiving stock options from Delix Therapeutics and Brainify.Al; and receiving grants from Magnus Medical outside the submitted work. Dr Alexopoulos reported receiving grants from the NIMH and the Sanchez Foundation during the conduct of the study; receiving speakers honoraria from Takeda, Lundbeck, Otsuka, and Allergan; and serving on the advisory board of Otsuka, Eisai, and Janssen. No other disclosures were reported.
+
+Funding/Support: This research was funded by grants RO1 MH064099, P30 MH085943, RO1 MH075897, T32 MHO19132, P30 MH068638, RO1
+
+HL0071992, R01 MH076829, and P50 MH113838 (Dr Alexopoulos); RO1 MH063982, RO1 MH075900, and P50 MH115837 (Dr Areán); and K23 MH123864 (Dr Solomonov) from the NIMH and the Sanchez Foundation (Dr Alexopoulos).
+
+Role of the Funder/Sponsor: The funders had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.
+
+Data Sharing Statement: See Supplement 2.
+
+# REFERENCES
+
+1. Huang AX, Delucchi K, Dunn LB, Nelson JC. A systematic review and meta-analysis of psychotherapy for late-life depression. Am J Geriatr Psychiatry. 2015;23(3):261-273. doi:10.1016/j.jagp. 2014.04.003
+
+2. Pinquart M, Duberstein PR, Lyness JM. Treatments for later-life depressive conditions: a meta-analytic comparison of pharmacotherapy and psychotherapy. Am J Psychiatry. 2006;163(9): 1493-1501. doi:10.1176/ajp.2006.163.9.1493
+
+3. Alexopoulos GS. Mechanisms and treatment of late-life depression. Transl Psychiatry. 2019;9(1): 188. doi:10.1038/s41398-019-0514-6
+
+4.Cuijpers P, van Straten A, Smit F. Psychological treatment of late-life depression: a meta-analysis of randomized controlled trials. Int J Geriatr Psychiatry. 2006;21(12):1139-1149. doi:10.1002/gps.1620
+
+5De Maat S, Dekker J, Schoevers R, De Jonghe F. Relative efficacy of psychotherapy and pharmacotherapy in the treatment of depression: a meta-analysis. Psychother Res. 2006;16(5):566- 578. doi:10.1080/10503300600756402
+
+6Beijers L, Wardenaar KJ, van Loo HM, Schoevers RA. Data-driven biological subtypes of depression: systematic review of biological approaches to depression subtyping. Mol Psychiatry. 2019;24(6): 888-900. doi:10.1038/s41380-019-0385-5
+
+7. Mezuk B, Kendler KS. Examining variation in depressive symptoms over the life course: a latent class analysis. Psychol Med. 2012;42(10):2037-2046. doi:10.1017/S003329171200027X
+
+8. Ten Have M, Lamers F, Wardenaar K, et al. The identification of symptom-based subtypes of depression: a nationally representative cohort study. J Affect Disord. 2016;190:395-406. doi:10.1016/j.jad.2015.10.040
+
+9. Belvederi Murri M, Grassi L, Caruso R, et al. Depressive symptom complexes of community-dwelling older adults: a latent network model. Mol Psychiatry. 2022;27(2):1075-1082. doi:10.1038/s41380-021-01310-y
+
+10. Tunvirachaisakul C, Gould RL, Coulson MC, et al. Predictors of treatment outcome in depression in later life: a systematic review and meta-analysis. J Affect Discord. 2018;227:164-182. doi:10.1016/j.jad.2017.10.008.
+
+11. Solomonov N, Lee J, Banerjee S, et al. Modifiable predictors of nonresponse to psychotherapies for late-life depression with executive dysfunction: a machine learning approach. Mol Psychiatry. 2021;26(9):5190-5198. doi:10.1038/s41380-020-0836-z
+
+12. Cole MG, Dendukuri N. Risk factors for depression among elderly community subjects: a systematic review and meta-analysis. Am J Psychiatry. 2003;160(6):1147-1156. doi:10.1176/appi. ajp.160.6.1147
+
+13. Lamers F, Beekman ATF, van Hemert AM, Schoevers RA, Penninx BWJH. Six-year longitudinal course and outcomes of subtypes of depression. Br J Psychiatry. 2016;208(1):62-68. doi:10.1192/bjp. bp.114.153098
+
+14. Alexopoulos GS, Manning K, Kanellopoulos D, et al. Cognitive control, reward-related decision making and outcomes of late-life depression treated with an antidepressant. Psychol Med. 2015; 45(14):3111-3120. doi:10.1017/S0033291715001075
+
+15. Areán PA, Raue P, Mackin RS, Kanellopoulos D, McCulloch C, Alexopoulos GS. Problem-solving therapy and supportive therapy in older adults with major depression and executive dysfunction. Am J Psychiatry. 2010;167(11):1391-1398. doi:10.1176/appi.ajp.2010.09091327
+
+16. Rantala MJ, Luoto S, Krams I, Karlsson H. Depression subtyping based on evolutionary psychiatry: proximate mechanisms and ultimate functions. Brain Behav Immun. 2018;69:603-617. doi:10.1016/j.bbi.2017.10.012
+
+17. Sharpley CF, Bitsika V. Validity, reliability and prevalence of four 'clinical content' subtypes of depression. Behav Brain Res. 2014;259:9-15. doi:10.1016/j.bbr.2013.10.032
+
+18. Sunderland M, Carragher N, Wong N, Andrews G. Factor mixture analysis of DSM-IV symptoms of major depression in a treatment seeking clinical population. Compr Psychiatry. 2013;54(5):474-483. doi:10.1016/j.comppsych.2012.12.011
+
+# Downloaded From: https:/jamanetwork.com/ by a Butler University User on 05/05/2023
+
+19. Saunders R, Buckman JEJ, Cape J, Fearon P, Leibowitz J, Pilling S. Trajectories of depression and anxiety symptom change during psychological therapy. J Affect Disord. 2019;249:327-335. doi:10.1016/j.jad.2019.02.043
+
+20. Catarino A, Fawcett JM, Ewbank MP, et al. Refining our understanding of depressive states and state transitions in response to cognitive behavioural therapy using latent Markov modelling. Psychol Med. 2022;52(2):332-341. doi:10.1017/ S0033291720002032
+
+21. Simmonds-Buckley M, Catarino A, Delgadillo J. Depression subtypes and their response to cognitive behavioral therapy: a latent transition analysis. Depress Anxiety. 2021;38(9):907-916. doi:10.1002/da.23161
+
+22. Lugtenburg A, Zuidersma M, Wardenaar KJ, et al. Subtypes of late-life depression: a data-driven approach on cognitive domains and physical frailty. J Gerontol A Biol Sci Med Sci. 2021;76(1):141-150. doi:10.1093/gerona/glaa110
+
+23. Veltman EM, Lamers F, Comijs HC, et al. Depressive subtypes in an elderly cohort identified using latent class analysis. J Affect Disord. 2017;218: 123-130. doi:10.1016/j.jad.2017.04.059
+
+24. Hybels CF, Landerman LR, Blazer DG. Latent subtypes of depression in a community sample of older adults: can depression clusters predict future depression trajectories? J Psychiatr Res. 2013;47(10):1288-1297. doi:10.1016/j.jpsychires.2013. 05.033
+
+25. Liao L, Wu Z, Mellor D, et al. Subtypes of treatment-resistant depression determined by a latent class analysis in a Chinese clinical population. J Affect Disord. 2019;249:82-89. doi:10.1016/j.jad.2019.02.005
+
+Tnay A Sharan R, Shamir R Biclustring algorithms: a survey. In: Handbook of Computational Molecular Biology. Chapman & Hall/CRC; 2005.
+
+27. Alexopoulos GS, Raue PJ, McCulloch C, et al. Clinical case management versus case management with problem-solving therapy in low-income,
+
+disabled elders with major depression: a randomized clinical trial. Am J Geriatr Psychiatry. 2016;24(1):50-59. doi:10.1016/j.jagp.2015.02.007
+
+28. Alexopoulos GS, Sirey JA, Banerjee S, et al. Two behavioral interventions for patients with major depression and severe COPD. Am J Geriatr Psychiatry.2016;24(11:964-974.doi:10.1016/j.jgp. 2016.07.014
+
+29. Alexopoulos GS, Kiosses DN, Sirey JA, et al. Personalised intervention for people with depression and severe COPD. Br J Psychiatry. 2013; 202(3):235-236. doi:10.1192/bjp.bp.112.120139
+
+Hamilton M. A rating scale for depression. J Neurol Neurosurg Psychiatry. 1960;23(1):56-62. doi:10.1136/jnnp.23.1.56
+
+World Health Organization. Disability Assessment Schedule 2.0 (WHODAS 2.0). February 2000. Accessed XX March 24, 2023. https://www. who.int/standards/classifications/internationalclassification-of-functioning-disability-and-health/ who-disability-assessment-schedule
+
+32. Folstein MF, Folstein SE, McHugh PR. "Mini-mental state": a practical method for grading the cognitive state of patients for the clinician. J Psychiatr Res. 1975;12(3):189-198. doi:10.1016/ 0022-3956(75)90026-6
+
+33. Koenig HG, Westlund RE, George LK, Hughes DC, Blazer DG, Hybels C. Abbreviating the Duke Social Support Index for use in chronically ill elderly individuals. Psychosomatics. 1993;34(1): 61-69. doi:10.1016/S0033-3182(93)71928-3
+
+34. Fern XZ, Brodley CE. Solving cluster ensemble problems by bipartite graph partitioning. Association for Computing Machinery. 2004;2004:281-288.
+
+3ggbipart, an R package for plotting bipartite networks. March 28, 2017. Accessed July 22, 2021. https://pedroj.github.io/bipartite_plots/
+
+.Beckett SJ. Improved community detection in weighted bipartite networks. R Soc Open Sci. 2016; 3(1):140536. doi:10.1098/rsos.140536
+
+37. Dormann CF, Gruber B, Fründ J. Introducing the bipartite package: analysing ecological networks. R News. 2008;8(2):8-11.
+
+38. Lutz W, Stulz N, Köck K. Patterns of early change and their relationship to outcome and follow-up among patients with major depressive disorders. J Affect Disord. 2009;118(1-3):60-68. doi:10.1016/j.jad.2009.01.019
+
+Khan A, Brown WA. Antidepressants versus placebo in major depression: an overview. World Psychiatry. 2015;14(3):294-300. doi:10.1002/wps. 20241
+
+40. Cipriani A, Furukawa TA, Salanti G, et al. Comparative efficacy and acceptability of 21 antidepressant drugs for the acute treatment of adults with major depressive disorder: a systematic review and network meta-analysis. Focus (Am Psychiatr Publ). 2018;16(4):420-429. doi:10.1176/appi.focus.16407
+
+41.Solomonov N, Bress JN, Sirey JA, et al. Engagement in socially and interpersonally rewarding activities as a predictor of outcome in "engage" behavioral activation therapy for late-life depression. Am J Geriatr Psychiatry. 2019;27(6): 571-578. doi:10.1016/j.jagp.2018.12.033
+
+42. Dölen G, Darvishzadeh A, Huang KW, Malenka RC. Social reward requires coordinated activity of accumbens oxytocin and serotonin. Nature. 2013;501(7466):179-184. doi:10.1038/nature12518
+
+4. Venniro M, Zhang M, Caprioli D, et al. Volitional social interaction prevents drug addiction in rat models. Nat Neurosci. 2018;21(11):1520-1529. doi:10.1038/s41593-018-0246-6
+
+44. Rademacher L, Krach S, Kohls G, Irmak A, Gründer G, Spreckelmeyer KN. Dissociation of neural networks for anticipation and consumption of monetary and social rewards. Neuroimage. 2010; 49(4):3276-3285. doi:10.1016/j.neuroimage.2009. 10.089
+
+# Downloaded From: https:/jamanetwork.com/ by a Butler University User on 05/05/2023

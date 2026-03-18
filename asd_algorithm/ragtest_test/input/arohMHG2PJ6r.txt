@@ -1,0 +1,339 @@
+# Association Between Maternal Perinatal Depression and Anxiety and Child and Adolescent Development A Meta-analysis
+
+IMPoRTANcE There is widespread interest in associations between maternal perinatal depression and anxiety and offspring development; however, to date, there has been no systematic,meta-analytieviewnhe ong-termdevelopmentalutcomes span infancy through adolescence.
+
+OBJEcTIVE To provide a comprehensive systematic review and meta-analysis of the extant literature on associations between maternal perinatal depression and anxiety and during the first 18 years of life.
+
+DATA souRcEs Six databases were searched (CINAHL Complete, Cochrane Library, Embase, Inrmt, EDLINE Complete, an PsycInfo) or all extant tudis eportingassoctions bete patal atea mena heal oblems nfpdveomnt to March 1, 2020.
+
+STUDY sELEcTioN Studies were included if they were published in English; had a human sample, quantitative data, a longitudinal design, and measures of perinatal depression and/or anxiety and social-emotional, cognitive, language, motor, and/or adaptability development in offspring; and investigated an association between perinatal depression or anxiety and childhood development.
+
+DATA EXTRACTION AND SYNTHESIS Of 27 212 articles identified, 191 were eligible for meta-analysis. Data were extracted by multiple independent observers and pooled using a fixed- or a random-effects model. A series of meta-regressions were also conducted. Data were analyzed from January 1, 2019, to March 15, 2020.
+
+MAIN ouTCoMES AND MEAsURES Primary outcomes included social-emotional, cognitive, language, motor, and adaptability development in offspring during the first 18 years of life.
+
+RESULTs After screening, 191 unique studies were eligible for meta-analysis, with a combined sample of 195 751 unique mother-child dyads. Maternal perinatal depression and anxiety were associated with poorer offspring social-emotional (antenatal period, $r = 0 . 2 1$ $[ 9 5 \%$ CI, 0.16-0.27]: postnatal period, $r = 0 . 2 4$ cYanmaGentaYellowb $[ 9 5 \%$ CI, 0.19-0.28]), cognitive (antenatal period, $r = - 0 . 1 2$ $9 5 \%$ CI, -0.19 to -0.05]; postnatal period, $r = - 0 . 2 5$ $[ 9 5 \%$ CI, -0.39 to -0.09]), language (antenatal period, $r = - 0 . 1 1$ $[ 9 5 \%$ CI, $- 0 . 2 0$ to 0.02]: postnatal period, $r = - 0 . 2 2$ $[ 9 5 \%$ CI, -0.40 to 0.03]), motor (antenatal period, $r = - 0 . 0 7$ $[ 9 5 \%$ CI, -0.18 to 0.03]: postnatal period, $r = - 0 . 0 7$ cYanmaGYellowb $[ 9 5 \%$ CI, $- 0 . 1 6$ to 0.03]), and adaptive behavior (antenatal period, $r = - 0 . 2 6$ cYanmaGYellowb $[ 9 5 \%$ CI, $- 0 . 3 9$ to 0.12]) development. Findings extended beyond infancy, into childhood and adolescence. Meta-regressions confirmed the robustness of the results.
+
+coNCLusIoNs AND RELEVANCE Evidence suggests that perinatal depression and anxiety in mothers are adversely associated with offspring development and therefore are important targets for prevention and early intervention to support mothers transitioning into parenthood and the health and well-being of next-generation offspring.
+
+Author Affiliations: Author affiliations are listed at the end of this article.
+
+n high-income countries, approximately $5 \%$ of mothers experience clinical depression, and $1 3 \%$ experience clinical anxiety perinatally. In low- and middle-income countries, estimates range from $1 5 \%$ to $5 0 \%$ 1,2 There is widespread interest in the association between maternal perinatal mental health and offspring development. A number of systematic narrative reviews of this literature have been conducted3-12; however, to our knowledge, no systematic review and metaanalysis to date has evaluated the longer-term associations of maternal antenatal and postnatal depression and anxiety with a range of key developmental domains from infancy through adolescence. Herein we present findings from a metaanalysis of evidence on the association of antenatal and postnatal anxiety and depression with early life development with the aim of informing perinatal preventative intervention and treatment initiatives.
+
+The perinatal period spans conception through pregnancy (antenatal), birth, and the first year of life (postnatal).13 Although numerous factors within and beyond the perinatal period may influence offspring development (eg, medication use, continuing maternal depression and anxiety, social factors), the perinatal period is in itself a time of unprecedented growth and sensitivity, during which intrauterine exposures and early life experiences may modify fetal, infant, and later development.14,15 There are various possible mechanisms via which perinatal depression and anxiety may negatively affect offspring development. Antenatal depression and anxiety have each been shown to increase fetal cortisol concentration,16 leading to changes in fetal hypothalamic-pituitary-adrenal axis activity and brain function17 and reducing placental blood flow and oxygen and nutrients to the fetus.18 In addition, studies suggest that antenatal depression and anxiety may lead to epigenetic dysregulation in offspring hypothalamic-pituitaryadrenal pathways and serotonin transmission, resulting in increased offspring hypothalamic-pituitary-adrenal reactivity and changes in brain serotonin levels that can influence development.19 Furthermore, antenatal depression and anxiety may disrupt neurocognitive changes that prepare mothers to sensitively respond to their infants.0 Postnatal depression and anxiety are also theorized to delay offspring development by reducing a mother's ability to sensitively respond to infant cues and, subsequently, the likelihood of a secure infant attachment. 21,22 Notably, postnatal depression has been associated with maternal disengagement,23 whereas postnatal anxiety has been associated with overintrusive parenting. 24
+
+Given these putative mechanisms, numerous studies have examined whether perinatal depression and anxiety are associated with adverse offspring development. Across the domains of social-emotional, cognitive, language, motor, and adaptive behavior development, effect sizes range from large to negligible. Within the social-emotional domain, although not all studies found evidence of association,3 children born to mothers with perinatal depression or anxiety have been shown to have higher rates of insecure attachment, fewer prosocial behaviors,25,26 and more temperamental difficulties,27 internalizing, 28 externalizing, 28 and peer-related problems.29 Although some studies show associations between perinatal
+
+# Key Points
+
+Question Are maternal perinatal depression and anxiety averselctewisocaloiacitiv, , motor, andadaptive behavior development infpringdurig the first 18 years of life?
+
+Findings In this systematic review and meta-analysis, maternal perinatal depression and anxiety were associated with poorer social-emotional, cognitive, language, motor, and adaptive behavior development in offspring. Developmental outcomes extended beyond infancy, into childhood and adolescence.
+
+Meaning Evidence suggests that perinatal depression and anxiety in mothers are adversely associated with offspring development and, therefore, are important targets for prevention and early intervention to support mothers transitioning into parenthood
+
+depression and anxiety and cognitive deficits, 30,31 particularly in the domains of executive functioning, 30 memory, 30 processing speed, 31 academic achievement, and intelligence, 32,33 others demonstrate no significant effect.4,35 In addition, numerous studies suggest perinatal depression and anxiety may delay language and motor maturation, specifically expressive and receptive communication and gross and fine motor skills36,37; however, others show no evidence of association. 38,39 Comparably fewer studies have examined adaptive behavior development, with some showing no association40,41 and others finding small associations between perinatal depression and anxiety and poorer offspring adaptive behavior.37
+
+The inconsistency between studies may be due to differences in type of exposure (ie, depression or anxiety), timing of exposure (ie, antenatal or postnatal), child age, and assessment method (ie, self-report or assessment), making it difficult to ascertain the magnitude of effects for each developmental domain. Various reviews have attempted to synthesize thevailabe arch35,7-,4 However, tuowle, no study to date has comprehensively reviewed both the antenatal and postnatal periods and depression and anxiety across key developmental domains from infancy through adolescence, nor have they performed a meta-analysis of the available studies, making it difficult to ascertain the magnitude of the effects. The aim of this systematic review is 2-fold: (1) to provide meta-analytic estimates of the association of maternal perinatal depression and anxiety on social-emotional, cognitive, language, motor, and adaptive behavior development in offspring from infancy through adolescence; and (2) to assess whether this association is moderated by timing of exposure (ie, antenatal and postnatal exposure), type of mental illness (ie, maternal depression and anxiety), and offspring age (ie, infancy, childhood, middle childhood, and adolescence).
+
+# Methods
+
+# Search Strategy
+
+This study adhered to the Preferred Reporting Items for Systematic Reviews and Meta-analyses (PRISMA) reporting
+
+Box. Meta-analysis Inclusion and Exclusion Criteria
+
+# Inclusion Criteria
+
+Available in English   
+Human sample: offspring aged 4 wk to ${ < } 1 8$ y   
+Empirical study   
+4Quantitative data, analyzing an association between maternal perinatal depression and/or anxiety and childhood development   
+Prospective longitudinal design, with mental health measured before the child outcome measure²   
+Measure of perinatal anxiety or depression (symptoms and/or diagnosis)   
+Measure of child development aSocial-emotional: externalizing, internalizing, peer problems, prosocial, attachment, dysregulation, positive and negative emotionality, orienting, and difficulty Cognitive: visual spatial, verbal IQ, inhibition, quantitative and working memory, and academic achievement c.Language: expressive and receptive Motor: fine and gross eAdaptability: ability to respond to environmental demands and manage daily needs
+
+8Investigated maternal antenatal depression and/or anxiety and childhood development
+
+# Exclusion Criteria
+
+Sample consisted of individuals recruited because they had a medical condition or were taking medication, alcohol, or other drugs Sample was involved in a perinatal maternal depression and/or anxiety therapeutic intervention
+
+a Longitudinal studies were selected to ensure that the exposure occurred before the developmental outcome, in turn minimizing the risk that the exposure had a concurrent effect on the developmental outcome. Retrospective cohort studies were also excluded owing to the documented guideline (PROSPERO registration, CRD42018098834).43A systematic search of extant peer-reviewed literature published to March 1, 2020, was conducted. Databases searched included CINAHL Complete, Cochrane Library, Embase, Informit, MEDLINE Complete, and PsycInfo. Search terms included the concepts of time in pregnancy, mental illness, and longitudinal (eTable 1 in the Supplement). Additional searches were performed for gray literature with forward and backward citations.
+
+# Selection Criteria
+
+Eligibility criteria are described in the Box. Exposures of interest were perinatal combined anxiety and depression, anxiety alone, or depression alone (including symptoms and diagnosis); outcomes of interest were offspring socialemotional, cognitive, language, motor, and adaptive development, from 4 weeks to 18 years of age. Articles' titles and abstracts were first screened by 2 researchers (A.R. and S.O.), with $9 9 \%$ agreement on a blind double-screen of $5 \%$ of articles (S.J.T. and L.R.). Candidate articles were then reviewed in full text (A.R. and S.O.), with $1 0 0 \%$ agreement on a blind double-screen of $1 0 \%$ of articles (S.J.T. and L.R.).
+
+# Data Extraction and Study Quality
+
+Data were extracted using a standardized pro forma method (A.R. and S.O.), with $1 0 \%$ cross-checked. Data extracted included research design, sample size, country, recruitment method, mean maternal age, time of assessments, measures, and relevant statistics. Where studies did not report correlations, effect sizes were transformed and converted to Pearson $r$ correlations (eTable 2 in te Suppeent).47,48 Tsess ik bas a ualit s ment was completed using the National Institutes of Health Quality Assessment Tool for Observational Cohort and Cross-Sectional Studies, designed to examine study quality according to Cochrane collaboration criteria.49,50
+
+# Data Synthesis
+
+Data were analyzed from January 1, 2019, to March 15, 2020. A series of meta-analyses estimated the pooled associations between perinatal maternal depression and/or anxiety and offspring development. Studies were excluded from analyses if measurements of antenatal and postnatal periods were combined, enabling examination of the differential associations of the 2 periods and disorders. Results were stratified by psychopathology type (ie, combined depression and anxiety, depression only, or anxiety only), perinatal period (ie, antenatal or postnatal), and child age at outcome assessment (ie, all ages combined, infancy $[ < 2$ years], early childhood [2 to ${ < } 5$ years], middle childhood [5 to ${ < } 1 3$ years], and adolescence [13 to ${ < } 1 8$ years]). The effects of antenatal and postnatal depression and anxiety were investigated in both separate and combined models to explore the independent and combined effect of these 2 disorders. Meta-analyses were classed into 5 categories (ie, social-emotional, cognitive, language, motor, and adaptability) that map to domains used in criterion-standard assessments of child development.51 Separate meta-analyses were performed when there were at least 2 studies providing effects for an outcome.
+
+When a meta-analysis consisted of 1 effect per study, we used a standard random-effects meta-analysis with the metafor package, version 1.9.8,52 in R software, version 3.5.0 (R Project for Statistical Computing). Otherwise, a robust variance metaanalysis approach was applied, using the robumeta package, version 2 (R Project for Statistical Computing), to account for multiple effects from the same sample. The $I ^ { 2 }$ statistics were reported as measures of heterogeneity.53 We used guidelines to interpret correlational effect sizes that are meaningful, accounting for the cumulative infl uence of small effects over time, where 0.05 is very small, 0.10 is small, 0.20 is medium, 0.30 is large, and greater than 0.40 is very large. 54 Meta-regressions were conducted to determine whether timing of exposure (antenatal or postnatal), type of mental illness (depression or anxiety), mental health measure (self-report or assessment), child development measure (mother report or observer rated), and offspring age (infancy, early and middle childhood, and adolescence) moderate the association between maternal perinatal depression and anxiety and offspring development. Two-sided $P < . 0 5$ indicated significance based on $z$ tests (when using metafor), t tests (when using robumeta), or Wald tests (for moderation results, using clubSandwich package, version 0.4.2 [R Project for Statistical Computing]).
+
+# Downloaded From: https://jamanetwork.com/ by a Shanghai Jiaotong University User on 09/16/2020
+
+# Results
+
+# Study Selection, Characteristics, and Quality
+
+Of the 27 212 articles assessed for eligibility, we screened the full text of 783 (Figure). In total, 308 studies met eligibility criteria, with 191 studies quantitatively synthesized. Full study characteristics are summarized in eTable 3 in the Supplement. Sample sizes ranged from 27 to 82 383 (mean [SD], 1928 [3037]). Geographically, most studies were conducted in the United Kingdom (50 $\left[ 2 6 . 1 8 \% \right]$ , United States (46 $\left[ 2 4 . 0 8 \% \right] ,$ the Netherlands (14 $[ 7 . 3 3 \% ] )$ , and Australia, Canada, and Norway (each 10 $[ 5 . 2 4 \% ]$ ).
+
+The quality assessment suggests that most articles used a range of robust study design features (eTables 4 and 5 in the Supplement). Notably, all studies stated their research questions objectively, used valid and reliable measures, and allowed sufficient time between the assessment of exposure and outcome. Studies varied as to whether mental health was measured continuously or categorically. Although most studies had relatively large sample sizes, the most notable risk of bias related to a lack of information on statistical power to determine sample size, in addition to sample selection and attrition. Of those articles that reported a dropout rate, attrition was generally greater than $2 0 \%$ , suggesting a risk of selective sampling bias (eg, greater loss of participants who are disadvantaged and/or have poorer mental health); results should therefore be interpreted within the context of these limitations.
+
+# Meta-analytic Results
+
+Developmental domains and subdomains are summarized in Table 1. Meta-analytic results are presented in Table 2 and Table 3, with age-specific analyses and exemplar forest plots in eTables 6 to 10 and eFigures 1 to 8 in the Supplement. Data and coding for all analyses are available through Open Science Framework (https://osf.io/h4b9u/).
+
+# Maternal Mixed Depression and Anxiety
+
+For the composite measure of social-emotional development, evidence suggested a moderately strong association with maternal depression and/or anxiety (antenatal period, $r = 0 . 2 1 $ $[ 9 5 \%$ CI, 0.16-0.27]; postnatal period, $r = 0 . 2 4 $ $[ 9 5 \%$ CI, 0.91-0.28]) and small-to-moderate associations with offspring externalizing (antenatal period, $r = 0 . 1 8$ $[ 9 5 \%$ CI, 0.13-0.22]; postnatal period, $r = 0 . 1 8$ $[ 9 5 \%$ CI, 0.15-0.20]) and internalizing (antenatal period, $r = 0 . 1 7$ $[ 9 5 \%$ CI, 0.13-0.21]; postnatal period, $r = 0 . 1 9 [ 9 5 \% \mathrm { C I } ,$ 0.15-0.23]) behaviors. Antenatal associations were similar at each age or stage of development from infancy through adolescence, with internalizing behaviors evident only in early childhood $r = 0 . 1 8$ cYanmaGntaYellowb $[ 9 5 \%$ CI, O.12-0.25]). Postnatal depression and/or anxiety were associated with adverse outcomes for the composite measure $( r = 0 . 2 4 [ 9 5 \% \mathrm { C I } , 0 . 1 9 - 0 . 2 8 ] $ and with externalizing and internalizing behaviors from infancy through middle childhood (externalizing, $r = 0 . 1 8$ $9 5 \%$ CI, 0.15-0.20]; internalizing, $r = 0 . 1 9$ $[ 9 5 \%$ CI, 0.15-0.23]).
+
+Antenatal depression and/or anxiety were also associated with poorer offspring prosocial behavior, albeit with small effect sizes (antenatal period, $r = - 0 . 0 7$ EY $[ 9 5 \%$ CI, $- 0 . 1 3$ to $- 0 . 0 1 ] )$ . For temperament, evidence was found of small associations between perinatal depression and/or anxiety with negative emotionality (antenatal period, $r = 0 . 1 4$ cYanm—Yellow $[ 9 5 \%$ CI, 0.0- 0.20]; postnatal period, $r = 0 . 2 1 $ cYanmaGaGnaYellowb $9 5 \%$ CI, 0.13-0.30]). These associations were evident antenatally in infancy and postnatally in infancy and early childhood. Combined depression and/or anxiety in both perinatal periods were also associated with offspring difficulty in infancy (antenatal period, $r = 0 . 1 9$ $[ 9 5 \%$ CI, 0.13-0.25]; postnatal period, $r = 0 . 2 5$ cYanmaGntaYellowb $[ 9 5 \%$ CI, 0.20- 0.30]) and with dysregulation in early childhood (antenatal period, $r = 0 . 2 1 $ EY $[ 9 5 \%$ CI, 0.11-0.31]; postnatal period, $r = 0 . 3 1$ $[ 9 5 \%$ CI, 0.19-0.42]).
+
+Considering other developmental domains across the antenatal period, there was evidence of small negative associations with infant cognitive (composite) $\mathit { r } = - 0 . 1 2$ cYanmaGntaYellowb $9 5 \%$ CI, −0.19 to $- 0 . 0 5 ]$ ) and language development $( r = - 0 . 1 1 [ 9 5 \%$ b $- 0 . 2 0$ to O.02]). There was evidence of a small negative association with motor development at younger than 2 years (antenatal period, $r = - 0 . 1 2$ EPY $[ 9 5 \%$ CI, $- 0 . 1 9$ to $- 0 . 0 4 ]$ ). Across development, depression and anxiety were associated with reduced motor development (antenatal period, $r = - 0 . 0 7 [ 9 5 \%$ CI, −0.18 to 0.03]; postnatal period, $r = - 0 . 0 7 [ 9 5 \%$ CI, $- 0 . 1 6$ to 0.03]). There was a large negative association with infant adaptive behavior development (antenatal period, $r = - 0 . 2 6 [ 9 5 \% ($ b, $- 0 . 3 9$ to 0.12]). Postnatal, there was evidence of medium-to-large negative associations between maternal anxiety and/or depression and offspring cognitive development (composite $r = - 0 . 2 5$ EPY $[ 9 5 \%$ CI, $- 0 . 3 9$ to $- 0 . 0 9 ]$ ) and language development (composite $r = - 0 . 2 2$ $[ 9 5 \%$ CI, $- 0 . 4 0$ to 0.03]).
+
+# Maternal Depression
+
+Maternal depression was associated with poorer socialemotional development as evidenced by social-emotional composite (antenatal period, $r = 0 . 2 1 $ cYanmaGaGentaYellowb $[ 9 5 \%$ CI, 0.13-0.29]; postnatal period, $r = 0 . 2 4$ — $9 5 \%$ CI, 0.20-0.29]), externalizing behaviors (antenatal period, $r = 0 . 2 0$ $[ 9 5 \%$ CI, 0.13-0.27]; postnatal period, $r = 0 . 1 8$ $[ 9 5 \%$ CI, 0.16-0.21]), internalizing behaviors (antenatal period, $r = 0 . 1 9$ $[ 9 5 \%$ CI, 0.10-0.27]; postnatal period, $r = 0 . 1 9$ $[ 9 5 \%$ CI, 0.16-0.22]), peer problems (postnatal period, $r = 0 . 1 6$ $[ 9 5 \%$ CI, 0.08-0.24]), and prosocial behavior (antenatal period, $r = - 0 . 0 7$ $[ 9 5 \%$ CI, $- 0 . 1 5$ to 0.01]). For attachment and dysregulation, postnatal depression was associated with infant attachment problems $( r = - 0 . 3 0$ $[ 9 5 \%$ CI, $- 0 . 4 4$ to 0.14]), with little evidence of associations antenatally. There was evidence of a medium association between antenatal depression and infant dysregulation $( r = 0 . 2 2$ $[ 9 5 \%$ CI, 0.12-0.24]) and a small-to-moderate association with temperamental negative emotionality $r = 0 . 1 2$ $[ 9 5 \%$ CI, 0.03-0.21]) and difficulty $r = 0 . 1 8$ EPY $[ 9 5 \%$ CI, 0.11-0.24]). Postnatal depression was also moderately associated with temperamental negative emotionality $( r = 0 . 2 4 $ $[ 9 5 \%$ CI, 0.11- 0.38]), orienting/regulation $( r = - 0 . 0 7 $ cYanmaGGtaYellowb $[ 9 5 \%$ CI, $- 0 . 2 1$ to 0.08]), and difficulty in infancy ${ r = 0 . 2 5 }$ $9 5 \%$ CI, 0.20-0.29]).
+
+Regarding other domains, perinatal depression was associated with poorer cognition (antenatal period, $r = - 0 . 1 4$ $[ 9 5 \%$ CI, $- 0 . 2 1$ to $- 0 . 0 6 ]$ ;postnatal period, $r = - 0 . 2 6 [ 9 5 \% \mathrm { C I }$ $- 0 . 4 2$ to $- 0 . 0 9 ]$ ). There was evidence of a small association between postnatal depression and poorer memory $( r = - 0 . 1 4 $
+
+![](images/93d44199dfc32391036e1881083253be61b83d55d0c86312510b8e13a515d4a3.jpg)
+
+# Downloaded From: https://jamanetwork.com/ by a Shanghai Jiaotong University User on 09/16/2020
+
+Table 1. Summary of Developmental Domains and Subdomains in the Meta-analysis   
+
+<table><tr><td>Domain</td><td>Subdomain</td><td>No. of meta-analysesa</td></tr><tr><td>Social-emotional</td><td>11 Subdomains analyzed: social-emotional composite, externalizing behavior, internalizing behavior, peer problems, prosocial behavior, attachment, dysregulation, and temperament, including positive emotionality, negative emotionality,</td><td>176</td></tr><tr><td>Cognitive</td><td>8 Subdomains analyzed: cognitive composite, verbal IQ, inhibition, performance IQ, memory, working memory, visual spatial, and academic achievement</td><td>56</td></tr><tr><td>Language</td><td>3 Subdomains analyzed: language composite, expressive language, and receptive language</td><td>27</td></tr><tr><td>Motor</td><td>3 Subdomains analyzed: Motor composite, gross motor, and fine motor</td><td>18</td></tr><tr><td>Adaptability</td><td>1 Subdomain analyzed: adaptability composite</td><td>3</td></tr></table>
+
+a Includes allthe permutations of diagnosis (combined, antenatal only, and postnatal only) by child age (infancy, early and middle childhood, and adolescence) and developmental subdomain.
+
+$[ 9 5 \%$ CI, $- 0 . 2 4$ to $- 0 . 0 4 ]$ and a large association with poorer performance IQ $( r = - 0 . 5 7 $ $[ 9 5 \%$ CI, $- 0 . 7 9$ to $- 0 . 2 0 ]$ in early childhood; however, only 2 studies55,56 were included. Postnatal depression was associated with poorer language ability (composite) in infancy and early childhood $\left( r = - 0 . 2 1 [ 9 5 \% \mathrm { C I } , \right.$ $- 0 . 0 4$ to $- 0 . 0 1 ]$ ). Further, antenatal depression was associated with poorer infant motor ability (composite: $r = - 0 . 1 1$ $[ 9 5 \%$ CI, $- 0 . 1 8$ to $- 0 . 0 4 ]$ and adaptive behavior $( r = - 0 . 2 0$ $[ 9 5 \%$ CI, $- 0 . 3 0$ to $- 0 . 0 1 ]$ .
+
+# Maternal Anxiety
+
+Perinatal anxiety was adversely associated with socialemotional development, particularly in the antenatal period for the social-emotional composite ${ \bf \zeta } ^ { r } = 0 . 2 2$ EPY $[ 9 5 \%$ CI, 0.15- 0.23]), externalizing behavior $( r = 0 . 1 9 $ $[ 9 5 \%$ CI, 0.07-0.31]), internalizing behavior $( r = 0 . 1 9 $ EY $[ 9 5 \%$ CI, 0.06-0.32]), negative emotionality $\mathit { r } = 0 . 1 8$ $[ 9 5 \%$ CI, 0.14-0.21]), and difficulty $( r = 0 . 2 5 $ EPY $[ 9 5 \%$ CI, 0.11-0.38]). Postnatally, anxiety was associated with poorer overall social-emotional development $\mathbf { \zeta } _ { r } = 0 . 1 9$ EPY $[ 9 5 \%$ CI, $- 0 . 0 6$ to 0.31]), externalizing behavior ${ r = 0 . 1 9 }$ cYanmaGaGntaYellowb $[ 9 5 \%$ CI, 0.19-0.28]), internalizing behavior $( r = 0 . 2 2$ $[ 9 5 \%$ CI, 0.05-0.39]), and temperamental negative emotionality $( r = 0 . 1 8 $ $[ 9 5 \%$ CI, 0.15-0.21]).
+
+Few studies examined the association of maternal perinatal anxiety with offspring cognition, language, and motor development. Nevertheless, evidence suggested a small association between antenatal anxiety and lower verbal IQ $( r = - 0 . 0 5$ cYanmaGentaYellowb $[ 9 5 \%$ CI, $- 0 . 0 7$ to 0.02]). Antenatal anxiety was associated with poorer language (composite) in early childhood $( r = - 0 . 1 9 $ $[ 9 5 \%$ CI, $- 0 . 2 4$ to 0.13]), and postnatal anxiety was associated with poorer language (composite) in infancy $( r = - 0 . 2 1 $ $[ 9 5 \%$ CI, $- 0 . 3 8$ to $- 0 . 0 4 ]$ . We also found evidence of a medium-to-large association between postnatal anxiety and poorer gross motor ability $( r = - 0 . 3 1 $ $[ 9 5 \%$ CI, $- 0 . 5 4$ to $- 0 . 0 3 ] ,$ , but only 2 studies57,58 were included.
+
+# Moderation Analyses
+
+Little systematic evidence suggested that meta-analytic effects were moderated by exposure timing, mental illness type, child development stage, or maternal/child assessment method (eMethods and eTables 11-16 in the Supplement). Notably, few moderations could be conducted because there were often fewer than 2 effects per level of each moderator. Owing to low power, results should be interpreted cautiously.
+
+# Discussion
+
+Herein we report findings from systematic review and metaanalysis examining the association of maternal perinatal depression and anxiety with offspring social-emotional, cognitive, language, motor, and adaptive behavior development from infancy through adolescence. Results from 191 articles showed consistent evidence of small-to-moderate associations across the perinatal period for social-emotional development; small-to-moderate associations antenatally and moderate-to-large associations postnatally across facets of cognitive and language development; and small-to-moderate associations for motor abilities post partum and adaptive behavior development antenatally. The findings are of public health significance59 and support investment in interventions aimed at prevention of perinatal maternal mental health problems.
+
+This review highlights important differential associations related to the timing and type of symptom exposure on offspring development across infancy, childhood, and adolescence. Specifically, perinatal depression and anxiety (combined) was adversely associated with composite socialemotional development in offspring from infancy through adolescence, with no evidence of weakening associations with age. This finding extended to the subdomains of externalizing and internalizing behavior and to temperamental negative emotionality and difficulty. These results are consistent with prior qualitative reviws,-5,8,42sggeing that the iks associated with maternal perinatal mental health problems are not limited to a single period of offspring development.
+
+Furthermore, maternal antenatal depression and anxiety (combined) was inversely associated with offspring prosocial behaviors $( r = - 0 . 0 7 )$ ; yet this association was not consistent across all developmental stages. Associations were also inconsistent in the domains of peer problems and temperament orienting/regulation, with evidence suggesting that adverse development is associated with postnatal, but not antenatal, mental health. Antenatally, only 2 studies25,60 investigated dysregulated behavior in infancy, specific to depression, with results indicating a large association $( r { = } 0 . 2 2 )$
+
+Notably, only postnatal depression was associated with infant attachment difficulties. This finding supports theoretical perspectives that suggest that postnatal depression negatively affects maternal sensitivity and attachment. 22,23,61 It is also consistent with theories suggesting that the experience of maternal-infant interactions may more strongly influence attachment than intrauterine factors.22,23,61 However, in other research, antenatal depression has been shown to contribute to the development of a mother's ability to respond sensitively to her offspring.20 With only 2 studies26,62 included in the meta-analysis on antenatal depression and attachment, this result requires replication.
+
+Ta   
+
+<table><tr><td rowspan="3"></td><td colspan="4">Combined anxiety and/or depression</td><td colspan="4">Anxiety</td><td colspan="4">Depression</td></tr><tr><td>No. of studies o. of</td><td>Correlation,</td><td>P</td><td>|² value,</td><td>No. of studies (No. of eeffects/</td><td></td><td></td><td>|²</td><td>No. of studies No. of</td><td></td><td>P</td><td>I²</td></tr><tr><td>e effects/ associations</td><td>r(5% C)</td><td>value</td><td>%</td><td>associations</td><td>Correlation, r(5% C)</td><td>P value %</td><td>value,</td><td>eeffects/ associations)</td><td>Correlation, r (95% Cl)</td><td>value</td><td>value,</td></tr><tr><td colspan="10">Outcome Social-emotional</td><td></td><td></td><td></td></tr><tr><td>Composite</td><td>18 (73)</td><td>0.21 (0.16 t 0.27)</td><td>&lt;.001 91</td><td></td><td>9 (38)</td><td>0.22 (0.15 to 0.23)</td><td>&lt;.001 93</td><td></td><td>15 (35)</td><td>0.21 (0.13 to 0.29)</td><td>&lt;.001</td><td>91</td></tr><tr><td>Externalizing</td><td>36 (147)</td><td>0.18 (0.13 to 0.22)</td><td>&lt;.001</td><td>98</td><td>11 (69)</td><td>0.19 (0.07 to 0.31)</td><td>.007 99</td><td></td><td>18 (68)</td><td>0.20 (0.13 to 0.27)</td><td>&lt;.001</td><td>98</td></tr><tr><td>Internalizing</td><td>31 (88)</td><td>0.17 (0.13 t 0.21)</td><td>&lt;.001</td><td>97</td><td>9 (44)</td><td>0.19 (0.06 to 0.32)</td><td>.01</td><td>98</td><td>13 (40)</td><td>0.19 (0.10 to 0.27)</td><td>&lt;.001</td><td>94</td></tr><tr><td>Peer problems</td><td>2(4)</td><td>0.39 (-0.99 to 1.00)</td><td>.35</td><td>100</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td></tr><tr><td>Prosocial</td><td>8 (18)</td><td>-0.07 (-0.13 to -0.01)</td><td>.03</td><td>74</td><td>6 (9)</td><td>-0.05 (-0.14 to 0.04)</td><td>.23</td><td>80</td><td>7 (9)</td><td>-0.07 (-0.15 to 0.01)</td><td>.08</td><td>68</td></tr><tr><td>Attachment</td><td>2(5)</td><td>-0.19 (-0.94 to 0.88)</td><td>.36</td><td>61</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>2 (5)</td><td>-0.19 (-0.9) too 0.88)</td><td>.36</td><td>61</td></tr><tr><td>Dysregulation 2 (12)</td><td></td><td>0.21 (0.11 t 0.31)</td><td>.03</td><td>54</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>2 (10)</td><td>0.22 (0.21 to 0.24)</td><td>.004</td><td>0</td></tr><tr><td>Positive emotionality</td><td>7(84)</td><td>-0.09 (-0.19 to 0)</td><td>.06</td><td>89</td><td>5 (55)</td><td>-0.13 (-0.28 to 0.01)</td><td>.06</td><td>73</td><td>4 (29)</td><td>-0.04 (-0.13 to 0.05)</td><td>.21</td><td>23</td></tr><tr><td>Negative mtionality</td><td>18 (116)</td><td>0.14 (0.08 to 0.2)</td><td>&lt;.001 94</td><td></td><td>11 (66)</td><td>0.18 (0.14 to0.21)</td><td>&lt;.001 75</td><td></td><td>14 (50)</td><td>0.12 (0.03 to0.21)</td><td>.01</td><td>96</td></tr><tr><td>Orienting regulation</td><td>9 (46)</td><td>-0.09 (-0.18 to 0.01)</td><td>.07</td><td>90</td><td>7 (28)</td><td>-0.11 (-0.26 to 0.06)</td><td>.16</td><td>93</td><td>6 (18)</td><td>-0.06 (-0.19 to 0.08)</td><td>.35</td><td>88</td></tr><tr><td>Difficulty</td><td>13 (46)</td><td>0.19 (0.13 to 0.25)</td><td>&lt;.001</td><td>98</td><td>8 (26)</td><td>0.25 (0.11 to 0.38)</td><td>.005 100</td><td></td><td>10 (20)</td><td>0.18 (0.11 t 0.24)</td><td>&lt;.001</td><td>79</td></tr><tr><td>Cognition</td><td></td><td>-0.12 (-0.19</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Composite</td><td>12 (17)</td><td>to -0.05)</td><td>.004</td><td>62</td><td>4 (5)</td><td>0.04 (-0.24 to 0.31)</td><td>.68</td><td>68</td><td>10 (12)</td><td>-0.14 (-0.21 to -0.06)</td><td>.004</td><td>63</td></tr><tr><td>Verbal IQ</td><td>3 (8)</td><td>-0.16 (-0.52 to 0.24)</td><td>.20</td><td>89</td><td>3 (3)</td><td>-0.05 (-0.07 to -0.02)</td><td>&lt;.001 0</td><td></td><td>2 (5)</td><td>-0.12 (-0.73 tto 0.60)</td><td>.32</td><td>92</td></tr><tr><td>Inhibition</td><td>2(3)</td><td>0.23 (-1 to 1)</td><td>.529</td><td>85</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td></tr><tr><td>Performance IQ</td><td>2 (2)</td><td>-0.12 (-0.29 t 0.06)</td><td>.19</td><td>97</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>2 (2)</td><td>-0.12 (00.29) to 0.06)</td><td>.19</td><td>97</td></tr><tr><td>Working memory</td><td>3(4)</td><td>0.01 (-0.30 t0.27)</td><td>.84</td><td>77</td><td>3 (3)</td><td>-0.01 (-0.12 ttoo 0.12)</td><td>.96</td><td>78</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td></tr><tr><td>Language</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Composite</td><td>5(8)</td><td>-0.11(-0.20 to 0.02)</td><td>.03</td><td>69</td><td>2 (2)</td><td>-0.19 (-0.24 to -0.13</td><td>.0001 0</td><td></td><td>5 (6)</td><td>-0.08 (-0..23) to 0.08)</td><td>.22</td><td>47</td></tr><tr><td>Expressive</td><td>2 (3)</td><td>-0.27 (-0.99 to 0.97)</td><td>.38</td><td>98</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>2 (2)</td><td>-0.26 (-0.8.5) too 0.14)</td><td>.20</td><td>98</td></tr><tr><td>Receptive</td><td>2 (2)</td><td>-0.35 (-0.83 to 0.44)</td><td>.39</td><td>99</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>2 (2)</td><td>-0.35 (-0.83</td><td>.39</td><td>99</td></tr><tr><td>Motor</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>to 0.4)</td><td></td><td></td></tr><tr><td>Composite</td><td>9 (18)</td><td>-0.07 (-0.18 to 0.03)</td><td>.16</td><td>64</td><td>4 (7)</td><td>-0.01 (-0.31 to 0.28)</td><td>.89</td><td>72</td><td>7(11)</td><td>-0.06 -0.20 to 008)</td><td>.33</td><td>70</td></tr><tr><td>Adaptive behavior</td><td>3(3)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Composite</td><td></td><td>-0.26 (-0.39 to -0.12</td><td></td><td>&lt;.001 54</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>2 (2)</td><td>-0.2 (-0.3 to-0.1)</td><td>&lt;.001 0</td><td></td></tr></table>
+
+Abbreviation: NA, not applicable (not enough studies to run meta-analysis). a Includes 150 studies, 190 articles, and 195 751 participants.
+
+In other developmental domains, although there was some heterogeneity in results, the direction and stability of the associations suggest that perinatal maternal depression and anxiety are broadly associated with poorer offspring cognitive, language, motor, and adaptive behavior development. Notably, negative small-to-moderate associations antenatally and moderate-to-large associations postnatally were observed for cognitive and language development. Furthermore, relatively consistent evidence suggested small-to-moderate associations post partum for motor abilities and antenatally for adaptive behavior development.
+
+Ta   
+
+<table><tr><td rowspan="3"></td><td colspan="4">Combined anxiety and/or depression</td><td colspan="4">Anxiety</td><td colspan="4">Depression</td></tr><tr><td colspan="4">No. of studies No. of</td><td colspan="4">No. of studies</td><td colspan="4">No. of studies No. of</td></tr><tr><td>e effects/ assoiations)</td><td>Correlation, r (55% C)</td><td>P value %</td><td>value</td><td>No. of effects/ associations)</td><td>Correlation, r (95% C)</td><td>P value %</td><td></td><td>value, effects/ assocations)</td><td>Correlation, r (95% C)</td><td>P value</td><td>|² value,</td></tr><tr><td colspan="10">Outcome Social-emotional</td><td></td><td></td><td>%</td></tr><tr><td>Composite</td><td>24 (85)</td><td>0.24 (0.19 t 0.28)</td><td>&lt;.001 92</td><td></td><td>5 (21)</td><td>0.19 (-0.06 too 0.31)</td><td>.01</td><td>96 24 (64)</td><td></td><td>0.24 (0.20 to 0.29)</td><td>&lt;.001 91</td><td></td></tr><tr><td>Externalizing</td><td>37 (88)</td><td>0.18 (0.15 to 0.20)</td><td>&lt;.001 79</td><td></td><td>6 (8)</td><td>0.19 (0.19 t 0.28)</td><td>.005 82</td><td></td><td>35 (76)</td><td>0.18 (0.16 to 0.21)</td><td>&lt;.001 75</td><td></td></tr><tr><td>Internalizing</td><td>33 (79)</td><td>0.19 (0.15 to 0.23)</td><td>&lt;.001 84</td><td></td><td>6 (8)</td><td>0.22 (0.05 to 0.39)</td><td>.02</td><td>93</td><td>31 (70)</td><td>0.19 (0.16 to 0.22)</td><td>&lt;.001 77</td><td></td></tr><tr><td>Peer problems</td><td>6 (15)</td><td>0.16 (0.08 to 0.23)</td><td>.02</td><td>5</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>6(14)</td><td>0.16 (0.08 to 0.24)</td><td>.02</td><td>0</td></tr><tr><td>Prosocial</td><td>8 (12)</td><td>-0.10 (-0.21 to 0.01)</td><td>.05</td><td>71</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>8(11)</td><td>-0.11 (-0.23 to 0.01)</td><td>.06</td><td>76</td></tr><tr><td>Attachment</td><td>6 (12)</td><td>-0.30 (-0.44 to -0.14)</td><td>.005</td><td>59</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>6 (12)</td><td>-0.30 (-0.44 to-0.14)</td><td>.005</td><td>59</td></tr><tr><td>Dysregulation</td><td>3 (3)</td><td>0.31 (0.19 t 0.42)</td><td>&lt;.001 14</td><td></td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>3(3)</td><td>0.31 (0.19 to 0.42)</td><td>&lt;.001 14</td><td></td></tr><tr><td>Positive emotionality</td><td>6 (30)</td><td>-0.07 (-0.18 to 0.04)</td><td>.14</td><td>94</td><td>2(7)</td><td>-0.13 (-0.75 to0.62)</td><td>.31</td><td>80</td><td>5 (23)</td><td>-0.02 (-0.11 to 0.07)</td><td>.52</td><td>57</td></tr><tr><td>Negative emotionality</td><td>20 (64)</td><td>0.21 (0.13 to 0.30)</td><td></td><td>&lt;.001 93</td><td>8(17)</td><td>0.18 (0.15 t 0.21)</td><td></td><td>&lt;.001 32</td><td>19 (43)</td><td>0.24 (0.11 too 0.38)</td><td>.001</td><td>94</td></tr><tr><td>Orienting reulation</td><td>7(16)</td><td>-0.06 (-0.17 to 0.04)</td><td>.21</td><td>94</td><td>3 (5)</td><td>0.01 (-0.35</td><td>.92</td><td>88</td><td>6 (11)</td><td>-0.07 (-0.21 to 0.08)</td><td>.28</td><td>94</td></tr><tr><td>Difficulty</td><td>13 (22)</td><td>0.25 (0.20 t 0.30)</td><td>&lt;.001 82</td><td></td><td>NA</td><td>too 0.37) NA</td><td>NA</td><td>NA</td><td>13 (21)</td><td>0.25 (0.20 to 0.29)</td><td></td><td>&lt;.001 82</td></tr><tr><td colspan="10">Cognition</td><td></td><td></td><td></td></tr><tr><td>Composite</td><td>18 (26)</td><td>-0.25 (-0.39 to -0.09)</td><td>.004</td><td>93</td><td>2 (2)</td><td>-0.16 (-0.34 t 0.02)</td><td>.08</td><td>0</td><td>16 (23)</td><td>-0.26 (-0.26 to -042</td><td>.006</td><td>94</td></tr><tr><td>Visual spatial IQ</td><td>3 (4)</td><td>-0.35 (-0.93 too 0.74)</td><td>.35</td><td>95</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>3(4)</td><td>-0.35 (-0.93 ttoo 0.74)</td><td>.35</td><td>95</td></tr><tr><td>Verbal IQ</td><td>4(7)</td><td>-0.3 (-0.76 to 0.36)</td><td>.24</td><td>95</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>4(5)</td><td>-0.31 (-0.76 to 0.35)</td><td>.24</td><td>94</td></tr><tr><td>Performance IQ</td><td>2 (3)</td><td>-0.84 (-0.98 to-0.07)</td><td>.04</td><td>99</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>3(3)</td><td>-0.84 (-0.98 to--0.07)</td><td>.04</td><td>99</td></tr><tr><td>Quantitative</td><td>2 (2)</td><td>-0.15 (-0.29 tto 0)</td><td>.06</td><td>0</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>2(2)</td><td>-0.15 (-0.29 tto 0)</td><td>.06</td><td>0</td></tr><tr><td>Memory</td><td>3 (3)</td><td>-0.12 (-0.21 to --0.03)</td><td>.01</td><td>0</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>3(3)</td><td>-0.12 (-0.21 to-0.03)</td><td>.01</td><td>0</td></tr><tr><td>Working memory</td><td>3 (6)</td><td>-0.21 (-0.8 to 0.59)</td><td>.41</td><td>95</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>3(5)</td><td>-0.22 (-0.80 to 0.58)</td><td>.39</td><td>95</td></tr><tr><td>Academic achievement</td><td>3(13)</td><td>-0.08 (-0.19 to 0.03)</td><td>.08</td><td>75</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>3 (9)</td><td>-0.07 (-0.10 to -0.03)</td><td>.02</td><td>71</td></tr><tr><td colspan="10">Language</td><td></td><td></td><td></td></tr><tr><td>Composite</td><td>11(14)</td><td>-0.22 (-0.40 t 0.03)</td><td>.03</td><td>88</td><td>3 (3)</td><td>-0.21 (-0.38 to -0.4)</td><td>.01</td><td>33</td><td>10 (11)</td><td>-0.21 (-0.40 to )</td><td>.050</td><td>88</td></tr><tr><td>Expressive</td><td>3(4)</td><td>-0.60 (-0.98 to 0.69)</td><td>.19</td><td>99</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>3(4)</td><td>-0.60 (-0.98 to 0.69)</td><td>.19</td><td>99</td></tr><tr><td>Receptive</td><td>3(4)</td><td>-0.49 (-0.98 to 0.87)</td><td>.34</td><td>98</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>3(4)</td><td>-0.49 (-0.98 too 0.87)</td><td>.34</td><td>98</td></tr><tr><td colspan="10">Motor</td><td></td><td></td><td></td></tr><tr><td>Composite</td><td>9(11)</td><td>-0.07 (-0.16 to 0.03)</td><td>.14</td><td>63</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>9(10)</td><td>-0.07 (-0.16 t 0.03)</td><td>.15</td><td>63</td></tr><tr><td>Gross</td><td>2 (3)</td><td>-0.32 (-0.97 to 0.88)</td><td>.25</td><td>75</td><td>2 (2)</td><td>-0.31 (-0.54 to -0.03)</td><td>.03</td><td>80</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td></tr></table>
+
+Abbrviation: NA, not applicable (not enough studies to run meta-analysis) a Includes 150 studies, 190 articles, and 195751 participants.
+
+A considerable number of the articles included focused exclusively on depression (123 articles and 100 studies). Overall, results suggest that perinatal depression infl uences all childhood developmental domains. Various mechanisms may explain this association. Offspring may be adversely affected in utero through exposure to increased cortisol concentrations and reduced blood fl ow through the placenta.19 Furthermore, antenatal depression may interfere with the neurocognitive changes mothers experience that prepare them to sensitively respond during maternal-infant interactions.20 In the postnatal period, depression may also reduce maternalinfant engagement.23
+
+For maternal anxiety (27 articles and 23 studies), research focused predominantly on the antenatal period, indicating adverse associations with offspring social-emotional, cognitive, and language development. Although all associations for postnatal anxiety were in the expected direction, meaningful associations did not extend to all developmental domains. One explanation may be that anxiety has a greater effect on intrauterine exposure. 16,17 Postnatally, maternal anxiety has been linked with overintrusive parenting.24 Given the associations observed between postnatal anxiety and externalizing and negative emotionality, this parenting style may contribute to these behaviors. 63,64
+
+The extant literature review has several limitations. First, most studies used self-report assessment of maternal mental health $\left( \mathrm { \Pi } \right) = 1 5 9 \rangle$ and child development $\ln { } = 1 2 0 { }$ . An overreliance on self-report measures may lead to shared method variance and bias in child development reports.65 Furthermore, self-report measures commonly assess symptoms rather than clinical diagnoses, which may be differentially associated with development. Future research would benefit from the use of clinician-administered, criterion-standard diagnostic interviews and observational developmental assessment batteries. Second, research to date has primarily focused on early offspring development. Future research exploring later developmental stages would strengthen the evidence base. Third, many studies had samples consisting of participants only representing Western, educated, industrialized, rich, and democratic societies.66 Future studies with more diverse samples would inform the extent to which these metaanalytic results are generalizable to other sociodemographic groups. Fourth, this review highlights the paucity of research on child adaptability $\left( \mathtt { n } = 3 \right)$ , with greater research on this domain warranted. Finally, it would be beneficial for future research to also examine the potential longer-term effects of antenatal medication use, maternal depression and anxiety beyond the perinatal period, and the role that social factors may play in offspring development.
+
+# Limitations
+
+This meta-analysis has 3 key limitations. First, owing to the scope of literature available, a systematic qualitative review was not undertaken, possibly resulting in the omission of some important subjective information. Second, we analyzed correlational associations. Thus, the direction of causal relations is unknown, and the associations found may be explained by confounding variables. However, meta-analyzing effects adjusted for confounders was considered implausible because of extensive variability in covariates across studies, with no common set of confounders examined. We look to future metaanalytic designs that focus on pooling adjusted associations from studies that have a set of consistent covariates to address this limitation.67 Furthermore, given the number of analyses conducted, some associations may be affected by type I error. However, we note that many of the associations had very small P values (<.001), which would likely withstand even very stringent corrections. Nevertheless, the results should be interpreted in light of the possibility of an increased error rate.
+
+# Conclusions
+
+The results of this meta-analysis underscore the importance of early screening and preventative intervention for anxiety and depression in mothers during the perinatal period. This finding is consistent with an established evidence base on the efficacy of early interventions in reducing perinatal mental illness in mothers. 68,69 However, the results are less consistent in regard to associated improvements in child development as a result of maternal intervention.70 This inconsistency may be related to study limitations, such as the delayed assessment of child development, and the infl uence of other factors associated with maternal perinatal mental health that affect child maturation. Nevertheless, emerging evidence suggests that maternal intervention is also associated with clinical improvements in offspring development in some (but not all) cases.71
+
+Taken together, results suggest that both maternal antenatal and postnatal depression and anxiety are associated with poorer offspring social-emotional, cognitive, language, motor, and adaptive behavior development, providing compelling evidence that the perinatal window is a period of sensitivity for offspring development. Moreover, these associations are not confined to infancy and early childhood alone but extend into middle childhood and adolescence. With estimates indicating that 1 in 4 mothers experience symptoms of perinatal depression or anxiety,72 this meta-analysis has important implications for a population-level approach to prevention, screening, and targeted intervention to support women's mental health in the transition to parenthood and consequently the health and well-being of nextgeneration offspring.
+
+equally as coauthors. Mss Rogers and Obst had full access to all the data in the study and take   
+responsibility for the integrity of the data and the accuracy of the data analysis.   
+Concept and design: Rogers, Obst, Youssef,   
+Hutchinson.   
+Acquisition, analysis, or interpretation of data: All authors.   
+Drafting of the manuscript: Rogers, Obst, Youssef, Hutchinson.   
+Critical revision of the manuscript for important intellectual content: All authors.   
+Obtained funding: Olsson, Youssef, Hutchinson. Administrative, technical, or material support:   
+Rogers, Obst, Teague, Rossen, Olsson, Youssef, Hutchinson.   
+Supervision: Sunderland, Youssef, Hutchinson.
+
+# Conflict of Interest Disclosures: None reported.
+
+Funding/Support: This research was supported by an Australian Rotary Mental Health Research Grant (2018-2020, to Drs Hutchinson, Olsson, and Youssef), the Australian National Health and Medical Research Council (APP1197488 to Dr Hutchinson and APP1175086 to Dr Olsson), and the Michael Smith Foundation for Health Research in British Columbia (Fellowship to Dr Rossen).
+
+Role of the Funder/Sponsor: The sponsors had no role in the design and conduct of the study: collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.
+
+# REFERENCES
+
+1. Howard LM, Molyneaux E, Dennis CL, Rochat T, Stein A, Milgrom J. Non-psychotic mental disorders in the perinatal period. Lancet. 2014;384(9956): 1775-1788. doi:10.1016/S0140-6736(14)61276-9
+
+2. Parsons CE, Young KS, Rochat TJ, Kringelbach ML, Stein A. Postnatal depression and its effects on child development: a review of evidence from low- and middle-income countries. Br Med Bull. 2012;101:57-79. doi:10.1093/bmb/Idr047
+
+3. Stein A, Pearson RM, Goodman SH, et al. Effects of perinatal mental disorders on the fetus and child. Lancet. 2014;384(9956):1800-1819. doi:10.1016/ S0140-6736(14)61277-0
+
+Gentile S. Untreated depression during pregnancy: short- and long-term effects in offspring: a systematic review. Neuroscience. 2017; 342:154-166. doi:10.1016/j.neuroscience.2015.09.001
+
+5.Kingston D, Tough S, Whitfield H. Prenatal and postpartum maternal psychological distress and infant development: a systematic review. Child Psychiatry Hum Dev. 2012;43(5):683-714. doi:10. 1007/s10578-012-0291-4
+
+6. Kingston D, Kehler H, Austin MP, et al. Trajectories of maternal depressive symptoms during pregnancy and the first 12 months postpartum and child externalizing and internalizing behavior at three years. PLoS One. 2018;13(4):e0195365. doi:10.1371/journal.pone. 0195365
+
+7. Rees S, Channon S, Waters CS. The impact of maternal prenatal and postnatal anxiety on children's emotional problems: a systematic review. Eur Child Adolesc Psychiatry. 2019;28(2):257-280. doi:10.1007/s00787-018-1173-5
+
+8. Sanger C, Iles JE, Andrew CS, Ramchandani PG. Associations between postnatal maternal
+
+depression and psychological outcomes in adolescent offspring: a systematic review. Arch Womens Ment Health. 2015;18(2):147-162. doi:10. 1007/s00737-014-0463-2
+
+9. Martins C, Gaffan EA. Effects of early maternal depression on patterns of infant-mother attachment: a meta-analytic investigation. J Child Psychol Psychiatry. 2000;41(6):737-746. doi:10. 1111/1469-7610.00661
+
+10. Atkinson L, Paglia A, Coolbear J, Niccols A, Parker KC, Guger S. Attachment security: a meta-analysis of maternal mental health correlates. Clin Psychol Rev. 2000;20(8):1019-1040. doi:10.1016/S0272-7358(99)00023-9
+
+11. Liu Y, Kaaya S, Chai J, et al. Maternal depressive symptoms and early childhood cognitive development: a meta-analysis. Psychol Med. 2017; 47(4):680-689. doi:10.1017/S003329171600283X
+
+12. Tarabulsy GM, Pearson J, Vaillancourt-Morel MP, et al. Meta-analytic findings of the relation between maternal prenatal stress and anxiety and child cognitive outcome. J Dev Behav Pediatr. 2014;35(1):38-43. doi:10.1097/ DBP.0000000000000003
+
+13. NationalCollaboratingCentre for Mental Health (UK). Antenatal and Postnatal Mental Health: The NICE Guideline on Clinical Management and Service Guidance. Vol 192. Royal College of Psychiatrists; 2014.
+
+14. Gluckman PD, Hanson MA, Mitchell MD. Developmental origins of health and disease: reducing the burden of chronic disease in the next generation. Genome Med. 2010;2(2):14. doi:10. 1186/gm135
+
+15. Black MM, Walker SP, Fernald LCH, et al; Lancet Early Childhood Development Series Steering Committee. Early childhood development coming of age: science through the life course. Lancet. 2017;389(10064):77-90. doi:10.1016/S0140-6736 (16)31389-7
+
+16. SeckI JR, Meaney MJ. Glucocorticoid programming. Ann N Y Acad Sci. 2004;1032(1): 63-84. doi:10.1196/annals.1314.006
+
+7 Talge NM, Neal C, Glover V; Early Stress, Translational Research and Prevention Science Network: Fetal and Neonatal Experience on Child and Adolescent Mental Health. Antenatal maternal stress and long-term effects on child neurodevelopment: how and why? J Child Psychol Psychiatry. 2007;48(3-4):245-261. doi:10.1111/j. 1469-7610.2006.01714.x
+
+18. Teixeira JM, Fisk NM, Glover V. Association between maternal anxiety in pregnancy and increased uterine artery resistance index: cohort based study. BMJ. 1999;318(7177):153-157. doi:10. 1136/bmj.318.7177.153
+
+19. Oberlander TF, Weinberg J, Papsdorf M, Grunau R, Misri S, Devlin AM. Prenatal exposure to maternal depression, neonatal methylation of human glucocorticoid receptor gene (NR3C1) and infant cortisol stress responses. Epigenetics. 2008; 3(2):97-106. doi:10.4161/epi.3.2.6034
+
+20. Pearson RM, Melotti R, Heron J, et al. Disruption to the development of maternal responsiveness? the impact of prenatal depression on mother-infant interactions. Infant Behav Dev. 2012;35(4):613-626. doi:10.1016/j.infbeh.2012.07.020
+
+Pluess M, Velders FP, Belsky J, et al. Serotonin transporter polymorphism moderates effects of prenatal maternal anxiety on infant negative
+
+emotionality. Biol Psychiatry. 2011;69(6):520-525. doi:10.1016/j.biopsych.2010.10.006
+
+22. Bakermans-Kranenburg MJ, van IJzendoorn MH, Juffer F. Less is more: meta-analyses of sensitivity and attachment interventions in early childhood. Psychol Bull. 2003;129(2):195-215. doi:10.1037/0033-2909.129.2.195
+
+23. Murray L, Halligan S, Cooper P. Effects of postnatal depression on mother-infant interactions, and child development. In: Osofsky JD, ed. Handbook of Infant Development. 2nd ed. Wiley-Blackwell; 2010.
+
+24. Feldman R, Granat A, Pariente C, Kanety H, Kuint J, Gilboa-Schechtman E. Maternal depression and anxiety across the postpartum year and infant social engagement, fear regulation, and stress reactivity. J Am Acad Child Adolesc Psychiatry. 2009;48(9):919-927. doi:10.1097/CHI. Ob013e3181b21651
+
+25. Rosenthal L, Earnshaw VA, Moore JM, et al. Intergenerational consequences: women's experiences of discrimination in pregnancy predict infant social-emotional development at 6 months and 1 year. J Dev Behav Pediatr. 2018;39(3):228-237. doi:10.1097/DBP.0000000000000529
+
+26. Hayes LJ, Goodman SH, Carlson E. Maternal antenatal depression and infant disorganized attachment at 12 months. Attach Hum Dev. 2013;15 (2):133-153. doi:10.1080/14616734.2013.743256
+
+27. Bekkhus M, Lee Y, Nordhagen R, Magnus P, Samuelsen SO, Borge AIH. Re-examining the link between prenatal maternal anxiety and child emotional difficulties, using a sibling design. Int J Epidemiol. 2018;47(1):156-165. doi:10.1093/ije/dyx186
+
+28. Barker ED, Jaffee SR, Uher R, Maughan B. The contribution of prenatal and postnatal maternal anxiety and depression to child maladjustment. Depress Anxiety. 2011;28(8):696-702. doi:10.1002/ da.20856
+
+29. Guedeney A, Marchand-Martin L, Cote SJ, Larroque B; EDEN Mother-Child Cohort Study Group. Perinatal risk factors and social withdrawal behaviour. Eur Child Adolesc Psychiatry. 2012;21(4): 185-191. doi:10.1007/s00787-012-0250-4
+
+30. Tsotsi S, Abdulla N, Li C, et al. Fetal DNA methylation of cortisol-related genes and infant neurobehavior at 6 months: the role of antenatal maternal anxiety. Psychoneuroendocrinology. 2015; 61(1):35. doi:10.1016/j.psyneuen.2015.07.484
+
+31. Pearson RM, Bornstein MH, Cordero M, et al. Maternal perinatal mental health and offspring academic achievement at age 16: the mediating role of childhood executive function. J Child Psychol Psychiatry. 2016;57(4):491-501. doi:10.111/jcpp.12483
+
+32. Murray L, Arteche A, Fearon P, Halligan S, Croudace T, Cooper P. The effects of maternal postnatal depression and child sex on academic performance at age 16 years: a developmental approach. J Child Psychol Psychiatry. 2010;51(10): 1150-1159. doi:10.1111/j.1469-7610.2010.02259.x van der Waerden J, Bernard JY, De Agostini M, et al; EDEN Mother-Child Cohort Study Group. Persistent maternal depressive symptoms trajectories influence children's IQ: the EDEN mother-child cohort. Depress Anxiety. 2017;34(2): 105-117. doi:10.1002/da.22552
+
+34. Evans J, Melotti R, Heron J, et al. The timing of maternal depressive symptoms and child cognitive development: a longitudinal study. J Child Psychol
+
+Psychiatry. 2012;53(6):632-640. doi:10.11/j.1469- 7610.2011.02513.x
+
+35. Pop VJ, de Vries E, van Baar AL, et al. Maternal thyroid peroxidase antibodies during pregnancy: a marker of impaired child development? J Clin Endocrinol Metab. 1995;80(12):3561-3566. doi:10. 1210/jcem.80.12.8530599
+
+36. Tran TD, Tran T, Simpson JA, et al. Infant motor development in rural Vietnam and intrauterine exposures to anaemia, iron deficiency and common mental disorders: a prospective community-based study. BMC Pregnancy Childbirth. 2014;14(8):8. doi:10.1186/1471-2393-14-8
+
+37. Lin Y, Xu J, Huang J, et al. Effects of prenatal and postnatal maternal emotional stress on toddlers' cognitive and temperamental development. J Affect Disord. 2017;207:9-17. doi:10. 1016/j.jad.2016.09.010
+
+38. Santucci AK, Singer LT, Wisniewski SR, et al. Impact of prenatal exposure to serotonin reuptake inhibitors or maternal major depressive disorder on infant developmental outcomes. J Clin Psychiatry. 2014;75(10):1088-1095. doi:10.4088/JCP.13m08902
+
+39. Bhang SY, Ha E, Park H, et al. Maternal stress and depressive symptoms and infant development at six months: the Mothers and Children's Environmental Health (MOCEH) prospective study. J Korean Med Sci. 2016;31(6):843-851. doi:10.3346/ jkms.2016.31.6.843
+
+Della Vedova A. Maternal psychological state and infant's temperament at three months. J Reprod Infant Psychol. 2014;32(5):520-534. doi:10.1080/02646838.2014.947472
+
+41. Hanley GE, Brain U, Oberlander TF. Infant developmental outcomes following prenatal exposure to antidepressants, and maternal depressed mood and positive affect. Early Hum Dev. 2013;89(8):519-524. doi:10.1016/j.earlhumdev. 2012.12.012
+
+42. Waters CS, Hay DF, Simmonds JR, van Goozen SH. Antenatal depression and children's developmental outcomes: potential mechanisms and treatment options. Eur Child Adolesc Psychiatry. 2014;23(10):957-971. doi:10. 1007/s00787-014-0582-3
+
+. Moher D, Liberati A, Tetzlaff J, Altman DG; PRISMA Group. Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement. PLoS Med. 2009;6(7):e1000097. doi:10.1371/journal.pmed.1000097
+
+44. Song JW, Chung KC. Observational studies: cohort and case-control studies. Plast Reconstr Surg. 2010;126(6):2234-2242. doi:10.1097/PRS. Ob013e3181f44abc
+
+45. Mann CJ. Observational research methods: research design II: cohort, cross sectional, and case-control studies. Emerg Med J. 2003;20(1): 54-60. doi:10.1136/emj.20.1.54
+
+4. Baldwin JR, Reuben A, Newbury JB, Danese A. Agreement between prospective and restrospective measures of childhood maltratment:
+
+a systematic review and meta-analysis. JAMA Psychiatry. 2019;76(6):584-593. doi:10.1001/ jamapsychiatry.2019.0097
+
+47. Borstein M, Hedges L, Julian P, Rothstein H.   
+Introduction to Meta-analysis. Wiley; 2011.
+
+48. Lakens D. Calculating and reporting effect sizes to facilitate cumulative science: a practical primer for t-tests and ANOVAs. Front Psychol. 2013;4:863. doi:10.3389/fpsyg.2013.00863
+
+National Heart Lung and Blood Institute: National Institutes of Health. Quality assessment tool for observational cohort and cross-sectional studies. Published 2014. Accessed March 25, 2020. https://www.nhlbi.nih.gov/health-topics/studyquality-assessment-tools
+
+50. Downes MJ, Brennan ML, Williams HC, Dean RS. Development of a critical appraisal tool to assess the quality of cross-sectional studies (AXIS). BMJ Open. 2016;6(12):e011458. doi:10.1136/ bmjopen-2016-011458
+
+Bayley N. Bayley Scale of Infant and Toddler Development. PsychCorp Harcourt Assessment; 2006.
+
+52. Viechtbauer W. Conducting meta-analyses in R with the metafor package. J Stat Softw. 2010;36(2): 1-48. doi:10.18637/jss.v036.i03
+
+53. Higgins JPT, Thompson SG, Deeks JJ, Altman DG. Measuring inconsistency in meta-analyses. BMJ. 2003;327(7414):557-560. doi:10.1136/bmj.327.7414.557
+
+54. Funder DC, Ozer DJ. Evaluating effect size in psychological research: sense and nonsense. Adv Pract Psychol Sci. 2019;2(2):156-168. doi:10.1177/ 2515245919847202
+
+55. Milgrom J, Westley DT, Gemmill AW. The mediating role of maternal responsiveness in some longer term effects of postnatal depression on infant development. Infant Behav Dev. 2004;27 (4):443-454. doi:10.1016/j.infbeh.2004.03.003
+
+56. Hay DF, Kumar R. Interpreting the effects of mothers' postnatal depression on children's intelligence: a critique and re-analysis. Child Psychiatry Hum Dev. 1995;25(3):165-181. doi:10. 1007/BF02251301
+
+57. Galler JR, Harrison RH, Ramsey F, Forde V, Butler SC. Maternal depressive symptoms affect infant cognitive development in Barbados. J Child Psychol Psychiatry. 2000;41(6):747-757. doi:10.1111/ 1469-7610.00662
+
+58. Pinheiro KAT, Pinheiro RT, Coelho FM, et al. Serum NGF, BDNF and IL-6 levels in postpartum mothers as predictors of infant development: the influence of affective disorders. PLoS One. 2014;9 (4):e94581. doi:10.1371/journal.pone.0094581
+
+Rose G. Sick individuals and sick populations: 1985. Bull World Health Organ. 2001;79(10): 990-996.
+
+60. Gerardin P, Wendland J, Bodeau N, et al. Depression during pregnancy: is the developmental impact earlier in boys? A prospective case-control study. J Clin Psychiatry. 2011;72(3):378-387. doi:10. 4088/JCP.09m05724blu
+
+6. Ainsworth MD. Infant-mother attachment. Am Psychol. 1979;34(10):932-937. doi:10.1037/ 0003-066X.34.10.932
+
+62. Huth-Bocks AC, Theran SA, Levendosky AA, Bogat GA. A social-contextual understanding of concordance and discordance between maternal prenatal representations of the infant and infant-mother attachment. Infant Ment Health J. 2011;32(4):405-426. doi:10.1002/imhj.20304
+
+63. Eisenberg N, Taylor ZE, Widaman KF, Spinrad TL. Externalizing symptoms, effortful control, and intrusive parenting: a test of bidirectional longitudinal relations during early childhood. Dev Psychopathol. 2015;27(4 Pt 1): 953-968. doi:10.1017/S0954579415000620
+
+64. Yan N, Ansari A. Bidirectional relations between intrusive caregiving among parents and teachers and children's externalizing behavior problems. Early Childhood Research Quarterly. 2017; 41:13-20. doi:10.1016/j.ecresq.2017.05.004
+
+65. Kozinszky Z, Dudas RB. Validation studies of the Edinburgh Postnatal Depression Scale for the antenatal period. J Affect Disord. 2015;176:95-105. doi:10.1016/j.jad.2015.01.044
+
+66. Henrich J, Heine SJ, Norenzayan A. Most people are not WEIRD. In: Kazdin AE, ed. Methodological Issues and Strategies in Clinical Research. 4th ed. American Psychological Association; 2016:113-114. doi:10.1037/14805-007
+
+67. Hutchinson DM, Silins E, Mattick RP, et al; Cannabis Cohorts Research Consortium. How can data harmonisation benefit mental health research? an example of the Cannabis Cohorts Research Consortium. Aust N Z J Psychiatry. 2015;49(4): 317-323. doi:10.1177/0004867415571169
+
+68. Sockol LE, Epperson CN, Barber JP. A meta-analysis of treatments for perinatal depression. Clin Psychol Rev. 2011;31(5):839-849. doi:10.1016/j.cpr.2011.03.009
+
+69. Loughnan SA, Wallace M, Joubert AE, Haskelberg H, Andrews G, Newby JM. A systematic review of psychological treatments for clinical anxiety during the perinatal period. Arch Womens Ment Health. 2018;21(5):481-490. doi:10.1007/ s00737-018-0812-7
+
+70. Tsivos ZL, Calam R, Sanders MR, Wittkowski A. Interventions for postnatal depression assessing the mother-infant relationship and child developmental outcomes: a systematic review. Int J Womens Health. 2015;7:429-447.
+
+71. Aktar E, Qu J, Lawrence PJ, Tollenaar MS, Elzinga BM, Bögels SM. Fetal and infant outcomes in the offspring of parents with perinatal mental disorders: earliest influences. Front Psychiatry. 2019;10:391. doi:10.3389/fpsyt.2019.00391
+
+72. Patton GC, Olsson CA, Skirbekk V, et al. Adolescence and the next generation. Nature. 2018;554:458-466. doi:10.1038/nature25759
+
+# Downloaded From: https://jamanetwork.com/ by a Shanghai Jiaotong University User on 09/16/2020

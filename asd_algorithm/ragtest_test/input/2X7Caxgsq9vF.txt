@@ -1,0 +1,346 @@
+# Effect of Online 1-Day Cognitive Behavioral Therapy–Based Workshops Plus Usual Care vs Usual Care Alone for Postpartum Depression A Randomized Clinical Trial
+
+Ryan J. Van Lieshout, MD, PhD; Haley Layton, MPH; Calan D. Savoy, MSc; June S. L. Brown, PhD; Mark A. Ferro, PhD; David L. Streiner, PhD; Peter J. Bieling, PhD; Andrea Feller, MD; Steven Hanna, PhD
+
+IMPORTANCE Postpartum depression (PPD) affects as many as $20 \%$ of mothers, yet just 1 in 10 of these women receives evidence-based treatment. The COVID-19 pandemic has increased PPD risk, reduced treatment access, and shifted preferences toward virtual care.
+
+OBJECTIVE To determine whether an online 1-day cognitive behavioral therapy (CBT)–based workshop added to treatment as usual improves PPD, anxiety, social support, mother-infant relationship quality, and infant temperament more than treatment as usual alone.
+
+DESIGN, SETTING, AND PARTICIPANTS This randomized clinical trial included 403 women with PPD who were recruited across Ontario, Canada, during the COVID-19 pandemic (April 20 to October 4, 2020). Women with Edinburgh Postnatal Depression Scale (EPDS) scores of at least 10 who were 18 years or older and had an infant younger than 12 months were eligible.
+
+INTERVENTIONS Women were randomly assigned to receive a live, interactive online 1-day CBT-based workshop delivered by a registered psychotherapist, psychiatrist, or clinical psychology graduate student in addition to treatment as usual $( \mathsf { n } = 2 0 2 )$ or to receive treatment as usual and wait-listed to receive the workshop 12 weeks later $\therefore \boldsymbol { \mathrm { n } } = 2 0 \boldsymbol { \mathrm { l } }$ ).
+
+MAIN OUTCOMES AND MEASURES The primary outcome was change in PPD (EPDS scores) in experimental and wait list control groups 12 weeks after baseline. Secondary outcomes included maternal anxiety (7-item Generalized Anxiety Disorder Questionnaire [GAD-7]), social support (Social Provisions Scale), quality of the mother-infant relationship (Postpartum Bonding Questionnaire), and infant temperament (Infant Behavior Questionnaire–Revised Very Short Form).
+
+RESULTS Participants all identified as women with a mean (SD) age of 31.8 (4.4) years. The workshop led to significant mean (SD) reductions in EPDS scores (from 16.47 [4.41] to 11.65 [4.83]; $\mathsf { B } = - 4 . 8 2$ ; $P < . 0 0 1$ ) and was associated with a higher odds of exhibiting a clinically significant decrease in EPDS scores (odds ratio, 4.15; $9 5 \%$ CI, 2.66-6.46). The mean (SD) GAD-7 scores decreased from 12.41 (5.12) to 7.97 (5.54) after the workshop $\mathtt { B } = - 4 . 4 4$ ; $9 5 \%$ CI, −5.47 to $- 3 . 3 8$ ; $P < . 0 0 1 \}$ ) and participants were more likely to experience a clinically significant change (odds ratio, 3.09; $9 5 \%$ CI, 1.99-4.81). Mothers also reported improvements in bonding $\mathtt { B } = - 3 . 2 2$ ; $9 5 \%$ CI, −4.72 to −1.71; $P < . 0 0 1 _ { \cdot }$ ), infant-focused anxiety $\mathrm { [ } \mathsf { B } = - 1 . 6 4$ ; $9 5 \%$ CI, $- 2 . 2 5$ to 1.00; $P < . 0 0 1 _ { \cdot }$ ), social support $\mathtt { B } = 3 . 3 1$ ; $9 5 \%$ CI, 1.04 to 5.57; $P < . 0 0 1 _ { \cdot }$ ), and positive affectivity/surgency in infants $\cdot \mathtt { B } = 0 . 3 1$ ; $9 5 \%$ CI, 0.05 to 0.56; $P < . 0 0 1 \mathrm { \ }$ ).
+
+CONCLUSIONS AND RELEVANCE In this randomized clinical trial, an online 1-day CBT-based workshop for PPD provides an effective, brief option for mothers, reducing PPD and anxiety as well as improving social support, the mother-infant relationship, and positive affectivity/surgency in offspring.
+
+TRIAL REGISTRATION ClinicalTrials.gov Identifier: NCT04485000
+
+Author Affiliations: Author affiliations are listed at the end of this article.
+
+# Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 10/24/2025
+
+P ostpartum depression (PPD) may affect 1 in 5 mothers,1,2but as many as 1 in 3 are affected when elevated levels order) are included.3 Mothers with PPD have more anxiety,4 parenting difficulties,5 and poorer mother-infant attachment,6 while their children experience more emotional, behavioral, and school-related problems.7,8 A single case of PPD is estimated to cost as much as $\$ 74000$ GBP over the life span.9
+
+Before COVID-19, just 1 in 10 mothers with PPD received evidence-based care.10 The pandemic has further worsened symptoms,11 added barriers to care, and shifted mothers’ treatment preferences.12 Wait lists, limited time, having to travel to regular appointments, and women’s preferences for psychotherapy also affect access.13-15
+
+Although treatment can reduce adverse effects,16 timely, accessible interventions are essential to optimizing outcomes. Nonetheless, only scalable treatments can affect PPD at the population level.17 Although effective, group psychotherapy18,19 can only treat 10 to 12 mothers at a time. However, the provision of interventions in large groups $( \leq 3 0$ participants)17 may be capable of addressing PPD on the scale required to address its prevalence.
+
+Brief (eg, 1-day) interventions contain the core content of more comprehensive evidence-based interventions but are easier to disseminate beyond traditional treatment settings. Face-to-face 1-day cognitive behavioral therapy (CBT)–based workshops have been used to treat depression in general population samples20 with gains retained up to 2 years after treatment.21
+
+Interventions that are brief, accessible (ie, online, selfreferred), and delivered in groups to increase support have substantial potential to improve PPD care. The primary objective of this study was to determine whether self-referred online 1-day CBT-based workshops for PPD plus treatment as usual (TAU) could improve PPD compared with TAU alone. Secondary objectives examined differences in anxiety, social support, the mother-infant relationship, and infant temperament.
+
+# Key Points
+
+Question In women with postpartum depression (PPD), can an online 1-day cognitive behavioral therapy (CBT)–based workshop plus treatment as usual improve PPD and its comorbidities compared with treatment as usual alone?
+
+Findings In this randomized clinical trial of 403 mothers, online 1-day CBT-based workshops led to clinically and statistically significant improvements in PPD and anxiety, as well as improvements in social support, the mother-infant relationship, and positive affect in infants.
+
+Meaning These findings suggest that online 1-day CBT-based workshops provide the scope to treat large numbers of women with PPD effectively and efficiently, increasing access and supporting stepped care approaches.
+
+methods changed after trial commencement. This study followed the Consolidated Standards of Reporting Trials (CONSORT) reporting guideline. Randomization with block sizes of 4, 6, and 8 was used. The randomization scheme was created in R, version 3.5.3 (R Program for Statistical Computing)23 and implemented by the study coordinator (H.L.), enabling concealment of allocation sequence until group assignment. Staff collecting data and analysts were unaware of group status.
+
+# Participants
+
+Women self-referred after seeing advertisements on social media or were referred by health care professionals. Eligible participants were 18 years or older, had an infant younger than 12 months, lived in Ontario, and had an Edinburgh Postnatal Depression Scale (EPDS) score of at least 10. This score is a commonly used cutoff for identifying women who might have $\mathrm { P P D } ^ { 2 4 - 2 8 }$ and was selected to maximize eligibility and public health relevance. More than $3 0 \%$ of postpartum women have these levels of symptoms,3 and this cutoff has a sensitivity of greater than $8 5 \%$ for major depressive episodes.26,29 No other exclusionary criteria were applied.
+
+# Methods
+
+# Trial Design and Procedures
+
+This parallel-group, province-wide, randomized clinical trial (RCT) took place in Ontario, Canada, from April 20 to October 4, 2020. Participants were continuously recruited and allocated 1:1 to receive the workshop plus TAU (experimental group) or to receive TAU and be put on a wait list to complete the workshop 12 weeks later (control group). A copy of the trial protocol is found in Supplement 1. In Ontario, health care is universally available to all citizens; therefore, TAU could involve medications and/or psychotherapy from a physician and/or clinician at a provincially funded facility/program. Private therapists or any other treatments could also be used. Workshops took place every 3 weeks, and data were collected at baseline (T1) and 12 weeks later (T2) using REDCap (Research Electronic Data Capture).22 The study was approved by the Hamilton Integrated Research Ethics Board. Participants provided informed consent before randomization. No study
+
+# Intervention
+
+Workshops were delivered via Zoom by a registered psychotherapist, a clinical psychology graduate student, or a psychiatrist (R.J.V.L.). Therapists completed 1 day of in-classroom training and had 1 workshop observed before RCT workshops. They were randomly assigned to deliver workshops.
+
+The intervention was a 1-day (9 AM to 4 PM) interactive workshop consisting of didactic teaching, group exercises/ discussion, and role playing in 4 modules. The first module reviewed PPD etiology with a focus on modifiable cognitive risk factors (negative thoughts, maladaptive core beliefs). The second module focused on cognitive skills, including cognitive restructuring. The third module built behavioral skills such as problem solving, behavioral activation, and assertiveness. The fourth module provided an opportunity for goal setting and action planning. Workshops were based on the original work by Horrell et al20 but added cognitive restructuring and exercises addressing worry, sleep, and supports. Participants
+
+# Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 10/24/2025
+
+received a workshop manual before their workshop took place (eFigure in Supplement 2).
+
+# Outcome Measures
+
+At enrollment, participants self-reported sociodemographic characteristics (age, race/ethnicity, infant age, marital status, educational attainment, income, past counseling), and current antidepressant and other mental health service use in the previous 12 weeks. Participants completed questionnaires at T1 and T2.
+
+Our primary outcome (PPD) was measured using the EPDS, a 10-item questionnaire assessing symptoms during the last 7 days.24 In the EPDS, each item is scored on a 4-point scale (range, 0-3) and produces a total score ranging from 0 to 30, with scores of 10 or greater indicating possible PPD. This cutoff is more sensitive than higher thresholds,26 and although less specific, participants with false-positive findings frequently have problems (eg, anxiety) that can respond to CBT. Based on Jacobson and Truax’s reliable change index30 and consistent with the work of others,31,32 we defined an EPDS score change of at least 4 points as indicative of a clinically significant change in depressive symptoms.
+
+Secondary outcomes included anxiety, social support, mother-infant bonding, and infant temperament. The 7-item Generalized Anxiety Disorder Questionnaire (GAD-7) measures anxiety severity and contains 7 items scored on a 0- to 3-point scale, with higher scores indicating worse anxiety. The GAD-7 has been validated in postpartum samples.33,34 A difference of 4 points defined a clinically significant change.35
+
+The Social Provisions Scale (SPS) is a 24-item self-report measure of an individual’s perception that their social relationships provide support.36 Total scale score was used, with higher scores indicating better perceived support.
+
+The Postpartum Bonding Questionnaire (PBQ) contains 25 self-reported items assessing the mother-infant relationship. The PBQ contains 4 subscales: impaired bonding, rejection and pathological anger toward the infant, infant-focused anxiety (IFA), and incipient abuse.37 The incipient abuse scale was not examined owing to past performance issues.38
+
+The Infant Behavior Questionnaire–Revised Very Short Form (IBQ-R) is a 37-item parent-report measure of temperament39 that mothers used to assess infant behaviors during the past week on a 7-point scale. The IBQ-R addresses 3 factors: positive affectivity/surgency, which covers smiling, laughter, and pleasure; negative emotionality, which covers distress related to limitations, fear, and reactivity; and orienting/ regulatory capacity, which covers soothability and orienting.
+
+We used RMASS240 to estimate our sample size. This was based on a type I error of 0.01 and $90 \%$ power to detect a group $\times$ time interaction between experimental and control arms from T1 to T2 of medium effect size (Cohen $d = 0 . 4 0 $ ). Anticipating $3 0 \%$ attrition of enrolled women, the target sample size was 388 (194 per arm).
+
+# Statistical Analysis
+
+Factors associated with attrition were identified for those who completed the study vs those who enrolled but did not complete a workshop and/or T2 questionnaires. We used an intention-to-treat approach that uses participant data regardless of treatment nonadherence, protocol deviation, or withdrawal after randomization, yielding a conservative estimate of treatment effect.41 In keeping with the intention-to-treat approach, all follow-up data obtained were analyzed according to participant randomization.
+
+Continuous outcomes were analyzed using linear mixed models with restricted maximum likelihood estimation. A 2-level hierarchy was used in which outcomes at each time (T1 and T2 [level 1]) were nested within participants (level 2). Group assignment was included as a fixed effect, allowing us to assess the effect of the intervention over time in the experimental and control groups. A random-effects intercept adjusted for unobserved heterogeneity at the level of the individual participant and for clustering effects. Because linear mixed models include observations of participants who completed T1 but were lost to follow-up, this approach is more powerful than traditional repeated-measures techniques using listwise deletion.
+
+For outcomes that showed a statistically significant group $\times$ time interaction, models were stratified by group to describe postworkshop score change in the experimental group. Estimated marginal means of scale scores within each group at T1 and T2, adjusted for workshop facilitator, are reported with SDs. We also computed logistic regression models to assess the odds of participants experiencing a clinically significant change in EPDS and GAD-7 scores. All analyses controlled for workshop facilitator to account for potential differences in effectiveness that may have existed between workshop leaders. Two-sided $P < . 0 5$ indicated statistical significance. Analyses were performed in SPSS Statistics, version 26 (IBM Corp).42
+
+# Results
+
+A total of 917 mothers were assessed for eligibility, and 403 were randomized to the intervention group $( \mathtt { n } = 2 0 2 )$ ) or the control group $\mathbf { \tilde { n } } = 2 0 1 )$ ) (Figure). Participants’ baseline characteristics are summarized in Table 1. The mean (SD) age was 31.8 (4.4) years, and most mothers had partners. The mean (SD) age of their infants was 5.3 (3.4) months. Eighty-seven mothers $( 2 2 \% )$ ) were taking antidepressant medication at T1, and 167 $( 4 1 \% )$ ) previously had some counseling.
+
+A mean of 16 participants attended each workshop, and mothers from all 14 geographically defined Ontario Local Health Integration Networks participated. Four workshops were delivered by a psychiatrist, 3 were delivered by a clinical psychology graduate student, and 3 were delivered by a registered psychotherapist.
+
+The intervention was well tolerated, with 10 of 161 participants in the experimental group $( 6 \% )$ expressing a preference that it be delivered differently (eg, in half-days). Among the 161 participants who attended the workshop, 155 $9 6 \%$ ) remained online for the entire session, 140 $( 8 7 \% )$ ) indicated that they were very satisfied with the workshop, and 143 $8 9 \%$ ) said that they would refer a friend. Of the 403 participants, 46 $( 1 1 \% )$ were lost to follow-up. Of these, 37 were in the experimental
+
+# Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 10/24/2025
+
+![](images/9c5a68f9c3c5719d944bcd4e7e814362dd6eed4ba6a62afebcece724ad7ad05d.jpg)  
+Figure. Flowchart of Trial Participants
+
+EPDS indicates Edinburgh Postnatal Depression Scale.
+
+group $( \mathbb { \chi } _ { 1 } ^ { 2 } = 1 9 . 0 8$ ; $P < . 0 0 1$ $[ \boldsymbol { \mathrm { n } } = 4 0 3 ]$ ) and were lost to follow-up before workshop completion. All baseline participant characteristics were examined as potential factors associated with attrition. There were no differences in attrition factors between experimental and control groups. Those lost to follow-up reported lower household income $\$ 64454$ v s $\$ 101$ 414; $t _ { 4 0 3 } = 2 . 8 4 ; P = . 0 0 7 $ ) and were less likely to have received counseling previously (10 vs 157; $\Upsilon _ { 1 } ^ { 2 } = 4 . 1 1$ ; $P = . 0 4$ $[ \boldsymbol { \mathrm { n } } = 4 0 3 ]$ ).
+
+After adjusting for the fixed effect of workshop facilitator, statistically significant group $\times$ time interactions with SDs were associated with EPDS score $\mathbf { \vec { B } } = - 2 . 9 4$ [8.67]; $P < . 0 0 1 )$ , GAD-7 score $( \mathrm { B } = - 2 . 8 6 $ [9.54]; $P < . 0 0 1 ,$ ), SPS score $\mathbf { \ddot { B } } = 2 . 3 2$ [15.32]; $P = . 0 0 8 )$ ), PBQ infant bonding $\mathbf { \nabla } \cdot \mathbf { B } = - 1 . 2 3$ [10.84]; $P = . 0 3 )$ , PBQ-IFA $( \mathrm { B } = - 1 . 1 0$ [5.03]; $P < . 0 0 1 $ , IBQ-R positive affectivity/surgency $\mathbf { B } = 0 . 5 5$ [2.05]; $P < . 0 0 1 )$ , and IBQ-R negative emotionality $\mathbf { \langle B = 0 . 3 3 }$ [2.19]; $P = . 0 0 5$ ) (Table 2). Estimated marginal means of scale scores by group and time adjusting for facilitator are included in Table 3. There were no statistically significant differences in outcomes owing to workshop facilitator, nor was there an association between facilitator and differences in the magnitude of treatment effect.
+
+After stratifying by intervention group, mean (SD) experimental group participant EPDS scores decreased from 16.47 (4.41) before treatment to 11.65 (4.83) after treatment $( \mathbf { B } = - 4 . 8 2 ; P < . 0 0 1$ ; Cohen $d = 0 . 8 6 )$ ). These scores also indicated greater odds of exhibiting a clinically significant change in EPDS scores relative to control participants (odds ratio [OR], 4.15; $9 5 \%$ CI, 2.66-6.46; number needed to treat, 2.9; risk difference, $3 3 . 9 \%$ ). The mean (SD) GAD-7 scores decreased from 12.41 (5.12) to 7.97 (5.54) $( \mathrm { B } = - 4 . 4 4$ ; $9 5 \%$ CI, $- 5 . 4 7$ to −3.38; $P < . 0 0 1$ ; Cohen $d = 0 . 6 9 ;$ ). Experimental group participants also had higher odds of a clinically significant improvement in GAD-7 scores (OR, 3.09; $9 5 \%$ CI, 1.99-4.81; number needed to treat, 3.8; risk difference, $2 7 . 0 \%$ ). The PBQ bonding scores improved $( \mathbf { B } = - 3 . 2 2$ ; $9 5 \%$ CI, $- 4 . 7 2$ to −1.71; $P < . 0 0 1$ ; Cohen $d = 0 . 3 4 { \mathrm { ~ } }$ ) and infant-focused anxiety decreased $( \mathrm { B } = - 1 . 6 4 $ ; $9 5 \%$ CI, $- 2 . 2 5$ to 1.0 $) ; P < . 0 0 1$ ;Cohen $d = 0 . 4 2 { \mathrm { , } }$ ). The SPS scores $\mathrm { ~ B ~ } = 3 . 3 1$ ; $9 5 \%$ CI, 1.04 to 5.57; $P < . 0 0 1$ ; Cohen $d = 0 . 2 4 )$ ) increased after the workshop, as did IBQ-R positive affectivity/surgency in infants $\mathbf { \mathrm { B } } = 0 . 3 1 $ ; $9 5 \%$ CI, 0.05 to 0.56; $P < . 0 0 1$ ; Cohen $d = 0 . 2 0 )$ . The IBQ-R negative emotionality scores did not decrease in the intervention group, although they did in the control group $\mathrm { \Delta B } = - 0 . 4 8$ ; $9 5 \%$ CI, $- 0 . 7 2$ to $- 0 . 2 3$ ; $P < . 0 0 1$ ; Cohen $d = 0 . 1 6 )$ . There were no differences between groups in change in antidepressant medication use (dose increase/medication switch vs decrease/discontinuation $( \mathsf { X } _ { 1 } ^ { 2 }$ $= 0 . 2 8 ; P = . 6 0 \left[ \mathrm { n } = 4 0 3 \right] )$ or mental health service use at T1 $( \mathbb { X } _ { 1 } ^ { 2 } =$ 0.10; $P = . 7 5 [ \mathrm { n } = 4 0 3 ] ,$ or T2 $( \mathbb { X } _ { 1 } ^ { 2 } = 1 . 7 4$ ; $P = . 1 9 \left[ \mathrm { { n } = 4 0 3 } \right] )$ ). Although the Beck Depression Inventory-II was included in trial registration and administered, it was considered redundant given that its results mirrored those of the EPDS; therefore, these results are reported in eTables 1 and 2 in Supplement 2.
+
+Table 1. Baseline Characteristics of Intervention and Control Group Participants   
+
+<table><tr><td rowspan="2"></td><td colspan="2">Study groupa</td></tr><tr><td>Intervention (n = 202)</td><td>Control (n = 201)</td></tr><tr><td>Characteristic White, No./total No. (%)</td><td>143/194 (74)</td><td>148/198 (75)</td></tr><tr><td>Mother age, mean (SD), y</td><td>31.5 (4.6)</td><td>32.1 (4.3)</td></tr><tr><td>Infant age, mean (SD), mo</td><td>5.2 (3.5)</td><td>5.3 (3.3)</td></tr><tr><td>No. of children, mean (SD)</td><td>1.8 (1.2)</td><td>1.8 (1.2)</td></tr><tr><td>&gt;1 Child, No./total No. (%)</td><td>82/196 (42)</td><td>74/199 (37)</td></tr><tr><td>Married or common-law relationship, No./total No. (%)</td><td>178/194 (92)</td><td>190/198 (96)</td></tr><tr><td>Educational attainment, mean (SD), y</td><td>16.8 (2.4)</td><td>16.8 (2.3)</td></tr><tr><td>Household income, mean (SD), 2019 CADb</td><td>93 762 (54 792)</td><td>102 723 (45 461</td></tr><tr><td>Subsidized housing, No./total No. (%)</td><td>7/193 (4)</td><td>0</td></tr><tr><td>Prior use of counseling, No./total No. (%)</td><td>84/193 (44)</td><td>83/198 (42)</td></tr><tr><td>Current use of antidepressants, No./total No. (%)</td><td>44/169 (26)</td><td>43/192 (22)</td></tr></table>
+
+a There are minor variances in baseline characteristic data because some participants refrained from responding to specific items. b To convert 2019 CAD\$ to US dollars, multiply by 0.754.
+
+# Discussion
+
+Postpartum depression is a significant public health problem with adverse effects on mothers and offspring. This RCT of online 1-day CBT-based workshops for PPD vs usual care during the COVID-19 pandemic suggests that when added to TAU, this intervention leads to clinically significant changes in PPD and anxiety and improves social support, as well as maternal reports of mother-infant bonding, infant-focused anxiety, and positive affectivity in infants. These findings were consistent across therapist type.
+
+# Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 10/24/2025
+
+Table 2. Group × Time Interactions for Primary and Secondary Study Outcomes   
+
+<table><tr><td>Measure</td><td>B (SD)^a</td><td>df</td><td>t Value</td><td>P value</td></tr><tr><td>EPDS score</td><td>-2.94 (8.67)</td><td>375.46</td><td>-6.57</td><td>&lt;.001b</td></tr><tr><td>GAD-7 score</td><td>-2.86 (9.45)</td><td>368.70</td><td>-5.80</td><td>&lt;.001b</td></tr><tr><td>SPS score</td><td>2.32 (15.32)</td><td>311.61</td><td>2.68</td><td>.008b</td></tr><tr><td>PBQ-IB score</td><td>-1.23 (10.84)</td><td>360.96</td><td>-2.16</td><td>.03b</td></tr><tr><td>PBQ-RPA score</td><td>-0.76 (7.54)</td><td>358.02</td><td>-1.91</td><td>.06</td></tr><tr><td>PBQ-IFA score</td><td>-1.10 (5.03)</td><td>362.69</td><td>-4.19</td><td>&lt;.001b</td></tr><tr><td>IBQ-R-PA/SUR score</td><td>0.55 (2.05)</td><td>349.38</td><td>4.97</td><td>&lt;001b</td></tr><tr><td>IBQ-R-NA score</td><td>0.33 (2.19)</td><td>359.69</td><td>2.82</td><td>.005b,c</td></tr><tr><td>IBQ-R-ORC score</td><td>0.12 (1.42)</td><td>343.68</td><td>1.58</td><td>.12</td></tr></table>
+
+facilitator as a fixed effect. b Statistically significant $\left( P < . 0 5 \right)$ ) mean difference. c Control group participants reported a significant change in IBQ-R-NA scores over time, whereas experimental participants did not (time βs stratified by group reported in text).
+
+Abbreviations: EPDS, Edinburgh Postnatal Depression Scale; GAD-7, 7-item General Anxiety Disorder Questionnaire; IB, impaired bonding; IBQ-R, Infant Behavior Questionnaire–Revised Very Short Form; IFA, infant-focused anxiety; NA, negative emotionality; ORC, orienting/regulatory capacity; PA/SUR, positive affectivity/surgency; PBQ, Postpartum Bonding Questionnaire; RPA, rejection and pathological anger; SPS, Social Provisions Scale.
+
+a Analyses were conducted using linear mixed models controlling for workshop a Analyses were conducted using linear mixed models controlling for workshop facilitator as a fixed effect, yielding estimated marginal means.
+
+Table 3. Changes From T1 to T2 in Primary and Secondary Outcome Measuresa   
+
+<table><tr><td></td><td colspan="3">Intervention group (n = 202)</td><td colspan="3">Control group (n = 201)</td></tr><tr><td></td><td colspan="2">Mean (SD)</td><td></td><td colspan="2">Mean (SD)</td><td></td></tr><tr><td>Measure</td><td>Time 1</td><td>Time 2</td><td>Δ Mean (95% Cl)</td><td>Time 1</td><td>Time 2</td><td>Δ Mean (95% Cl)</td></tr><tr><td>EPDS scoreb,c</td><td>16.47 (4.41)</td><td>11.65 (4.83)</td><td>-4.82 (-5.72 to -3.91)b</td><td>15.92 (4.54)</td><td>14.04 (4.54)</td><td>-1.88 (-2.76 to -0.99)</td></tr><tr><td>GAD-7 scoreb,d</td><td>12.41 (5.12)</td><td>7.97 (5.54)</td><td>-4.44 (-5.47 to -3.38)b</td><td>12.35 (5.10)</td><td>10.76 (5.10)</td><td>-1.59 (-2.62 to -0.61)</td></tr><tr><td>SPS scoreb</td><td>74.49 (11.23)</td><td>77.8 (11.94)</td><td>3.31 (1.04 to 5.57)b</td><td>74.99 (11.77)</td><td>75.97 (11.91)</td><td>0.98 (-1.32 to 3.32)</td></tr><tr><td>PBQ-IB scoreb</td><td>12.64 (7.53)</td><td>9.42 (7.82)</td><td>-3.22 (-4.72 to -1.71)b</td><td>13.08 (7.37)</td><td>11.09 (7.51)</td><td>-1.99 (-3.46 to -0.53)</td></tr><tr><td>PBQ-RPA scoreb</td><td>6.76 (4.97)</td><td>4.91 (5.26)</td><td>-1.85 (-2.85 to -0.85)b</td><td>6.55 (4.96)</td><td>5.46 (4.96)</td><td>-1.09 (-2.06 to -0.11)</td></tr><tr><td>PBQ-IFA scoreb</td><td>5.35 (3.13)</td><td>3.71 (3.27)</td><td>-1.64 (-2.25 to 1.00)b</td><td>5.32 (3.12)</td><td>4.79 (3.12)</td><td>-0.53 (-0.08 to -1.14)</td></tr><tr><td>IBQ-R-PA/SUR score</td><td>4.28 (1.28)</td><td>4.59 (1.28)</td><td>0.31 (0.05 to 0.56)b</td><td>4.25 (1.28)</td><td>4.00 (1.28)</td><td>-0.25 (-0.49 to -0.01)</td></tr><tr><td>IBQ-R-NA score®</td><td>3.78 (1.28)</td><td>3.62 (1.28)</td><td>-0.16 (-0.40 to 0.08)</td><td>3.98 (1.28)</td><td>3.50 (1.28)</td><td>-0.48 (-0.72 to -0.23)b</td></tr><tr><td>IBQ-R-ORC score</td><td>5.38 (0.85)</td><td>5.27 (0.85)</td><td>-0.11 (-0.27 to -0.05)</td><td>5.27 (0.85)</td><td>5.04 (0.85)</td><td>-0.23 (-0.39 to -0.06)</td></tr></table>
+
+Abbreviations: Abbreviations: EPDS, Edinburgh Postnatal Depression Scale; GAD-7, 7-item General Anxiety Disorder Questionnaire; IB, impaired bonding; IBQ-R, Infant Behavior Questionnaire–Revised Very Short Form; IFA, infant-focused anxiety; NA, negative emotionality; ORC, orienting/ regulatory capacity; PA/SUR, positive affectivity/surgency; PBQ, Postpartum Bonding Questionnaire; RPA, rejection and pathological anger; SPS, Social Provisions Scale.   
+c For the EPDS score, 105 of 165 participants $( 6 4 \% )$ in the experimental group vs 57 of 192 participants $( 3 0 \% )$ in the control group had a clinically significant change (>4 points).
+
+b Statistically significant $\left( P < . 0 5 \right)$ mean difference and group $\times$ time interaction.
+
+d For the GAD-7 score, 92 of 161 participants $( 5 7 \% )$ in the experimental group vs 58 of 190 participants $( 3 1 \% )$ in the control group had a clinically significant change (>4 points).
+
+e Control group participants reported a significant change in IBQ-R-NA scores over time, whereas experimental group participants did not.
+
+Online 1-day workshops for PPD could be an efficient means of increasing treatment access and reducing PPD symptoms. The size of their effect on PPD is similar to those of some RCTs of full courses of CBT for perinatal depression18,43 and other online psychotherapies44 and comparable to those of 1-day workshops in general population samples of adults17,20,45 and youth.46 Its effects are also similar to some trials of full courses of interpersonal psychotherapy but smaller than others.19 Whether these differences are due to the type or duration of therapy or participant inclusion criteria is not known. Headto-head trials will be required to definitively determine the relative effectiveness of 1-day interventions compared with more lengthy treatments. Regardless, these workshops could help large numbers of women and could also be appealing to public health professionals.
+
+Although the workshops are not specifically designed to treat postpartum anxiety, they led to clinically significant changes, an important finding given that anxiety affects as many as half of mothers with PPD.4 Although few RCTs for postpartum anxiety exist, the magnitude of the workshop effect is comparable to these and to previous PPD treatments.19,47
+
+In addition to reducing maternal PPD and anxiety, this intervention appears to positively affect maternal perceptions of the mother-infant relationship. These findings are in keeping with previous studies48,49 that suggest that maternal psychotherapy can improve mother-infant
+
+# Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 10/24/2025
+
+interactions. However, the findings of other studies are mixed,50 and some suggest that these effects can decrease over time.48
+
+Finally, 1-day CBT-based workshops may increase positive affectivity/surgency in infants. This is important from a public health perspective because $7 2 \%$ of costs associated with maternal PPD are owing to offspring problems.9 Although the longer-term clinical implications of this finding are not clear, attenuated positive affect is a risk factor for later major depressive disorder,51 and increased positive affectivity in infancy is associated with improved school readiness,52 social functioning,53 and behavior.54 Positive affectivity may also mitigate the adverse effects of maternal depression.55-57 Although previous studies of the effects of maternal58 and mother-infant psychotherapy43 on offspring outcomes have been mixed, earlier intervention in the postpartum period could have a more positive effect.59,60
+
+# Strengths and Limitations
+
+The intervention tested in this study is brief, accessible, and based on psychotherapeutic techniques that are acceptable to mothers and that could potentially be taught to nonexperts.61 That its effects are clinically significant and consistent across therapist types highlights its potential scalability. Selfreferral, online access, and inclusive inclusion criteria were used, and women were permitted to use TAU to increase generalizability.
+
+This study has some limitations. Although study participants represented a convenience sample, they were ethnically representative of mothers in the province of Ontario, were mainly White individuals and married, and had free access to universal health care; therefore, we do not know whether our results can be generalized to all settings. Attrition was higher in the experimental group, but this may have been owing to the anticipation of those on the wait list of their workshop, a phenomenon observed in previous studies of 1-day, CBTbased workshops using wait list controls.20 Future studies should examine how recruitment materials and workshop structure can optimize inclusivity.20 Participants selfreferred and our main eligibility criterion (EPDS score ≥10) was intentionally inclusive, although on average participants had moderate depression. However, not all participants will have met diagnostic criteria for major depressive disorder, and some may have had a primary diagnosis of another mental disorder (eg, GAD). Nonetheless, because as many as 1 in 3 mothers have an EPDS score of at least 10, and because those with subsyndromal PPD may have even worse outcomes (because they often fail to seek treatment and are ineligible for clinical services),5,62 these findings could still have public health relevance.
+
+Because we wished to launch the trial at the onset of the pandemic, the intervention was delivered by a small number of clinicians at a single center. Because they had a range of backgrounds and differing levels of clinical experience, there will be value in testing delivery by other health care professionals (eg, public health nurses). Uncertainty early in the pandemic around when in-person interventions could resume led to a delay in our registering the RCT at ClinicalTrials.gov, and so
+
+$50 \%$ of participants were enrolled by its registration. These participants did not differ from participants enrolled after that point, and no analyses were completed until after the trial was complete.
+
+Outcomes were based on maternal reports alone and were not reported until 12 weeks after the workshop, and we did not use structured diagnostic interviews. Because changes in PPD and ratings of mother-infant and infant outcomes tend to be correlated, shifts in dyadic outcomes may reflect improvements in maternal depression alone. We assessed outcomes 12 weeks after treatment, and so the longer-term impact and cost-effectiveness of the intervention are not known. However, promising data from previous face-to-face CBT-based workshops suggest that their impact may be durable and cost-effective.20 We did not extensively assess participant satisfaction with the intervention, and future work should examine how to optimize workshop accessibility, given the uniqueness of mothers’ lives. Likewise, because participants who left the treatment group may have done so for a variety of reasons, these data may not be missing at random, which could bias our results. Last, the use of a wait list control group may have inflated the effect size of the intervention, and we cannot rule out that spontaneous recovery contributed to our findings.
+
+# Conclusions
+
+The COVID-19 pandemic has profoundly changed the way mothers with infants access mental health care. This RCT supports the superiority of self-referred, online 1-day CBT-based workshops added to TAU over TAU alone for improving PPD, anxiety, social support, the mother-infant relationship, and infant temperament.
+
+Given that a proportion of women dropped out of the study between recruitment and eligibility assessment, we need to better understand barriers to participation and the factors associated with barriers before scaling is considered. Future work should examine issues relating to the practical scalability of the intervention, as well as those relating to accessibility including motivation, socioeconomic status, and ethnicity, and determine for whom the workshops work best and the optimal method of delivery (eg, full-day vs half-day vs more modular delivery). Understanding factors associated with participation can also help optimize uptake and intervention effectiveness.
+
+Because PPD treatment guidelines recommend a stepped approach where the least expensive and intrusive interventions are offered first,63 these workshops could be an important early step in PPD treatment pathways, treating some women while identifying those in need of more intensive treatment. Given that these workshops may be capable of treating as many as 30 women at a time from the comfort of their own homes, they could represent a significant component of the next successfully implemented, research-enabled public health strategy, an important goal given women’s treatment preferences and the importance of maternal mental health to children, families, and society.
+
+# Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 10/24/2025
+
+# ARTICLE INFORMATION
+
+Accepted for Publication: July 6, 2021. Published Online: September 8, 2021. doi:10.1001/jamapsychiatry.2021.2488
+
+Correction: This article was corrected on September 29, 2021, to fix a denominator and the corresponding percentage in the third paragraph of the Results section.
+
+Author Affiliations: Department of Psychiatry and Behavioural Neurosciences, McMaster University, Hamilton, Ontario, Canada (Van Lieshout, Savoy, Streiner, Bieling); Health Research Methodology Graduate Program, McMaster University, Hamilton, Ontario, Canada (Layton); Department of Psychology, Institute of Psychiatry, Psychology and Neuroscience, King’s College London, London, United Kingdom (Brown); School of Public Health and Health Systems, University of Waterloo, Waterloo, Ontario, Canada (Ferro); Public Health and Emergency Services, Regional Municipality of Niagara, Thorold, Ontario, Canada (Feller); Department of Health Research Methods, Evidence, and Impact, McMaster University, Hamilton, Ontario, Canada (Hanna).
+
+Author Contributions: Dr Van Lieshout and   
+Mr Savoy had full access to all the data in the study and take responsibility for the integrity of the data and the accuracy of the data analysis.   
+Concept and design: Van Lieshout, Brown, Streiner, Bieling, Feller.   
+Acquisition, analysis, or interpretation of data:   
+Van Lieshout, Layton, Savoy, Streiner, Bieling, Ferro, Feller, Hanna.   
+Drafting of the manuscript: Van Lieshout, Layton, Savoy, Streiner, Bieling, Hanna.   
+Critical revision of the manuscript for important intellectual content: Van Lieshout, Layton, Savoy, Brown, Streiner, Ferro, Feller, Hanna.   
+Statistical analysis: Van Lieshout, Savoy, Streiner, Ferro, Hanna.   
+Obtained funding: Van Lieshout, Streiner, Ferro. Administrative, technical, or material support:   
+Van Lieshout, Layton, Savoy, Brown, Bieling.   
+Supervision: Van Lieshout.   
+Other (approved the version to be published): Feller.
+
+# Conflict of Interest Disclosures: None reported.
+
+Funding/Support: This study was supported by a grant (COVID-19 Op Gr: COVID-19 MH/SU Developing Innovative Adaptations of Services/ Delivery competition) from the Canadian Institutes of Health Research.
+
+Role of the Funder/Sponsor: The sponsor had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.
+
+Additional Contributions: Meena Rangan, MSc, Department of Psychology, Ryerson University, Toronto, Ontario, Canada; Erika Haber, MSc, Department of Psychiatry and Behavioural Neurosciences, McMaster University, Hamilton, Ontario, Canada; and Dr Van Lieshout delivered treatment workshops, for which Mss Rangan and Haber were compensated. Sawayra Owais, MSc, MD/PhD Program, McMaster University, Hamilton, Ontario, Canada; Merwa Amer, MSc, Department of Psychiatry and Behavioural Neurosciences, McMaster University, Hamilton, Ontario, Canada;
+
+and Madisyn Campbell, BSc, Department of Psychiatry and Behavioural Neurosciences, McMaster University, Hamilton, Ontario, Canada, assisted with recruitment and participant retention, for which Mss Amer and Campbell were compensated.
+
+Data Sharing Statement: See Supplement 3.
+
+# REFERENCES
+
+1. Gavin NI, Gaynes BN, Lohr KN, Meltzer-Brody S, Gartlehner G, Swinson T. Perinatal depression: a systematic review of prevalence and incidence. Obstet Gynecol. 2005;106(5, pt 1):1071-1083. doi:10.1097/01.AOG.0000183597.31630.db
+
+2. Lanes A, Kuk JL, Tamim H. Prevalence and characteristics of postpartum depression symptomatology among Canadian women: a cross-sectional study. BMC Public Health. 2011;11 (1):302. doi:10.1186/1471-2458-11-302
+
+3. Meaney MJ. Perinatal maternal depressive symptoms as an issue for population health. Am J Psychiatry. 2018;175(11):1084-1093. doi:10.1176/appi. ajp.2018.17091031
+
+4. Dennis CL, Falah-Hassani K, Shiri R. Prevalence of antenatal and postnatal anxiety: systematic review and meta-analysis. Br J Psychiatry. 2017;210 (5):315-323. doi:10.1192/bjp.bp.116.187179
+
+5. Lovejoy MC, Graczyk PA, O’Hare E, Neuman G. Maternal depression and parenting behavior: a meta-analytic review. Clin Psychol Rev. 2000;20 (5):561-592. doi:10.1016/S0272-7358(98)00100-7
+
+6. Misri S, Kendrick K. Perinatal depression, fetal bonding, and mother-child attachment: a review of the literature. Curr Pediatr Rev. 2008;4(2):66–70. doi:10.2174/157339608784462043
+
+7. Goodman JH. Perinatal depression and infant mental health. Arch Psychiatr Nurs. 2019;33(3):217- 224. doi:10.1016/j.apnu.2019.01.010
+
+8. Netsi E, Pearson RM, Murray L, Cooper P, Craske MG, Stein A. Association of persistent and severe postnatal depression with child outcomes. JAMA Psychiatry. 2018;75(3):247-253. doi:10.1001/ jamapsychiatry.2017.4363
+
+9. Bauer A, Personage M, Knapp M, Iemmi V, Adelaja B. The costs of perinatal mental health problems. Personal Social Services Research Unit. 2014. Accessed January 28, 2021. http://eprints.lse. ac.uk/59885/1/__lse.ac.uk_storage_LIBRARY_ Secondary_libfile_shared_repository_Content_Bauer %2C%20M_Bauer_Costs_perinatal_%20mental_ 2014_Bauer_Costs_perinatal_mental_2014_author. pdf
+
+10. Bowen A, Bowen R, Butt P, Rahman K, Muhajarine N. Patterns of depression and treatment in pregnant and postpartum women. Can J Psychiatry. 2012;57(3):161-167. doi:10.1177/ 070674371205700305
+
+11. Fostik A, Kaddatz J. Do adults in couples have better mental health during the COVID-19 pandemic? 2020. Accessed January 8, 2021. https://vanierinstitute.ca/do-adults-in-coupleshave-better-mental-health-during-the-covid%E2% 80%9119-pandemic/
+
+12. Hermann A, Fitelson EM, Bergink V. Meeting maternal mental health needs during the COVID-19 pandemic. JAMA Psychiatry. 2021;78(2):123-124. doi:10.1001/jamapsychiatry.2020.1947
+
+13. O’Mahen HA, Flynn HA. Preferences and perceived barriers to treatment for depression during the perinatal period. J Womens Health (Larchmt). 2008;17(8):1301-1309. doi:10.1089/jwh. 2007.0631
+
+14. Chabrol H, Teissedre F, Armitage J, Danel M, Walburg V. Acceptability of psychotherapy and antidepressants for postnatal depression among newly delivered mothers. J Reprod Infant Psychol. 2004;22(1):5–12. doi:10.1080/   
+02646830310001643094
+
+15. Singla DR, Lemberg-Pelly S, Lawson A, Zahedi N, Thomas-Jacques T, Dennis CL. Implementing psychological interventions through nonspecialist providers and telemedicine in high-income countries: qualitative study from a multistakeholder perspective. JMIR Ment Health. 2020;7(8):e19271. doi:10.2196/19271
+
+16. Cuijpers P, Weitz E, Karyotaki E, Garber J, Andersson G. The effects of psychological treatment of maternal depression on children and parental functioning: a meta-analysis. 2015;24(2):237-245. doi:10.1007/s00787-014- 0660-6
+
+17. Brown JSL, Cochrane R, Hancox T. Large scale stress management workshops for the general public: a controlled evaluation. Behav Cogn Psychother. 2000;28(2):139-151. doi:10.1017/ S1352465800001053
+
+18. Sockol LE. A systematic review of the efficacy of cognitive behavioral therapy for treating and preventing perinatal depression. J Affect Disord. 2015;177:7-21. doi:10.1016/j.jad.2015.01.052
+
+19. Sockol LE. A systematic review and meta-analysis of interpersonal psychotherapy for perinatal women. J Affect Disord. 2018;232:316-328. doi:10.1016/j.jad.2018.01.018
+
+20. Horrell L, Goldsmith KA, Tylee AT, et al; CLASSIC Trial Group. One-day cognitivebehavioural therapy self-confidence workshops for people with depression: randomised controlled trial. Br J Psychiatry. 2014;204(3):222-233. doi:10.1192/bjp.bp.112.121855
+
+21. Brown JS, Elliott SA, Boardman J, Andiappan M, Landau S, Howay E. Can the effects of a 1-day CBT psychoeducational workshop on self-confidence be maintained after 2 years? a naturalistic study. Depress Anxiety. 2008;25(7):632-640. doi:10.1002/da.20365
+
+22. Harris PA, Taylor R, Thielke R, Payne J, Gonzalez N, Conde JG. Research electronic data capture (REDCap)—a metadata-driven methodology and workflow process for providing translational research informatics support. J Biomed Inform. 2009;42(2):377-381. doi:10.1016/ j.jbi.2008.08.010
+
+23. R-3. 5.3 for Windows (32/64 bit). Updated March 11, 2019. Accessed March 31, 2020. https:// cran.r-project.org/bin/windows/base/old/3.5.3/
+
+24. Cox JL, Holden JM, Sagovsky R. Detection of postnatal depression. Development of the 10-item Edinburgh Postnatal Depression Scale. Br J Psychiatry. 1987;150:782-786. doi:10.1192/bjp.150.6.782
+
+25. Hewitt CE, Gilbody SM, Mann R, Brealey S. Instruments to identify post-natal depression: which methods have been the most extensively validated, in what setting and in which language?
+
+Int J Psychiatry Clin Pract. 2010;14(1):72-76.doi:10.3109/13651500903198020
+
+26. Hewitt C, Gilbody S, Brealey S, et al. Methods to identify postnatal depression in primary care: an integrated evidence synthesis and value of information analysis. Health Technol Assess. 2009;13(36):1-145, 147-230. doi:10.3310/hta13360
+
+27. O’Connor E, Rossom RC, Henninger M, et al. Screening for depression in adults: an updated systematic evidence review for the US Preventive Services Task Force. Agency for Healthcare Research and Quality. March 4, 2016. Accessed February 2, 2021. http://europepmc.org/article/ NBK/NBK349027
+
+28. O’Connor E, Rossom RC, Henninger M, Groom HC, Burda BU. Primary care screening for and treatment of depression in pregnant and postpartum women: evidence report and systematic review for the US preventive services task force. JAMA. 2016;315(4):388-406. doi:10.1001/jama.2015.18948
+
+29. Levis B, Negeri Z, Sun Y, Benedetti A, Thombs BD; DEPRESsion Screening Data (DEPRESSD) EPDS Group. Accuracy of the Edinburgh Postnatal Depression Scale (EPDS) for screening to detect major depression among pregnant and postpartum women: systematic review and meta-analysis of individual participant data. BMJ. 2020;371:m4022. doi:10.1136/bmj.m4022
+
+30. Jacobson NS, Truax P. Clinical significance: a statistical approach to defining meaningful change in psychotherapy research. J Consult Clin Psychol. 1991;59(1):12-19. doi:10.1037/0022-006X. 59.1.12
+
+31. Affonso DD, De AK, Horowitz JA, Mayberry LJ. An international study exploring levels of postpartum depressive symptomatology. J Psychosom Res. 2000;49(3):207-216. doi:10.1016/S0022-3999(00)00176-8
+
+32. Matthey S. Calculating clinically significant change in postnatal depression studies using the Edinburgh Postnatal Depression Scale. J Affect Disord. 2004;78(3):269-272. doi:10.1016/S0165-0327(02) 00313-0
+
+33. Simpson W, Glazer M, Michalski N, Steiner M, Frey BN. Comparative efficacy of the Generalized Anxiety Disorder 7-Item Scale and the Edinburgh Postnatal Depression Scale as screening tools for generalized anxiety disorder in pregnancy and the postpartum period. Can J Psychiatry. 2014;59(8): 434-440. doi:10.1177/070674371405900806
+
+34. Spitzer RL, Kroenke K, Williams JBW, Löwe B. A brief measure for assessing generalized anxiety disorder: the GAD-7. Arch Intern Med. 2006;166 (10):1092-1097. doi:10.1001/archinte.166.10.1092
+
+35. Toussaint A, Hüsing P, Gumz A, et al. Sensitivity to change and minimal clinically important difference of the 7-item Generalized Anxiety Disorder Questionnaire (GAD-7). J Affect Disord. 2020;265(265):395-401. doi:10.1016/j.jad.2020.01. 032
+
+36. Cutrona EC, Russell DW. The provisions of social relationships and adaptation to stress. In: Jones WH, Perlman D, eds. Advances in Personal Relationships. JAI Press; 1983.
+
+37. Brockington IF, Fraser C, Wilson D. The Postpartum Bonding Questionnaire: a validation. Arch Womens Ment Health. 2006;9(5):233-242. doi:10.1007/s00737-006-0132-1
+
+38. Klier CM. Mother-infant bonding disorders in patients with postnatal depression: the Postpartum Bonding Questionnaire in clinical practice. Arch Womens Ment Health. 2006;9(5):289-291. doi:10.1007/s00737-006-0150-z
+
+39. Putnam SP, Helbig AL, Gartstein MA, Rothbart MK, Leerkes E. Development and assessment of short and very short forms of the Infant Behavior Questionnaire–Revised. J Pers Assess. 2014;96(4): 445-458. doi:10.1080/00223891.2013.841171
+
+40. Hedeker D, Gibbons R, Waternaux C. Sample size estimation for longitudinal designs with attrition: comparing time-related contrasts between two groups. J Educ Behav Stat. 1999;24 (1):70–93. doi:10.3102/10769986024001070
+
+41. Gupta SK. Intention-to-treat concept: a review. Perspect Clin Res. 2011;2(3):109-112. doi:10.4103/ 2229-3485.83221
+
+42. IBM Corporation. SPSS Statistics for Windows.   
+IBM Corp; 2019.
+
+43. Huang R, Yang D, Lei B, et al. The short- and long-term effectiveness of mother-infant psychotherapy on postpartum depression: a systematic review and meta-analysis. J Affect Disord. 2020;260(260):670-679. doi:10.1016/j.jad. 2019.09.056
+
+44. Berryhill MB, Culmer N, Williams N, et al. Videoconferencing psychotherapy and depression: a systematic review. Telemed J E Health. 2019;25 (6):435-446. doi:10.1089/tmj.2018.0058
+
+45. Wan Mohd Yunus WMA, Musiat P, Brown JS. Evaluating the feasibility of an innovative self-confidence webinar intervention for depression in the workplace: a proof-of-concept study. JMIR Ment Health. 2019;6(4):e11401. doi:10.2196/11401
+
+46. Brown JSL, Blackshaw E, Stahl D, et al. School-based early intervention for anxiety and depression in older adolescents: a feasibility randomised controlled trial of a self-referral stress management workshop programme (“DISCOVER”). J Adolesc. 2019;71(September):150-161. doi:10.1016/ j.adolescence.2018.11.009
+
+47. Maguire PN, Clark GI, Wootton BM. The efficacy of cognitive behavior therapy for the treatment of perinatal anxiety symptoms: a preliminary meta-analysis. J Anxiety Disord. 2018; 60(October):26-34. doi:10.1016/j.janxdis.2018.10. 002
+
+48. Murray L, Cooper PJ, Wilson A, Romaniuk H. Controlled trial of the short- and long-term effect of psychological treatment of post-partum depression, 2: impact on the mother-child relationship and child outcome. Br J Psychiatry. 2003;182(5):420-427. doi:10.1192/bjp.182.5.420
+
+49. Stein A, Netsi E, Lawrence PJ, et al. Mitigating the effect of persistent postnatal depression on child outcomes through an intervention to treat depression and improve parenting: a randomised controlled trial. Lancet Psychiatry. 2018;5(2):134-144. doi:10.1016/S2215-0366(18)30006-3
+
+50. O’Mahen HA, Richards DA, Woodford J, et al. Netmums: a phase II randomized controlled trial of a guided Internet behavioural activation treatment for postpartum depression. Psychol Med. 2014;44 (8):1675-1689. doi:10.1017/S0033291713002092
+
+51. Olino TM, Lopez-Duran NL, Kovacs M, George CJ, Gentzler AL, Shaw DS. Developmental trajectories of positive and negative affect in
+
+children at high and low familial risk for depressive disorder. J Child Psychol Psychiatry. 2011;52(7):792- 799. doi:10.1111/j.1469-7610.2010.02331.x
+
+52. Gartstein MA, Putnam S, Kliewer R. Do infant temperament characteristics predict core academic abilities in preschool-aged children? Learn Individ Differ. 2016;45:299-306. doi:10.1016/j.lindif.2015.12. 022
+
+53. Parlade MV, Messinger DS, Delgado CEF, Kaiser MY, Van Hecke AV, Mundy PC. Anticipatory smiling: linking early affective communication and social outcome. Infant Behav Dev. 2009;32(1):33-43. doi:10.1016/j.infbeh.2008.09.007
+
+54. Lahey BB, Van Hulle CA, Keenan K, et al. Temperament and parenting during the first year of life predict future child conduct problems. J Abnorm Child Psychol. 2008;36(8):1139-1158. doi:10.1007/s10802-008-9247-3
+
+55. Lengua LJ, Wolchik SA, Sandler IN, West SG. The additive and interactive effects of parenting and temperament in predicting adjustment problems of children of divorce. J Clin Child Psychol. 2000;29(2):232-244. doi:10.1207/ S15374424jccp2902_9
+
+56. Curtis WJ, Cicchetti D. Emotion and resilience: a multilevel investigation of hemispheric electroencephalogram asymmetry and emotion regulation in maltreated and nonmaltreated children. Dev Psychopathol. 2007;19(3):811-840. doi:10.1017/S0954579407000405
+
+57. Silk JS, Shaw DS, Forbes EE, Lane TL, Kovacs M. Maternal depression and child internalizing: the moderating role of child emotion regulation. J Clin Child Adolesc Psychol. 2006;35(1):116-126. doi:10.1207/s15374424jccp3501_10
+
+58. Letourneau NL, Dennis CL, Cosic N, Linder J. The effect of perinatal depression treatment for mothers on parenting and child development: a systematic review. Depress Anxiety. 2017;34(10): 928-966. doi:10.1002/da.22687
+
+59. Krzeczkowski JE, Schmidt LA, Van Lieshout RJ. Changes in infant emotion regulation following maternal cognitive behavioral therapy for postpartum depression. Depress Anxiety. 2021;38 (4):412-421. doi:10.1002/da.23130
+
+60. Ntow KO, Krzeczkowski JE, Amani B, Savoy CD, Schmidt LA, Van Lieshout RJ. Maternal and infant performance on the face-to-face still-face task following maternal cognitive behavioral therapy for postpartum depression. J Affect Disord. 2021;278(278):583-591. doi:10.1016/j.jad.2020. 09.101
+
+61. Singla DR, Lawson A, Kohrt BA, et al. Implementation and effectiveness of nonspecialist-delivered interventions for perinatal mental health in high-income countries: a systematic review and meta-analysis. JAMA Psychiatry. 2021;78(5):498-509. doi:10.1001/ jamapsychiatry.2020.4556
+
+62. Judd LL, Paulus MP, Wells KB, Rapaport MH. Socioeconomic burden of subsyndromal depressive symptoms and major depression in a sample of the general population. Am J Psychiatry. 1996;153(11): 1411-1417. doi:10.1176/ajp.153.11.1411
+
+63. National Institute for Health and Care Excellence. Antenatal and postnatal mental health: clinical management and service guidance. December 17, 2014. Accessed February 1, 2021. https://www.nice.org.uk/guidance/cg192
+
+# Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 10/24/2025

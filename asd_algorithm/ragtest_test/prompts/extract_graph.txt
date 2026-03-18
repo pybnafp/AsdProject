@@ -1,0 +1,143 @@
+-Goal-
+Given a text document that is potentially relevant to this activity and a list of entity types, identify all entities of those types from the text and all relationships among the identified entities. 
+<Important Supplement> Ensure every identified entity acts as either a source_entity or a target_entity in at least one relationship; do not retain "isolated entities" that have no connection to any other entity.
+-Important Content Compliance Rules (MUST FOLLOW)-
+1. Strictly base all outputs on the provided <Text> only; DO NOT add any information, assumptions, or extensions beyond the text content.
+2. Focus on extracting factual, objective information from the text.
+3. Entity descriptions and relationship explanations must be objective, neutral, and factual; avoid subjective evaluations, emotional language, or speculative statements.
+4. If no valid entities/relationships are found, output an empty list followed by {completion_delimiter}—do not force-generate content.
+5. <New Rule> After extracting entities and initial relationships, conduct a "entity-relationship check":
+   a. List all extracted entities and verify whether each entity appears in at least one relationship (as source_entity or target_entity);
+   b. For entities not in any relationship, re-examine the text to find potential connections with other entities (e.g., co-occurrence in the same sentence, shared attributes like "participated in the same project", "located in the same region");
+   c. If text evidence supports a connection, add the corresponding relationship; if no text evidence exists for any connection, exclude the "isolated entity" from the final output (since it cannot contribute to the knowledge graph).
+
+-Steps-
+1. Identify all entities. For each identified entity, extract the following information:
+- entity_name: Name of the entity, capitalized
+- entity_type: One of the following types: [{entity_types}]
+- entity_description: Comprehensive description of the entity's attributes and activities (based on the text)
+Format each entity as ("entity"{tuple_delimiter}<entity_name>{tuple_delimiter}<entity_type>{tuple_delimiter}<entity_description>)
+ 
+2. From the entities identified in step 1, identify all pairs of (source_entity, target_entity) that are *clearly related* to each other, and ensure:
+   a. Every entity from step 1 is included in at least one relationship (as source_entity or target_entity);
+   b. If an entity has no initial related pairs, recheck the text for hidden connections (e.g., "same event participation", "shared affiliation") and add valid relationships.
+For each pair of related entities, extract the following information:
+- source_entity: name of the source entity, as identified in step 1
+- target_entity: name of the target entity, as identified in step 1
+- relationship_description: explanation as to why you think the source entity and the target entity are related to each other (must be supported by the text)
+- relationship_strength: a numeric score (1-10, 10 = strongest) indicating strength of the relationship between the source entity and target entity (e.g., "acquisition" = 8-10, "same project participation" = 2-4)
+
+Format each relationship as ("relationship"{tuple_delimiter}<source_entity>{tuple_delimiter}<target_entity>{tuple_delimiter}<relationship_description>{tuple_delimiter}<relationship_strength>)
+ 
+3. Return output in English as a single list of all the entities and relationships identified in steps 1 and 2 (excluding isolated entities with no text-supported relationships). Use **{record_delimiter}** as the list delimiter.
+ 
+4. When finished, output {completion_delimiter}
+ 
+######################
+-Examples-
+######################
+Example 1:
+Entity_types: ORGANIZATION,PERSON
+Text:
+The Research Institute is scheduled to meet on Monday and Thursday, with the institution planning to release its latest research findings on Thursday at 1:30 p.m. PDT, followed by a press conference where Research Director Dr. Sarah Johnson will take questions. Scientists expect the Research Committee to present their latest findings on climate change research.
+######################
+Output:
+("entity"{tuple_delimiter}RESEARCH INSTITUTE{tuple_delimiter}ORGANIZATION{tuple_delimiter}The Research Institute conducts scientific research and releases findings on Monday and Thursday)
+{record_delimiter}
+("entity"{tuple_delimiter}DR. SARAH JOHNSON{tuple_delimiter}PERSON{tuple_delimiter}Dr. Sarah Johnson is the research director of the Research Institute)
+{record_delimiter}
+("entity"{tuple_delimiter}RESEARCH COMMITTEE{tuple_delimiter}ORGANIZATION{tuple_delimiter}The Research Committee makes key decisions about research projects and findings)
+{record_delimiter}
+("relationship"{tuple_delimiter}DR. SARAH JOHNSON{tuple_delimiter}RESEARCH INSTITUTE{tuple_delimiter}Dr. Sarah Johnson is the Research Director of the Research Institute and will answer questions at a press conference{tuple_delimiter}9)
+{record_delimiter}
+("relationship"{tuple_delimiter}RESEARCH COMMITTEE{tuple_delimiter}RESEARCH INSTITUTE{tuple_delimiter}The Research Committee and the Research Institute both engage in scientific research (the Committee presents findings, the Institute releases findings){tuple_delimiter}3)
+{completion_delimiter}
+
+######################
+Example 2:
+Entity_types: ORGANIZATION
+Text:
+TechGlobal's (TG) stock performed well in its opening day on the Global Exchange Thursday. Market analysts note that the semiconductor corporation's debut on the public markets shows strong potential for growth in the technology sector.
+TechGlobal, a technology company, was acquired by Innovation Holdings in 2014. The well-established chip designer says it powers 85% of premium smartphones.
+######################
+Output:
+("entity"{tuple_delimiter}TECHGLOBAL{tuple_delimiter}ORGANIZATION{tuple_delimiter}TechGlobal is a technology company now listed on the Global Exchange which powers 85% of premium smartphones)
+{record_delimiter}
+("entity"{tuple_delimiter}INNOVATION HOLDINGS{tuple_delimiter}ORGANIZATION{tuple_delimiter}Innovation Holdings is a firm that acquired TechGlobal)
+{record_delimiter}
+("entity"{tuple_delimiter}GLOBAL EXCHANGE{tuple_delimiter}ORGANIZATION{tuple_delimiter}Global Exchange is a public market where TechGlobal had its stock opening day)
+{record_delimiter}
+("relationship"{tuple_delimiter}TECHGLOBAL{tuple_delimiter}INNOVATION HOLDINGS{tuple_delimiter}Innovation Holdings acquired TechGlobal in 2014{tuple_delimiter}5)
+{record_delimiter}
+("relationship"{tuple_delimiter}TECHGLOBAL{tuple_delimiter}GLOBAL EXCHANGE{tuple_delimiter}TechGlobal had its stock opening day on the Global Exchange{tuple_delimiter}7)
+{completion_delimiter}
+
+######################
+Example 3:
+Entity_types: ORGANIZATION,GEO,PERSON
+Text:
+Five researchers from Aurelia University completed their 8-year research project in Firuzabad and are returning home to Aurelia.
+The collaboration orchestrated by Quintara University was finalized when research funding was transferred to academic institutions in Krohaara, the capital of Quintara.
+The research exchange initiated in Firuzabad's capital, Tiruzia, led to the four men and one woman, who are also Firuzi nationals, boarding a chartered flight to Krohaara.
+They were welcomed by senior Aurelian officials and are now on their way to Aurelia's capital, Cashion.
+The researchers include 39-year-old scientist Dr. Samuel Namara, who conducted research at Tiruzia's Alhamia Research Center, as well as journalist Dr. Durke Bataglani, 59, and environmentalist Dr. Meggie Tazbah, 53, who also holds Bratinas nationality.
+######################
+Output:
+("entity"{tuple_delimiter}FIRUZABAD{tuple_delimiter}GEO{tuple_delimiter}Firuzabad hosted research collaboration with Aurelia)
+{record_delimiter}
+("entity"{tuple_delimiter}AURELIA{tuple_delimiter}GEO{tuple_delimiter}Country participating in research collaboration, with capital city Cashion)
+{record_delimiter}
+("entity"{tuple_delimiter}QUINTARA{tuple_delimiter}GEO{tuple_delimiter}Country that facilitated research funding exchange, with capital city Krohaara)
+{record_delimiter}
+("entity"{tuple_delimiter}TIRUZIA{tuple_delimiter}GEO{tuple_delimiter}Capital of Firuzabad where the research was conducted)
+{record_delimiter}
+("entity"{tuple_delimiter}KROHAARA{tuple_delimiter}GEO{tuple_delimiter}Capital city in Quintara that received research funding and hosted researchers)
+{record_delimiter}
+("entity"{tuple_delimiter}CASHION{tuple_delimiter}GEO{tuple_delimiter}Capital city in Aurelia, destination of the returning researchers)
+{record_delimiter}
+("entity"{tuple_delimiter}DR. SAMUEL NAMARA{tuple_delimiter}PERSON{tuple_delimiter}Aurelian scientist who conducted research at Tiruzia's Alhamia Research Center)
+{record_delimiter}
+("entity"{tuple_delimiter}ALHAMIA RESEARCH CENTER{tuple_delimiter}ORGANIZATION{tuple_delimiter}Research center in Tiruzia where Dr. Samuel Namara conducted research)
+{record_delimiter}
+("entity"{tuple_delimiter}DR. DURKE BATAGLANI{tuple_delimiter}PERSON{tuple_delimiter}Aurelian journalist who participated in research collaboration)
+{record_delimiter}
+("entity"{tuple_delimiter}DR. MEGGIE TAZBAH{tuple_delimiter}PERSON{tuple_delimiter}Bratinas national and environmentalist who participated in research collaboration)
+{record_delimiter}
+("entity"{tuple_delimiter}AURELIA UNIVERSITY{tuple_delimiter}ORGANIZATION{tuple_delimiter}University in Aurelia that sent five researchers to the Firuzabad project)
+{record_delimiter}
+("entity"{tuple_delimiter}QUINTARA UNIVERSITY{tuple_delimiter}ORGANIZATION{tuple_delimiter}University in Quintara that orchestrated the research collaboration)
+{record_delimiter}
+("relationship"{tuple_delimiter}FIRUZABAD{tuple_delimiter}AURELIA{tuple_delimiter}Firuzabad collaborated on research with Aurelia{tuple_delimiter}2)
+{record_delimiter}
+("relationship"{tuple_delimiter}QUINTARA{tuple_delimiter}AURELIA{tuple_delimiter}Quintara facilitated research collaboration between Firuzabad and Aurelia{tuple_delimiter}2)
+{record_delimiter}
+("relationship"{tuple_delimiter}QUINTARA{tuple_delimiter}FIRUZABAD{tuple_delimiter}Quintara facilitated research collaboration between Firuzabad and Aurelia{tuple_delimiter}2)
+{record_delimiter}
+("relationship"{tuple_delimiter}DR. SAMUEL NAMARA{tuple_delimiter}ALHAMIA RESEARCH CENTER{tuple_delimiter}Dr. Samuel Namara conducted research at Alhamia Research Center{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}DR. SAMUEL NAMARA{tuple_delimiter}DR. MEGGIE TAZBAH{tuple_delimiter}Dr. Samuel Namara and Dr. Meggie Tazbah participated in the same research collaboration{tuple_delimiter}2)
+{record_delimiter}
+("relationship"{tuple_delimiter}DR. SAMUEL NAMARA{tuple_delimiter}DR. DURKE BATAGLANI{tuple_delimiter}Dr. Samuel Namara and Dr. Durke Bataglani participated in the same research collaboration{tuple_delimiter}2)
+{record_delimiter}
+("relationship"{tuple_delimiter}DR. MEGGIE TAZBAH{tuple_delimiter}DR. DURKE BATAGLANI{tuple_delimiter}Dr. Meggie Tazbah and Dr. Durke Bataglani participated in the same research collaboration{tuple_delimiter}2)
+{record_delimiter}
+("relationship"{tuple_delimiter}DR. SAMUEL NAMARA{tuple_delimiter}FIRUZABAD{tuple_delimiter}Dr. Samuel Namara conducted research in Firuzabad{tuple_delimiter}2)
+{record_delimiter}
+("relationship"{tuple_delimiter}DR. MEGGIE TAZBAH{tuple_delimiter}FIRUZABAD{tuple_delimiter}Dr. Meggie Tazbah conducted research in Firuzabad{tuple_delimiter}2)
+{record_delimiter}
+("relationship"{tuple_delimiter}DR. DURKE BATAGLANI{tuple_delimiter}FIRUZABAD{tuple_delimiter}Dr. Durke Bataglani conducted research in Firuzabad{tuple_delimiter}2)
+{record_delimiter}
+("relationship"{tuple_delimiter}AURELIA UNIVERSITY{tuple_delimiter}DR. SAMUEL NAMARA{tuple_delimiter}Dr. Samuel Namara is one of the five researchers from Aurelia University{tuple_delimiter}6)
+{record_delimiter}
+("relationship"{tuple_delimiter}QUINTARA UNIVERSITY{tuple_delimiter}QUINTARA{tuple_delimiter}Quintara University is an institution in Quintara that orchestrated the collaboration{tuple_delimiter}5)
+{record_delimiter}
+("relationship"{tuple_delimiter}CASHION{tuple_delimiter}AURELIA{tuple_delimiter}Cashion is the capital city of Aurelia{tuple_delimiter}10)
+{completion_delimiter}
+
+######################
+-Real Data-
+######################
+Entity_types: {entity_types}
+Text: {input_text}
+######################
+Output:

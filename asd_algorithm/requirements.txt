@@ -1,0 +1,11 @@
+dashvector
+uvicorn
+dashscope
+langchain 
+dashtext
+flask
+python-docx
+requests
+urllib3
+Pillow
+opencv-python

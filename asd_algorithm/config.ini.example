@@ -1,0 +1,10 @@
+[dashvector]
+api_key = "DASHVECTOR_API_KEY"
+endpoint = "DASHVECTOR_ENDPOINT"
+collection_name = "DASHVECTOR_COLLECTION_NAME"
+top_k = 3
+
+[dashscope]
+api_key = "DASHSCOPE_API_KEY"
+max_tokens = 1024
+model = qwen-plus

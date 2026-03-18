@@ -1,0 +1,321 @@
+JAMA Psychiatry | Original Investigation
+
+# Simvastatin as Add-On Treatment to Escitalopram in Patients With Major Depression and Obesity A Randomized Clinical Trial
+
+Christian Otte, MD; Woo Ri Chae, MD; Deniz Yildirim Dogan, MD; Dominique Piber, MD; Stefan Roepke, MD;   
+An Bin Cho, MD; Samuel Trumm, MD; Michael Kaczmarczyk, MD; Jelena Brasanac, PhD; Katja Wingenfeld, PhD;   
+Stefanie Koglin, MD; Johannes Wieditz, PhD; Klaus Junghanns, MD; Michael Lucht, MD; David Prvulovic, MD;   
+Tillmann H. C. Krüger, MD; Jan Terock, MD; Moritz Haaf, PhD; Tobias Hofmann, MD; Nicole Mauche, PhD;   
+Jan Philipp Klein, MD; Hans Jörgen Grabe, MD; Andreas Reif, MD; Kai G. Kahl, MD; Deborah Janowitz, MD;   
+Gregor Leicht, MD; Kim Hinkelmann, MD; Maria Strauß, MD; Tim Friede, PhD; Stefan M. Gold, PhD
+
+IMPORTANCE Major depressive disorder (MDD) and obesity are common noncommunicable disorders associated with substantial disease burden, which frequently occur comorbidly. Intriguingly, converging lines of evidence from animal models and genetic and observational studies have suggested a biological link between obesity, metabolic syndrome, and depression. Several small randomized clinical trials (RCTs) have suggested the antidepressive potential of statins.
+
+OBJECTIVE To examine whether simvastatin added to escitalopram is efficacious in improving depressive symptoms compared with add-on placebo.
+
+DESIGN, SETTING, AND PARTICIPANTS This was a confirmatory, double-blind, placebo-controlled, multicenter RCT. Adults with MDD and comorbid obesity from 9 tertiary care settings in Germany were enrolled in this analysis. Data were analyzed from July to October 2024.
+
+INTERVENTIONS Simvastatin (40 mg per day) or placebo as add-on to escitalopram (10 mg for the first 2 weeks, then increased to $2 0 \mathsf { m } \mathsf { g }$ until the end of study) in a double-blind fashion for 12 weeks.
+
+MAIN OUTCOMES AND MEASURES The primary outcome was change in Montgomery-Åsberg Depression Rating Scale (MADRS) score from baseline (week 0) to week 12.
+
+RESULTS From August 21, 2020, to June 06, 2024, a total of 161 patients were enrolled at 9 sites in Germany, of which 160 patients were included in the intention-to-treat analysis (placebo: ${ \mathsf { n } } = 7 9$ , simvastatin: $\mathsf { n } = 8 \mathsf { 1 }$ ; mean [SD] age, 39.0 [11.0] years; 126 female $[ 7 9 \% ] ,$ ). Retention in the trial was excellent $( 9 5 . 6 \% )$ ), and blinding was effectively maintained. There were 4 serious adverse events with no difference between the groups. Primary end point analysis in the intention-to-treat sample showed no significant treatment effect of add-on simvastatin in MADRS scores (mixed models for repeated measures least squares mean difference, 0.47 points; $9 5 \%$ CI, $^ { - 2 . 0 8 }$ to 3.02; ${ \cal P } = . 7 1 $ ). No effects of simvastatin treatment were observed in any of the mental health–related secondary end points. However, simvastatin treatment significantly reduced low-density lipoprotein cholesterol (simvastatin, $- 4 0 . 3 7 \mathrm { m g / d L }$ ; $9 5 \%$ CI, −47.41 to $- 3 3 . 3 3 \mathrm { m g / d L }$ ; placebo, $- 3 . 7 8 \mathrm { m g / d L }$ ; $9 5 \%$ CI, −11.18 to 3.62 mg/dL; $P < . 0 0 1 _ { \cdot }$ ), total cholesterol (simvastatin, $- 3 9 . 0 7 \mathrm { m g / d L }$ ; $9 5 \%$ CI, −49.42 to −28.73 mg/dL; placebo, −4.89 mg/dL; $9 5 \%$ CI, −15.64 to 5.87 mg/dL; $P < . 0 0 1 ,$ ), and C-reactive protein (simvastatin, $- 1 . 0 4 \ : \mathrm { m g / L }$ ; $9 5 \%$ CI, −1.89 to $- 0 . 2 0 \mathrm { m g / L }$ ; placebo, $0 . 5 7 \mathrm { m g / L } _ { \mathrm { i } }$ ; $9 5 \% \mathsf { C l }$ , $^ { - 0 . 2 8 }$ to 1.42 mg/L; $P = . 0 0 3 $ ) compared with placebo.
+
+CONCLUSIONS AND RELEVANCE The study failed to meet its primary end point. This demonstrates that simvastatin did not exert additional antidepressive effects when added to escitalopram in patients with comorbid MDD and obesity, despite improving the cardiovascular risk profile.
+
+M ajor depressive disorder (MDD) is 1 of the top 2 lead-ing causes of burden of disease1,2 with a lifetimeprevalence of approximately 1 in 6.3 Obesity also constitutes a major public health concern, with 1 of 8 people worldwide currently meeting diagnostic criteria for obesity.4 MDD and obesity frequently co-occur,5 and the presence of one condition increases the risk for developing the other by approximately $5 0 \%$ to $6 0 \%$ .6 MDD and obesity are both linked to numerous chronic medical conditions and premature mortality.7,8 Thus, evidence-based guidance for better treatment approaches to comorbid depression and obesity is urgently needed.
+
+With regard to treatment, statins (3-hydroxy-3- methylglutaryl coenzyme A [HMG CoA] reductase inhibitors) may have antidepressive effects: a number of experimental studies have shown that statins—in addition to their lipidlowering properties—may exert pleiotropic effects with potential relevance for depression pathobiology (eg, targeting inflammation, neurogenesis, stress hormones, and relevant neurotransmitter systems7 ). Although earlier meta-analyses8,9 of cohort studies on the link between statin prescriptions and depression have yielded conflicting results, recent analyses10-12 of large-scale cohort and registry data have suggested that statin use may be linked to a lower risk of depression.
+
+Given the methodological limitations of observational studies to derive causal interpretations of treatment effects, randomized clinical trials (RCTs) are needed to test the clinical efficacy of statins in MDD. Indeed, several small $\mathbf { R C T S } ^ { 1 3 - 1 7 }$ have suggested that statins, when added to standard antidepressants, can reduce depression severity in MDD. Some of these trials18-20 reported large effects and, consequently, several metaanalyses of the literature supported the potential of statins as antidepressants. However, more recent, large, well-conducted $\mathrm { R C T s } ^ { 2 1 , 2 2 }$ failed to show benefits of statins compared with placebo when added to standard care.
+
+Moreover, to our knowledge, no RCT thus far has tested the antidepressive potential of statins in patients with MDD and comorbid obesity. Importantly, this is a difficult-to-treat population thatoften exhibits achroniccourseofMDD and ismore likely to show treatment resistance to standard pharmacological therapy.23 We, therefore, conducted an RCT of add-on simvastatin treatment to the standard antidepressant escitalopram in patients with comorbid MDD and obesity. We hypothesized that add-on simvastatin would improve depression to a greater extent than add-on placebo.
+
+# Methods
+
+# Study Design
+
+This was a 2-arm, double-blind, placebo-controlled multicenter RCT conducted in 9 academic medical centers in Germany. The trial and its protocol (Supplement 1) were reviewed and approved by the ethics committee of the federal state of Berlin and by the federal regulatory authority (Bundesinstitut für Arzneimittel und Medizinprodukte). This trial followed the Consolidated Standards of Reporting Trials (CONSORT) reporting guidelines.
+
+# Key Points
+
+Question Does add-on simvastatin, 40 mg per day, to the selective serotonin reuptake inhibitor escitalopram (20 mg per day) improve depression to a greater extent than add-on placebo in patients with major depressive disorder (MDD) and comorbid obesity?
+
+Findings In this randomized clinical trial including 161 participants with comorbid MDD and obesity, no antidepressive effects were found for simvastatin, 40 mg per day, in the primary end point (change from baseline in Montgomery-Åsberg Depression Rating Scale scores) or any key secondary end point. However, simvastatin reduced low-density lipoprotein cholesterol, total cholesterol, and C-reactive protein levels.
+
+Meaning Study results demonstrate that simvastatin did not exert additional antidepressive effects when added to escitalopram in patients with comorbid MDD and obesity, despite improving the cardiovascular risk profile.
+
+# Participants
+
+The main inclusion criteria for the trial were as follows: (1) written informed consent, (2) major depressive episode according to the DSM-5, (3) Montgomery-Åsberg Depression Rating Scale (MADRS) score of 18 or greater, (4) body mass index (BMI) of 30 or greater (calculated as weight in kilograms divided by height in meters squared), and (5) age between 18 and 65 years $_ { \cdot \ge 1 8 }$ and ${ \le } 6 5$ ). Main exclusion criteria were as follows: (1) current use of statins, (2) current use of antidepressants, (3) acute suicidal ideation (MADRS item $1 0 > 4$ ), (4) pregnancy, or breastfeeding or female individuals with childbearing potential without an acceptable form of contraception (defined as Pearl index ${ < } 1 _ { , }$ ), and (5) current use of psychotropic medication (eg, antipsychotics, anticonvulsants, lithium, or St John’s wort) except for benzodiazepines, nonbenzodiazepines, and opiates. The eMethods in Supplement 2 contains a complete list of inclusion and exclusion criteria. Information on participant race and ethnicity was not collected for this study because collecting such data is heavily regulated and restricted under German data protection laws.
+
+# Randomization and Masking
+
+Participants of the trial were randomized to either receive simvastatin or placebo, both as add-on to standard antidepressant medication (escitalopram, provided open label by the trial pharmacy). Concealed allocation was ensured by an independent central pharmacy using a computer-generated randomization sequence. Based on the randomization codes, the central pharmacy provided sequentially numbered, tamperproof containers, which were equal in weight and indistinguishable in appearance containing simvastatin or placebo. Participants were randomized in a 1:1 ratio between placebo and simvastatin using a permuted block procedure and stratified by study site.
+
+# Procedures
+
+A screening visit was conducted to assess eligibility, obtain informed consent, and collect demographic data. The evaluation included determining the severity of the depressive episode, recording relevant clinical variables (such as duration of the current episode, number of prior episodes, and previous treatments), and reviewing medical history. Additionally, a physical examination was performed, alongside the MINI International Neuropsychiatric Interview, electrocardiogram (ECG), and safety laboratory assessments, which included a pregnancy test for female individuals and drug screening.
+
+At the baseline visit (week 0), body weight, height, and waist circumference were measured. Safety assessments (vital signs, ECG, and blood sample collection) and outcome measures were evaluated at baseline and at follow-up visits scheduled for weeks 1, 2, 4, 8, and 12. The trial protocol (Supplement 1) contains further details.
+
+# Interventions
+
+Patients were allocated to treatment with either simvastatin ( $4 0 \mathrm { m g }$ per day) or placebo as add-on to escitalopram $( 1 0 \mathrm { m g }$ for the first 2 weeks, then increased to $2 0 \mathrm { m g }$ until the end of study) in a double-blind fashion for 12 weeks. In case of tolerability issues, the escitalopram dosage could be increased later than 2 weeks or could be reduced again if the dosage of $2 0 \mathrm { m g }$ was associated with adverse effects.
+
+# Outcomes
+
+The change in MADRS24 score from baseline (week 0) to week 12 was the predefined primary outcome.
+
+As a key secondary outcome, we assessed changes in patients’ self-reported Beck Depression Inventory II (BDI-II) scores.21 Additional secondary outcomes included response rates, defined as a $5 0 \%$ or greater reduction in MADRS scores from baseline, remission rates (MADRS score <10), and the minimal clinically important difference (MCID) based on BDIII, defined as a greater than $1 7 . 5 \%$ change from baseline.
+
+Exploratory outcomes included changes from baseline in the Clinical Global Impression Scale for Severity (CGI-S) and Improvement (CGI-I),25 the Patient Global Impression of Change (PGIC),25 social functioning assessed by the Social and Occupational Functioning Assessment Scale (SOFAS),26 and quality of life measured by the EuroQol-5 Dimensions-3 Levels (EQ-5D-3L) Questionnaire, with a calculated MCID.27 Additional exploratory outcomes included laboratory parameters such as high-density lipoprotein (HDL) cholesterol, lowdensity lipoprotein (LDL) cholesterol, total cholesterol , and high-sensitivity C-reactive protein (CRP) levels.
+
+# Sample Size Calculation
+
+Based on a meta-analysis28 of 3 small pilot RCTs in patients with depression, which reported a standardized mean difference of −0.73 $9 5 \%$ CI, −1.04 to $- 0 . 4 2 ; P < . 0 0 1 \rangle$ ) between add-on statins and add-on placebo, we calculated that a sample size of 64 patients per group would achieve greater than $80 \%$ power to detect a difference in mean changes in MADRS scores from baseline to week 12 using a 2-sample t test at a 2-sided significance level of $5 \%$ . To account for an anticipated dropout rate of approximately $2 0 \%$ , we planned to recruit 80 patients per group, resulting in a total of 160 participants. More details are available in the published study protocol.22
+
+# Updated Systematic Review and Meta-Analysis
+
+For evidence synthesis of our current results with the literature, we performed an updated systematic review and metaanalysis of RCTs examining the efficacy of statins (Anatomical Therapeutic Chemical group C10AA HMG CoA reductase inhibitors; any product or dose) as monotherapy or add-on to antidepressants/standard of care and compared with placebo in adults with MDD. The protocol was prospectively registered with PROSPERO (CRD42024588640) on September 10, 2024 (eMethods in Supplement 2).
+
+# Statistical Analysis
+
+Details of the statistical analyses are provided in the statistical analysis plan (Supplement 1) and the eMethods in Supplement 2. In brief, efficacy analyses used the full analysis set based on the intention-to-treat (ITT) principle, including all randomized patients with at least 1 postbaseline (after week 0) data point for the primary end point. Safety analyses were performed on the safety set, comprising all randomized patients, based on the treatment received and timing of intervention. Sensitivity analyses were conducted in the ITT population, using multiple imputation and last observation carried forward.
+
+The primary analysis compared MADRS changes from baseline (week 0) with week 12 between the simvastatin and placebo group by Gaussian linear models for repeated measures (or the mixed model repeated measures [MMRM]) with intervention group, center, time (week 1, 2, 4, 8, and 12), and intervention by time interaction as factors, and baseline MADRS score (week 0) as a covariate.
+
+Secondary dichotomous efficacy end points, including response and remission rates based on MADRS within 12 weeks, were analyzed using logistic regression models, with intervention and center as factors and baseline MADRS (week 0) as a covariate. Treatment effects are expressed as odds ratios with $9 5 \%$ CI and P values for testing the null hypothesis of no treatment effect are reported. Analyses of continuous secondary end points, including SOFAS and EQ-5D-3L, followed the same approach as the primary outcome.
+
+Adverse events and serious adverse events (SAEs) were summarized as frequencies and percentages by treatment group. For recurrent events and variable follow-up times, event rates were compared between simvastatin and placebo groups using rate ratios with $9 5 \%$ CIs, calculated via Poisson regression with offset for follow-up time.
+
+All hypothesis tests were performed 2-sided at a significance level of $5 \%$ . Secondary, exploratory, and safety outcomes were not adjusted for multiple testing due to their exploratory nature. Statistical analyses were performed from July to October 2024 using R, version 4.3.3 (R Project for Statistical Computing).
+
+# Results
+
+# Enrollment and Baseline Patient Characteristics
+
+Between August 21, 2020, and June 06, 2024, we enrolled 161 patients from 9 sites in Germany, with 160 (placebo: $\mathbf { n } = 7 9$ ,
+
+![](images/770d8ac4add913b111cd978080b332ac6dce23528ce9586fae809e97d58ba77e.jpg)  
+Figure 1. Consolidated Standards of Reporting Trials (CONSORT) Flowchart
+
+V indicates visit.
+
+simvastatin: $\boldsymbol { \mathrm { n } } = 8 1$ ; mean [SD] age, 39.0 [11.0] years; 126 female $[ 7 9 \% ]$ ; 34 male $[ 2 1 \% ] ,$ ) analyzed in the ITT population (eFigure 1 in Supplement 2). Enrollment by site and group is provided in eTable 1 in Supplement 2.
+
+Retention in the trial was excellent $( 9 5 . 6 \%$ with 7 participants discontinuing the study prematurely before week 12, $\mathtt { n } = 3$ in the simvastatin group and $\mathrm { ~ n ~ } = 4$ in the placebo group). Participant flow of the trial is illustrated in Figure 1. Data on pill count, escitalopram dosage at end of study, and concurrent medication can be found in eTables 2 to 4 in Supplement 2. In total, 93 participants received any concurrent medication.
+
+Participants on average had moderate depression at baseline. As expected, cardiometabolic risk profiles were very common in the trial population. Absolute numbers and detailed demographic and clinical characteristics by treatment group are provided in Table 1.
+
+# Blinding Assessment
+
+Blinding was effective as indicated by about $50 \%$ of participants correctly guessing their assigned group, and there was no difference between simvastatin and placebo (weighted Cohen κ, $- 0 . 0 0 1$ ; $9 5 \%$ CI, $- 0 . 0 2 1$ to 0.019).
+
+# Primary Outcome and Sensitivity Analyses
+
+The ITT population comprised 160 patients with at least 1 postbaseline measure of the MADRS. MADRS scores from baseline to week 12 decreased substantially in both groups (simvastatin, −13.97 points; $9 5 \%$ CI, −15.88 to −12.06; placebo, −13.50 points; $9 5 \%$ CI, −15.41 to −11.58) (Figure 2A). Primary end point analysis in the ITT sample showed no significant treatment effect of add-on simvastatin compared with add-on placebo in MADRS scores (MMRM least squares mean difference, 0.47 points; $9 5 \%$ CI, $- 2 . 0 8$ to 3.02; $P = . 7 1 ^ { \cdot }$ ). Preplanned sensitivity analyses robustly confirmed this result (Table 2).
+
+# Secondary Outcomes and Exploratory Outcomes
+
+Similarly, the key secondary end point of patient-reported depression severity (BDI-II) showed decreases in depressive symptoms in both groups but no significant treatment effect for simvastatin (Figure 2B and Table 2).
+
+Furthermore, no significant group differences were observed in secondary end points MADRS response, MADRS remission, or BDI-II MCID (eFigure 2 in Supplement 2 and Table 2).
+
+Confirming the lack of simvastatin effects on mental health outcomes, no significant group differences were observed in any of the exploratory end points for quality of life (EQ-5D), social functioning (SOFAS), or global impression of change from the participants’ or clinicians’ point of view (CGI and PGI) (Table 2).
+
+In contrast to the mental health end points, simvastatin treatment had significant effects on metabolic health as evidenced by substantial reductions compared with placebo in LDL (simvastatin, $- 4 0 . 3 7 \mathrm { m g / d L }$ ; $9 5 \%$ CI, $- 4 7 . 4 1$ to $- 3 3 . 3 3$ mg/dL; placebo, $- 3 . 7 8 \ \mathrm { m g / d L }$ ; $9 5 \%$ CI, −11.18 to $3 . 6 2 \mathrm { m g } / \mathrm { d L }$ ; $P < . 0 0 1$ ; to convert LDL to millimoles per liter, multiply by 0.0259), total cholesterol (simvastatin, $- 3 9 . 0 7 \mathrm { m g / d L }$ ; $9 5 \%$ CI, −49.42 to $- 2 8 . 7 3 \mathrm { m g / d L }$ ; placebo, $- 4 . 8 9 \mathrm { m g / d L }$ ; $9 5 \%$ CI, −15.64 to $5 . 8 7 \mathrm { m g / d L }$ ; $P < . 0 0 1$ ; to convert total cholesterol to millimoles per liter, multiply by 0.0259), and CRP (simvastatin, $- 1 . 0 4 \ \mathrm { m g / L }$ ; $9 5 \%$ CI, $- 1 . 8 9$ to $- 0 . 2 0 \mathrm { m g / L } ;$ ; placebo, 0.57 $\mathrm { { m g / L } }$ ; $9 5 \%$ CI, $- 0 . 2 8$ to $1 . 4 2 \mathrm { m g / L }$ ; $P = . 0 0 3$ ; to convert CRP to milligrams per deciliter, divide by 10) levels compared with placebo (eFigure 3 in Supplement 2 and Figure 3). These results suggest excellent adherence to the allocated treatment groups in our trial.
+
+<table><tr><td colspan="4">  </td></tr><tr><td>Characteristic</td><td>Overall (N = 160)</td><td>Escitalopram + placebo = 79)</td><td>Escitalopram + simvastatin n= 81)</td></tr><tr><td colspan="4">Sex, No. (%)</td></tr><tr><td>emale</td><td>126 (79)</td><td>63 (80)</td><td>63 (78)</td></tr><tr><td>Male</td><td>34 (21)</td><td>16 (20)</td><td>18 (22)</td></tr><tr><td colspan="4">Age,y</td></tr><tr><td>Mean (SD)</td><td>39 (11)</td><td>39 (12)</td><td>39 (11)</td></tr><tr><td>Median (QR)</td><td>38 (30-48)</td><td>38 (31-49)</td><td>38 (29-46)</td></tr><tr><td>Range</td><td>19-64</td><td>19-63</td><td>20-64</td></tr><tr><td colspan="4">Body mass indexa</td></tr><tr><td>Mean (SD)</td><td>39.1 (6.3)</td><td>38.5 (5.1)</td><td>39.6 (7.3)</td></tr><tr><td>Median (IQR)</td><td>38.0 (34.2-42.4)</td><td>37.6 (34.7-41.4)</td><td>38.7 (33.5-43.1)</td></tr><tr><td>Range</td><td>29.1-62.2</td><td>29.1-52.0</td><td>30.2-62.2</td></tr><tr><td colspan="4">MADRS</td></tr><tr><td>Mean (SD)</td><td>25.5 (5.0)</td><td>25.2 (5.2)</td><td>25.8 (4.8)</td></tr><tr><td>Median (QR)</td><td>25.0 (22.0-29.0)</td><td>24.0 (21.5-28.0)</td><td>26.0 (22.0-29.0)</td></tr><tr><td>Range</td><td>13.0-42.0</td><td>17.0-42.0</td><td>13.0-35.0</td></tr><tr><td colspan="4">Duration of current episode, wk</td></tr><tr><td>Median (IQR)</td><td>32 (20-76)</td><td>40 (20-82)</td><td>27 (16-53)</td></tr><tr><td>No. of previous episodes</td><td></td><td></td><td></td></tr><tr><td colspan="4">Median (IQR) 3(2-5)</td></tr><tr><td>Chronic depression, No. (%)</td><td></td><td>3(2-4)</td><td>3(2-7)</td></tr><tr><td>No</td><td>120 (82)</td><td>56 (79)</td><td>64 (84)</td></tr><tr><td colspan="4">Yes</td></tr><tr><td>Smoking status, No. (%)</td><td>27(18)</td><td>15 (21)</td><td>12 (16)</td></tr><tr><td>No</td><td>123 (77) 37(23)</td><td>59 (75) 20 (25)</td><td>64 (79) 17 (21)</td></tr><tr><td colspan="4">Yes</td></tr><tr><td>Blood  oli</td><td></td><td></td><td></td></tr><tr><td>Mean (SD) Median (IQR)</td><td>135(14)</td><td>135 (12)</td><td>135 (16)</td></tr><tr><td>Range</td><td>134 (125-145) 99-192</td><td>134 (126-146) 110-166</td><td>135 (123-144) 99-192</td></tr><tr><td colspan="4">Blood pressutoli</td></tr><tr><td>Mean (SD)</td><td></td><td>87 (10)</td><td></td></tr><tr><td>Median (IQR)</td><td>88 (11)</td><td>87 (81-94)</td><td>88 (12)</td></tr><tr><td>Range</td><td>87 (80-94) 47-120</td><td>47-108</td><td>86 (80-94) 65-120</td></tr><tr><td colspan="4">Hypertension, No. (%)</td></tr><tr><td>No</td><td>43 (27)</td><td>19 (24)</td><td>24 (30)</td></tr><tr><td>Yes</td><td>117 (73)</td><td>60 (76)</td><td>57 (70)</td></tr><tr><td colspan="4">LDL &gt;100mg/dL, No. (%)</td></tr><tr><td>No</td><td>35 (22)</td><td>18 (23)</td><td>17 (21)</td></tr><tr><td>Yes</td><td>122 (78)</td><td>60 (76)</td><td>62 (79)</td></tr><tr><td colspan="4">Total cholesterol &gt;200mg/dL, No. (%)</td></tr><tr><td>No</td><td>89 (57)</td><td>46 (59)</td><td>44 (54)</td></tr><tr><td>Yes</td><td>68.0 (43)</td><td>32.0 (41)</td><td>36.0 (46)</td></tr><tr><td colspan="4">Metabolic syndrome, No. (%)c</td></tr><tr><td></td><td>101 (65)</td><td>50 (65)</td><td>51 (65)</td></tr><tr><td>Ne </td><td>55(35)</td><td>27(35)</td><td>28 (35)</td></tr><tr><td colspan="4">CRP &gt;3 mg/L, No. (%)</td></tr><tr><td>No</td><td>55 (35)</td><td>25 (32)</td><td>30 (38)</td></tr><tr><td>Yes</td><td>102 (65)</td><td>53 (68)</td><td>49 (62)</td></tr></table>
+
+Abbreviations: CRP, C-reactive protein; LDL, low-density lipoprotein cholesterol; MADRS, Montgomery-Åsberg Depression Rating Scale.
+
+SI conversion factor: To convert LDL and total cholesterol to millimoles per liter, multiply by 0.0259; CRP to milligrams per deciliter, divide by 10.
+
+a Body mass index is calculated as weight in kilograms divided by height in meters squared.
+
+b Chronic depression was defined as duration of current depressive episode for 104 weeks or longer.
+
+c Metabolic syndrome was defined as having abdominal girth of 80 cm or greater (women) or $9 4 \mathsf { c m }$ or greater (men) and fulfilling at least 2 of the following criteria: (1) decreased high-density lipoprotein cholesterol, ie, less than 50 mg/dL $( 1 . 2 9 \ : \mathrm { m m o l / L ) }$ in women and less than 40 mg/dL (1.03 mmol/L) in men, (2) increased blood pressure, ie, greater than or equal to $1 3 0 \mathsf { m m }$ Hg (systolic) or greater than or equal to $8 5 \mathsf { m m }$ Hg (diastolic), and/or (3) hemoglobin $\mathsf { A } _ { 1 \mathrm { c } }$ level greater than or equal to $6 . 5 \%$ (48 mmol/mol).
+
+Descriptive statistics for baseline and posttreatment values for all primary, secondary, and exploratory end points by group can be found in eTable 5 in Supplement 2. The baseline and posttreatment values for body weight and BMI can be found in eTable 7 in Supplement 2.
+
+Prespecified subgroup analyses on baseline characteristics that could influence treatment response to simvastatin, including sex, severity of obesity, metabolic syndrome, inflammatory status, and depression severity or chronicity, yielded no significant results (eFigure 4 in Supplement 2).
+
+![](images/da2a64c76a804fd1e2bb7fdcf30cd2807c13162da8210a0759b594749ffae251.jpg)  
+Figure 2. Mean Change in Montgomery-Åsberg Depression Rating Scale (MADRS) Scores Over 12 Weeks and Mean Change in Beck Depression Inventory II (BDI-II) Scores
+
+A, MADRS scores. B, BDI-II scores. Error bars represent $9 5 \%$ CIs.
+
+Table 2. Effects of Treatment on Primary, Secondary, and Exploratory End Points   
+
+<table><tr><td>End point</td><td>Group difference</td><td>P value</td><td>Cohen d (95% CI)</td></tr><tr><td>Primary end point, least squares mean (95% CI)</td><td></td><td></td><td></td></tr><tr><td>MADRS (ITT, MMRM)</td><td>0.47 (-2.08 to 3.02)</td><td>.72</td><td>0.06 (-0.26 to 0.38)</td></tr><tr><td>MADRS (ITT, MI)a</td><td>0.22 (-2.37 to 2.70)</td><td>.86</td><td>0.03 (-0.30 to 0.34)</td></tr><tr><td>MADRS (ITT, LOCF)a</td><td>0.41 (-2.13 to 2.95)</td><td>.75</td><td>0.05 (-0.27 to 0.37)</td></tr><tr><td>Key secondary end point, least squares mean (95% CI)</td><td></td><td></td><td></td></tr><tr><td>BDI-II</td><td>0.69 (-2.80 to 4.18)</td><td>.70</td><td>0.07 (-0.29 to 0.43)</td></tr><tr><td>Secondary end points, OR (95% Cl)</td><td></td><td></td><td></td></tr><tr><td>MADRS response</td><td>1.39 (0.70 to 2.76)</td><td>.35</td><td>NA</td></tr><tr><td>MADRS remission</td><td>1.13 (0.57 to 2.24)</td><td>.73</td><td>NA</td></tr><tr><td>BDI-II MCID</td><td>0.83 (0.37 to 1.88)</td><td>.66</td><td>NA</td></tr><tr><td>Exploratory end points, least squares mean (95% C)</td><td></td><td></td><td></td></tr><tr><td>CGI-S</td><td>0.03 (-0.34 to 0.41)</td><td>.86</td><td>0.01 (-0.07 to 0.09)</td></tr><tr><td>SOFAS</td><td>-0.42 (-4.53 to 3.69)</td><td>.84</td><td>-0.03 (-0.34 to 0.28)</td></tr><tr><td>EQ-5D (VAS)</td><td>-2.41 (-8.26 to 3.44)</td><td>.42</td><td>-0.13 (-0.44 to 0.18)</td></tr><tr><td>CGI-I response, OR (95% CI)</td><td>1.01 (0.51 to 2.00)</td><td>.98</td><td>NA</td></tr><tr><td>PGIC response, OR (95% CI)</td><td>0.89 (0.45 to 1.74)</td><td>.72</td><td>NA</td></tr><tr><td>HDL, estimated group difference (95% CI), mg/dL</td><td>0.55 (-1.80 to 2.90)</td><td>.65</td><td>0.08 (-0.25 to 0.40)</td></tr><tr><td>LDL, estimated group difference (95% CI), mgdL</td><td>36.60 (28.73 to 44.46)</td><td>&lt;.001</td><td>1.14 (0.90 to 1.39)</td></tr><tr><td>Total cholesterol, estimated group difference (95% Cl), mg/dL</td><td>34.19 (22.95 to 45.42)</td><td>&lt;.001</td><td>0.86 (0.58 to 1.14)</td></tr><tr><td>CRP, estimated group difference (95% CI), mg/L</td><td>1.62 (0.55 to 2.68)</td><td>.003</td><td>0.44 (0.15 to 0.73)</td></tr></table>
+
+Abbreviations: BDI-II, Beck   
+Depression Inventory II; CGI-I, Clinical Global Impression Scale for   
+Improvement; CRP, C-reactive   
+protein; EQ-5D, EuroQol-5   
+Dimensions; HDL, high-density   
+lipoprotein cholesterol; ITT, intention to treat; LDL, low-density lipoprotein cholesterol; LOCF, last observation carried forward;   
+MADRS, Montgomery-Åsberg   
+Depression Rating Scale;   
+MCID, minimal clinically important difference; MI, multiple imputation; MMRM, mixed models repeated   
+measures; NA, not applicable;   
+OR, odds ratio;   
+PGIC, Patient Global Impression of Change; SOFAS, Social and   
+Occupational Functioning   
+Assessment Scale; VAS, visual analog scale.   
+SI conversion factor: To convert HDL, LDL, and total cholesterol to   
+millimoles per liter, multiply by   
+0.0259; CRP to milligrams per   
+deciliter, divide by 10.   
+a Prespecified sensitivity analyses for primary end point.
+
+# Safety Outcomes
+
+Four SAEs occurred in 2 patients, with no significant differences between groups. Three of the SAEs were associated with 1 participant who experienced an unintended pregnancy, followed by spontaneous abortion a few days later, necessitating hospitalization for curettage due to multiple uterine myomas. The remaining SAE involved hospitalization in 1 patient due to worsening of depressive symptoms. A total of 123 participants reported AEs during the trial, mainly headaches and nausea, with no differences between simvastatin (61 participants with AEs) and placebo (62 participants with AEs). eFigure 5 in Supplement 2 shows the distribution of suicidal symptoms (assessed by MADRS item 10) at screening, baseline, and subsequent study visits. None of the participants exhibited high levels of suicidality (MADRS item $1 0 > 4 )$ ) at any time point, and the percentage of patients with low levels of suicidality increased over the course of the study in both groups. All SAEs and AEs are listed in eTable 6 in Supplement 2.
+
+![](images/41b479731c645beacedb25908f59b0180a832b23e9a6adb26cbe76a2d3230aa1.jpg)  
+Figure 3. Treatment Effects on Low-Density Lipoprotein (LDL) Cholesterol, Total Cholesterol, and C-Reactive Protein (CRP) Stratified by Visit and Treatment Group
+
+A, LDL cholesterol. B, Total cholesterol. C, CRP. Error bars represent $9 5 \%$ CIs. LDL and total cholesterol were only assessed at baseline and after 12 weeks in order to not compromise blinding.
+
+# Updated Meta-Analysis
+
+To integrate the data from our trial with the previous evidence from the literature, we conducted an updated systematic review and meta-analysis of all available evidence. Included trials were of variable quality, with the smallest 5 trials receiving high or moderate risk of bias ratings. The 3 largest RCTs had a low risk of bias (eFigure 6A in Supplement 2). Overall, the updated meta-analysis revealed a small, albeit statistically significant, benefit of statins, but this was strongly driven by the low-quality trials (eFigure 6B in Supplement 2). Accordingly, stratified analyses demonstrated no significant benefit of statins in those RCTs with a low risk of bias (eFigure 6B in Supplement 2).
+
+# Discussion
+
+In this RCT of patients with comorbid MDD and obesity, we did not find antidepressive effects of simvastatin, $4 0 \mathrm { m g }$ per day, as add-on treatment to escitalopram compared with add-on placebo. This lack of effect was robust across primary and secondary outcomes and confirmed in subgroup analyses. However, as expected, we found significant simvastatin effects on total cholesterol and LDL and CRP values. Simvastatin was not associated with increased AEs or SAEs compared with placebo.
+
+Our results suggest that simvastatin does not exert additional antidepressive effects when added to escitalopram in patients with comorbid MDD and obesity, despite significantly lowering lipids and CRP level. MDD has been associated with numerous alterations of the immune system,29,30 and obesity is consistently associated with subclinical inflammation and increased cardiovascular disease risk.28 In our sample, $7 3 \%$ of participants (117 of 160) had hypertension, $3 5 \%$ o f participants (55 of 160) met modified criteria of metabolic
+
+SI conversion factor: To convert LDL and total cholesterol to millimoles per liter, multiply by 0.0259; CRP to milligrams per liter, multiply by 10.
+
+syndrome, and $6 5 \%$ (102 of 160) had CRP levels greater than 3 $\mathrm { { m g / L } }$ , an established cutoff for increased cardiovascular risk.31 However, despite these metabolic and immune alterations, we failed to demonstrate an antidepressive effect of simvastatin.
+
+Given the current evidence, we believe it is unlikely that statins have clinically meaningful acute antidepressive effects when added to standard antidepressants. It is noteworthy that our meta-analysis demonstrated a clear contrast between smaller studies ( $\mathrm { ^ { - 7 0 } }$ participants) with high/moderate risk of bias vs trials with larger samples (70-160 participants) and low risk of bias. Although the former studies have predominantly shown significant effects, the latter studies found an almost 3-fold reduced effect size and have consistently failed to demonstrate additional antidepressive effects of statins in different populations with MDD. This is in line with general meta-analytic evidence showing that smaller trials typically report larger effect sizes compared with those observed in larger trials32 and a positive association between risk of bias and effect size.33,34
+
+Even though simvastatin did not exert additional antidepressive effects in our study, it had the expected and wellknown effects on lipids and inflammatory activity. Given that both MDD and obesity are associated with increased cardiovascular risk and higher mortality,35 statins should be prescribed in this comorbid group of patients following the guidelines for statin use in primary prevention.36 Clinicians should not be discouraged by the lack of additional antidepressive statins effects in our study but should continue prescribing lipid lowering medications to reduce cardiovascular risk in these patients. This is important, because patients with mental disorders are less likely to receive medication for cardiovascular indications than individuals without mental disorders, despite their increased cardiovascular risk.37 It is reassuring that, in our study, simvastatin was equally well tolerated and safe as placebo.
+
+# Strengths and Limitations
+
+Our study had several strengths. First, to date and to our knowledge, our study was the largest study among those that examined putative antidepressive statin effects. Second, there was an excellent retention rate and good adherence to the medication. Third, blinding was effectively maintained. Finally, we involved experts by experience from the very beginning, ie, already in the planning process of the study and before grant application.
+
+However, our study also has some limitations. It was conducted in tertiary care centers in a Western, high-income country, in patients with moderate symptom severity and an overall comparatively high response rate, limiting its generalizability. Further, we did not include participants with an established indication for statin treatment. We, therefore, cannot rule out that statins may exert antidepressive effects in populations with an indication for statin treatment, eg, after myocardial infarction or stroke. However, given the high cardiovascular risk in our sample, we believe it is unlikely that putative antidepressive statin effects would clinically meaningfully differ in populations with a statin indication. Finally, as required by our ethics review board, we excluded patients with a lifetime history of suicide attempt.
+
+# Conclusions
+
+In summary, results of this RCT reveal that simvastatin did not exert additional antidepressive effects when added to escitalopram in patients with comorbid MDD and obesity, despite improving the cardiovascular risk profile. Statins should be used in these patients according to guidelines for primary and secondary prevention of cardiovascular diseases.
+
+# ARTICLE INFORMATION
+
+Accepted for Publication: February 26, 2025. Published Online: June 4, 2025. doi:10.1001/jamapsychiatry.2025.0801
+
+Open Access: This is an open access article distributed under the terms of the CC-BY License. $\circled{5}$ 2025 Otte C et al. JAMA Psychiatry.
+
+Author Affiliations: Charité—Universitätsmedizin Berlin, corporate member of Freie Universität Berlin, Department of Psychiatry and Psychotherapy, Humboldt-Universität zu Berlin, Berlin, Germany (Otte, Chae, Dogan, Piber, Roepke, Cho, Trumm, Kaczmarczyk, Brasanac, Wingenfeld, Koglin, Gold); German Center for Mental Health partner site Berlin/Potsdam, Germany (Otte, Chae, Wingenfeld, Hofmann, Hinkelmann, Gold); Berlin Institute of Health at Charité Universitätsmedizin Berlin, Berlin, Germany (Chae, Piber, Cho); Department of Medical Statistics, University Medical Center Göttingen, Göttingen, Germany (Wieditz, Friede); Department of Psychiatry and Psychotherapy, Lübeck University, Lübeck, Germany (Junghanns, Klein); Department of Psychiatry and Psychotherapy, University Medicine Greifswald, Greifswald, Germany (Lucht, Grabe); Department of Psychiatry, Psychosomatic Medicine and Psychotherapy, University Medical Centre Frankfurt, Frankfurt am Main, Germany (Prvulovic, Reif); Department of Psychiatry, Social Psychiatry and Psychotherapy, Hannover Medical School, Hanover, Germany (Krüger, Kahl); Centre for Systems Neuroscience Hannover, Hanover, Germany (Krüger); Department of Psychiatry and Psychotherapy, Helios Hanseklinikum Stralsund, Stralsund, Germany (Terock, Janowitz); Department of Psychiatry and Psychotherapy, University Medical Center Hamburg-Eppendorf, Hamburg, Germany (Haaf, Leicht); Charité— Universitätsmedizin Berlin, corporate member of Freie Universität Berlin, Department of Psychosomatic Medicine, Center for Internal Medicine and Dermatology, Humboldt-Universität zu Berlin, Berlin, Germany (Hofmann, Hinkelmann, Gold); Charité—Universitätsmedizin Berlin, Center for Patient-Centered Outcomes Research, Berlin, Germany (Hofmann, Hinkelmann); Department of Psychosomatic Medicine and Psychotherapy, DRK Kliniken Berlin Wiegmann Klinik, Berlin, Germany (Hofmann); Department of Psychiatry and Psychotherapy, University of Leipzig Medical
+
+Author Contributions: Drs Otte and Friede had full access to all of the data in the study and take   
+responsibility for the integrity of the data and the accuracy of the data analysis. Drs Otte and Chae are considered equal co–contributors of this work. Concept and design: Otte, Roepke, Friede, Gold. Acquisition, analysis, or interpretation of data:   
+All authors.   
+Drafting of the manuscript: Otte, Chae, Wieditz, Grabe, Kahl, Gold.   
+Critical review of the manuscript for important   
+intellectual content: Otte, Chae, Dogan, Piber,   
+Roepke, Cho, Trumm, Kaczmarczyk, Brasanac,   
+Wingenfeld, Koglin, Wieditz, Junghanns, Lucht, Prvulovic, Krüger, Terock, Haaf, Hofmann, Mauche, Klein, Reif, Kahl, Janowitz, Leicht, Hinkelmann, Strauss, Friede.   
+Statistical analysis: Otte, Brasanac, Wieditz, Friede. Obtained funding: Otte, Grabe, Leicht, Friede, Gold. Administrative, technical, or material support: Otte, Chae, Dogan, Roepke, Trumm, Koglin, Junghanns, Lucht, Prvulovic, Terock, Hofmann, Mauche, Klein, Grabe, Reif, Kahl, Janowitz, Leicht, Hinkelmann. Supervision: Otte, Wingenfeld, Lucht, Krüger, Kahl, Janowitz, Gold.
+
+Conflict of Interest Disclosures: Dr Otte reported receiving grants from the German Ministry of Education and Research (Bundesministerium für Bildung und Forschung [BMBF]), the German Research Foundation, the European Commission, and the Berlin Institute of Health and personal fees from Boehringer Ingelheim, Janssen, Limes Klinikgruppe, Oberberg Kliniken, and Peak Profiling outside the submitted work. Dr Chae reported receiving grants from German Research Foundation, Else Kröner-Fresenius-Stiftung, Berlin Institute of Health and Stiftung Charité, and personal fees from Deutsche Rentenversicherung Bund for a lecture outside the submitted work. Dr Krüger reported receiving personal fees from Idorsia, Schwabe, Janssen, Otsuka, Lundbeck, and Hennig outside the submitted work. Dr Haaf reported receiving grants from German Research
+
+Foundation outside the submitted work. Dr Hofmann reported receiving personal fees from Klinikum Ernst von Bergmann Potsdam, Deutsche Adipositas Gesellschaft, and Streamed Up outside the submitted work. Dr Grabe reported receiving grants from Federal Ministry of Education and Research (BMBF) during the conduct of the study and personal fees from Servier, Indorsia, Neuraxpharm, and Janssen Cilag outside the submitted work. Dr Reif reported receiving grants from BMBF, Medice, and Janssen during the conduct of the study and honoraria for lectures and/or advisory boards from Janssen, Boehringer Ingelheim, COMPASS, SAGE/Biogen, LivaNova, Medice, Shire/Takeda, MSD, and Cyclerion. Dr Kahl reported receiving grants from German Ministry of Education and Research and Innofonds during the conduct of the study and personal fees from Eli Lilly, Servier, Neuraxpharm, Ferrer, Takeda, and Idorsia outside the submitted work. Dr Leicht reported receiving grants from German Ministry of Education and Research during the conduct of the study. Dr Hinkelmann reported receiving personal fees from Deutsche Psychotherapeutenvereinigung outside the submitted work. Dr Friede reported receiving consultant fees from Novartis, Bayer, Janssen, SGS, Boehringer Ingelheim, Daiichi Sankyo, Galapagos, Penumbra, Parexel, Vifor, Biosense Webster, CSL Behring, Fresenius Kabi, Coherex Medical, and LivaNova outside the submitted work. Dr Gold reported receiving grants from BMBF, BMG, DFG, NMSS, and Wellcome during the conduct of the study and personal fees from Hexal, Tegus, and Angelini outside the submitted work. No other disclosures were reported.
+
+Funding/Support: This work is supported by grant 01KG1813 from the German Ministry of Education and Research (Bundesministerium für Bildung und Forschung [BMBF]). The study is sponsored by Charité—Universitätsmedizin Berlin.
+
+Role of the Funder/Sponsor: The funders had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.
+
+# Data Sharing Statement: See Supplement 3.
+
+Additional Contributions: We thank NeuroCure Clinical Research Center, funded by the Deutsche
+
+Forschungsgemeinschaft (German Research Foundation) under Germany’s Excellence Strategy, and Berlin Institute of Health for help with study approvals and preparing the study protocol. We also thank the patient representative and other members of the data and safety monitoring board for their help with designing and monitoring the study. We thank the members of the SIMCODE study team who supported with patient recruitment and study administration (Carolin Lehn, RN, Heidi Schimke, RN, Chia-Chien Han, BSc, Georg Schwanitz, MSc, Cornelia Eberhardt, MSc, Yassin Mahdi, PhD, Sandra Lischewski, PhD, Stefanie Märschenz, PhD, Tanja Schmitz-Hübsch, MD, Sybille Braunschweig, MD, Thorsten Folsche, MD, Kristina Wolters, MD, Rabia Sana Arshad, MD). Beyond usual salary, the SIMCODE study team did not receive financial compensation for their contributions.
+
+# REFERENCES
+
+1. GBD 2019 Mental Disorders Collaborators. Global, regional, and national burden of 12 mental disorders in 204 countries and territories, 1990-2019: a systematic analysis for the Global Burden of Disease Study 2019. Lancet Psychiatry. 2022;9(2):137-150. doi:10.1016/S2215-0366(21) 00395-3
+
+2. GBD 2021 Diseases and Injuries Collaborators. Global incidence, prevalence, years lived with disability (YLDs), disability-adjusted life-years (DALYs), and healthy life expectancy (HALE) for 371 diseases and injuries in 204 countries and territories and 811 subnational locations, 1990-2021: a systematic analysis for the Global Burden of Disease Study 2021. Lancet. 2024;403(10440):2133-2161. doi:10.1016/S0140-6736(24)00757-8
+
+3. Herrman H, Patel V, Kieling C, et al. Time for united action on depression: a Lancet-World Psychiatric Association Commission. Lancet. 2022;399(10328): 957-1022. doi:10.1016/S0140-6736(21)02141-3
+
+4. World Health Organization. Obesity and overweight. Accessed June 10, 2024. https://www. who.int/news-room/fact-sheets/detail/obesityand-overweight
+
+5. Milaneschi Y, Simmons WK, van Rossum EFC, Penninx BW. Depression and obesity: evidence of shared biological mechanisms. Mol Psychiatry. 2019;24(1):18-33. doi:10.1038/s41380-018-0017-5
+
+6. Luppino FS, de Wit LM, Bouvy PF, et al. Overweight, obesity, and depression: a systematic review and meta-analysis of longitudinal studies. Arch Gen Psychiatry. 2010;67(3):220-229. doi:10. 1001/archgenpsychiatry.2010.2
+
+7. De Giorgi R, Rizzo Pesci N, Rosso G, Maina G, Cowen PJ, Harmer CJ. The pharmacological bases for repurposing statins in depression: a review of mechanistic studies. Transl Psychiatry. 2023;13(1): 253. doi:10.1038/s41398-023-02533-z
+
+8. Parsaik AK, Singh B, Murad MH, et al. Statins use and risk of depression: a systematic review and meta-analysis. J Affect Disord. 2014;160:62-67. doi:10.1016/j.jad.2013.11.026
+
+9. Lee MC, Peng TR, Lee CH, et al. Statin use and depression risk: a systematic review and meta-analysis. J Affect Disord. 2021;282:308-315. doi:10.1016/j.jad.2020.12.164
+
+10. Molero Y, Cipriani A, Larsson H, Lichtenstein P, D’Onofrio BM, Fazel S. Associations between statin use and suicidality, depression, anxiety, and
+
+seizures: a Swedish total-population cohort study. Lancet Psychiatry. 2020;7(11):982-990. doi:10. 1016/S2215-0366(20)30311-4
+
+11. Yang Q, Yang Z, Zeng B, Jia J, Sun F. Association of statin use with risk of depression and anxiety: a prospective large cohort study. Gen Hosp Psychiatry. 2024;90:108-115. doi:10.1016/j.genhosppsych. 2024.07.015
+
+12. Li Q, Wu H, Cao X, Tang S, Zhao J. The association between statin use and depression in diabetes. J Affect Disord. 2024;349:342-348. doi:10.1016/j.jad.2024.01.013
+
+13. Haghighi M, Khodakarami S, Jahangard L, et al. In a randomized, double-blind clinical trial, adjuvant atorvastatin improved symptoms of depression and blood lipid values in patients suffering from severe major depressive disorder. J Psychiatr Res. 2014;58: 109-114. doi:10.1016/j.jpsychires.2014.07.018
+
+14. Ghanizadeh A, Hedayati A. Augmentation of fluoxetine with lovastatin for treating major depressive disorder, a randomized double-blind placebo controlled-clinical trial. Depress Anxiety. 2013;30(11):1084-1088. doi:10.1002/da.22195
+
+15. Gougol A, Zareh-Mohammadi N, Raheb S, et al. Simvastatin as an adjuvant therapy to fluoxetine in patients with moderate to severe major depression: a double-blind placebo-controlled trial. J Psychopharmacol. 2015;29(5):575-581. doi:10.1177/ 0269881115578160
+
+16. Massardo T, Quintana JC, Risco L, et al. Effect of low-dose statins in addition to standard therapy on brain perfusion and neurocognitive performance in patients with major depressive disorder. Neuropsychobiology. 2022;81(4):271-285. doi:10.1159/ 000521104
+
+17. Aldossary KM, Ali LS, Abdallah MS, et al. Effect of a high dose atorvastatin as added-on therapy on symptoms and serum AMPK/NLRP3 inflammasome and IL-6/STAT3 axes in patients with major depressive disorder: randomized controlled clinical study. Front Pharmacol. 2024;15:1381523. doi:10. 3389/fphar.2024.1381523
+
+18. Salagre E, Fernandes BS, Dodd S, Brownstein DJ, Berk M. Statins for the treatment of depression: a meta-analysis of randomized, double-blind, placebo-controlled trials. J Affect Disord. 2016;200: 235-242. doi:10.1016/j.jad.2016.04.047
+
+19. De Giorgi R, De Crescenzo F, Rizzo Pesci N, et al. Statins for major depressive disorder: a systematic review and meta-analysis of randomized controlled trials. PLoS One. 2021;16(3):e0249409. doi:10. 1371/journal.pone.0249409
+
+20. Köhler-Forsberg O, Otte C, Gold SM, Østergaard SD. Statins in the treatment of depression: hype or hope? Pharmacol Ther. 2020; 215:107625. doi:10.1016/j.pharmthera.2020.107625
+
+21. Beck AT, Ward CH, Mendelson M, Mock J, Erbaugh J. An inventory for measuring depression. Arch Gen Psychiatry. 1961;4:561-571. doi:10.1001/ archpsyc.1961.01710120031004
+
+22. Otte C, Chae WR, Nowacki J, et al. Simvastatin add-on to escitalopram in patients with comorbid obesity and major depression (SIMCODE): study protocol of a multicenter, randomized, double-blind, placebo-controlled trial. BMJ Open. 2020;10(12):e040119. doi:10.1136/bmjopen2020-040119
+
+23. Grigolon RB, Trevizol AP, Gerchman F, et al. Is obesity a determinant of success with
+
+pharmacological treatment for depression: a systematic review, meta-analysis and meta-regression. J Affect Disord. 2021;287:54-68. doi:10.1016/j.jad.2021.03.032
+
+24. Montgomery SA, Asberg M. A new depression scale designed to be sensitive to change. Br J Psychiatry. 1979;134:382-389. doi:10.1192/ bjp.134.4.382
+
+25. Guy W. ECDEU Assessment Manual for Psychopharmacology. US Department of Health, Education, and Welfare; 1976.
+
+26. Morosini PL, Magliano L, Brambilla L, Ugolini S, Pioli R. Development, reliability, and acceptability of a new version of the DSM-IV Social and Occupational Functioning Assessment Scale (SOFAS) to assess routine social functioning. Acta Psychiatr Scand. 2000;101(4):323-329.
+
+27. Button KS, Kounali D, Thomas L, et al. Minimal clinically important difference on the Beck Depression Inventory II according to the patient’s perspective. Psychol Med. 2015;45(15):3269-3279. doi:10.1017/S0033291715001270
+
+28. Lingvay I, Cohen RV, Roux CWL, Sumithran P. Obesity in adults. Lancet. 2024;404(10456): 972-987. doi:10.1016/S0140-6736(24)01210-8
+
+29. Drevets WC, Wittenberg GM, Bullmore ET, Manji HK. Immune targets for therapeutic development in depression: towards precision medicine. Nat Rev Drug Discov. 2022;21(3):224-244. doi:10.1038/s41573-021-00368-1
+
+30. Miller AH, Raison CL. Burning down the house: reinventing drug discovery in psychiatry for the development of targeted therapies. Mol Psychiatry. 2023;28(1):68-75. doi:10.1038/s41380-022-01887-y
+
+31. Ridker PM. From C-reactive protein to interleukin-6 to interleukin-1: moving upstream to identify novel targets for atheroprotection. Circ Res. 2016;118(1):145-156. doi:10.1161/CIRCRESAHA.115. 306656
+
+32. Dechartres A, Trinquart L, Boutron I, Ravaud P. Influence of trial sample size on treatment effect estimates: meta-epidemiological study. BMJ. 2013; 346:f2304. doi:10.1136/bmj.f2304
+
+33. Berk M, Mohebbi M, Dean OM, et al. Youth Depression Alleviation With Antiinflammatory Agents (YoDA-A): a randomized clinical trial of rosuvastatin and aspirin. BMC Med. 2020;18(1):16. doi:10.1186/s12916-019-1475-6
+
+34. Hempel S, Miles J, Suttorp MJ, et al. Detection of Associations Between Trial Quality and Effect Sizes. Agency for Healthcare Research and Quality (US); 2012.
+
+35. Gold SM, Köhler-Forsberg O, Moss-Morris R, et al. Comorbid depression in medical diseases. Nat Rev Dis Primers. 2020;6(1):69. doi:10.1038/ s41572-020-0200-2
+
+36. Mancini GBJ, Ryomoto A, Yeoh E, Brunham LR, Hegele RA. Recommendations for statin management in primary prevention: disparities among international risk scores. Eur Heart J. 2024; 45(2):117-128. doi:10.1093/eurheartj/ehad539
+
+37. Mitchell AJ, Lord O, Malone D. Differences in the prescribing of medication for physical disorders in individuals with v. without mental illness: meta-analysis. Br J Psychiatry. 2012;201(6):435-443. doi:10.1192/bjp.bp.111.094532

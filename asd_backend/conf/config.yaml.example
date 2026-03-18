@@ -1,0 +1,78 @@
+# MySQL 连接配置
+mysql:
+  default:
+    host: "127.0.0.1"
+    port: 3306
+    database: "asd"
+    username: "asd"
+    password: "MYSQL_PASSWORD"
+
+postgres:
+  default:
+    host: "127.0.0.1"
+    port: 5432
+    database: "asd"
+    username: "asd"
+    password: "POSTGRES_PASSWORD"
+
+# Redis 配置
+redis:
+  redis_host: "127.0.0.1"
+  redis_port: 6379
+  redis_password: "REDIS_PASSWORD"
+  redis_db: 0
+
+# 文件上传
+attachment:
+  # 文件存储路径
+  file_path: "/asd/uploads"
+  # 上传文件最大值
+  file_size: 52428800
+  # 允许上传文件后缀
+  file_ext: "bmp,ico,psd,jpg,jpeg,png,gif,doc,docx,xls,xlsx,pdf,zip,rar,7z,tz,mp3,mp4,mov,swf,flv,avi,mpg,ogg,wav,flac,ape"
+
+# 系统配置
+systemconfig:
+  # 版本号
+  version: "v0.1.0"
+  # 调试模式
+  debug: false
+  # 图片域名
+  image: "http://localhost:9081/uploads/"
+
+tencentconfig:
+  secretid: "TENCENT_SECRET_ID"
+  secretkey: "TENCENT_SECRET_KEY"
+  expiretime: 86400
+  wechat_app_id: "WECHAT_APP_ID"
+  wechat_app_secret: "WECHAT_APP_SECRET"
+  wechat_redirect_uri: "https://asd.evotrek.cn/api/login/wechat/callback"
+
+apiconfig:
+  file_cache_path: "/tmp/assets/"
+  # jwt 过期时间
+  jwt_exp: 24
+  use_rag: false
+  rag_urls:
+    - "https://u532184-9c7a-d05e74a8.westc.gpuhub.com:8443"
+    - "https://u532184-a969-3848cfa1.westb.seetacloud.com:8443"
+    - "https://u532184-a02a-af0034be.westb.seetacloud.com:8443"
+    - "https://u532184-a4a3-c5255d15.westb.seetacloud.com:8443"
+    - "https://u532184-9280-f9e16e87.westc.gpuhub.com:8443"
+    - "https://u532184-ab09-97c25d58.westb.seetacloud.com:8443"
+    - "https://u532184-8ca9-6d7e63d9.westc.gpuhub.com:8443"
+    - "https://u532184-a5f1-467929ef.westb.seetacloud.com:8443"
+    - "https://u532184-8934-fc4d3733.westc.gpuhub.com:8443"
+    - "https://u532184-8ca9-d5b3e88f.westc.gpuhub.com:8443"
+  secret_key: "SECRET_KEY"
+  alibaba_cloud_access_key_id: "ALIBABA_CLOUD_ACCESS_KEY_ID"
+  alibaba_cloud_access_key_secret: "ALIBABA_CLOUD_ACCESS_KEY_SECRET"
+  alibaba_bailian_workspace_id: "ALIBABA_BAILIAN_WORKSPACE_ID"
+  alibaba_bailian_app_id: "ALIBABA_BAILIAN_APP_ID"
+  alibaba_bailian_api_key: "ALIBABA_BAILIAN_API_KEY"
+  alibaba_sms_sign_name: "杭州天衍星旅科技"
+  alibaba_sms_template_code: "ALIBABA_SMS_TEMPLATE_CODE"
+  openrouter_api_key: "OPENROUTER_API_KEY"
+  openrouter_base_url: "https://openrouter.ai/api/v1"
+
+  algorithm_base_url: "http://localhost:5003/api/dashvector_chat"

@@ -1,0 +1,6 @@
+# 忽略IDE配置目录（如PyCharm的.idea）
+.idea/
+
+# 忽略Python编译生成的__pycache__目录及.pyc文件
+__pycache__/
+*.pyc

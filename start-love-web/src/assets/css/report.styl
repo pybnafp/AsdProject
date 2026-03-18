@@ -1,0 +1,33 @@
+.report-page {
+  .page-header {
+    font-size: 18px;
+    color: #333333;
+  }
+  .filter-box {
+
+    /* 自动布局 */
+    display: flex;
+    gap: 16px;
+
+    .filter-item {
+      padding: 0 16px;
+      border-radius: 372px;
+      background: #FDFDFD;
+      border: 0.5px solid #F0F1F2;
+      font-size: 14px;
+      color: #6D6A71;
+      height: 38px;
+      line-height: 38px;
+      cursor pointer;
+
+      &.active {
+        background: rgba(93, 25, 210, 0.1);
+        color: #5D19D2;
+      }
+    }
+  }
+}
+
+.el-tabs__nav-wrap:after {
+  background-color: #ffffff !important;
+}

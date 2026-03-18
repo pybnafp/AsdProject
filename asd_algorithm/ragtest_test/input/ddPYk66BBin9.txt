@@ -1,0 +1,269 @@
+JAMA Psychiatry | Original Investigation
+
+# A Group Parenting Intervention for Male Postpartum Depression A Cluster Randomized Clinical Trial
+
+M. Ishrat Husain, MBBS, MD (Res); Tayyeba Kiran, PhD; Rabia Sattar, MSc; Ameer B. Khoso, MSc; Ming Wai Wan, PhD; Daisy R. Singla, PhD; Madeha Umer, MSc; Rabdino Mangrio, MPhil; Paul Bassett, MSc; Imran B. Chaudhry, MD; Shehla N. Zafar, RNs; Farhat A. Jafri, MPH; Nasim Chaudhry, MD; Nusrat Husain, MD
+
+IMPORTANCE Male postpartum depression is prevalent across populations; however, there is limited evidence on strategies to address it, particularly in low-income settings.
+
+OBJECTIVE To evaluate the effectiveness of Learning Through Play Plus Dads (LTP $^ +$ Dads), a nonspecialist–delivered psychosocial intervention, in improving symptoms of male postpartum depression compared to treatment as usual.
+
+DESIGN, SETTING, AND PARTICIPANTS This cluster randomized clinical trial was conducted in Karachi, Pakistan, between June 2018 and November 2019. Assessors were blind to treatment allocation. Participants were recruited from 2 large towns in the city of Karachi via basic health units. Fathers aged 18 years and older with a DSM-5 diagnosis of major depressive episode and a child younger than 30 months were recruited. Of 1582 fathers approached, 1527 were screened and 357 were randomized in a 1:1 ratio to either the intervention or treatment as usual; 328 were included in the final analysis. Data were analyzed from April to June 2022.
+
+INTERVENTIONS LTP $^ +$ Dads is a manualized intervention combining parenting skills training, play therapy, and cognitive behavior therapy. The intervention was delivered by community health workers via 12 group sessions over 4 months.
+
+MAIN OUTCOMES AND MEASURES The primary outcome was change in 17-item Hamilton Depression Rating Scale score at 4 months. Secondary outcomes included anxiety symptoms; parenting stress; intimate partner violence; functioning; quality of life; and child social, emotional, and physical health outcomes. Assessments were completed at baseline and 4 and 6 months postrandomization.
+
+RESULTS Of the 357 fathers included (mean [SD] age, 31.44 [7.24] years), 171 were randomized to the intervention and 186 to treatment as usual. Participants randomized to the intervention demonstrated significantly greater improvements in depression (group difference ratio [GDR], 0.66; $9 5 \%$ CI, 0.47 to 0.91; $P < . 0 0 1 _ { \cdot }$ ), anxiety (GDR, 0.62; $9 5 \%$ CI, 0.48 to 0.81; $P < . 0 0 1 _ { \cdot }$ ), parenting stress (GDR, −12.5; $9 5 \%$ CI, −19.1 to −6.0; $P < . 0 0 1 \}$ ), intimate partner violence (GDR, 0.89; $9 5 \%$ CI, 0.80 to 1.00; $P = . 0 5$ ), disability (GDR, 0.77; $9 5 \% \mathsf { C l }$ , 0.61 to 0.97; $P = . 0 3 )$ ), and health-related quality of life (GDR, 12.7; $9 5 \%$ CI, 0.17 to 0.34; $P < . 0 0 1 _ { \cdot }$ ) at 4 months. The difference in depression and parenting stress was sustained at 6 months. Children of fathers randomized to the parenting intervention had significantly greater improvements in social-emotional development scores (mean difference, −20.8; $9 5 \%$ CI, −28.8 to −12.9; $P < . 0 0 1$ ) at 6 months.
+
+CONCLUSIONS AND RELEVANCE The psychosocial parenting intervention in this study has the potential to improve paternal mental health and child development in Pakistan. Further studies in other populations and with longer follow-up are warranted.
+
+TRIAL REGISTRATION ClinicalTrials.gov Identifier: NCT03564847
+
+M ajor depression affecting fathers during the postpar-tum period, referred to as male postpartum depres-sion (PPD), is an established yet understudied phenomenon that affects up to $1 0 \%$ of fathers,1,2 with a disproportionate burden in low- and middle-income countries.3-5 Fathers transitioning to parenthood report more anxiety,6 obsessive-compulsive behaviors,7 and somatic and behavioral symptoms.8 Fathers with PPD report lower engagement with their infants and are less likely to provide support to their partners, leading to subsequent relationship difficulties.9 Studies suggest that children of fathers with PPD may experience delays in cognitive and language development, behavioral problems, and higher risk of developing mental health problems.10-13
+
+While research on fathers with PPD in low- and middleincome countries is scarce, a few studies have reported low educational attainment, financial strain, sex preference for the unborn child, and lack of social support as contextual risk factors.14,15 Growing recognition has led to a growing number of father-inclusive interventions in low- and middle-income countries.16 Most interventions focus on improving fathers’ knowledge, attitudes, and practices with the aim of improving child-related outcomes. Only a handful of interventions include components focused on improving fathers’ psychological well-being and enhancing parental relationship quality.16
+
+Rates of male PPD have been reported to be as high as $2 3 . 5 \%$ in Pakistan.3 Despite this, male PPD has been highlighted as an area of both clinical and research neglect.17 To address this gap, we carried out a needs assessment survey with local community and stakeholder groups, which led to the development of an integrated parenting skills intervention for depressed Pakistani fathers: Learning Through Play Plus Dads (LTP $^ +$ Dads). A single-arm feasibility trial18 of LTP $^ +$ Dads in 18 fathers with PPD suggested that the intervention was feasible and acceptable and may reduce depressive symptoms in Karachi, Pakistan’s most populous city. The intervention was also associated with improved paternal health-related quality of life, self-esteem, child development knowledge, and positive attitudes toward child development. Building on these encouraging results, we conducted a cluster randomized clinical trial (RCT) to evaluate the effectiveness of LTP $^ +$ Dads delivered by community health workers, compared to treatment as usual, for Pakistani fathers experiencing PPD.
+
+# Methods
+
+# Study Design
+
+This cluster RCT was conducted in 2 towns (Bin Qasim and Orangi) in the city of Karachi. Consultations with community leaders led to identification of 27 villages in Bin Qasim and 11 villages in Orangi for inclusion in the study. Each village was considered a cluster unit and was randomly allocated intervention or treatment as usual. A total of 8 to 10 father-child dyads were recruited from each village. The study was conducted in accordance with Declaration of Helsinki principles. Ethics approval was obtained from the National Bioethics Committee, Pakistan Health Research Council. All fathers pro
+
+# Key Points
+
+Question Does Learning Through Play Plus Dads, a nonspecialist–delivered psychosocial intervention, improve postpartum depression in fathers in a lower middle–income country?
+
+Findings In this cluster randomized clinical trial among 357 fathers with postpartum depression in Karachi, Pakistan, those randomized to the parenting intervention showed greater improvements in depressive symptoms and several other outcomes compared to those randomized to treatment as usual. Children of fathers randomized to the intervention had greater improvements in social-emotional development scores at 6 months postrandomization.
+
+Meaning The findings suggest that the psychosocial parenting intervention examined in this study has the potential to improve paternal mental health and child developmental outcomes in lower middle–income countries.
+
+vided written informed consent. The study is reported according to Consolidated Standards of Reporting Trials (CONSORT) reporting guideline, and the protocol is in Supplement 1.
+
+# Participants
+
+Between June 2018 and May 2019, 1527 fathers were screened, of whom 428 were eligible and 357 were randomized (Figure 1). Community health workers approached potential participants at primary care facilities and received self-referrals from the community. Participants were included if they were a father aged at least 18 years with a child aged 0 to 30 months, capable of providing informed consent and completing the assessment questionnaires, with a 9-item Patient Health Questionnaire score of 10 or greater, and a DSM-5 diagnosis of a major depressive episode (assessed using the Structured Clinical Interview for DSM-5). Participants were excluded if they had an unstable or severe physical, mental health, or substance use disorder or active suicidal ideation with intent and plan. Potential participants were given an information sheet in the Urdu language following consent and were prescreened by community health workers using an eligibility checklist. Community health workers were trained in screening tools and provided monthly training refreshers by clinical psychologists. Trained research assistants confirmed the diagnosis of depression.
+
+# Randomization and Masking
+
+A total of 38 clusters (27 in Bin Qasim and 11 in Orangi) were randomized (1:1) to either the parenting intervention (19 clusters) or treatment as usual (19 clusters). Community health workers who delivered the intervention had no role in treatment as usual clusters to mitigate for risk of contamination. An off-site independent statistician oversaw computergenerated randomization procedures. The trial statistician and researchers who conducted follow-up assessments were blind to group allocation.
+
+# Intervention
+
+LTP $^ +$ Dads18 is a manualized, culturally adapted group parenting intervention comprising Learning Through Play (LTP), a pictorial calendar that depicts 8 successive stages of child development from birth to age 3 years, along with illustrations of parent-child play and other activities that promote parental involvement, learning, and attachment; cognitive behavior therapy adapted for a group context19 to support parents in identifying and managing symptoms of depression; and Focus on Fathers, a skills management program that covers the importance of fathers in child development, stress and anger management, budgeting, health care, and time management.20 Based on participant feedback in the feasibility study,18 the number of sessions were increased from 10 to 12 for the current trial. The cultural adaptation process and further details on the intervention have been described previously.18 The 12 group sessions (60 to 90 minutes each) were facilitated by community health workers and master’s level psychologists over 4 months, weekly for the first 2 months and then every 2 weeks.
+
+![](images/c57b6efec69b80b569f575fd1861a7e725e4adf39b01755c962dbe849987e23f.jpg)  
+Figure 1. CONSORT Flow Diagram   
+LTP $^ +$ Dads indicates Learning Through Play Plus Dads; PHQ-9, 9-item Patient Health Questionnaire; SCID-5, Structured Clinical Interview for DSM-5.
+
+The community health workers were trained in the intervention for 18 hours over 3 days. Community health workers attended monthly training refreshers and supervision throughout the study duration. Fidelity to the intervention was assessed with a participant observation method.21 Two raters independently rated each session based on the content delivered using a checklist of intervention components expected at each session. Follow-up was completed at months 4 (end of intervention) and 6 (2 months postintervention) after randomization. Participants in the treatment as usual arm completed routine follow-up assessments with research assistants at baseline and months 4 and 6.
+
+# Outcomes
+
+All measures were administered by trained research assistants and had previously been used in Pakistan.18 A study
+
+# Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 10/15/2024
+
+specific questionnaire was developed to obtain demographic data.
+
+The primary outcome was changes in severity of depressive symptoms measured using the clinician-rated 17-item Hamilton Depression Rating Scale (HDRS-17) at 4 months. The Urdu translation of the scale has been used and validated in previous trials.18,22,23
+
+# Secondary Outcomes
+
+# Fathers’ Mental Health– and Well-Being–Related Outcomes
+
+The 7-item Generalized Anxiety Disorder Scale was used to assess anxiety symptoms. Self-esteem was measured using the Rosenberg Self-Esteem Scale. The Brief Disability Questionnaire was used to assess the degree of disability and functional limitations. Health-related quality of life was assessed using the European Quality of Life 5-Dimension Instrument. The Dyadic Adjustment Scale was used to assess the quality of relationship between fathers and their partners. Social support was measured using the Oslo Social Support Scale. Intimate partner violence was assessed using Hurt, Insulted, Threatened with Harm and Screamed Domestic Violence Tool. Participant satisfaction was assessed using the 8-item Client Satisfaction Questionnaire. All measures were self-reported.
+
+# Parenting-Related Outcomes
+
+The self-reported 25-item Knowledge, Attitude and Practices questionnaire was used to assess knowledge and attitudes about child development from birth to age 36 months.21 Parenting stress was measured using the self-rated Parenting Stress Index–Short Form.
+
+# Child-Related Outcomes
+
+The Ages and Stages Questionnaire (ASQ) Social-Emotional version 2 (ASQ:SE-2) was used to assess child social-emotional development. The ASQ-3 was used to assess communication, gross motor, fine motor, problem solving, and personalsocial skills. Both are parent-rated measures. The Home Observation for Measurement of the Environment instrument (HOME) is a clinician-rated descriptive profile that was used to assess the quality and quantity of stimulation and support available to a child based on observations of the home environment. In addition, child physical health status was assessed by the number of days children experienced diarrhea and a chest infection based on parental report from fathers.
+
+# Statistical Analysis
+
+The sample size was calculated based on comparing the primary outcome measure (HDRS-17 score) at the end of the trial between the 2 arms. Using pilot data,18 a standard deviation of 4.0 for the primary outcome was assumed, and the study was powered to show a more conservative difference of 1.5 points between groups for this exploratory trial. The calculation also assumed that baseline HDRS-17 score would be adjusted for in the analysis and that there would be a modest correlation of 0.3 between baseline and outcome scores. With a $5 \%$ significance level, it was calculated that 102 dyads per arm were required before allowing for clustering. An intraclass correlation coefficient (ICC) of 0.05 was assumed, as was an average cluster size of 9, giving an inflation factor for cluster of 1.4, which increased the sample size to 286. After accounting for $2 0 \%$ attrition rates, the final sample size was 357 father-child dyads. Demographic and other baseline variables were compared between study arms (intervention and treatment as usual) using descriptive statistics only. Group differences for the primary outcome were examined using linear mixed models. Data from both outcome time points (4 and 6 months) were considered as outcomes, while baseline HDRS-17 score was included as a covariate in the analysis. To allow for the cluster RCT design and repeat measurements per dyad, 3-level models were used, with outcomes at individual time points contained within individual dyads, which in turn were nested within clusters. A fixed effect for time was also included, as was a time $\times$ group interaction to quantify different group effects at each follow-up time point. Due to skewed distribution of scores at follow-up, this outcome was analyzed on the log scale. Secondary outcomes were mostly analyzed using an equivalent statistical approach to the primary outcome, with linear mixed models. Outcomes were analyzed on the original scale of measurement where the regression assumptions were met, and on the log scale for outcomes with positively skewed distributions where the assumptions were not met. Exceptions were made for number of diarrhea and chest infection days. These were assumed to have a negative binomial distribution and were analyzed using a mixed negative binomial regression model. Data were analyzed by using Statistical Package for Social Sciences (SPSS) software version 23.0 and an intent-to-treat analysis. A 2-sided significance level of $P < . 0 5$ was used for differences in the primary, secondary, and other outcomes variables. Data were analyzed from April to June 2022.
+
+# Results
+
+Among the 357 fathers randomized, the mean (SD) age was 31.44 (7.24) years (Table 1). There were significantly greater reductions in HDRS-17 scores in the LTP $^ +$ Dads group compared to the treatment as usual group at both 4 months (end of treatment period; group difference ratio [GDR], 0.66; $9 5 \%$ CI, 0.47-0.91; $P < . 0 0 1 )$ ) and 6 months (GDR, 0.67; $9 5 \%$ CI, 0.48- 0.93; $P < . 0 0 1 $ ) (Table 2; Figure 2). Rates of remission (ie, HDRS-17 score $\mathtt { \le 7 }$ ) were also significantly higher in the intervention group compared to the treatment as usual group at both time points (eTable 1 in Supplement 2). Self-esteem scores did not vary significantly between groups at either 4 or 6 months. Social support (GDR, 0.6; $9 5 \%$ CI, 0.1-1.1; $P = . 0 3 ,$ ) and quality of life (GDR, 12.7; $9 5 \%$ CI, 0.17-0.34; $P < . 0 0 1 \mathrm { \Omega }$ ) scores were all significantly higher in the intervention group at 4 months (Table 2). Anxiety symptoms were significantly lower in the intervention group at 4 months (GDR, 0.62; $9 5 \%$ CI, 0.48- 0 $. 8 1 ; P < . 0 0 1 )$ . Intimate partner violence was lower in the intervention group at 4 months (GDR, 0.89; $9 5 \%$ CI, 0.80-1.00; $P = . 0 5 )$ , but this difference was only of borderline statistical significance. Dyadic adjustment scores were significantly improved in the intervention group at 4 months (GDR, 10.8; $9 5 \%$
+
+# Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 10/15/2024
+
+Table 1. Baseline Clinical and Demographic Characteristics of Fathers   
+
+<table><tr><td colspan="4">No. (%)</td></tr><tr><td>Variable</td><td>TAU (n = 186)</td><td>LTP + Dads (n = 171)</td><td>Total sample (N = 357)</td></tr><tr><td>Age, mean (SD), y</td><td>31.77 (7.39)</td><td>31.08 (7.09)</td><td>31.44 (7.24)</td></tr><tr><td>Age group, y</td><td></td><td></td><td></td></tr><tr><td>18-30</td><td>93 (50.0)</td><td>93 (54.4)</td><td>186 (52.1)</td></tr><tr><td>31-40</td><td>70 (37.6)</td><td>63 (36.8)</td><td>133 (37.3)</td></tr><tr><td>&gt;40</td><td>23 (12.4)</td><td>15 (8.8)</td><td>38 (10.6)</td></tr><tr><td>Education, mean (SD), y</td><td>4.46 (4.36)</td><td>4.63 (4.40)</td><td>4.54 (4.37)</td></tr><tr><td>Education</td><td></td><td></td><td></td></tr><tr><td>No schooling</td><td>80 (43.0)</td><td>66 (38.6)</td><td>146 (40.9)</td></tr><tr><td>Elementary school</td><td>68 (36.6)</td><td>69 (40.4)</td><td>137 (38.4)</td></tr><tr><td>Junior high school</td><td>27 (14.5)</td><td>25 (14.6)</td><td>52 (14.6)</td></tr><tr><td>High school graduate</td><td>11 (5.9)</td><td>11 (6.4)</td><td>22 (6.2)</td></tr><tr><td>Primary language</td><td></td><td></td><td></td></tr><tr><td>Urdu</td><td>4 (2.2)</td><td>5 (2.9)</td><td>9 (2.5)</td></tr><tr><td>Sindhi</td><td>135 (72.6)</td><td>92 (53.8)</td><td>227 (63.6)</td></tr><tr><td>Punjabi</td><td>1 (0.5)</td><td>0</td><td>1 (0.3)</td></tr><tr><td>Balochi</td><td>42 (22.6)</td><td>71 (41.5)</td><td>113 (31.7)</td></tr><tr><td>Pushto</td><td>01 (0.5)</td><td>0</td><td>01 (0.3)</td></tr><tr><td>Saraiki</td><td>03 (1.6)</td><td>03 (1.8)</td><td>06 (1.7)</td></tr><tr><td>Employment status</td><td></td><td></td><td></td></tr><tr><td>Unemployed</td><td>16 (8.6)</td><td>2 (1.2)</td><td>18 (5.0)</td></tr><tr><td>Employed</td><td>170 (91.4)</td><td>169 (98.8)</td><td>339 (95)</td></tr><tr><td>Family status</td><td></td><td></td><td></td></tr><tr><td>Nuclear</td><td>81 (43.5)</td><td>80 (46.8)</td><td>161 (45.1)</td></tr><tr><td>Joint family</td><td>105 (56.5)</td><td>91 (53.2)</td><td>196 (54.9)</td></tr><tr><td>No. of people in family, median (IQR)</td><td>7(5-9)</td><td>7(5-9)</td><td>7(5-9)</td></tr><tr><td>Monthly income, median (IQR), PKRa</td><td></td><td></td><td>15000 (12 000-25 000)15000 (12 000-25 000)15 000 (12 000-25 000)</td></tr><tr><td>First-time parents Children aged 0-3 y, median (IQR)</td><td>37 (19.9)</td><td>44 (25.7)</td><td>81 (22.7) 1 (1-2)</td></tr><tr><td>Children aged 3-17 y, median (IQR)</td><td>1 (1-2) 2 (0-3)</td><td>1 (1-2) 1 (0-2)</td><td>1 (0-3)</td></tr><tr><td>Total No. of children, median (IQR)</td><td>3(2-4)</td><td>2(1-4)</td><td>3(2-4)</td></tr><tr><td>Loss of any child</td><td></td><td></td><td></td></tr><tr><td>No</td><td>155 (83.3)</td><td>147 (86.0)</td><td>302 (84.6)</td></tr><tr><td>Yes</td><td>31 (16.7)</td><td>24 (14.0)</td><td>55 (15.4)</td></tr><tr><td>Housing status</td><td></td><td></td><td></td></tr><tr><td>Homeowner</td><td>142 (76.3)</td><td>133 (77.8)</td><td>275 (77.0)</td></tr><tr><td>Renting</td><td>44 (23.7)</td><td>38 (22.2)</td><td>82 (23.0)</td></tr><tr><td></td><td></td><td></td><td></td></tr></table>
+
+Abbreviations: LTP $^ +$ Dads, Learning Through Play Plus Dads; PKR, Pakistani rupees; TAU, treatment as usual. $^ { \mathrm { ~ a ~ } } _ { 1 } \mathsf { P K R } = \$ 003 6$ .
+
+CI, 5.8-15.8; $P < . 0 0 1 $ ). There was a significant difference between groups for the Brief Disability Questionnaire total scores at 4 months (GDR, 0.77; $9 5 \%$ CI, 0.61-0.97; $P = . 0 3$ ) (Table 2).
+
+Knowledge, Attitude and Practices scores were significantly higher in the intervention group at 4 months (mean difference [MD], 2.3; $9 5 \%$ CI, 1.3 to 3.4; $P < . 0 0 1 )$ (Table 3). Parenting stress scores were significantly lower in the intervention group at both 4 months (MD, −12.5; $9 5 \%$ CI, $- 4 . 9$ to $^ { - 1 . 6 }$ $P < . 0 0 1 $ ) and 6 months (MD, −11.3; $9 5 \%$ CI, $- 1 7 . 9$ to $- 4 . 7$ $P = . 0 0 1 \rangle$ ) (Table 3). Fathers in the intervention group completed a mean (SD) of 10.3 (2.6) of the 12 sessions and 129 $( 7 5 \% )$ attended 10 sessions or more (eTable 2 in Supplement 2). With regards to satisfaction, 8-item Client Satisfaction Questionnaire scores were numerically higher in the intervention group, but these differences were not statistically significant (eTable 3 in Supplement 2).
+
+With regard to child-related outcomes, ASQ:SE-2 scores were significantly lower in the intervention group (MD, $- 2 0 . 8$ ; $9 5 \%$ CI, $- 2 8 . 8$ to −12.9; $P < . 0 0 1 )$ (eTable 4 in Supplement 2) at 6 months. However, ASQ-3 scores did not differ significantly between groups. With regard to home environment, the Home Observation for Measurement of the Environment total score was significantly higher in the intervention group at 4 months (MD, 4.0; $9 5 \%$ CI, 1.6 to 6.4; $P = . 0 0 1 $ ), but this was not sustained at 6 months. No significant differences in the number of days children experienced diarrhea or a chest infection between the groups were observed at either time point (eTable 5 in Supplement 2).
+
+# Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 10/15/2024
+
+Table 2. Primary and Secondary Clinical Outcomes in Fathers at Each Time Point   
+
+<table><tr><td colspan="8"></td></tr><tr><td></td><td>No.</td><td>TAU</td><td>No.</td><td>LTP + Dads</td><td>Group difference ratio (95% Cl)</td><td>P value</td></tr><tr><td>HDRS-17, median (IQR)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Baseline</td><td>186</td><td>23 (19 to 30)</td><td>171</td><td>25 (19 to 35)</td><td>NA</td><td>NA</td></tr><tr><td>4 mo</td><td>174</td><td>9 (1 to 19)</td><td>157</td><td>4 (1 to 8)</td><td>0.66 (0.47 to 0.91)</td><td>&lt;.001</td></tr><tr><td>6 mo</td><td>172</td><td>5 (0 to 12)</td><td>156</td><td>1 (0 to 8)</td><td>0.67 (0.48 to 0.93)</td><td>&lt;.001</td></tr><tr><td>GAD-7, median (IQR)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Baseline</td><td>186</td><td>12 (11 to 14)</td><td>171</td><td>12 (11 to 15)</td><td>NA</td><td>NA</td></tr><tr><td>4 mo</td><td>174</td><td>6 (2 to 11)</td><td>157</td><td>2 (1 to 5)</td><td>0.62 (0.48 to 0.81)</td><td>&lt;.001</td></tr><tr><td>6 mo</td><td>172</td><td>3 (0 to 6)</td><td>156</td><td>1 (0 to 5)</td><td>0.84 (0.64 to 1.10)</td><td>.20</td></tr><tr><td>RSS, median (IQR)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Baseline</td><td>186</td><td>15.6 (1.8)</td><td>171</td><td>15.7 (1.6)</td><td>NA</td><td>NA</td></tr><tr><td>4 mo</td><td>174</td><td>15.2 (3.6)</td><td>157</td><td>15.3 (3.2)</td><td>0.2 (-0.6 to 1.0)</td><td>.68</td></tr><tr><td>6 mo</td><td>172</td><td>16.0 (2.6)</td><td>156</td><td>15.6 (2.2)</td><td>-0.3 (-1.1 to 0.5)</td><td>.48</td></tr><tr><td>BDQ, median (IQR)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Baseline</td><td>186</td><td>8 (2 to 11)</td><td>171</td><td>5 (2 to 11)</td><td>NA</td><td>NA</td></tr><tr><td>4 mo</td><td>174</td><td>1 (0 to 5)</td><td>157</td><td>0 (0 to 3)</td><td>0.77 (0.61 to 0.97)</td><td>.03</td></tr><tr><td>6 mo</td><td>172</td><td>0 (0 to 0)</td><td>156</td><td>0 (0 to 0)</td><td>0.91 (0.72 to 1.15)</td><td>.41</td></tr><tr><td>EQ-5D, mean (SD); mean difference (95% CI)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Baseline</td><td>186</td><td>0.47 (0.30)</td><td>171</td><td>0.50 (0.28)</td><td>NA</td><td>NA</td></tr><tr><td>4 mo</td><td>174</td><td>0.63 (0.41)</td><td>157</td><td>0.89 (0.18)</td><td>0.26 (0.17 to 0.34)</td><td>&lt;.001</td></tr><tr><td>6 mo</td><td>172</td><td>0.82 (0.25)</td><td>156</td><td>0.86 (0.25)</td><td>0.04 (-0.04 to 0.13)</td><td>.33</td></tr><tr><td>EQ-VAS, mean (SD); mean difference (95% CI)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Baseline</td><td>186</td><td>54.6 (14.4)</td><td>171</td><td>53.7 (14.6)</td><td>NA</td><td>NA</td></tr><tr><td>4 mo</td><td>174</td><td>64.9 (17.8)</td><td>157</td><td>77.5 (12.7)</td><td>12.7 (8.3 to 17.1)</td><td>&lt;.001</td></tr><tr><td>6 mo</td><td>172</td><td>75.1 (15.9)</td><td>156</td><td>78.0 (12.7)</td><td>3.0 (-1.4 to 7.4)</td><td>.19</td></tr><tr><td>DAS, mean (SD); mean differenc (95% CI)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Baseline</td><td>186</td><td>105.6 (16.5)</td><td>171</td><td>106.7 (16.3)</td><td>NA</td><td>NA</td></tr><tr><td>4 mo</td><td>174</td><td>111.4 (19.0)</td><td>157</td><td>122.0 (12.0)</td><td>10.8 (5.8 to 15.8)</td><td>&lt;.001</td></tr><tr><td>6 mo</td><td>172</td><td>124.7 (15.9)</td><td>156</td><td>123.2 (16.4)</td><td>-1.3 (-6.3 to 3.8)</td><td>.62</td></tr><tr><td>OSSS-3, mean (SD); mean difference (95% Cl)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Baseline</td><td>186</td><td>9.1 (1.8)</td><td>171</td><td>8.9 (2.1)</td><td>NA</td><td>NA</td></tr><tr><td>4 mo</td><td>174</td><td>9.0 (2.1)</td><td>157</td><td>9.5 (2.0)</td><td>0.6 (0.1 to 1.1)</td><td>.03</td></tr><tr><td>6 mo</td><td>172</td><td>9.6 (2.7)</td><td>156</td><td>9.8 (2.4)</td><td>0.3 (-0.2 to 0.8)</td><td>.32</td></tr><tr><td>HITS, median (IQR)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Baseline</td><td>186</td><td>5 (4 to 7)</td><td>171</td><td>6 (4 to 8)</td><td>NA</td><td>NA</td></tr><tr><td>4 mo</td><td>174</td><td>5(4 to 7)</td><td>157</td><td>4 (4 to 6)</td><td>0.89 (0.80 to 1.00)</td><td>.05</td></tr><tr><td>6 mo</td><td>172</td><td>4 (4 to 8)</td><td>156</td><td>4 (4 to 8)</td><td>1.06 (0.94 to 1.19)</td><td>.34</td></tr><tr><td colspan="7">sDQ,  abiy ute; DAS, Au Threatened with Harm and Screamed Domestic Violence Tool; LP + Dads, Sle E-  Quali -D  EQ-VAS, </td></tr></table>
+
+EuroQoL Visual Analogue Scale; GAD-7, 7-item Generalized Anxiety Disorder scale; HDRS-17, 17-item Hamilton Depression Rating Scale; HITS, Hurt, Insulted,
+
+#
+
+# Discussion
+
+This cluster RCT evaluated the effectiveness of a nonspecialist delivered psychosocial intervention to address male PPD in a lower middle–income country. At the end of the intervention, fathers in the intervention group showed significantly greater improvements in depressive symptom severity than those receiving treatment as usual, and this difference was sustained at 6-month follow-up. Fathers randomized to the parenting intervention reported improvements in several other domains, including anxiety, parental stress, disability, parental knowledge and attitudes, dyadic adjustment, and intimate partner violence. Children of fathers in the intervention group showed improved social-emotional development compared to those of fathers receiving treatment as usual.
+
+The mental health benefits found with LTP $^ +$ Dads for fathers with depression are congruent with our previous prepost feasibility work in Pakistan.18 Improvements in depressive symptoms in fathers were also similar to results from studies of LTP with cognitive behavior therapy $\mathrm { ( L T P + ) }$ ) in Pakistani mothers with depression. $2 1 , 2 4 \ – 2 6$ Like previous trials, participants engaged with the parenting intervention in the current trial reported significantly better social support than those in the treatment as usual arm. This has wider implications, as social support plays a substantial role not only in attaining and
+
+# Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 10/15/2024
+
+![](images/fb76e6099982ea3639c9029ca3d6b49e1b1f5ec5789190b9c6da9fc89c1ed8a3.jpg)  
+Figure 2. Trajectory of 17-Item Hamilton Depression Rating Scores in Treatment Clusters (HDRS-17)   
+LTP $^ +$ Dads indicates Learning Through Play Plus Dads.
+
+maintaining good mental health but also in the prevention of and recovery from depression.27,28 Previous studies in low- and middle-income countries have reported on the benefits of perceived social support on parental depressive symptoms29 and child development.30
+
+The parenting intervention in this study also led to significant improvements in functioning and health-related quality of life at the end of the intervention, in line with previous findings.18,21,24,26 The improvements in functioning are important considering the deleterious effects of depression on work productivity.31 In a patriarchal society like that in Pakistan, men are the primary earners in their families.32 The health and well-being of Pakistani fathers is particularly important for the livelihood of an individual, their families, and society at large.
+
+In the present study, fathers receiving the intervention reported reduced intimate partner violence. This is an important finding, considering evidence-based associations between intimate partner violence victimization and negative parenting behaviors.33 In addition to reduced intimate partner violence, fathers receiving the intervention experienced improved dyadic adjustment. Improved couple dyadic adjustment is important as it relates to less family conflict, positive emotional expressiveness, better coping with stressful events, and supportive coparenting.34 Hence, an integrated intervention, such as LTP $^ +$ Dads, may play an important role in promoting a family’s well-being and quality of life.
+
+In addition, the parenting intervention led to significant improvement in fathers’ knowledge and practices of child development. These findings replicate those from the feasibility trial18 as well as studies of $\mathrm { L T P + }$ for mothers with depression.21,24,26 Evidence from Pakistan suggests that fathers’ involvement during early years of child development contributes toward better social-emotional development of their children and improved maternal mental health.35 The finding of greater reductions in ASQ:SE-2 scores suggests that LTP $^ +$ Dads may lead to improved child social-emotional development. Unlike previous RCTs of $\mathrm { L T P + }$ in Pakistani mothers with depression,21,24,26 the current trial did not report any significant differences between treatment arms with regard to child physical health outcomes. However, this finding is congruent with those of a trial of a father-inclusive parenting intervention for maternal depression in Uganda.30 This may suggest that fathers are less involved in hygiene practices related to nutrition and infection control measures within the home.
+
+# Strengths and Limitations
+
+$\mathrm { L T P + }$ is a complex intervention comprising several components, which makes it challenging to discern the mechanism of its therapeutic action. We have previously proposed that the intervention’s effect on perceived social support and coping skills led to improvements in depressive symptoms in both parents, while the concurrent effect of increased parenting competencies has positive downstream effects on child socialemotional development. Like previous trials of $\mathrm { L T P + }$ ,18,24 the present study was conducted in socioeconomically deprived semiurban settings. We did not collect data on changes to treatment as usual in either arm during the trial and hence cannot rule out the confounding effect of concomitant treatments participants were accessing. From experience of prior trials in this setting, we believe participants had limited access to publicly funded health care, and access to structured psychosocial treatment alongside attentive and systematic assessment of mental health symptoms (ie, measurement-based care) in the intervention group may have enhanced treatment differences between groups. Studies using active control groups—for example, comparing LTP $^ +$ Dads to other nonspecialistdelivered psychosocial interventions—may deliver different findings. The reliance on several self-report measures and the inability to mask allocation to the intervention may have led to social desirability effects that bias the findings.
+
+The sample size, representative of 2 large towns in Karachi, is a strength of the present study. However, the findings may not be generalizable to rural settings in Pakistan. As participants recruited to the study were from low-income households, findings may not be applicable to fathers of higher socioeconomic status. The study is also limited by a short follow-up period that does not allow for assessment of longerterm benefits. Notwithstanding these limitations, an important aspect of the present trial was the involvement of community health workers in the delivery of the intervention, generating an evidence base for a task-shifting approach to tackle male PPD in low-resource settings. The low attrition rate in the study highlights promising prospects to move toward a large-scale implementation trial across Pakistan.
+
+# Conclusions
+
+The results of this cluster RCT indicate that integrated psychosocial interventions delivered by nonspecialized providers may improve paternal mental health and well-being and improve fathers’ knowledge and practices of child development in low-resource settings, like Pakistan. Further trials of LTP $^ +$ Dads in diverse settings with detailed neuropsychological assessments of children and long-term follow-ups will inform evidence on the sustainable benefits of the intervention
+
+# Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 10/15/2024
+
+Table 3. Parenting Outcomes at Each Time Point   
+
+<table><tr><td></td><td>No.</td><td>TAU, mean (SD)</td><td>No.</td><td>LTP + Dads, mean (SD)</td><td>Mean difference (95% Cl)</td><td>P value</td></tr><tr><td>KAP</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Baseline</td><td>186</td><td>11.7 (2.7)</td><td>171</td><td>11.9 (2.9)</td><td>NA</td><td>NA</td></tr><tr><td>4 mo</td><td>174</td><td>13.3 (3.5)</td><td>157</td><td>15.6 (4.4)</td><td>2.3 (1.3 to 3.4)</td><td>&lt;.001</td></tr><tr><td>6 mo</td><td>172</td><td>14.2 (3.2)</td><td>156</td><td>14.1 (3.4)</td><td>0.0 (-1.1 to 1.1)</td><td>.98</td></tr><tr><td>PSI-SF</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Baseline</td><td>186</td><td>93.5 (26.8)</td><td>171</td><td>87.2 (25.8)</td><td>NA</td><td>NA</td></tr><tr><td>4 mo</td><td>174</td><td>89.8 (32.8)</td><td>157</td><td>76.8 (27.2)</td><td>-12.5 (-19.1 to -6.0)</td><td>&lt;.001</td></tr><tr><td>6 mo</td><td>172</td><td>74.8 (27.8)</td><td>156</td><td>62.9 (17.2)</td><td>-11.3 (-17.9 to -4.7)</td><td>.001</td></tr></table>
+
+Abbreviations: KAP, Knowledge, Attitude, and Practices questionnaire; LTP $^ +$ Dads, Learning Through Play Plus Dads; NA, not applicable; PSI, Parenting Stress Index–Short Form; TAU, treatment as usual.
+
+for fathers with PPD and their children. Future partnerinclusive studies may provide evidence of synergistic benefits to parental well-being and child development. Given the increasing use of mobile technologies in low- and middleincome countries,36 digitalizing the LTP intervention may lead to scalable implementation. Overall, this line of research may address the high rates of male PPD and compromised child development in low-resource settings.
+
+# ARTICLE INFORMATION
+
+# Accepted for Publication: July 11, 2024.
+
+Published Online: October 2, 2024. doi:10.1001/jamapsychiatry.2024.2752
+
+Author Affiliations: Campbell Family Mental Health Research Institute, Centre for Addiction and Mental Health, Toronto, Ontario, Canada (M. I. Husain, Singla, Umer, N. Husain); Department of Psychiatry, Temerty Faculty of Medicine, University of Toronto, Toronto, Ontario, Canada (M. I. Husain, Singla); Pakistan Institute of Living and Learning, Karachi, Pakistan (Kiran, Sattar, Khoso, Mangrio, N. Chaudhry); Division of Population Health, Health Services Research and Primary Care, School of Health Sciences, Faculty of Biology, Medicine and Health, University of Manchester, Manchester, United Kingdom (Khoso); School of Health Sciences, Division of Psychology and Mental Health, University of Manchester, Manchester, United Kingdom (Wan, I. B. Chaudhry, N. Chaudhry, N. Husain); Lunenfeld Tanenbaum Research Institute, Sinai Health, Toronto, Ontario. Canada (Singla); Institute of Medical Sciences, University of Toronto, Toronto, Ontario, Canada (Umer); Statistical Consultancy, Hemel Hempstead, England, United Kingdom (Bassett); Department of Psychiatry, Ziauddin University, Karachi, Pakistan (I. B. Chaudhry); Institute of Nursing, Iqra University, Karachi, Pakistan (Zafar); Department of Community Health Sciences, Karachi Medical and Dental College, Karachi, Pakistan (Jafri).
+
+Author Contributions: Dr M. Husain and Mr   
+Bassett had full access to all study data and take responsibility for the integrity and accuracy of data analysis. Prof Chaudhry and Dr N. Husain are joint senior authors.   
+Concept and design: M. Husain, Kiran, Umer, I.   
+Chaudhry, N. Chaudhry, N. Husain.   
+Acquisition, analysis, or interpretation of data: M. Husain, Sattar, Khoso, Wan, Singla, Mangrio,   
+Bassett, Naeem, Jafri, N. Husain.   
+Drafting of the manuscript: M. Husain, Kiran, Sattar, Khoso, Umer, Mangrio, I. Chaudhry, Naeem, Jafri. Critical review of the manuscript for important   
+intellectual content: M. Husain, Kiran, Wan, Singla, Bassett, I. Chaudhry, N. Chaudhry, N. Husain.   
+Statistical analysis: Bassett. Obtained funding: N. Chaudhry, N. Husain.   
+Administrative, technical, or material support: M.   
+Husain, Khoso, Singla, Mangrio, I. Chaudhry, Naeem, Jafri.   
+Supervision: M. Husain, Kiran, Sattar, Wan, I.   
+Chaudhry, N. Husain.
+
+Conflict of Interest Disclosures: Dr M. Husain reported grants from COMPASS Pathfinder Limited, other from Mindset Pharma Inc (stock options), and personal fees from Wake Network Inc outside the submitted work; and previously served as trustee for the Pakistan Institute of Living and Learning. Dr N. Chaudhry reported grants from the Pakistan Institute of Living and Learning (principal investigator of the award by Grand Challenges Canada) during the conduct of the study and is the chief executive officer of Pakistan Institute of Living and Learning; Dr N. Chaudhry has also received travel grants from Lundbeck and Pfizer to attend 1 national and 1 international academic meeting and conference in the last 3 years; she is a chief investigator and coinvestigator for several research projects funded by various grant bodies, including the Medical Research Council, Wellcome Trust, National Institute for Health and Care Research, and Global Challenges Research Fund. Dr N. Husain previously served as trustee of the Pakistan Institute of Living and Learning, Abaseen Foundation UK, Lancashire Mind UK, and Manchester Global Foundation; he is an executive member of the Academic Faculty at the Royal College of Psychiatrists, London; he is a National Institute for Health and Care Research senior investigator; and he reports funding from the Mental Health Research for Innovation Centre and the National Institute for Health and Care Research Manchester Biomedical Research Center. No other disclosures were reported.
+
+Funding/Support: This study was funded by a grant from Grand Challenges Canada (821-05). The work was funded in part by an Academic Scholars Award from the Department of Psychiatry, University of Toronto, and a Tier 2 Canada Research Chair from the Canadian Institutes of Health Research (Dr M. Husain).
+
+Role of the Funder/Sponsor: The funders had no role in the design and conduct of the study;
+
+collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.
+
+Data Sharing Statement: See Supplement 3.
+
+# REFERENCES
+
+1. Cameron EE, Sedov ID, Tomfohr-Madsen LM. Prevalence of paternal depression in pregnancy and the postpartum: an updated meta-analysis. J Affect Disord. 2016;206:189-203. doi:10.1016/j.jad.2016. 07.044
+
+2. Rao WW, Zhu XM, Zong QQ, et al. Prevalence of prenatal and postpartum depression in fathers: a comprehensive meta-analysis of observational surveys. J Affect Disord. 2020;263:491-499. doi:10. 1016/j.jad.2019.10.030
+
+3. Atif M, Halaki M, Chow CM, Raynes-Greenow C. Risk factors of paternal postnatal depression in Pakistan: findings from an urban sample. Nurs Health Sci. 2022;24(3):618-624. doi:10.1111/nhs.12954
+
+4. Noorullah A, Mohsin Z, Munir T, Nasir R, Malik M. Prevalence of paternal postpartum depression. Pak J Neurol Sci. 2020;15(3):11-16.
+
+5. Husain N, Chaudhry N, Tomenson B, Jackson J, Gater R, Creed F. Depressive disorder and social stress in Pakistan compared to people of Pakistani origin in the UK. Soc Psychiatry Psychiatr Epidemiol. 2011;46(11):1153-1159. doi:10.1007/s00127-010-0279-
+
+# y
+
+6. Matthey S, Barnett B, Howie P, Kavanagh DJ. Diagnosing postpartum depression in mothers and fathers: whatever happened to anxiety? J Affect Disord. 2003;74(2):139-147. doi:10.1016/S0165-0327 (02)00012-5
+
+7. Leckman JF, Feldman R, Swain JE, Eicher V, Thompson N, Mayes LC. Primary parental preoccupation: circuits, genes, and the crucial role of the environment. J Neural Transm (Vienna). 2004;111(7):753-771. doi:10.1007/s00702-003-0067-
+
+# x
+
+8. Zelkowitz P, Milet TH. The course of postpartum psychiatric disorders in women and their partners. J Nerv Ment Dis. 2001;189(9):575-582. doi:10.1097/ 00005053-200109000-00002
+
+9. Fisher SD. Paternal mental health: why is it relevant? Am J Lifestyle Med. 2016;11(3):200-211. doi:10.1177/1559827616629895
+
+10. Braun K, Champagne FA. Paternal influences on offspring development: behavioural and epigenetic pathways. J Neuroendocrinol. 2014;26(10):697-706. doi:10.1111/jne.12174
+
+11. Bakermans-Kranenburg MJ, Lotz A, Alyousefi-van Dijk K, van IJzendoorn M. Birth of a father: fathering in the first 1,000 days. Child Dev Perspect. 2019;13(4):247-253. doi:10.1111/cdep.12347
+
+12. Fredriksen E, von Soest T, Smith L, Moe V. Parenting stress plays a mediating role in the prediction of early child development from both parents’ perinatal depressive symptoms. J Abnorm Child Psychol. 2019;47(1):149-164. doi:10.1007/ s10802-018-0428-4
+
+13. Pearson RM, Evans J, Kounali D, et al. Maternal depression during pregnancy and the postnatal period: risks and possible mechanisms for offspring depression at age 18 years. JAMA Psychiatry. 2013; 70(12):1312-1319. doi:10.1001/jamapsychiatry.2013. 2163
+
+14. Hasan MI. Paternal perinatal depression in LMICs and its impact on the next generation. Lancet Psychiatry. 2018;5(6):468. doi:10.1016/S2215- 0366(18)30164-0
+
+15. Huang KY, Abura G, Theise R, Nakigudde J. Parental depression and associations with parenting and children’s physical and mental health in a sub-Saharan African setting. Child Psychiatry Hum Dev. 2017;48(4):517-527. doi:10.1007/s10578- 016-0679-7
+
+16. Jeong J, Sullivan EF, McCann JK, McCoy DC, Yousafzai AK. Implementation characteristics of father-inclusive interventions in low- and middle-income countries: a systematic review. Ann N Y Acad Sci. 2023;1520(1):34-52. doi:10.1111/nyas. 14941
+
+17. Khabir Y, Amir MA, Syed BU. The neglect of male post-partum depression in Pakistan. Lancet Psychiatry. 2022;9(12):e52. doi:10.1016/S2215-0366 (22)00341-8
+
+18. Husain MI, Chaudhry IB, Khoso AB, et al. A group parenting intervention for depressed fathers ${ \mathrm { ( L T P + } }$ Dads): a feasibility study from Pakistan. Children (Basel). 2021;8(1):26. doi:10.3390/ children8010026
+
+19. Muñoz RF. Group Therapy Manual for Cognitive-Behavioral Treatment of Depression. Rand Corporation; 2000.
+
+20. Bader E, Cooper N. Focus on Father, a Management Skills Program for Fathers of Children From Birth to Six Years of Age. Family Transitions Consultants; 2003.
+
+21. Husain N, Kiran T, Fatima B, et al. An integrated parenting intervention for maternal depression and child development in a low-resource setting: cluster randomized controlled trial. Depress Anxiety. 2021; 38(9):925-939. doi:10.1002/da.23169
+
+22. Husain N, Chaudhry N, Fatima B, et al. Antidepressant and group psychosocial treatment for depression: a rater blind exploratory RCT from a low income country. Behav Cogn Psychother. 2014; 42(6):693-705. doi:10.1017/S1352465813000441
+
+23. Husain MI, Chaudhry I, Husain N, et al. Minocycline and celecoxib as adjunctive treatments of bipolar depression: a multicenter, factorial design randomized controlled trial. Biol Psychiatry. 2020; 87(9):S415. doi:10.1016/j.biopsych.2020.02.1059
+
+24. Husain N, Zulqernain F, Carter LA, et al. Treatment of maternal depression in urban slums of Karachi, Pakistan: a randomized controlled trial (RCT) of an integrated maternal psychological and early child development intervention. Asian J Psychiatr. 2017;29:63-70. doi:10.1016/j.ajp.2017.03. 010
+
+25. Husain N, Chaudhry N, Furber C, et al. Group psychological intervention for maternal depression: a nested qualitative study from Karachi, Pakistan. World J Psychiatry. 2017;7(2):98-105. doi:10.5498/ wjp.v7.i2.98
+
+26. Husain N, Kiran T, Shah S, et al. Efficacy of Learning Through Play Plus intervention to reduce maternal depression in women with malnourished children: a randomized controlled trial from Pakistan. J Affect Disord. 2021;278:78-84. doi:10. 1016/j.jad.2020.09.001
+
+27. United Nations. Right of Everyone to the Enjoyment of the Highest Attainable Standard of Physical and Mental Health: Report of the Special Rapporteur on the Right of Everyone to the Enjoyment of the Highest Attainable Standard of Physical and Mental Health. United Nations New York; 2020.
+
+28. Wang J, Mann F, Lloyd-Evans B, Ma R, Johnson S. Associations between loneliness and perceived social support and outcomes of mental health problems: a systematic review. BMC Psychiatry. 2018;18(1):156. doi:10.1186/s12888-018-1736-5
+
+29. Singla DR, MacKinnon DP, Fuhr DC, Sikander S, Rahman A, Patel V. Multiple mediation analysis of the peer-delivered Thinking Healthy Programme for perinatal depression: findings from two parallel, randomised controlled trials. Br J Psychiatry. 2021; 218(3):143-150. doi:10.1192/bjp.2019.184
+
+30. Singla DR, Kumbakumba E, Aboud FE. Effects of a parenting intervention to address maternal psychological wellbeing and child development and growth in rural Uganda: a community-based, cluster randomised trial. Lancet Glob Health. 2015;3(8): e458-e469. doi:10.1016/S2214-109X(15)00099-6
+
+31. Evans-Lacko S, Knapp M. Global patterns of workplace productivity for people with depression: absenteeism and presenteeism costs across eight diverse countries. Soc Psychiatry Psychiatr Epidemiol. 2016;51(11):1525-1537. doi:10.1007/s00127-016-1278-
+
+32. Farooq A. Gendered perceptions in Punjab, Pakistan: Structural inequity, oppression and emergence. J Gend Stud. 2020;29(4):386-402. doi: 10.1080/09589236.2019.1635876
+
+33. Chiesa AE, Kallechey L, Harlaar N, et al. Intimate partner violence victimization and parenting: a systematic review. Child Abuse Negl. 2018;80:285-300. doi:10.1016/j.chiabu.2018.03.028
+
+34. Jiménez-Picón N, Romero-Martín M, Ramirez-Baena L, Palomo-Lara JC, Gómez-Salgado J. Systematic review of the relationship between couple dyadic adjustment and family health. Children (Basel). 2021;8(6):491. doi:10.3390/ children8060491
+
+35. Maselko J, Hagaman AK, Bates LM, et al. Father involvement in the first year of life: associations with maternal mental health and child development outcomes in rural Pakistan. Soc Sci Med. 2019;237: 112421. doi:10.1016/j.socscimed.2019.112421
+
+36. Naeem F, Husain MO, Husain MI, Javed A. Digital psychiatry in low- and middle-income countries post-COVID-19: opportunities, challenges, and solutions. Indian J Psychiatry. 2020;62(suppl 3):S380-S382. doi:10.4103/psychiatry. IndianJPsychiatry_843_20
+
+# Downloaded from jamanetwork.com by Shanghai Jiao Tong University School of Medicine user on 10/15/2024

@@ -1,0 +1,123 @@
+-Goal-
+Given a biomedical text and a list of biomedical entity types (PrimeKG-style), identify all entities of those types from the text and all relationships among the identified entities.
+<Important Supplement> Ensure every identified entity acts as either a source_entity or a target_entity in at least one relationship; do not retain "isolated entities" that have no connection to any other entity.
+
+-Important Content Compliance Rules (MUST FOLLOW)-
+1. Strictly base all outputs on the provided <Text> only; DO NOT add any information, assumptions, or extensions beyond the text content.
+2. Focus on extracting factual, objective information from the text.
+3. Entity descriptions and relationship explanations must be objective, neutral, and factual; avoid subjective evaluations, emotional language, or speculative statements.
+4. If no valid entities/relationships are found, output an empty list followed by {completion_delimiter}—do not force-generate content.
+5. <New Rule> After extracting entities and initial relationships, conduct a "entity-relationship check":
+   a. List all extracted entities and verify whether each entity appears in at least one relationship (as source_entity or target_entity);
+   b. For entities not in any relationship, re-examine the text to find potential connections with other entities (e.g., co-occurrence in the same sentence, shared attributes like "associated with", "used for", "found in");
+   c. If text evidence supports a connection, add the corresponding relationship; if no text evidence exists for any connection, exclude the "isolated entity" from the final output.
+
+ -Steps-
+1. Identify all entities. For each identified entity, extract the following information:
+- entity_name: Name of the entity, capitalized
+- entity_type: One of the following biomedical types: [{entity_types}]
+- entity_description: Comprehensive description of the entity's attributes and activities (based on the text)
+
+Entity Type Definitions (PrimeKG-style examples):
+- biological_process: Cell or organism-level biological activities (e.g., cell proliferation, signal transduction)
+- protein: Functional macromolecules composed of amino acids (e.g., INSULIN, HEMOGLOBIN)
+- disease: Abnormal life processes with symptoms and signs (e.g., CANCER, DIABETES)
+- phenotype: Observable traits or clinical findings (e.g., TALL STATURE, POLYURIA)
+- anatomy: Body organs/tissues/structures (e.g., HEART, LIVER)
+- molecular_function: Activities at the molecular level (e.g., catalytic activity, binding)
+- drug: Substances for prevention/treatment/diagnosis (e.g., ASPIRIN, PENICILLIN)
+- cellular_component: Cellular parts (e.g., MITOCHONDRION, RIBOSOME)
+- pathway: Ordered molecular interaction processes (e.g., GLYCOLYSIS, APOPTOSIS)
+- exposure: External factors exposure impacting health (e.g., RADIATION EXPOSURE, CHEMICAL EXPOSURE)
+
+Format each entity as ("entity"{tuple_delimiter}<entity_name>{tuple_delimiter}<entity_type>{tuple_delimiter}<entity_description>)
+ 
+2. From the entities identified in step 1, identify all pairs of (source_entity, target_entity) that are clearly related.
+   a. Every entity from step 1 must appear in at least one relationship (as source_entity or target_entity).
+
+For each pair of related entities, extract the following information:
+- source_entity: name of the source entity
+- target_entity: name of the target entity
+- relationship_description: textual explanation supported by the text
+- relationship_strength: numeric score 1-10 (10 strongest)
+
+Schema (STRICT):
+- Entity format: ("entity"{tuple_delimiter}<ENTITY_NAME>{tuple_delimiter}<ENTITY_TYPE>{tuple_delimiter}<ENTITY_DESCRIPTION>)
+- Relationship format: ("relationship"{tuple_delimiter}<SOURCE_ENTITY>{tuple_delimiter}<TARGET_ENTITY>{tuple_delimiter}<RELATIONSHIP_DESCRIPTION>{tuple_delimiter}<RELATIONSHIP_STRENGTH>)
+
+Relationship Strength Guidelines:
+- Strong (7-10): Direct causal relationships (e.g., "gene mutation causes symptom"), clear therapeutic effects (e.g., "drug significantly improves symptom")
+- Medium (4-6): Statistical correlations (e.g., "symptom occurs in 60% of subtype cases"), indirect effects (e.g., "intervention affects symptom through mechanism")
+- Weak (1-3): Potential associations (e.g., "biomarker may be related to subtype, under investigation"), co-occurrence patterns (e.g., "patient group often presents with symptom")
+
+Format each relationship as ("relationship"{tuple_delimiter}<source_entity>{tuple_delimiter}<target_entity>{tuple_delimiter}<relationship_description>{tuple_delimiter}<relationship_strength>)
+ 
+Validation Checklist (MANDATORY before final output):
+- Every relationship line contains 5 fields exactly in the specified order.
+- Every extracted entity appears in at least one relationship.
+ 
+3. Return output in English as a single list of all the entities and relationships identified in steps 1 and 2 (excluding isolated entities). Use **{record_delimiter}** as the list delimiter.
+ 
+4. When finished, output {completion_delimiter}
+ 
+######################
+-Examples-
+######################
+Example (abbrev):
+Entity_types: disease,phenotype,drug,protein,biological_process
+Text:
+Diabetes mellitus often presents with polyuria. Statins target HMG-COA REDUCTASE to lower cholesterol. Cell proliferation involves cyclins.
+######################
+Output:
+("entity"{tuple_delimiter}DIABETES MELLITUS{tuple_delimiter}disease{tuple_delimiter}A metabolic disease characterized by hyperglycemia)
+{record_delimiter}
+("entity"{tuple_delimiter}POLYURIA{tuple_delimiter}phenotype{tuple_delimiter}Frequent urination observed in diabetes)
+{record_delimiter}
+("entity"{tuple_delimiter}STATINS{tuple_delimiter}drug{tuple_delimiter}Drugs used to reduce cholesterol levels)
+{record_delimiter}
+("entity"{tuple_delimiter}HMG-COA REDUCTASE{tuple_delimiter}protein{tuple_delimiter}An enzyme targeted by statins)
+{record_delimiter}
+("entity"{tuple_delimiter}CELL PROLIFERATION{tuple_delimiter}biological_process{tuple_delimiter}A biological process involving cell cycle progression)
+{record_delimiter}
+("relationship"{tuple_delimiter}DIABETES MELLITUS{tuple_delimiter}POLYURIA{tuple_delimiter}Polyuria is a common phenotype observed in diabetes{tuple_delimiter}9)
+{record_delimiter}
+("relationship"{tuple_delimiter}STATINS{tuple_delimiter}HMG-COA REDUCTASE{tuple_delimiter}Statins act on HMG-COA reductase{tuple_delimiter}9)
+{record_delimiter}
+("relationship"{tuple_delimiter}CELL PROLIFERATION{tuple_delimiter}CYCLIN{tuple_delimiter}Cell proliferation involves cyclin proteins{tuple_delimiter}7)
+{completion_delimiter}
+
+######################
+Example 2:
+Entity_types: susceptibility_gene,molecular_mechanism,biomarker
+Text:
+SHANK3 gene mutations are associated with autism spectrum disorders and lead to synaptic formation abnormalities. These abnormalities can be detected through brain imaging biomarkers. The NRXN1 gene is also linked to autism and affects neurotransmitter balance, which can be measured through serum serotonin levels.
+######################
+Output:
+("entity"{tuple_delimiter}SHANK3 GENE{tuple_delimiter}susceptibility_gene{tuple_delimiter}SHANK3 is a gene associated with autism spectrum disorders through mutations)
+{record_delimiter}
+("entity"{tuple_delimiter}NRXN1 GENE{tuple_delimiter}susceptibility_gene{tuple_delimiter}NRXN1 is a gene linked to autism spectrum disorders)
+{record_delimiter}
+("entity"{tuple_delimiter}SYNAPTIC FORMATION ABNORMALITIES{tuple_delimiter}molecular_mechanism{tuple_delimiter}Synaptic formation abnormalities are molecular mechanisms that occur in autism)
+{record_delimiter}
+("entity"{tuple_delimiter}NEUROTRANSMITTER IMBALANCE{tuple_delimiter}molecular_mechanism{tuple_delimiter}Neurotransmitter imbalance is a molecular mechanism affecting brain function in autism)
+{record_delimiter}
+("entity"{tuple_delimiter}BRAIN IMAGING BIOMARKERS{tuple_delimiter}biomarker{tuple_delimiter}Brain imaging biomarkers can detect structural abnormalities in autism)
+{record_delimiter}
+("entity"{tuple_delimiter}SERUM SEROTONIN LEVELS{tuple_delimiter}biomarker{tuple_delimiter}Serum serotonin levels are biological markers that can be measured in autism)
+{record_delimiter}
+("relationship"{tuple_delimiter}SHANK3 GENE{tuple_delimiter}SYNAPTIC FORMATION ABNORMALITIES{tuple_delimiter}SHANK3 gene mutations lead to synaptic formation abnormalities{tuple_delimiter}9)
+{record_delimiter}
+("relationship"{tuple_delimiter}SYNAPTIC FORMATION ABNORMALITIES{tuple_delimiter}BRAIN IMAGING BIOMARKERS{tuple_delimiter}Synaptic formation abnormalities can be detected through brain imaging biomarkers{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}NRXN1 GENE{tuple_delimiter}NEUROTRANSMITTER IMBALANCE{tuple_delimiter}NRXN1 gene affects neurotransmitter balance{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}NEUROTRANSMITTER IMBALANCE{tuple_delimiter}SERUM SEROTONIN LEVELS{tuple_delimiter}Neurotransmitter imbalance can be measured through serum serotonin levels{tuple_delimiter}7)
+{completion_delimiter}
+
+######################
+-Real Data-
+######################
+Entity_types: {entity_types}
+Text: {input_text}
+######################
+Output:

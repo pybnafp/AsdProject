@@ -1,0 +1,53 @@
+.app-background {
+  height 100vh;
+  background-image: url('../../img/mobile-bg.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.mobile-chat-list {
+  width: 100%
+  .content {
+    padding-top 46px
+    padding-bottom 60px
+
+    .van-list {
+      .van-cell {
+        border-radius: 12px;
+        box-sizing: border-box;
+        border: 1px solid #F8F5FE;
+        box-shadow: 0px 10px 20px 0px rgba(240, 237, 246, 0.5);
+        height 56px;
+        margin 6px 0;
+      }
+      .van-cell__value {
+        align-items center
+        .chat-list-item {
+          display flex
+          justify-content space-between
+          align-items center
+          margin-top 5px;
+          .chat-list-text {
+            display flex
+            align-items center
+            font-size 14px
+            img {
+              width 24px
+              height 24px
+            }
+            .van-ellipsis {
+              margin-left 10px;
+            }
+          }
+          img {
+            width 16px
+            height 16px
+          }
+        }
+      }
+    }
+  }
+}
+:deep(.van-nav-bar__title) {
+  margin 0;
+}
