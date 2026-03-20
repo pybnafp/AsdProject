@@ -8,12 +8,18 @@ from function.dashvector_retriever import DashVectorRetriever
 class ScaleParser:
     """儿童心理行为发育问题预警征象筛查表解析器"""
 
-    def __init__(self, api_key: str, vector_api_key: str = None, vector_endpoint: str = None,
-                 collection_name: str = None):
+    def __init__(
+        self,
+        api_key: str,
+        vector_api_key: str = None,
+        vector_endpoint: str = None,
+        collection_name: str = None,
+        retriever: DashVectorRetriever = None,
+    ):
         self.api_key = api_key
         # 初始化向量检索器（如果提供了向量服务配置）
-        self.vector_retriever = None
-        if vector_api_key and vector_endpoint and collection_name:
+        self.vector_retriever = retriever
+        if self.vector_retriever is None and vector_api_key and vector_endpoint and collection_name:
             self.vector_retriever = DashVectorRetriever(api_key, vector_api_key, vector_endpoint, collection_name)
 
     def create_scale_json(self, content: str) -> Dict[str, Any]:

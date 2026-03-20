@@ -14,3 +14,6 @@
 # Dependency directories (remove the comment below to include it)
 # vendor/
 /tmp
+
+# 忽略配置文件
+conf/config.yaml

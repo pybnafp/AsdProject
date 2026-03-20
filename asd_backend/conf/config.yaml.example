@@ -76,3 +76,4 @@ apiconfig:
   openrouter_base_url: "https://openrouter.ai/api/v1"
 
   algorithm_base_url: "http://localhost:5003/api/dashvector_chat"
+  

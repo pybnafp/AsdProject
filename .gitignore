@@ -22,3 +22,6 @@ __pycache__/
 
 # 忽略.cursorignore文件
 .cursorignore
+
+# 忽略.vscode文件
+.vscode/

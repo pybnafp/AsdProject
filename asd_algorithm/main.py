@@ -5,6 +5,7 @@ import time
 import logging
 import asyncio
 import traceback
+import threading
 from http import HTTPStatus
 from pathlib import Path
 
@@ -62,74 +63,216 @@ scale_parser = ScaleParser(
     config['dashscope']['api_key'],
     config['dashvector']['api_key'],
     config['dashvector']['endpoint'],
-    config['dashvector']['collection_name']
+    config['dashvector']['collection_name'],
+    retriever=retriever
 )
 # 初始化多模态解析器
 multimodal_parser = MultimodalDocxParser(
     config['dashscope']['api_key'],
     config['dashvector']['api_key'],
     config['dashvector']['endpoint'],
-    config['dashvector']['collection_name']
+    config['dashvector']['collection_name'],
+    retriever=retriever
 )
 
 # 初始化GraphRAG配置和数据
 GRAPH_PROJECT_DIRECTORY = "./ragtest_test"
 graphrag_config = None
-graphrag_data = {}
+_graphrag_global_cache = None
+_graphrag_local_cache = None
+_graphrag_load_lock = threading.Lock()
 
-def load_graphrag_data():
-    """加载GraphRAG配置和索引数据"""
-    global graphrag_config, graphrag_data
-    
+_GRAPH_OUTPUT_DIR = Path(GRAPH_PROJECT_DIRECTORY) / "output"
+
+# 只保留 GraphRAG 查询真正需要的列，降低内存占用
+_GLOBAL_ENTITIES_COLUMNS = [
+    "id",
+    "title",
+    "type",
+    "description",
+    "human_readable_id",
+    "degree",
+    "description_embedding",
+    "text_unit_ids",
+]
+
+_GLOBAL_COMMUNITIES_COLUMNS = [
+    "id",
+    "title",
+    "level",
+    "parent",
+    "children",
+    "community",
+    "entity_ids",
+]
+
+_LOCAL_COMMUNITIES_COLUMNS = [
+    "title",
+    "level",
+    "community",
+    "entity_ids",
+]
+
+_GLOBAL_COMMUNITY_REPORTS_COLUMNS = [
+    "id",
+    "community",
+    "title",
+    "summary",
+    "full_content",
+    "rank",
+]
+
+_LOCAL_TEXT_UNITS_COLUMNS = [
+    "id",
+    "text",
+    "entity_ids",
+    "relationship_ids",
+    "n_tokens",
+]
+
+_LOCAL_RELATIONSHIPS_COLUMNS = [
+    "id",
+    "human_readable_id",
+    "source",
+    "target",
+    "description",
+    "combined_degree",
+    "text_unit_ids",
+]
+
+_LOCAL_COVARIATES_COLUMNS = [
+    "id",
+    "human_readable_id",
+    "subject_id",
+    "type",
+    "object_id",
+    "status",
+    "start_date",
+    "end_date",
+    "description",
+]
+
+
+def _read_parquet_with_columns(path: Path, columns: list[str]) -> pd.DataFrame:
+    """按需列裁剪读取 Parquet（如果列不存在则自动过滤掉）。"""
+    selected = columns
     try:
-        # 加载GraphRAG配置
-        project_path = Path(GRAPH_PROJECT_DIRECTORY)
-        dashscope_config_path = project_path / "settings_dashscope.yaml"
-        
-        if not dashscope_config_path.exists():
-            print(f"GraphRAG配置文件不存在: {dashscope_config_path}")
-            return False
-            
-        graphrag_config = load_config(project_path, config_filepath=dashscope_config_path)
-        print(f"GraphRAG配置加载成功: {dashscope_config_path}")
-        
-        # 加载索引数据
-        output_dir = project_path / "output"
-        if not output_dir.exists():
-            print(f"GraphRAG输出目录不存在: {output_dir}")
-            return False
-            
-        graphrag_data = {
-            'entities': pd.read_parquet(output_dir / "entities.parquet"),
-            'communities': pd.read_parquet(output_dir / "communities.parquet"),
-            'community_reports': pd.read_parquet(output_dir / "community_reports.parquet"),
-            'text_units': pd.read_parquet(output_dir / "text_units.parquet"),
-            'relationships': pd.read_parquet(output_dir / "relationships.parquet"),
-            'covariates': None  # 可选，如果存在的话
-        }
-        
-        # 检查covariates文件是否存在
-        covariates_file = output_dir / "covariates.parquet"
-        if covariates_file.exists():
-            graphrag_data['covariates'] = pd.read_parquet(covariates_file)
-            
-        print(f"GraphRAG数据加载成功:")
-        print(f"  - 实体: {len(graphrag_data['entities'])} 条")
-        print(f"  - 社区: {len(graphrag_data['communities'])} 条")
-        print(f"  - 社区报告: {len(graphrag_data['community_reports'])} 条")
-        print(f"  - 文本单元: {len(graphrag_data['text_units'])} 条")
-        print(f"  - 关系: {len(graphrag_data['relationships'])} 条")
-        if graphrag_data['covariates'] is not None:
-            print(f"  - 协变量: {len(graphrag_data['covariates'])} 条")
-            
+        import pyarrow.parquet as pq
+
+        schema_cols = set(pq.ParquetFile(str(path)).schema.names)
+        selected = [c for c in columns if c in schema_cols]
+    except Exception:
+        # 回退：让 pandas 自己处理（可能会读出更多列）
+        selected = columns
+    try:
+        return pd.read_parquet(path, columns=selected)
+    except Exception:
+        # 兜底：如果 columns 里有不存在的列，退回读取全部并再筛选
+        df = pd.read_parquet(path)
+        existing = [c for c in columns if c in df.columns]
+        return df[existing]
+
+
+def ensure_graphrag_config_loaded() -> bool:
+    """懒加载 GraphRAG 配置。"""
+    global graphrag_config
+    if graphrag_config is not None:
         return True
-        
-    except Exception as e:
-        print(f"GraphRAG数据加载失败: {e}")
+
+    project_path = Path(GRAPH_PROJECT_DIRECTORY)
+    dashscope_config_path = project_path / "settings_dashscope.yaml"
+    if not dashscope_config_path.exists():
+        print(f"GraphRAG配置文件不存在: {dashscope_config_path}")
         return False
 
-# 在应用启动时加载GraphRAG数据
-load_graphrag_data()
+    graphrag_config = load_config(project_path, config_filepath=dashscope_config_path)
+    print(f"GraphRAG配置加载成功: {dashscope_config_path}")
+    return True
+
+
+def load_graphrag_global_data() -> dict:
+    """懒加载 Global GraphRAG 索引（仅加载必要列）。"""
+    global _graphrag_global_cache
+    if _graphrag_global_cache is not None:
+        return _graphrag_global_cache
+
+    with _graphrag_load_lock:
+        if _graphrag_global_cache is not None:
+            return _graphrag_global_cache
+
+        if not _GRAPH_OUTPUT_DIR.exists():
+            raise FileNotFoundError(f"GraphRAG输出目录不存在: {_GRAPH_OUTPUT_DIR}")
+
+        entities = _read_parquet_with_columns(
+            _GRAPH_OUTPUT_DIR / "entities.parquet", _GLOBAL_ENTITIES_COLUMNS
+        )
+        communities = _read_parquet_with_columns(
+            _GRAPH_OUTPUT_DIR / "communities.parquet", _GLOBAL_COMMUNITIES_COLUMNS
+        )
+        community_reports = _read_parquet_with_columns(
+            _GRAPH_OUTPUT_DIR / "community_reports.parquet",
+            _GLOBAL_COMMUNITY_REPORTS_COLUMNS,
+        )
+
+        _graphrag_global_cache = {
+            "entities": entities,
+            "communities": communities,
+            "community_reports": community_reports,
+        }
+        return _graphrag_global_cache
+
+
+def load_graphrag_local_data() -> dict:
+    """懒加载 Local GraphRAG 索引（仅加载必要列）。"""
+    global _graphrag_local_cache
+    if _graphrag_local_cache is not None:
+        return _graphrag_local_cache
+
+    with _graphrag_load_lock:
+        if _graphrag_local_cache is not None:
+            return _graphrag_local_cache
+
+        # 尽量复用 global cache 中的 entities / community_reports（列集合相同）
+        if _graphrag_global_cache is not None:
+            base_entities = _graphrag_global_cache["entities"]
+            base_community_reports = _graphrag_global_cache["community_reports"]
+        else:
+            base_entities = _read_parquet_with_columns(
+                _GRAPH_OUTPUT_DIR / "entities.parquet", _GLOBAL_ENTITIES_COLUMNS
+            )
+            base_community_reports = _read_parquet_with_columns(
+                _GRAPH_OUTPUT_DIR / "community_reports.parquet",
+                _GLOBAL_COMMUNITY_REPORTS_COLUMNS,
+            )
+
+        communities = _read_parquet_with_columns(
+            _GRAPH_OUTPUT_DIR / "communities.parquet", _LOCAL_COMMUNITIES_COLUMNS
+        )
+
+        text_units = _read_parquet_with_columns(
+            _GRAPH_OUTPUT_DIR / "text_units.parquet", _LOCAL_TEXT_UNITS_COLUMNS
+        )
+        relationships = _read_parquet_with_columns(
+            _GRAPH_OUTPUT_DIR / "relationships.parquet",
+            _LOCAL_RELATIONSHIPS_COLUMNS,
+        )
+
+        covariates_path = _GRAPH_OUTPUT_DIR / "covariates.parquet"
+        covariates = (
+            _read_parquet_with_columns(covariates_path, _LOCAL_COVARIATES_COLUMNS)
+            if covariates_path.exists()
+            else None
+        )
+
+        _graphrag_local_cache = {
+            "entities": base_entities,
+            "communities": communities,
+            "community_reports": base_community_reports,
+            "text_units": text_units,
+            "relationships": relationships,
+            "covariates": covariates,
+        }
+        return _graphrag_local_cache
 
 
 # 向量服务(阿里向量服务)
@@ -284,12 +427,13 @@ def dashvector_chat():
 def local_graph_chat():
     """GraphRAG本地搜索接口：先进行graph检索，再用通义大模型生成回答。"""
     try:
-        # 检查GraphRAG数据是否已加载
-        if graphrag_config is None or not graphrag_data:
+        # 懒加载 GraphRAG 配置与必要索引数据
+        if not ensure_graphrag_config_loaded():
             return {
                 'success': False,
-                'error': 'GraphRAG数据未加载，请检查配置文件和索引数据'
+                'error': 'GraphRAG配置加载失败，请检查配置文件和索引数据'
             }, 500
+        data = load_graphrag_local_data()
 
         # 获取查询内容
         content = request.values.get("content")
@@ -306,12 +450,12 @@ def local_graph_chat():
         async def run_local_graph_search():
             return await local_graph_search_only_context(
                 config=graphrag_config,
-                entities=graphrag_data['entities'],
-                communities=graphrag_data['communities'],
-                community_reports=graphrag_data['community_reports'],
-                text_units=graphrag_data['text_units'],
-                relationships=graphrag_data['relationships'],
-                covariates=graphrag_data['covariates'],
+                entities=data['entities'],
+                communities=data['communities'],
+                community_reports=data['community_reports'],
+                text_units=data['text_units'],
+                relationships=data['relationships'],
+                covariates=data['covariates'],
                 community_level=2,
                 response_type="Multiple Paragraphs",
                 verbose=False,
@@ -419,12 +563,13 @@ def local_graph_chat():
 def local_graph_search():
     """GraphRAG本地图检索接口，仅返回图检索结果（entities/relationships/sources/reports等），不调用LLM。"""
     try:
-        # 检查GraphRAG数据是否已加载
-        if graphrag_config is None or not graphrag_data:
+        # 懒加载 GraphRAG 配置与必要索引数据
+        if not ensure_graphrag_config_loaded():
             return {
                 'success': False,
-                'error': 'GraphRAG数据未加载，请检查配置文件和索引数据'
+                'error': 'GraphRAG配置加载失败，请检查配置文件和索引数据'
             }, 500
+        data = load_graphrag_local_data()
 
         # 获取查询内容
         content = request.values.get("content")
@@ -440,12 +585,12 @@ def local_graph_search():
         async def run_local_graph_search():
             return await local_graph_search_only_context(
                 config=graphrag_config,
-                entities=graphrag_data['entities'],
-                communities=graphrag_data['communities'],
-                community_reports=graphrag_data['community_reports'],
-                text_units=graphrag_data['text_units'],
-                relationships=graphrag_data['relationships'],
-                covariates=graphrag_data['covariates'],
+                entities=data['entities'],
+                communities=data['communities'],
+                community_reports=data['community_reports'],
+                text_units=data['text_units'],
+                relationships=data['relationships'],
+                covariates=data['covariates'],
                 community_level=2,
                 response_type="Multiple Paragraphs",
                 verbose=False,
@@ -486,12 +631,13 @@ def local_graph_search():
 def global_graph_chat():
     """GraphRAG全局搜索接口：先全局graph检索，再用Map-Reduce两阶段调用通义大模型生成回答。"""
     try:
-        # 检查GraphRAG数据是否已加载
-        if graphrag_config is None or not graphrag_data:
+        # 懒加载 GraphRAG 配置与必要索引数据
+        if not ensure_graphrag_config_loaded():
             return {
                 'success': False,
-                'error': 'GraphRAG数据未加载，请检查配置文件和索引数据'
+                'error': 'GraphRAG配置加载失败，请检查配置文件和索引数据'
             }, 500
+        data = load_graphrag_global_data()
 
         # 获取查询内容
         content = request.values.get("content")
@@ -508,9 +654,9 @@ def global_graph_chat():
         async def run_global_graph_search():
             return await global_graph_search_only_context(
                 config=graphrag_config,
-                entities=graphrag_data['entities'],
-                communities=graphrag_data['communities'],
-                community_reports=graphrag_data['community_reports'],
+                entities=data['entities'],
+                communities=data['communities'],
+                community_reports=data['community_reports'],
                 community_level=2,
                 dynamic_community_selection=False,
                 response_type="Multiple Paragraphs",
@@ -646,12 +792,13 @@ def global_graph_chat():
 def global_graph_search():
     """GraphRAG全局图检索接口，仅返回基于社区报告的全局graph检索结果，不调用LLM。"""
     try:
-        # 检查GraphRAG数据是否已加载
-        if graphrag_config is None or not graphrag_data:
+        # 懒加载 GraphRAG 配置与必要索引数据
+        if not ensure_graphrag_config_loaded():
             return {
                 'success': False,
-                'error': 'GraphRAG数据未加载，请检查配置文件和索引数据'
+                'error': 'GraphRAG配置加载失败，请检查配置文件和索引数据'
             }, 500
+        data = load_graphrag_global_data()
 
         # 获取查询内容
         content = request.values.get("content")
@@ -667,9 +814,9 @@ def global_graph_search():
         async def run_global_graph_search():
             return await global_graph_search_only_context(
                 config=graphrag_config,
-                entities=graphrag_data['entities'],
-                communities=graphrag_data['communities'],
-                community_reports=graphrag_data['community_reports'],
+                entities=data['entities'],
+                communities=data['communities'],
+                community_reports=data['community_reports'],
                 community_level=2,
                 dynamic_community_selection=False,
                 response_type="Multiple Paragraphs",

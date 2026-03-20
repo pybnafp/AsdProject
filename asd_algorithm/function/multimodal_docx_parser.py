@@ -27,8 +27,14 @@ logger = logging.getLogger(__name__)
 class MultimodalDocxParser:
     """多模态DOCX文档解析器，支持文本、表格和图片分析"""
 
-    def __init__(self, api_key: str = None, vector_api_key: str = None, vector_endpoint: str = None,
-                 collection_name: str = None):
+    def __init__(
+        self,
+        api_key: str = None,
+        vector_api_key: str = None,
+        vector_endpoint: str = None,
+        collection_name: str = None,
+        retriever=None,
+    ):
         self.api_key = api_key
         self.session = requests.Session()
         # 设置请求头，模拟浏览器访问
@@ -37,10 +43,12 @@ class MultimodalDocxParser:
         })
 
         # 初始化向量检索器（如果提供了向量服务配置）
-        self.vector_retriever = None
-        if vector_api_key and vector_endpoint and collection_name:
+        self.vector_retriever = retriever
+        if self.vector_retriever is None and vector_api_key and vector_endpoint and collection_name:
             from function.dashvector_retriever import DashVectorRetriever
-            self.vector_retriever = DashVectorRetriever(api_key, vector_api_key, vector_endpoint, collection_name)
+            self.vector_retriever = DashVectorRetriever(
+                api_key, vector_api_key, vector_endpoint, collection_name
+            )
 
     def parse_docx_structure(self, file_path: str) -> Dict[str, Any]:
         """
